@@ -1,0 +1,14 @@
+VIRASATAI — BASIC INFORMATION
+Name: Akal Wood Fossil Park
+Entry ID: jaisalmer_fort__akal_wood_fossil_park
+Location: Akal, Jaisalmer district, Rajasthan
+Type: Protected fossil-wood site
+Identity note: User-selected site identity verified against the sources below.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. Akal Wood Fossil Park preserves fossilised wood in the Jaisalmer region. [1]
+2. Official tourism interpretation places the remains roughly 180 million years in the past. [1]
+3. Fossils indicate an environment very different from the region's present desert appearance. [1,2]
+4. No visitor should collect, rub, carve or climb fossil material.
+
+Sources: See akal_wood_fossil_park_sources.txt. The parent association is the user's selection, not a verified proximity claim.

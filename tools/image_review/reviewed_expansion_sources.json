@@ -1,0 +1,28 @@
+[
+  {
+    "place_id": "mehrangarh_fort",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {"candidate_id": 11, "category": "Exterior", "review_note": "Clear low-angle palace facade inside Mehrangarh Fort."},
+      {"candidate_id": 12, "category": "Exterior", "review_note": "Distinct decorated fort facade."},
+      {"candidate_id": 20, "category": "Exterior", "review_note": "Clear tower and palace exterior."},
+      {"candidate_id": 24, "category": "Overview", "review_note": "Wide overview of the fort complex and walls."},
+      {"candidate_id": 27, "category": "Overview", "review_note": "Clear sunlit entrance and fort facade."},
+      {"candidate_id": 29, "category": "Exterior", "review_note": "Distinct monochrome architectural facade view."}
+    ],
+    "coverage_note": "Six distinct and identifiable Mehrangarh architectural views selected from the Commons category."
+  },
+  {
+    "place_id": "badami_cave_temples",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {"candidate_id": 13, "category": "Overview", "review_note": "Clear Badami cliff and cave-temple setting."},
+      {"candidate_id": 14, "category": "Overview", "review_note": "Distinct wide rock-cut cave setting."},
+      {"candidate_id": 25, "category": "Context", "review_note": "Wide Badami rock-cut heritage and lake context."},
+      {"candidate_id": 26, "category": "Exterior", "review_note": "Clear cave entrances in the sandstone cliff."},
+      {"candidate_id": 30, "category": "Exterior", "review_note": "Distinct cave doorway and rock-cut platform."},
+      {"candidate_id": 31, "category": "Details", "review_note": "Clear exterior rock-cut relief detail."}
+    ],
+    "coverage_note": "Six visually distinct cave exteriors, context and rock-cut details selected; ambiguous rock-only views excluded."
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "place_id": "gateway_of_india",
+    "image_count": 12,
+    "manifest": "02_Images\\Gateway_of_India\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "gateway_of_india__afghan_church",
+    "image_count": 4,
+    "manifest": "02_Images\\Gateway_of_India\\Nearby_Heritage\\Afghan_Church\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "gateway_of_india__ballard_bunder_gatehouse",
+    "image_count": 1,
+    "manifest": "02_Images\\Gateway_of_India\\Nearby_Heritage\\Ballard_Bunder_Gatehouse\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "gateway_of_india__banganga_tank",
+    "image_count": 4,
+    "manifest": "02_Images\\Gateway_of_India\\Nearby_Heritage\\Banganga_Tank\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "gateway_of_india__bhau_daji_lad_museum",
+    "image_count": 4,
+    "manifest": "02_Images\\Gateway_of_India\\Nearby_Heritage\\Bhau_Daji_Lad_Museum\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "gateway_of_india__david_sassoon_library",
+    "image_count": 5,
+    "manifest": "02_Images\\Gateway_of_India\\Nearby_Heritage\\David_Sassoon_Library\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "gateway_of_india__horniman_circle_gardens",
+    "image_count": 4,
+    "manifest": "02_Images\\Gateway_of_India\\Nearby_Heritage\\Horniman_Circle_Gardens\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "gateway_of_india__keneseth_eliyahoo_synagogue",
+    "image_count": 4,
+    "manifest": "02_Images\\Gateway_of_India\\Nearby_Heritage\\Keneseth_Eliyahoo_Synagogue\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "gateway_of_india__khotachiwadi_village",
+    "image_count": 5,
+    "manifest": "02_Images\\Gateway_of_India\\Nearby_Heritage\\Khotachiwadi_Village\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "gateway_of_india__rbi_monetary_museum",
+    "image_count": 3,
+    "manifest": "02_Images\\Gateway_of_India\\Nearby_Heritage\\RBI_Monetary_Museum\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "gateway_of_india__sewri_fort",
+    "image_count": 4,
+    "manifest": "02_Images\\Gateway_of_India\\Nearby_Heritage\\Sewri_Fort\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "charminar",
+    "image_count": 14,
+    "manifest": "02_Images\\Charminar\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "charminar__badshahi_ashurkhana",
+    "image_count": 4,
+    "manifest": "02_Images\\Charminar\\Nearby_Heritage\\Badshahi_Ashurkhana\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "charminar__khursheed_jah_devdi",
+    "image_count": 4,
+    "manifest": "02_Images\\Charminar\\Nearby_Heritage\\Khursheed_Jah_Devdi\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "charminar__nizams_museum",
+    "image_count": 1,
+    "manifest": "02_Images\\Charminar\\Nearby_Heritage\\Nizams_Museum\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "charminar__paigah_tombs",
+    "image_count": 5,
+    "manifest": "02_Images\\Charminar\\Nearby_Heritage\\Paigah_Tombs\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "charminar__purani_haveli",
+    "image_count": 4,
+    "manifest": "02_Images\\Charminar\\Nearby_Heritage\\Purani_Haveli\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "charminar__qutb_shahi_tombs",
+    "image_count": 5,
+    "manifest": "02_Images\\Charminar\\Nearby_Heritage\\Qutb_Shahi_Tombs\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "charminar__raymonds_tomb",
+    "image_count": 5,
+    "manifest": "02_Images\\Charminar\\Nearby_Heritage\\Raymonds_Tomb\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "charminar__spanish_mosque",
+    "image_count": 1,
+    "manifest": "02_Images\\Charminar\\Nearby_Heritage\\Spanish_Mosque\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "charminar__toli_masjid",
+    "image_count": 5,
+    "manifest": "02_Images\\Charminar\\Nearby_Heritage\\Toli_Masjid\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "victoria_memorial",
+    "image_count": 13,
+    "manifest": "02_Images\\Victoria_Memorial\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "victoria_memorial__armenian_church",
+    "image_count": 3,
+    "manifest": "02_Images\\Victoria_Memorial\\Nearby_Heritage\\Armenian_Church\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "victoria_memorial__jorasanko_thakur_bari",
+    "image_count": 4,
+    "manifest": "02_Images\\Victoria_Memorial\\Nearby_Heritage\\Jorasanko_Thakur_Bari\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "victoria_memorial__lascar_war_memorial",
+    "image_count": 5,
+    "manifest": "02_Images\\Victoria_Memorial\\Nearby_Heritage\\Lascar_War_Memorial\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "victoria_memorial__magen_david_synagogue",
+    "image_count": 5,
+    "manifest": "02_Images\\Victoria_Memorial\\Nearby_Heritage\\Magen_David_Synagogue\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "victoria_memorial__mullick_ghat_flower_market",
+    "image_count": 4,
+    "manifest": "02_Images\\Victoria_Memorial\\Nearby_Heritage\\Mullick_Ghat_Flower_Market\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "victoria_memorial__prinsep_ghat",
+    "image_count": 5,
+    "manifest": "02_Images\\Victoria_Memorial\\Nearby_Heritage\\Prinsep_Ghat\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "victoria_memorial__south_park_street_cemetery",
+    "image_count": 5,
+    "manifest": "02_Images\\Victoria_Memorial\\Nearby_Heritage\\South_Park_Street_Cemetery\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "victoria_memorial__st_johns_church",
+    "image_count": 3,
+    "manifest": "02_Images\\Victoria_Memorial\\Nearby_Heritage\\St_Johns_Church\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "mysore_palace",
+    "image_count": 9,
+    "manifest": "02_Images\\Mysore_Palace\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "mysore_palace__jaganmohan_palace",
+    "image_count": 3,
+    "manifest": "02_Images\\Mysore_Palace\\Nearby_Heritage\\Jaganmohan_Palace\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "mysore_palace__railway_museum_mysore",
+    "image_count": 4,
+    "manifest": "02_Images\\Mysore_Palace\\Nearby_Heritage\\Railway_Museum_Mysore\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "mysore_palace__kukkarahalli_lake",
+    "image_count": 1,
+    "manifest": "02_Images\\Mysore_Palace\\Nearby_Heritage\\Kukkarahalli_Lake\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "mysore_palace__wellington_lodge",
+    "image_count": 4,
+    "manifest": "02_Images\\Mysore_Palace\\Nearby_Heritage\\Wellington_Lodge\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "mysore_palace__jayalakshmi_vilas_mansion",
+    "image_count": 4,
+    "manifest": "02_Images\\Mysore_Palace\\Nearby_Heritage\\Jayalakshmi_Vilas_Mansion\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "hampi_monuments",
+    "image_count": 14,
+    "manifest": "02_Images\\Hampi_Monuments\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "hampi_monuments__hemakuta_hill_temples",
+    "image_count": 4,
+    "manifest": "02_Images\\Hampi_Monuments\\Nearby_Heritage\\Hemakuta_Hill_Temples\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "hampi_monuments__matanga_hill",
+    "image_count": 4,
+    "manifest": "02_Images\\Hampi_Monuments\\Nearby_Heritage\\Matanga_Hill\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "hampi_monuments__achyutaraya_temple",
+    "image_count": 4,
+    "manifest": "02_Images\\Hampi_Monuments\\Nearby_Heritage\\Achyutaraya_Temple\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "hampi_monuments__zenana_enclosure",
+    "image_count": 3,
+    "manifest": "02_Images\\Hampi_Monuments\\Nearby_Heritage\\Zenana_Enclosure\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "hampi_monuments__badavilinga_temple",
+    "image_count": 4,
+    "manifest": "02_Images\\Hampi_Monuments\\Nearby_Heritage\\Badavilinga_Temple\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "hampi_monuments__sasivekalu_ganesha",
+    "image_count": 3,
+    "manifest": "02_Images\\Hampi_Monuments\\Nearby_Heritage\\Sasivekalu_Ganesha\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "hampi_monuments__anegundi_village",
+    "image_count": 3,
+    "manifest": "02_Images\\Hampi_Monuments\\Nearby_Heritage\\Anegundi_Village\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "hampi_monuments__sanapur_lake",
+    "image_count": 3,
+    "manifest": "02_Images\\Hampi_Monuments\\Nearby_Heritage\\Sanapur_Lake\\Image_Sources\\image_manifest.json"
+  }
+]

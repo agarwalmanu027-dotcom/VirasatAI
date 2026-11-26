@@ -1,0 +1,13 @@
+VIRASATAI — BASIC INFORMATION
+Name: Lodhruva Jain Temples
+Entry ID: jaisalmer_fort__lodhruva_jain_temples
+Location: Lodhruva/Lodurva, Jaisalmer district, Rajasthan
+Type: Jain pilgrimage temples in a former capital settlement
+Identity note: User-selected site identity verified against the sources below.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. Official tourism sources identify Lodhruva as a former capital associated with Jaisalmer's history. [1]
+2. Lodurva is known as a Jain temple destination. [2]
+3. Lodhruva, Lodurva and Lodhurva are spelling variants used for the same regional destination. [1,2]
+
+Sources: See lodhruva_jain_temples_sources.txt. The parent association is the user's selection, not a verified proximity claim.

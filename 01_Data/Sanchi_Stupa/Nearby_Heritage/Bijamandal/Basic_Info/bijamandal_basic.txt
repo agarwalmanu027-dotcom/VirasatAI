@@ -1,0 +1,14 @@
+VIRASATAI — BASIC INFORMATION
+Name: Bijamandal
+Entry ID: sanchi_stupa__bijamandal
+Location: Vidisha city, Madhya Pradesh, India
+Type: Protected archaeological monument with successive architectural layers
+Identity note: User-selected site identity verified against the sources below.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. This entry concerns Bijamandal in Vidisha city, not Bijamandal near Khajuraho or the namesake at Udaipur in Vidisha district. [1,2]
+2. Madhya Pradesh Tourism describes surviving temple and mosque remains here. [1]
+3. The National Monuments Authority identifies the protected monument as Bijamandal Mosque, Bhilsa, Vidisha. [2]
+4. ASI's antiquity inventory records architectural fragments from Bijamandal, Vidisha. [3]
+
+Sources: See bijamandal_sources.txt. The parent association is the user's selection, not a verified proximity claim.

@@ -1,0 +1,13 @@
+VIRASATAI — BASIC INFORMATION
+Name: Ahar Cenotaphs
+Entry ID: city_palace_udaipur__ahar_cenotaphs
+Location: Ahar, Udaipur, Rajasthan, India
+Type: Royal memorial complex
+Identity note: User-selected site identity verified against the sources below.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. Ahar contains memorial cenotaphs of Mewar's rulers. [1]
+2. The monuments include elevated pavilions called chhatris. [1]
+3. An archaeological museum is in the vicinity. [1,2]
+
+Sources: See ahar_cenotaphs_sources.txt. The parent association is the user's selection, not a verified proximity claim.

@@ -1,0 +1,14 @@
+VIRASATAI — BASIC INFORMATION
+Name: Jaisalmer Fort, Rajasthan
+Entry ID: jaisalmer_fort
+Location: Jaisalmer, Rajasthan
+Type: Living hill fort and World Heritage component
+Identity note: User-selected site identity verified against the sources below.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. Jaisalmer Fort is associated with Rawal Jaisal and the city's twelfth-century foundation. [1]
+2. Its yellow sandstone gives it the name Sonar Qila, or Golden Fort. [1]
+3. The fort contains an inhabited urban area with homes, temples and commercial activity. [1,2]
+4. It is one of six components of UNESCO's Hill Forts of Rajasthan property, inscribed in 2013. [2]
+
+Sources: See jaisalmer_fort_sources.txt. The parent association is the user's selection, not a verified proximity claim.

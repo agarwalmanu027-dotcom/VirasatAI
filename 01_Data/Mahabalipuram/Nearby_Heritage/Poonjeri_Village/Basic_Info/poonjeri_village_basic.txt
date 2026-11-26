@@ -1,0 +1,14 @@
+VIRASATAI — BASIC INFORMATION
+Name: Poonjeri Village
+Entry ID: mahabalipuram__poonjeri_village
+Location: Poonjeri near Mamallapuram, Chengalpattu district, Tamil Nadu
+Type: Village associated with sculptors' livelihood development
+Identity note: Poonjeri near Mamallapuram, not Ponneri in Tiruvallur or Poonjar in Kerala. Historical government records confirm the sculptors' infrastructure project; current park completion/access and proposed inscription details are not verified.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. Tamil Nadu Rural Development G.O.50 of 28 March 2008 identifies Poonjeri near Mamallapuram as the site of a sanctioned Sculptors' Park project. [1]
+2. The project formed part of livelihood support under the tsunami recovery programme and involved a sculptors' welfare association. [1]
+3. The 2008–09 policy note describes planned infrastructure for tsunami-affected master sculptors and artisans. [2]
+4. These historical records do not establish present visitor access or an unbroken lineage from Pallava craftsmen.
+
+Sources: See poonjeri_village_sources.txt. The parent association is the user's selection, not a verified proximity claim.

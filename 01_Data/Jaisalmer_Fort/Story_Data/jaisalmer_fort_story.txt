@@ -1,0 +1,14 @@
+VIRASATAI — STORY DATA
+Entry ID: jaisalmer_fort
+Name: Jaisalmer Fort, Rajasthan
+Narrative focus: Defences, trade and daily life within a living fort
+Language files: Separate English and Devanagari Hindi master scripts in 03_Scripts.
+Status: Written narration ready for TTS input; pronunciation and generated audio still need listening QA.
+
+Jaisalmer Fort rises above the city in yellow sandstone, giving Sonar Qila, the Golden Fort, its familiar name. Associated with Rawal Jaisal and the city's twelfth-century beginnings, it became a centre of power in a desert region connected with trade. Its position and walls speak of defence, but they are only the beginning of the story.
+
+Within the fort is an inhabited place. Homes, temples, shops and daily routines share space with historic architecture. As you move through the lanes, notice how a large defensive structure also became a setting for ordinary life. The contrast between the outer walls and the smaller spaces inside helps explain why a fort needs to be understood as more than a battlefield.
+
+Jaisalmer is one of the six forts included in UNESCO's Hill Forts of Rajasthan property, inscribed in two thousand thirteen. Together, these sites show different responses to landscape, power and settlement. Jaisalmer's desert setting and trading history give it a particularly distinctive character.
+
+A living fort asks for considerate visiting. Respect residents' privacy, follow temple rules and avoid blocking narrow routes. Look closely at a carved surface or a doorway, then step back to see its place in the street. The fort's heritage continues through both its surviving stone and the community that lives among it.

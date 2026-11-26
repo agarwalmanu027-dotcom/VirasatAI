@@ -1,0 +1,12 @@
+VIRASATAI — STORY DATA
+Entry ID: badami_cave_temples__mahakuta_group_of_temples
+Name: Mahakuta Group of Temples
+Narrative focus: Several shrines sharing a water-centred sacred setting
+Language files: Separate English and Devanagari Hindi master scripts in 03_Scripts.
+Status: Written narration ready for TTS input; pronunciation and generated audio still need listening QA.
+
+Mahakuta brings several temples into a shared sacred setting. Associated with Shiva and the Early Chalukya period, the group includes buildings that reflect different architectural traditions. A spring and tank are part of the site's identity, connecting water with the arrangement of its shrines.
+
+Compare the temples one at a time. Notice a roof profile, the proportions of a doorway or the way a hall leads towards its shrine. Differences can be easier to recognise when you begin with one simple feature rather than trying to remember every specialist term.
+
+The site also continues to carry religious meaning. Respect worshippers, follow current instructions and do not assume access to the water is unrestricted. Historic surfaces should be observed without touching or climbing. Mahakuta offers a quieter companion to the larger temple circuit, showing how varied building forms can belong to one place of worship. Its value lies in both individual structures and the relationships between them.

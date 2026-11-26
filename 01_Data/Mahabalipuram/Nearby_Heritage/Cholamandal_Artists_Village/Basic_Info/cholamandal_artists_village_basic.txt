@@ -1,0 +1,14 @@
+VIRASATAI — BASIC INFORMATION
+Name: Cholamandal Artists' Village
+Entry ID: mahabalipuram__cholamandal_artists_village
+Location: Injambakkam, Chennai, Tamil Nadu
+Type: Artists' commune, studios and art galleries
+Identity note: User-selected site identity verified against the sources below.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. Cholamandal Artists' Village was established at Injambakkam in 1966. [1,2]
+2. Its community developed homes, studios and shared artistic facilities through collective effort. [1]
+3. The village is associated with the Madras Movement of Art and modern South Indian art. [1]
+4. The government museum directory records paintings, graphics, drawings, sculpture and artists' studios. [2]
+
+Sources: See cholamandal_artists_village_sources.txt. The parent association is the user's selection, not a verified proximity claim.

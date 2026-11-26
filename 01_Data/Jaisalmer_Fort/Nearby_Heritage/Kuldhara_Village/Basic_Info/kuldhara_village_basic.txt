@@ -1,0 +1,13 @@
+VIRASATAI — BASIC INFORMATION
+Name: Kuldhara Village
+Entry ID: jaisalmer_fort__kuldhara_village
+Location: Kuldhara, Jaisalmer district, Rajasthan
+Type: Abandoned village and state-protected heritage site
+Identity note: User-selected site identity verified against the sources below.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. Rajasthan Tourism identifies Kuldhara as an abandoned Paliwal Brahmin village. [1]
+2. The village is described as protected by the State Archaeology Department. [1]
+3. Stories of a curse and an overnight departure are presented as folklore; they do not establish the cause of abandonment. [1,2]
+
+Sources: See kuldhara_village_sources.txt. The parent association is the user's selection, not a verified proximity claim.

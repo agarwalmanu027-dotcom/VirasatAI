@@ -1,0 +1,13 @@
+VIRASATAI — BASIC INFORMATION
+Name: Ravan Phadi Cave
+Entry ID: badami_cave_temples__ravan_phadi_cave
+Location: Aihole, Bagalkot district, Karnataka
+Type: Sixth-century rock-cut cave temple
+Identity note: The user label Ravan Phadi is retained; official tourism also uses Ravana Phadi/Ravanaphadi. Located at Aihole, not one of Badami's four main caves.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. Karnataka Tourism identifies Ravana Phadi as a sixth-century rock-cut cave at Aihole. [1]
+2. The cave's sculpture includes Shiva, Parvati, Ganesha and Vishnu imagery. [1]
+3. It is distinct from Badami's four principal cave temples. [1,2]
+
+Sources: See ravan_phadi_cave_sources.txt. The parent association is the user's selection, not a verified proximity claim.

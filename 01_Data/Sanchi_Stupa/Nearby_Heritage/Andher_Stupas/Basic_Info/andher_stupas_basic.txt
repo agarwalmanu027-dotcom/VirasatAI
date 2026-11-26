@@ -1,0 +1,12 @@
+VIRASATAI — BASIC INFORMATION
+Name: Andher Stupas
+Entry ID: sanchi_stupa__andher_stupas
+Location: Andher, Bawalia and Hakeemkhedi locality, Raisen district, Madhya Pradesh, India
+Type: Buddhist stupa remains
+Identity note: User-selected site identity verified against the sources below.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. ASI records Buddhist stupas and remains at Andher, Bawalia and Hakeemkhedi, Raisen. [1]
+2. Incredible India includes Andher among the ancient sites near Sanchi. [2]
+
+Sources: See andher_stupas_sources.txt. The parent association is the user's selection, not a verified proximity claim.

@@ -1,0 +1,14 @@
+VIRASATAI — BASIC INFORMATION
+Name: Mehrangarh Fort, Jodhpur
+Entry ID: mehrangarh_fort
+Location: Jodhpur, Rajasthan
+Type: Historic hill fort, palaces and museum
+Identity note: User-selected site identity verified against the sources below.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. Rao Jodha founded Mehrangarh in 1459. [1]
+2. The fort and palaces developed over several centuries, with later rulers altering earlier buildings. [1]
+3. Major building phases include the reigns of Maldeo and Ajit Singh. [1]
+4. Museum galleries include paintings, textiles, arms, palanquins and elephant howdahs. [2]
+
+Sources: See mehrangarh_fort_sources.txt. The parent association is the user's selection, not a verified proximity claim.

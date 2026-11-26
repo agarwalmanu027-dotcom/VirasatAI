@@ -1,0 +1,11 @@
+{
+  "place_id": "sanchi_stupa__andher_stupas",
+  "display_name": "Andher Stupas",
+  "parent_id": "sanchi_stupa",
+  "main_order": 15,
+  "is_main": false,
+  "candidates": [],
+  "errors": [],
+  "visual_review_status": "pending",
+  "status": "no_qualifying_candidates"
+}

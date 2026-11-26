@@ -1,0 +1,13 @@
+VIRASATAI — BASIC INFORMATION
+Name: Badi Lake
+Entry ID: city_palace_udaipur__badi_lake
+Location: Badi village area, Udaipur, Rajasthan, India
+Type: Historic artificial freshwater lake
+Identity note: User-selected site identity verified against the sources below.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. Badi Lake is also called Jiyan Sagar. [1]
+2. It was created under Maharana Raj Singh to counter drought. [1,2]
+3. It was named in honour of his mother, Jana Devi. [1]
+
+Sources: See badi_lake_sources.txt. The parent association is the user's selection, not a verified proximity claim.

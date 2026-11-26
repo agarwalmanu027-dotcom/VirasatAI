@@ -1,0 +1,14 @@
+VIRASATAI — BASIC INFORMATION
+Name: Neelkantheshwar Temple
+Entry ID: sanchi_stupa__neelkantheshwar_temple
+Location: Udaipur village, Basoda area, Vidisha district, Madhya Pradesh, India
+Type: Medieval Shiva temple
+Identity note: Identified as Udayeshwar / Neelkantheswar Temple at Udaipur in Vidisha district. This is not Udaipur city in Rajasthan.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. The temple is at Udaipur in Vidisha district, Madhya Pradesh. [1,2]
+2. It is associated with the Paramara ruler Udayaditya. [1]
+3. Its inscriptions record construction between 1059 and 1080. [1]
+4. The historical census account identifies a shrine, hall and entrance porches. [2]
+
+Sources: See neelkantheshwar_temple_sources.txt. The parent association is the user's selection, not a verified proximity claim.

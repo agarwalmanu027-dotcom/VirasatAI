@@ -1,0 +1,13 @@
+VIRASATAI — BASIC INFORMATION
+Name: Khaba Fort
+Entry ID: jaisalmer_fort__khaba_fort
+Location: Khaba, Jaisalmer district, Rajasthan
+Type: Fort and abandoned village remains
+Identity note: User-selected site identity verified against the sources below.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. Rajasthan's official desert festival destination material identifies Khaba Fort as a regional heritage attraction. [1]
+2. Rajasthan Tourism associates Khaba/Khabha with the abandoned Paliwal villages of the Jaisalmer region. [2]
+3. Departure and curse stories are folklore, not established explanations used in the script. [2]
+
+Sources: See khaba_fort_sources.txt. The parent association is the user's selection, not a verified proximity claim.

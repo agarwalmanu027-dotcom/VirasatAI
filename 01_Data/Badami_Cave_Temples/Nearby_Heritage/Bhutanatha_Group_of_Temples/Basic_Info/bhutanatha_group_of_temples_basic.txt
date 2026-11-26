@@ -1,0 +1,14 @@
+VIRASATAI — BASIC INFORMATION
+Name: Bhutanatha Group of Temples
+Entry ID: badami_cave_temples__bhutanatha_group_of_temples
+Location: Agastya Lake, Badami, Bagalkot district, Karnataka
+Type: Structural sandstone temple group
+Identity note: User-selected site identity verified against the sources below.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. The Bhutanatha temple group stands beside Agastya Lake in Badami. [1,2]
+2. The main shrine is associated with Shiva and Early Chalukya building, with later additions. [1]
+3. Karnataka Tourism describes an early seventh-century core and an eleventh-century outer hall. [1]
+4. These are structural temples, distinct from Badami's rock-cut cave interiors.
+
+Sources: See bhutanatha_group_of_temples_sources.txt. The parent association is the user's selection, not a verified proximity claim.

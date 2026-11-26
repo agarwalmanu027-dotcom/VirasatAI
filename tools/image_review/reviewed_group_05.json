@@ -1,0 +1,329 @@
+[
+  {
+    "place_id": "gateway_of_india",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Surroundings",
+        "review_note": "Clear harbour panorama identifies the Gateway beside the Taj hotel."
+      },
+      {
+        "candidate_id": 2,
+        "category": "Details",
+        "review_note": "Sharp commemorative inscription and carved brackets."
+      },
+      {
+        "candidate_id": 3,
+        "category": "Different_Views",
+        "review_note": "Clear rainy-day view with wet paving and reflection."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Different_Views",
+        "review_note": "Sunny oblique view includes the full arch and side elevation."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Overview",
+        "review_note": "Clear centred front elevation against a blue sky."
+      },
+      {
+        "candidate_id": 14,
+        "category": "Details",
+        "review_note": "Close view of projecting cornice and side-arch stonework."
+      },
+      {
+        "candidate_id": 16,
+        "category": "Different_Views",
+        "review_note": "Sharp sunset light adds a distinct colour and lighting view."
+      },
+      {
+        "candidate_id": 18,
+        "category": "Overview",
+        "review_note": "Wide forecourt composition with the complete Gateway."
+      },
+      {
+        "candidate_id": 21,
+        "category": "Different_Views",
+        "review_note": "Sharp low-angle side elevation showing corner turret and lateral openings."
+      },
+      {
+        "candidate_id": 22,
+        "category": "Surroundings",
+        "review_note": "Wide panorama shows the forecourt spatial setting."
+      },
+      {
+        "candidate_id": 23,
+        "category": "Details",
+        "review_note": "Sharp close framing of upper turrets, arch, and cornice."
+      },
+      {
+        "candidate_id": 25,
+        "category": "Details",
+        "review_note": "Tall close side view shows lattice window and side entrance."
+      }
+    ],
+    "coverage_note": "Twelve clear, complementary harbour, forecourt, elevation and detail views; duplicate-looking front frames, heavily tinted vintage frame, obstruction-heavy and hazy frames omitted."
+  },
+  {
+    "place_id": "gateway_of_india__afghan_church",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 5,
+        "category": "Overview",
+        "review_note": "Clear complete church side elevation and spire."
+      },
+      {
+        "candidate_id": 9,
+        "category": "Different_Views",
+        "review_note": "Sharp central nave, timber roof, arches and altar."
+      },
+      {
+        "candidate_id": 1,
+        "category": "Details",
+        "review_note": "Sharp colour stained-glass detail."
+      },
+      {
+        "candidate_id": 2,
+        "category": "Details",
+        "review_note": "Clear carved Gothic entrance and door."
+      }
+    ],
+    "coverage_note": "Exterior, nave, entrance and stained glass; dark and repetitive frames omitted."
+  },
+  {
+    "place_id": "gateway_of_india__ballard_bunder_gatehouse",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Clear street-level full gatehouse elevation with stone arches."
+      }
+    ],
+    "coverage_note": "Only one qualifying current gatehouse image was available in this candidate batch."
+  },
+  {
+    "place_id": "gateway_of_india__banganga_tank",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 2,
+        "category": "Overview",
+        "review_note": "Clear full tank and stepped edges."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Different_Views",
+        "review_note": "Opposite-bank view shows water, surrounding houses and steps."
+      },
+      {
+        "candidate_id": 8,
+        "category": "Details",
+        "review_note": "Clear stairway leading toward a temple beside the tank."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Surroundings",
+        "review_note": "Tank-edge shrine and surrounding palms are visible in a sharp frame."
+      }
+    ],
+    "coverage_note": "Four complementary tank and setting views; tilted, close bird and repetitive shrine frames omitted."
+  },
+  {
+    "place_id": "gateway_of_india__bhau_daji_lad_museum",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Sharp full museum front elevation."
+      },
+      {
+        "candidate_id": 3,
+        "category": "Different_Views",
+        "review_note": "Clear side facade and outdoor cannons."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Different_Views",
+        "review_note": "Clear long side elevation."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Details",
+        "review_note": "Sharp architectural columns, window pediments and cornice."
+      }
+    ],
+    "coverage_note": "Exterior architecture represented; this batch contains no qualifying indoor collection image."
+  },
+  {
+    "place_id": "gateway_of_india__david_sassoon_library",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 6,
+        "category": "Overview",
+        "review_note": "Sharp blue-sky full library facade."
+      },
+      {
+        "candidate_id": 9,
+        "category": "Different_Views",
+        "review_note": "Clear reading-room interior with tables, windows and wooden ceiling."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Details",
+        "review_note": "Sharp foundation inscription plaque."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Details",
+        "review_note": "Clear sculpted portrait relief on the facade."
+      },
+      {
+        "candidate_id": 8,
+        "category": "Details",
+        "review_note": "Clear interior standing statue."
+      }
+    ],
+    "coverage_note": "Facade, reading room, inscription and sculpture represented; repetitive front views omitted."
+  },
+  {
+    "place_id": "gateway_of_india__horniman_circle_gardens",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 2,
+        "category": "Overview",
+        "review_note": "Clear garden paving, plants and seating."
+      },
+      {
+        "candidate_id": 1,
+        "category": "Details",
+        "review_note": "Clear central garden fountain and garden notice."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Surroundings",
+        "review_note": "Sharp curved heritage-building frontage surrounding Horniman Circle."
+      },
+      {
+        "candidate_id": 9,
+        "category": "Surroundings",
+        "review_note": "Sharp roadside banyan rest area beside Horniman Circle; labelled as surrounding setting."
+      }
+    ],
+    "coverage_note": "Garden and surrounding circle architecture represented; roadside watermarked frames and shop close-up omitted."
+  },
+  {
+    "place_id": "gateway_of_india__keneseth_eliyahoo_synagogue",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 7,
+        "category": "Overview",
+        "review_note": "Clear full blue-painted corner elevation."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Different_Views",
+        "review_note": "Clear alternate restored facade with synagogue name visible."
+      },
+      {
+        "candidate_id": 2,
+        "category": "Different_Views",
+        "review_note": "Sharp indoor bimah, patterned floor and seating."
+      },
+      {
+        "candidate_id": 9,
+        "category": "Details",
+        "review_note": "Clear entrance lettering and gate detail."
+      }
+    ],
+    "coverage_note": "Synagogue exterior, interior and entrance; restoration-era exterior colours vary and are not represented as simultaneous."
+  },
+  {
+    "place_id": "gateway_of_india__khotachiwadi_village",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 5,
+        "category": "Overview",
+        "review_note": "Clear narrow residential lane with traditional houses."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Different_Views",
+        "review_note": "Sharp traditional wooden house and verandah."
+      },
+      {
+        "candidate_id": 3,
+        "category": "Details",
+        "review_note": "Sharp neighbourhood mural and garden pots."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Details",
+        "review_note": "Clear exterior timber stairway."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Details",
+        "review_note": "Clear neighbourhood Christian shrine."
+      }
+    ],
+    "coverage_note": "Architecture, lane and neighbourhood details represented; repetitive house fronts omitted."
+  },
+  {
+    "place_id": "gateway_of_india__rbi_monetary_museum",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 6,
+        "category": "Details",
+        "review_note": "Sharp bilingual museum name plaque identifies the Mumbai museum."
+      },
+      {
+        "candidate_id": 1,
+        "category": "Details",
+        "review_note": "Clear museum inauguration plaque."
+      },
+      {
+        "candidate_id": 2,
+        "category": "Details",
+        "review_note": "Clear multilingual entrance-name panel."
+      }
+    ],
+    "coverage_note": "Only exterior signage and inauguration plaque qualify; no museum exterior overview or indoor collection photo is available in this batch. Historical photo text does not establish current opening hours."
+  },
+  {
+    "place_id": "gateway_of_india__sewri_fort",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 8,
+        "category": "Overview",
+        "review_note": "Clear fort corner and defensive masonry."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Details",
+        "review_note": "Clear parapet loopholes and harbour background."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Details",
+        "review_note": "Sharp stone stairway within the fort."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Surroundings",
+        "review_note": "Clear view from the fort toward mangroves and harbour."
+      }
+    ],
+    "coverage_note": "Fort architecture and harbour setting represented; reconstruction scaffolding and repetitive framed harbour images omitted."
+  }
+]

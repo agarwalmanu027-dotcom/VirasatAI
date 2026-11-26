@@ -1,0 +1,14 @@
+VIRASATAI — BASIC INFORMATION
+Name: Tanot Mata Temple
+Entry ID: jaisalmer_fort__tanot_mata_temple
+Location: Tanot, Jaisalmer district, Rajasthan
+Type: Living goddess temple in a border-region setting
+Identity note: User-selected site identity verified against the sources below.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. Tanot Mata Temple is a recognised pilgrimage destination near the India–Pakistan border region. [1]
+2. Rajasthan Foundation records the temple's association with a BSF trust. [1]
+3. The Ministry of Tourism lists a sanctioned border-tourism project at Shri Tanot Complex with BSF as the agency. [2]
+4. Miracle and unexploded-shell accounts are devotional narratives, not independently verified physical claims used in this script.
+
+Sources: See tanot_mata_temple_sources.txt. The parent association is the user's selection, not a verified proximity claim.

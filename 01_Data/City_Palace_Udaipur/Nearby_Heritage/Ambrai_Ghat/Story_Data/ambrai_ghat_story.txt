@@ -1,0 +1,14 @@
+VIRASATAI — STORY DATA
+Entry ID: city_palace_udaipur__ambrai_ghat
+Name: Ambrai Ghat
+Narrative focus: Understanding Udaipur's architecture from the water's edge.
+Language files: Separate English and Devanagari Hindi master scripts in 03_Scripts.
+Status: Written narration ready for TTS input; pronunciation and generated audio still need listening QA.
+
+Ambrai Ghat brings you to the edge of Lake Pichola, where Udaipur's buildings can be understood as parts of one waterfront. Also called Manjhi Ghat, this place offers a different experience from entering a palace or museum.
+
+Here, the view itself is the starting point. Notice the relationship between water and architecture. A building seen across a lake has a different scale from the same building seen through its doorway. Reflections and changing light can alter that relationship again.
+
+The ghat is also part of a lived city. Give local people room to use the space, and observe the surroundings without treating everyday life as a performance.
+
+Ambrai helps connect the stops of a heritage visit. Its lakeside setting encourages a wider picture of Udaipur, where public space, water and historic architecture belong to the same continuing urban story.

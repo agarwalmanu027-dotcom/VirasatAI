@@ -1,0 +1,14 @@
+VIRASATAI — BASIC INFORMATION
+Name: Badami Cave Temples, Karnataka
+Entry ID: badami_cave_temples
+Location: Badami, Bagalkot district, Karnataka
+Type: Early Chalukya rock-cut Hindu and Jain cave temples
+Identity note: User-selected site identity verified against the sources below.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. Badami, historically Vatapi, was an Early Chalukya capital. [1,2]
+2. Four main cave temples were cut into sandstone, with three Hindu caves and one Jain cave. [1,2]
+3. Cave one includes Shiva as the eighteen-armed dancing Nataraja; the later caves include Vishnu imagery and Jain Tirthankaras. [1]
+4. The broader Aihole–Badami–Pattadakal evolution proposal is on UNESCO's Tentative List; this does not mean Badami caves are an inscribed World Heritage property. [3]
+
+Sources: See badami_cave_temples_sources.txt. The parent association is the user's selection, not a verified proximity claim.

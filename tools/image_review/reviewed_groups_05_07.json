@@ -1,0 +1,955 @@
+[
+  {
+    "place_id": "gateway_of_india",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Surroundings",
+        "review_note": "Clear harbour panorama identifies the Gateway beside the Taj hotel."
+      },
+      {
+        "candidate_id": 2,
+        "category": "Details",
+        "review_note": "Sharp commemorative inscription and carved brackets."
+      },
+      {
+        "candidate_id": 3,
+        "category": "Different_Views",
+        "review_note": "Clear rainy-day view with wet paving and reflection."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Different_Views",
+        "review_note": "Sunny oblique view includes the full arch and side elevation."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Overview",
+        "review_note": "Clear centred front elevation against a blue sky."
+      },
+      {
+        "candidate_id": 14,
+        "category": "Details",
+        "review_note": "Close view of projecting cornice and side-arch stonework."
+      },
+      {
+        "candidate_id": 16,
+        "category": "Different_Views",
+        "review_note": "Sharp sunset light adds a distinct colour and lighting view."
+      },
+      {
+        "candidate_id": 18,
+        "category": "Overview",
+        "review_note": "Wide forecourt composition with the complete Gateway."
+      },
+      {
+        "candidate_id": 21,
+        "category": "Different_Views",
+        "review_note": "Sharp low-angle side elevation showing corner turret and lateral openings."
+      },
+      {
+        "candidate_id": 22,
+        "category": "Surroundings",
+        "review_note": "Wide panorama shows the forecourt spatial setting."
+      },
+      {
+        "candidate_id": 23,
+        "category": "Details",
+        "review_note": "Sharp close framing of upper turrets, arch, and cornice."
+      },
+      {
+        "candidate_id": 25,
+        "category": "Details",
+        "review_note": "Tall close side view shows lattice window and side entrance."
+      }
+    ],
+    "coverage_note": "Twelve clear, complementary harbour, forecourt, elevation and detail views; duplicate-looking front frames, heavily tinted vintage frame, obstruction-heavy and hazy frames omitted."
+  },
+  {
+    "place_id": "gateway_of_india__afghan_church",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 5,
+        "category": "Overview",
+        "review_note": "Clear complete church side elevation and spire."
+      },
+      {
+        "candidate_id": 9,
+        "category": "Different_Views",
+        "review_note": "Sharp central nave, timber roof, arches and altar."
+      },
+      {
+        "candidate_id": 1,
+        "category": "Details",
+        "review_note": "Sharp colour stained-glass detail."
+      },
+      {
+        "candidate_id": 2,
+        "category": "Details",
+        "review_note": "Clear carved Gothic entrance and door."
+      }
+    ],
+    "coverage_note": "Exterior, nave, entrance and stained glass; dark and repetitive frames omitted."
+  },
+  {
+    "place_id": "gateway_of_india__ballard_bunder_gatehouse",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Clear street-level full gatehouse elevation with stone arches."
+      }
+    ],
+    "coverage_note": "Only one qualifying current gatehouse image was available in this candidate batch."
+  },
+  {
+    "place_id": "gateway_of_india__banganga_tank",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 2,
+        "category": "Overview",
+        "review_note": "Clear full tank and stepped edges."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Different_Views",
+        "review_note": "Opposite-bank view shows water, surrounding houses and steps."
+      },
+      {
+        "candidate_id": 8,
+        "category": "Details",
+        "review_note": "Clear stairway leading toward a temple beside the tank."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Surroundings",
+        "review_note": "Tank-edge shrine and surrounding palms are visible in a sharp frame."
+      }
+    ],
+    "coverage_note": "Four complementary tank and setting views; tilted, close bird and repetitive shrine frames omitted."
+  },
+  {
+    "place_id": "gateway_of_india__bhau_daji_lad_museum",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Sharp full museum front elevation."
+      },
+      {
+        "candidate_id": 3,
+        "category": "Different_Views",
+        "review_note": "Clear side facade and outdoor cannons."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Different_Views",
+        "review_note": "Clear long side elevation."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Details",
+        "review_note": "Sharp architectural columns, window pediments and cornice."
+      }
+    ],
+    "coverage_note": "Exterior architecture represented; this batch contains no qualifying indoor collection image."
+  },
+  {
+    "place_id": "gateway_of_india__david_sassoon_library",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 6,
+        "category": "Overview",
+        "review_note": "Sharp blue-sky full library facade."
+      },
+      {
+        "candidate_id": 9,
+        "category": "Different_Views",
+        "review_note": "Clear reading-room interior with tables, windows and wooden ceiling."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Details",
+        "review_note": "Sharp foundation inscription plaque."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Details",
+        "review_note": "Clear sculpted portrait relief on the facade."
+      },
+      {
+        "candidate_id": 8,
+        "category": "Details",
+        "review_note": "Clear interior standing statue."
+      }
+    ],
+    "coverage_note": "Facade, reading room, inscription and sculpture represented; repetitive front views omitted."
+  },
+  {
+    "place_id": "gateway_of_india__horniman_circle_gardens",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 2,
+        "category": "Overview",
+        "review_note": "Clear garden paving, plants and seating."
+      },
+      {
+        "candidate_id": 1,
+        "category": "Details",
+        "review_note": "Clear central garden fountain and garden notice."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Surroundings",
+        "review_note": "Sharp curved heritage-building frontage surrounding Horniman Circle."
+      },
+      {
+        "candidate_id": 9,
+        "category": "Surroundings",
+        "review_note": "Sharp roadside banyan rest area beside Horniman Circle; labelled as surrounding setting."
+      }
+    ],
+    "coverage_note": "Garden and surrounding circle architecture represented; roadside watermarked frames and shop close-up omitted."
+  },
+  {
+    "place_id": "gateway_of_india__keneseth_eliyahoo_synagogue",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 7,
+        "category": "Overview",
+        "review_note": "Clear full blue-painted corner elevation."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Different_Views",
+        "review_note": "Clear alternate restored facade with synagogue name visible."
+      },
+      {
+        "candidate_id": 2,
+        "category": "Different_Views",
+        "review_note": "Sharp indoor bimah, patterned floor and seating."
+      },
+      {
+        "candidate_id": 9,
+        "category": "Details",
+        "review_note": "Clear entrance lettering and gate detail."
+      }
+    ],
+    "coverage_note": "Synagogue exterior, interior and entrance; restoration-era exterior colours vary and are not represented as simultaneous."
+  },
+  {
+    "place_id": "gateway_of_india__khotachiwadi_village",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 5,
+        "category": "Overview",
+        "review_note": "Clear narrow residential lane with traditional houses."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Different_Views",
+        "review_note": "Sharp traditional wooden house and verandah."
+      },
+      {
+        "candidate_id": 3,
+        "category": "Details",
+        "review_note": "Sharp neighbourhood mural and garden pots."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Details",
+        "review_note": "Clear exterior timber stairway."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Details",
+        "review_note": "Clear neighbourhood Christian shrine."
+      }
+    ],
+    "coverage_note": "Architecture, lane and neighbourhood details represented; repetitive house fronts omitted."
+  },
+  {
+    "place_id": "gateway_of_india__rbi_monetary_museum",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 6,
+        "category": "Details",
+        "review_note": "Sharp bilingual museum name plaque identifies the Mumbai museum."
+      },
+      {
+        "candidate_id": 1,
+        "category": "Details",
+        "review_note": "Clear museum inauguration plaque."
+      },
+      {
+        "candidate_id": 2,
+        "category": "Details",
+        "review_note": "Clear multilingual entrance-name panel."
+      }
+    ],
+    "coverage_note": "Only exterior signage and inauguration plaque qualify; no museum exterior overview or indoor collection photo is available in this batch. Historical photo text does not establish current opening hours."
+  },
+  {
+    "place_id": "gateway_of_india__sewri_fort",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 8,
+        "category": "Overview",
+        "review_note": "Clear fort corner and defensive masonry."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Details",
+        "review_note": "Clear parapet loopholes and harbour background."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Details",
+        "review_note": "Sharp stone stairway within the fort."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Surroundings",
+        "review_note": "Clear view from the fort toward mangroves and harbour."
+      }
+    ],
+    "coverage_note": "Fort architecture and harbour setting represented; reconstruction scaffolding and repetitive framed harbour images omitted."
+  },
+  {
+    "place_id": "charminar",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Sharp whole front elevation against blue sky."
+      },
+      {
+        "candidate_id": 2,
+        "category": "Different_Views",
+        "review_note": "Clear low oblique facade and minaret seen beside palm foliage."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Different_Views",
+        "review_note": "Clear three-quarter view shows adjoining faces and minarets."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Different_Views",
+        "review_note": "Sharp view down through the arch to the inner courtyard."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Aerial",
+        "review_note": "Clear elevated overall view of Charminar and surrounding city."
+      },
+      {
+        "candidate_id": 8,
+        "category": "Surroundings",
+        "review_note": "Sharp elevated view of the busy street beside the monument."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Overview",
+        "review_note": "Clear wide view includes monument and surrounding square."
+      },
+      {
+        "candidate_id": 14,
+        "category": "Different_Views",
+        "review_note": "Sharp illuminated night front elevation."
+      },
+      {
+        "candidate_id": 17,
+        "category": "Different_Views",
+        "review_note": "Sharp illuminated night corner view."
+      },
+      {
+        "candidate_id": 25,
+        "category": "Details",
+        "review_note": "Sharp upper architectural panel and carved band."
+      },
+      {
+        "candidate_id": 28,
+        "category": "Details",
+        "review_note": "Sharp minaret balcony and ornamental arcades."
+      },
+      {
+        "candidate_id": 29,
+        "category": "Details",
+        "review_note": "Sharp upward view of arch soffit and upper balustrades."
+      },
+      {
+        "candidate_id": 30,
+        "category": "Surroundings",
+        "review_note": "Clear market-lane approach places Charminar in its street setting."
+      },
+      {
+        "candidate_id": 32,
+        "category": "Details",
+        "review_note": "Sharp minaret shaft, balconies and crown."
+      }
+    ],
+    "coverage_note": "Fourteen complementary day, night, elevated, street-setting and architectural detail views; repeated front frames and foreground-dominated market photos omitted."
+  },
+  {
+    "place_id": "charminar__badshahi_ashurkhana",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Sharp view of tiled hall, columns and ceremonial setting."
+      },
+      {
+        "candidate_id": 2,
+        "category": "Details",
+        "review_note": "Sharp coloured tilework panel."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Different_Views",
+        "review_note": "Clear broad courtyard and exterior of the hall."
+      },
+      {
+        "candidate_id": 9,
+        "category": "Details",
+        "review_note": "Sharp upper tilework and calligraphy."
+      }
+    ],
+    "coverage_note": "Hall, courtyard and tilework represented; repetitive central panel photos omitted."
+  },
+  {
+    "place_id": "charminar__hayat_bakshi_mosque",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "All ten candidates depict the Hayat Bakshi funerary mosque inside the Qutb Shahi Tombs complex. The intended entry is the mosque/sarai at Hayathnagar; no candidate selected until a correctly identified Hayathnagar photo is available."
+  },
+  {
+    "place_id": "charminar__khursheed_jah_devdi",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 2,
+        "category": "Overview",
+        "review_note": "Sharp complete columned palace facade."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Different_Views",
+        "review_note": "Clear oblique view includes steps and portico."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Details",
+        "review_note": "Clear old patterned tiled floor."
+      },
+      {
+        "candidate_id": 9,
+        "category": "Details",
+        "review_note": "Sharp weathered doors and pediments."
+      }
+    ],
+    "coverage_note": "Palace exterior and surviving architectural details represented; repetitive facade and dusk frames omitted."
+  },
+  {
+    "place_id": "charminar__nizams_museum",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Sharp exterior of the Nizam's Museum building in Purani Haveli, explicitly identified in source metadata."
+      }
+    ],
+    "coverage_note": "Only museum-building exterior qualifies. Candidates 2–10 are explicitly labelled Salarjung Museum, a different institution, and were rejected. Additional genuine Nizam's Museum collection photos are needed."
+  },
+  {
+    "place_id": "charminar__paigah_tombs",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Sharp complex courtyard, tomb platforms and arcades."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Details",
+        "review_note": "Sharp decorated tomb and carved relief."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Details",
+        "review_note": "Clear Abdul Fatah Khan tomb and stone screens."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Different_Views",
+        "review_note": "Clear richly carved tomb canopy and arch."
+      },
+      {
+        "candidate_id": 8,
+        "category": "Different_Views",
+        "review_note": "Clear long arched corridor adds a distinct spatial view."
+      }
+    ],
+    "coverage_note": "Courtyard, decorated tombs, canopy and corridor represented; dark close-up omitted."
+  },
+  {
+    "place_id": "charminar__purani_haveli",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 8,
+        "category": "Overview",
+        "review_note": "Clear palace wing and courtyard."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Different_Views",
+        "review_note": "Clear alternate central building and courtyard setting."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Details",
+        "review_note": "Sharp pediments and arched-window frontage of the museum wing within the palace complex."
+      },
+      {
+        "candidate_id": 9,
+        "category": "Details",
+        "review_note": "Clear spiral stairway within the complex."
+      }
+    ],
+    "coverage_note": "Palace complex exterior and stair represented; severe blue cast and low-value noticeboard images omitted. Museum-wing overlap with Nizam's Museum is acknowledged."
+  },
+  {
+    "place_id": "charminar__qutb_shahi_tombs",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 2,
+        "category": "Overview",
+        "review_note": "Sharp domed structure within the Qutb Shahi heritage complex."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Details",
+        "review_note": "Clear complex stepwell and surrounding stonework."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Different_Views",
+        "review_note": "Sharp small arched structure and parapet ornament."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Details",
+        "review_note": "Clear pointed arch and architectural decoration."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Different_Views",
+        "review_note": "Clear long arched passageway within the complex."
+      }
+    ],
+    "coverage_note": "Five distinct complex structures and details; dark night image and conservation-material-dominated frames omitted."
+  },
+  {
+    "place_id": "charminar__raymonds_tomb",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Clear obelisk memorial and adjoining pavilion."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Different_Views",
+        "review_note": "Sharp stair approach toward the memorial."
+      },
+      {
+        "candidate_id": 3,
+        "category": "Different_Views",
+        "review_note": "Clear framed obelisk view through pavilion columns."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Details",
+        "review_note": "Sharp grave slab and inscription."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Details",
+        "review_note": "Sharp separate pavilion elevation."
+      }
+    ],
+    "coverage_note": "Memorial, grave, stairs and pavilion represented; repeated obelisk close-ups omitted."
+  },
+  {
+    "place_id": "charminar__spanish_mosque",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Clear complete Hyderabad mosque facade with its distinctive pointed towers."
+      }
+    ],
+    "coverage_note": "Only candidate 1 is Hyderabad's Spanish Mosque. Candidates 2–7 depict the Spanish Mosque overlooking Chefchaouen, Morocco, and were rejected."
+  },
+  {
+    "place_id": "charminar__toli_masjid",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Sharp front mosque elevation and minarets."
+      },
+      {
+        "candidate_id": 8,
+        "category": "Different_Views",
+        "review_note": "Clear forecourt water tank and lower arcade."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Details",
+        "review_note": "Sharp upper jali and decorative rooftop elements."
+      },
+      {
+        "candidate_id": 9,
+        "category": "Details",
+        "review_note": "Sharp individual carved jali window."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Details",
+        "review_note": "Sharp arch ornamentation and patterned plasterwork."
+      }
+    ],
+    "coverage_note": "Facade, water tank and fine ornament represented; repetitive upper-façade and backlit views omitted."
+  },
+  {
+    "place_id": "victoria_memorial",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Sharp full daylight facade and garden panorama."
+      },
+      {
+        "candidate_id": 3,
+        "category": "Details",
+        "review_note": "Sharp complete Minto bronze relief panel."
+      },
+      {
+        "candidate_id": 12,
+        "category": "Different_Views",
+        "review_note": "Sharp overhead interior view of patterned rotunda floor."
+      },
+      {
+        "candidate_id": 13,
+        "category": "Details",
+        "review_note": "Clear Jubilee Monument statue and pedestal context."
+      },
+      {
+        "candidate_id": 15,
+        "category": "Details",
+        "review_note": "Clear alternate relief panel and marble pedestal framing."
+      },
+      {
+        "candidate_id": 17,
+        "category": "Different_Views",
+        "review_note": "Clear curved colonnaded elevation and dome."
+      },
+      {
+        "candidate_id": 21,
+        "category": "Details",
+        "review_note": "Sharp upward rotunda and dome decoration."
+      },
+      {
+        "candidate_id": 23,
+        "category": "Details",
+        "review_note": "Sharp central bronze face detail; shallow depth of field is intentional around the focal sculpture."
+      },
+      {
+        "candidate_id": 28,
+        "category": "Aerial",
+        "review_note": "Clear night aerial shows the entire lit building and gardens."
+      },
+      {
+        "candidate_id": 29,
+        "category": "Surroundings",
+        "review_note": "Clear King Edward VII Arch and garden setting."
+      },
+      {
+        "candidate_id": 30,
+        "category": "Different_Views",
+        "review_note": "Clear oblique entrance, dome and corner towers."
+      },
+      {
+        "candidate_id": 31,
+        "category": "Surroundings",
+        "review_note": "Clear garden view from the chequered terrace."
+      },
+      {
+        "candidate_id": 32,
+        "category": "Overview",
+        "review_note": "Sharp opposite full facade with standing statue in foreground."
+      }
+    ],
+    "coverage_note": "Thirteen complementary daylight, night aerial, indoor, garden and sculpture views; repeated relief panels, tourist portraits, defocused grille framing and weak night skyline omitted."
+  },
+  {
+    "place_id": "victoria_memorial__armenian_church",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 2,
+        "category": "Details",
+        "review_note": "Clear churchyard burial slabs and courtyard setting."
+      },
+      {
+        "candidate_id": 8,
+        "category": "Details",
+        "review_note": "Clear sculpted churchyard memorials beside the church wall."
+      },
+      {
+        "candidate_id": 9,
+        "category": "Details",
+        "review_note": "Sharp Armenian-inscribed gravestone slab."
+      }
+    ],
+    "coverage_note": "All candidates explicitly identify Holy Nazareth Church, Kolkata. Three churchyard details qualify; this batch contains no complete church-building overview. Low-contrast repeated slab close-ups omitted."
+  },
+  {
+    "place_id": "victoria_memorial__jorasanko_thakur_bari",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 2,
+        "category": "Overview",
+        "review_note": "Sharp full red mansion and garden view."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Different_Views",
+        "review_note": "Sharp courtyard path and surrounding mansion wings."
+      },
+      {
+        "candidate_id": 9,
+        "category": "Details",
+        "review_note": "Clear Rabindranath Tagore bust."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Different_Views",
+        "review_note": "Sharp street entrance and gateway."
+      }
+    ],
+    "coverage_note": "Mansion, courtyard, entrance and Tagore bust represented; repeated garden facades and weak indoor frame omitted."
+  },
+  {
+    "place_id": "victoria_memorial__lascar_war_memorial",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 6,
+        "category": "Overview",
+        "review_note": "Sharp complete monument, path and blue-sky setting."
+      },
+      {
+        "candidate_id": 8,
+        "category": "Details",
+        "review_note": "Sharp memorial inauguration inscription plaque."
+      },
+      {
+        "candidate_id": 2,
+        "category": "Details",
+        "review_note": "Clear nearby World War One interpretation plaque."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Details",
+        "review_note": "Clear upper memorial crown and carved architectural ornament."
+      },
+      {
+        "candidate_id": 9,
+        "category": "Details",
+        "review_note": "Clear adjacent historic mechanical anchor detail."
+      }
+    ],
+    "coverage_note": "Monument, inscriptions, crown and maritime setting detail represented; repeated full views omitted."
+  },
+  {
+    "place_id": "victoria_memorial__magen_david_synagogue",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 3,
+        "category": "Overview",
+        "review_note": "Sharp full red synagogue facade and tower."
+      },
+      {
+        "candidate_id": 2,
+        "category": "Different_Views",
+        "review_note": "Sharp restored interior, bimah, arcades and floor."
+      },
+      {
+        "candidate_id": 1,
+        "category": "Details",
+        "review_note": "Sharp round stained-glass window."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Different_Views",
+        "review_note": "Clear exterior arched entrance passage."
+      },
+      {
+        "candidate_id": 9,
+        "category": "Details",
+        "review_note": "Clear inner entrance arch and steps."
+      }
+    ],
+    "coverage_note": "Facade, restored hall, stained glass and entrance sequence represented; repetitive interior and tower views omitted."
+  },
+  {
+    "place_id": "victoria_memorial__marble_palace",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "All candidates depict Saint Petersburg's Marble Palace, not Raja Rajendra Mullick's Marble Palace in Kolkata. Candidate 9 was also checked against its Commons categories and belongs to Saint Petersburg. No wrong-site image selected."
+  },
+  {
+    "place_id": "victoria_memorial__mullick_ghat_flower_market",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 6,
+        "category": "Overview",
+        "review_note": "Sharp broad market-lane view with flower traders."
+      },
+      {
+        "candidate_id": 2,
+        "category": "Different_Views",
+        "review_note": "Sharp flower stall and garland-making activity."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Details",
+        "review_note": "Clear stacks of colourful flower garlands at a stall."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Different_Views",
+        "review_note": "Sharp wider traders' working area and flower stock."
+      }
+    ],
+    "coverage_note": "Market activity and flower detail represented; isolated individual portraits and weak dark lane frame omitted."
+  },
+  {
+    "place_id": "victoria_memorial__nipponzan_myohoji_temple",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "No candidate photo passed the collector's identity, resolution and quality filters for this Kolkata temple."
+  },
+  {
+    "place_id": "victoria_memorial__prinsep_ghat",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Sharp complete white memorial and bridge setting."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Different_Views",
+        "review_note": "Clear monument under warm night illumination."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Details",
+        "review_note": "Clear fluted columns and timber roof."
+      },
+      {
+        "candidate_id": 3,
+        "category": "Surroundings",
+        "review_note": "Clear bridge framed between the memorial columns."
+      },
+      {
+        "candidate_id": 8,
+        "category": "Different_Views",
+        "review_note": "Sharp side-corner elevation of the pavilion."
+      }
+    ],
+    "coverage_note": "Memorial, night lighting, columns and bridge setting represented; repeated front views omitted."
+  },
+  {
+    "place_id": "victoria_memorial__south_park_street_cemetery",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Sharp cemetery avenue and historic tombs."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Different_Views",
+        "review_note": "Sharp curved path and garden setting."
+      },
+      {
+        "candidate_id": 8,
+        "category": "Details",
+        "review_note": "Sharp ornate historic tomb structure."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Details",
+        "review_note": "Sharp Derozio memorial bust, grave and inscriptions."
+      },
+      {
+        "candidate_id": 9,
+        "category": "Details",
+        "review_note": "Clear tall obelisk tomb and surrounding monuments."
+      }
+    ],
+    "coverage_note": "Cemetery routes and several distinct memorial forms represented; repeated obelisk and foreground-leaf-dominated frame omitted."
+  },
+  {
+    "place_id": "victoria_memorial__st_johns_church",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 2,
+        "category": "Overview",
+        "review_note": "Sharp complete Kolkata church elevation and grounds."
+      },
+      {
+        "candidate_id": 8,
+        "category": "Different_Views",
+        "review_note": "Sharp corner view includes portico and spire."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Details",
+        "review_note": "Clear clock tower and spire detail."
+      }
+    ],
+    "coverage_note": "Three complementary Kolkata exterior views. Candidate 1 depicts St John's Church in Tartu, Estonia, and was rejected; repetitive tower and dark frames omitted."
+  }
+]

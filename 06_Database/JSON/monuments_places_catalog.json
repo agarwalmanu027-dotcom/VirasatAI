@@ -1,0 +1,4405 @@
+{
+  "schema_version": 1,
+  "selection_source": "User-supplied 20-row table in this chat",
+  "selection_recorded_on": "2026-10-07",
+  "scope": "Application display content and storytelling preparation; not proof of trained-model support.",
+  "main_group_count": 20,
+  "nearby_entry_count": 200,
+  "notes": [
+    "User-selected names, order, and parent associations are preserved.",
+    "Nearby is a user-selected association. Distance, travel time, site identity, and factual content require source verification.",
+    "Ajanta and Ellora remain one user-selected main group; site-specific content can be organized within it without changing the group.",
+    "Taj Mahal's existing content and display images must be preserved.",
+    "Folder names use safe characters; display names preserve the user's labels."
+  ],
+  "main_monuments": [
+    {
+      "id": "taj_mahal",
+      "order": 1,
+      "display_name": "Taj Mahal, Agra",
+      "folder_name": "Taj_Mahal",
+      "paths": {
+        "data": "01_Data/Taj_Mahal",
+        "images": "02_Images/Taj_Mahal",
+        "scripts": "03_Scripts/Taj_Mahal",
+        "audio": "04_Audio/Taj_Mahal"
+      },
+      "content_status": "content_ready",
+      "nearby_places": [
+        {
+          "id": "taj_mahal__mehtab_bagh",
+          "order": 1,
+          "display_name": "Mehtab Bagh",
+          "folder_name": "Mehtab_Bagh",
+          "parent_monument_id": "taj_mahal",
+          "paths": {
+            "data": "01_Data/Taj_Mahal/Nearby_Heritage/Mehtab_Bagh",
+            "images": "02_Images/Taj_Mahal/Nearby_Heritage/Mehtab_Bagh",
+            "scripts": "03_Scripts/Taj_Mahal/Nearby_Heritage/Mehtab_Bagh",
+            "audio": "04_Audio/Taj_Mahal/Nearby_Heritage/Mehtab_Bagh"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 4
+        },
+        {
+          "id": "taj_mahal__chini_ka_rauza",
+          "order": 2,
+          "display_name": "Chini Ka Rauza",
+          "folder_name": "Chini_Ka_Rauza",
+          "parent_monument_id": "taj_mahal",
+          "paths": {
+            "data": "01_Data/Taj_Mahal/Nearby_Heritage/Chini_Ka_Rauza",
+            "images": "02_Images/Taj_Mahal/Nearby_Heritage/Chini_Ka_Rauza",
+            "scripts": "03_Scripts/Taj_Mahal/Nearby_Heritage/Chini_Ka_Rauza",
+            "audio": "04_Audio/Taj_Mahal/Nearby_Heritage/Chini_Ka_Rauza"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 4
+        },
+        {
+          "id": "taj_mahal__the_red_taj_hessings_tomb",
+          "order": 3,
+          "display_name": "The Red Taj (Hessing's Tomb)",
+          "folder_name": "The_Red_Taj_Hessings_Tomb",
+          "parent_monument_id": "taj_mahal",
+          "paths": {
+            "data": "01_Data/Taj_Mahal/Nearby_Heritage/The_Red_Taj_Hessings_Tomb",
+            "images": "02_Images/Taj_Mahal/Nearby_Heritage/The_Red_Taj_Hessings_Tomb",
+            "scripts": "03_Scripts/Taj_Mahal/Nearby_Heritage/The_Red_Taj_Hessings_Tomb",
+            "audio": "04_Audio/Taj_Mahal/Nearby_Heritage/The_Red_Taj_Hessings_Tomb"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 4
+        },
+        {
+          "id": "taj_mahal__taj_nature_walk",
+          "order": 4,
+          "display_name": "Taj Nature Walk",
+          "folder_name": "Taj_Nature_Walk",
+          "parent_monument_id": "taj_mahal",
+          "paths": {
+            "data": "01_Data/Taj_Mahal/Nearby_Heritage/Taj_Nature_Walk",
+            "images": "02_Images/Taj_Mahal/Nearby_Heritage/Taj_Nature_Walk",
+            "scripts": "03_Scripts/Taj_Mahal/Nearby_Heritage/Taj_Nature_Walk",
+            "audio": "04_Audio/Taj_Mahal/Nearby_Heritage/Taj_Nature_Walk"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 2
+        },
+        {
+          "id": "taj_mahal__mariam_uz_zamani_tomb",
+          "order": 5,
+          "display_name": "Mariam-uz-Zamani Tomb",
+          "folder_name": "Mariam_uz_Zamani_Tomb",
+          "parent_monument_id": "taj_mahal",
+          "paths": {
+            "data": "01_Data/Taj_Mahal/Nearby_Heritage/Mariam_uz_Zamani_Tomb",
+            "images": "02_Images/Taj_Mahal/Nearby_Heritage/Mariam_uz_Zamani_Tomb",
+            "scripts": "03_Scripts/Taj_Mahal/Nearby_Heritage/Mariam_uz_Zamani_Tomb",
+            "audio": "04_Audio/Taj_Mahal/Nearby_Heritage/Mariam_uz_Zamani_Tomb"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 3
+        },
+        {
+          "id": "taj_mahal__ram_bagh",
+          "order": 6,
+          "display_name": "Ram Bagh",
+          "folder_name": "Ram_Bagh",
+          "parent_monument_id": "taj_mahal",
+          "paths": {
+            "data": "01_Data/Taj_Mahal/Nearby_Heritage/Ram_Bagh",
+            "images": "02_Images/Taj_Mahal/Nearby_Heritage/Ram_Bagh",
+            "scripts": "03_Scripts/Taj_Mahal/Nearby_Heritage/Ram_Bagh",
+            "audio": "04_Audio/Taj_Mahal/Nearby_Heritage/Ram_Bagh"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 5
+        },
+        {
+          "id": "taj_mahal__kanch_mahal",
+          "order": 7,
+          "display_name": "Kanch Mahal",
+          "folder_name": "Kanch_Mahal",
+          "parent_monument_id": "taj_mahal",
+          "paths": {
+            "data": "01_Data/Taj_Mahal/Nearby_Heritage/Kanch_Mahal",
+            "images": "02_Images/Taj_Mahal/Nearby_Heritage/Kanch_Mahal",
+            "scripts": "03_Scripts/Taj_Mahal/Nearby_Heritage/Kanch_Mahal",
+            "audio": "04_Audio/Taj_Mahal/Nearby_Heritage/Kanch_Mahal"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 4
+        },
+        {
+          "id": "taj_mahal__bateshwar_temples",
+          "order": 8,
+          "display_name": "Bateshwar Temples",
+          "folder_name": "Bateshwar_Temples",
+          "parent_monument_id": "taj_mahal",
+          "paths": {
+            "data": "01_Data/Taj_Mahal/Nearby_Heritage/Bateshwar_Temples",
+            "images": "02_Images/Taj_Mahal/Nearby_Heritage/Bateshwar_Temples",
+            "scripts": "03_Scripts/Taj_Mahal/Nearby_Heritage/Bateshwar_Temples",
+            "audio": "04_Audio/Taj_Mahal/Nearby_Heritage/Bateshwar_Temples"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "taj_mahal__jaswant_singh_ki_chhatri",
+          "order": 9,
+          "display_name": "Jaswant Singh Ki Chhatri",
+          "folder_name": "Jaswant_Singh_Ki_Chhatri",
+          "parent_monument_id": "taj_mahal",
+          "paths": {
+            "data": "01_Data/Taj_Mahal/Nearby_Heritage/Jaswant_Singh_Ki_Chhatri",
+            "images": "02_Images/Taj_Mahal/Nearby_Heritage/Jaswant_Singh_Ki_Chhatri",
+            "scripts": "03_Scripts/Taj_Mahal/Nearby_Heritage/Jaswant_Singh_Ki_Chhatri",
+            "audio": "04_Audio/Taj_Mahal/Nearby_Heritage/Jaswant_Singh_Ki_Chhatri"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 1
+        },
+        {
+          "id": "taj_mahal__gurudwara_guru_ka_taal",
+          "order": 10,
+          "display_name": "Gurudwara Guru Ka Taal",
+          "folder_name": "Gurudwara_Guru_Ka_Taal",
+          "parent_monument_id": "taj_mahal",
+          "paths": {
+            "data": "01_Data/Taj_Mahal/Nearby_Heritage/Gurudwara_Guru_Ka_Taal",
+            "images": "02_Images/Taj_Mahal/Nearby_Heritage/Gurudwara_Guru_Ka_Taal",
+            "scripts": "03_Scripts/Taj_Mahal/Nearby_Heritage/Gurudwara_Guru_Ka_Taal",
+            "audio": "04_Audio/Taj_Mahal/Nearby_Heritage/Gurudwara_Guru_Ka_Taal"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 3
+        }
+      ],
+      "image_status": "reviewed_images_saved",
+      "audio_status": "not_generated",
+      "display_image_count": 40
+    },
+    {
+      "id": "qutub_minar",
+      "order": 2,
+      "display_name": "Qutub Minar, Delhi",
+      "folder_name": "Qutub_Minar",
+      "paths": {
+        "data": "01_Data/Qutub_Minar",
+        "images": "02_Images/Qutub_Minar",
+        "scripts": "03_Scripts/Qutub_Minar",
+        "audio": "04_Audio/Qutub_Minar"
+      },
+      "content_status": "content_ready",
+      "nearby_places": [
+        {
+          "id": "qutub_minar__jamali_kamali_mosque",
+          "order": 1,
+          "display_name": "Jamali Kamali Mosque",
+          "folder_name": "Jamali_Kamali_Mosque",
+          "parent_monument_id": "qutub_minar",
+          "paths": {
+            "data": "01_Data/Qutub_Minar/Nearby_Heritage/Jamali_Kamali_Mosque",
+            "images": "02_Images/Qutub_Minar/Nearby_Heritage/Jamali_Kamali_Mosque",
+            "scripts": "03_Scripts/Qutub_Minar/Nearby_Heritage/Jamali_Kamali_Mosque",
+            "audio": "04_Audio/Qutub_Minar/Nearby_Heritage/Jamali_Kamali_Mosque"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 5
+        },
+        {
+          "id": "qutub_minar__rajon_ki_baoli",
+          "order": 2,
+          "display_name": "Rajon Ki Baoli",
+          "folder_name": "Rajon_Ki_Baoli",
+          "parent_monument_id": "qutub_minar",
+          "paths": {
+            "data": "01_Data/Qutub_Minar/Nearby_Heritage/Rajon_Ki_Baoli",
+            "images": "02_Images/Qutub_Minar/Nearby_Heritage/Rajon_Ki_Baoli",
+            "scripts": "03_Scripts/Qutub_Minar/Nearby_Heritage/Rajon_Ki_Baoli",
+            "audio": "04_Audio/Qutub_Minar/Nearby_Heritage/Rajon_Ki_Baoli"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 3
+        },
+        {
+          "id": "qutub_minar__balbans_tomb",
+          "order": 3,
+          "display_name": "Balban's Tomb",
+          "folder_name": "Balbans_Tomb",
+          "parent_monument_id": "qutub_minar",
+          "paths": {
+            "data": "01_Data/Qutub_Minar/Nearby_Heritage/Balbans_Tomb",
+            "images": "02_Images/Qutub_Minar/Nearby_Heritage/Balbans_Tomb",
+            "scripts": "03_Scripts/Qutub_Minar/Nearby_Heritage/Balbans_Tomb",
+            "audio": "04_Audio/Qutub_Minar/Nearby_Heritage/Balbans_Tomb"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 4
+        },
+        {
+          "id": "qutub_minar__zafar_mahal",
+          "order": 4,
+          "display_name": "Zafar Mahal",
+          "folder_name": "Zafar_Mahal",
+          "parent_monument_id": "qutub_minar",
+          "paths": {
+            "data": "01_Data/Qutub_Minar/Nearby_Heritage/Zafar_Mahal",
+            "images": "02_Images/Qutub_Minar/Nearby_Heritage/Zafar_Mahal",
+            "scripts": "03_Scripts/Qutub_Minar/Nearby_Heritage/Zafar_Mahal",
+            "audio": "04_Audio/Qutub_Minar/Nearby_Heritage/Zafar_Mahal"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 5
+        },
+        {
+          "id": "qutub_minar__adham_khans_tomb",
+          "order": 5,
+          "display_name": "Adham Khan's Tomb",
+          "folder_name": "Adham_Khans_Tomb",
+          "parent_monument_id": "qutub_minar",
+          "paths": {
+            "data": "01_Data/Qutub_Minar/Nearby_Heritage/Adham_Khans_Tomb",
+            "images": "02_Images/Qutub_Minar/Nearby_Heritage/Adham_Khans_Tomb",
+            "scripts": "03_Scripts/Qutub_Minar/Nearby_Heritage/Adham_Khans_Tomb",
+            "audio": "04_Audio/Qutub_Minar/Nearby_Heritage/Adham_Khans_Tomb"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 5
+        },
+        {
+          "id": "qutub_minar__gandhak_ki_baoli",
+          "order": 6,
+          "display_name": "Gandhak Ki Baoli",
+          "folder_name": "Gandhak_Ki_Baoli",
+          "parent_monument_id": "qutub_minar",
+          "paths": {
+            "data": "01_Data/Qutub_Minar/Nearby_Heritage/Gandhak_Ki_Baoli",
+            "images": "02_Images/Qutub_Minar/Nearby_Heritage/Gandhak_Ki_Baoli",
+            "scripts": "03_Scripts/Qutub_Minar/Nearby_Heritage/Gandhak_Ki_Baoli",
+            "audio": "04_Audio/Qutub_Minar/Nearby_Heritage/Gandhak_Ki_Baoli"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 3
+        },
+        {
+          "id": "qutub_minar__hijron_ka_khanqah",
+          "order": 7,
+          "display_name": "Hijron Ka Khanqah",
+          "folder_name": "Hijron_Ka_Khanqah",
+          "parent_monument_id": "qutub_minar",
+          "paths": {
+            "data": "01_Data/Qutub_Minar/Nearby_Heritage/Hijron_Ka_Khanqah",
+            "images": "02_Images/Qutub_Minar/Nearby_Heritage/Hijron_Ka_Khanqah",
+            "scripts": "03_Scripts/Qutub_Minar/Nearby_Heritage/Hijron_Ka_Khanqah",
+            "audio": "04_Audio/Qutub_Minar/Nearby_Heritage/Hijron_Ka_Khanqah"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 4
+        },
+        {
+          "id": "qutub_minar__jahaz_mahal",
+          "order": 8,
+          "display_name": "Jahaz Mahal",
+          "folder_name": "Jahaz_Mahal",
+          "parent_monument_id": "qutub_minar",
+          "paths": {
+            "data": "01_Data/Qutub_Minar/Nearby_Heritage/Jahaz_Mahal",
+            "images": "02_Images/Qutub_Minar/Nearby_Heritage/Jahaz_Mahal",
+            "scripts": "03_Scripts/Qutub_Minar/Nearby_Heritage/Jahaz_Mahal",
+            "audio": "04_Audio/Qutub_Minar/Nearby_Heritage/Jahaz_Mahal"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 4
+        },
+        {
+          "id": "qutub_minar__quli_khans_tomb",
+          "order": 9,
+          "display_name": "Quli Khan's Tomb",
+          "folder_name": "Quli_Khans_Tomb",
+          "parent_monument_id": "qutub_minar",
+          "paths": {
+            "data": "01_Data/Qutub_Minar/Nearby_Heritage/Quli_Khans_Tomb",
+            "images": "02_Images/Qutub_Minar/Nearby_Heritage/Quli_Khans_Tomb",
+            "scripts": "03_Scripts/Qutub_Minar/Nearby_Heritage/Quli_Khans_Tomb",
+            "audio": "04_Audio/Qutub_Minar/Nearby_Heritage/Quli_Khans_Tomb"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 4
+        },
+        {
+          "id": "qutub_minar__hauz_i_shamsi",
+          "order": 10,
+          "display_name": "Hauz-i-Shamsi",
+          "folder_name": "Hauz_i_Shamsi",
+          "parent_monument_id": "qutub_minar",
+          "paths": {
+            "data": "01_Data/Qutub_Minar/Nearby_Heritage/Hauz_i_Shamsi",
+            "images": "02_Images/Qutub_Minar/Nearby_Heritage/Hauz_i_Shamsi",
+            "scripts": "03_Scripts/Qutub_Minar/Nearby_Heritage/Hauz_i_Shamsi",
+            "audio": "04_Audio/Qutub_Minar/Nearby_Heritage/Hauz_i_Shamsi"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 4
+        }
+      ],
+      "image_status": "reviewed_images_saved",
+      "audio_status": "not_generated",
+      "display_image_count": 14
+    },
+    {
+      "id": "amer_fort",
+      "order": 3,
+      "display_name": "Amer Fort, Jaipur",
+      "folder_name": "Amer_Fort",
+      "paths": {
+        "data": "01_Data/Amer_Fort",
+        "images": "02_Images/Amer_Fort",
+        "scripts": "03_Scripts/Amer_Fort",
+        "audio": "04_Audio/Amer_Fort"
+      },
+      "content_status": "content_ready",
+      "nearby_places": [
+        {
+          "id": "amer_fort__panna_meena_ka_kund",
+          "order": 1,
+          "display_name": "Panna Meena Ka Kund",
+          "folder_name": "Panna_Meena_Ka_Kund",
+          "parent_monument_id": "amer_fort",
+          "paths": {
+            "data": "01_Data/Amer_Fort/Nearby_Heritage/Panna_Meena_Ka_Kund",
+            "images": "02_Images/Amer_Fort/Nearby_Heritage/Panna_Meena_Ka_Kund",
+            "scripts": "03_Scripts/Amer_Fort/Nearby_Heritage/Panna_Meena_Ka_Kund",
+            "audio": "04_Audio/Amer_Fort/Nearby_Heritage/Panna_Meena_Ka_Kund"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 4
+        },
+        {
+          "id": "amer_fort__jagat_shiromani_temple",
+          "order": 2,
+          "display_name": "Jagat Shiromani Temple",
+          "folder_name": "Jagat_Shiromani_Temple",
+          "parent_monument_id": "amer_fort",
+          "paths": {
+            "data": "01_Data/Amer_Fort/Nearby_Heritage/Jagat_Shiromani_Temple",
+            "images": "02_Images/Amer_Fort/Nearby_Heritage/Jagat_Shiromani_Temple",
+            "scripts": "03_Scripts/Amer_Fort/Nearby_Heritage/Jagat_Shiromani_Temple",
+            "audio": "04_Audio/Amer_Fort/Nearby_Heritage/Jagat_Shiromani_Temple"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 4
+        },
+        {
+          "id": "amer_fort__gaitore_ki_chhatriyan",
+          "order": 3,
+          "display_name": "Gaitore Ki Chhatriyan",
+          "folder_name": "Gaitore_Ki_Chhatriyan",
+          "parent_monument_id": "amer_fort",
+          "paths": {
+            "data": "01_Data/Amer_Fort/Nearby_Heritage/Gaitore_Ki_Chhatriyan",
+            "images": "02_Images/Amer_Fort/Nearby_Heritage/Gaitore_Ki_Chhatriyan",
+            "scripts": "03_Scripts/Amer_Fort/Nearby_Heritage/Gaitore_Ki_Chhatriyan",
+            "audio": "04_Audio/Amer_Fort/Nearby_Heritage/Gaitore_Ki_Chhatriyan"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 5
+        },
+        {
+          "id": "amer_fort__anokhi_museum",
+          "order": 4,
+          "display_name": "Anokhi Museum",
+          "folder_name": "Anokhi_Museum",
+          "parent_monument_id": "amer_fort",
+          "paths": {
+            "data": "01_Data/Amer_Fort/Nearby_Heritage/Anokhi_Museum",
+            "images": "02_Images/Amer_Fort/Nearby_Heritage/Anokhi_Museum",
+            "scripts": "03_Scripts/Amer_Fort/Nearby_Heritage/Anokhi_Museum",
+            "audio": "04_Audio/Amer_Fort/Nearby_Heritage/Anokhi_Museum"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 2
+        },
+        {
+          "id": "amer_fort__galtaji_temple",
+          "order": 5,
+          "display_name": "Galtaji Temple",
+          "folder_name": "Galtaji_Temple",
+          "parent_monument_id": "amer_fort",
+          "paths": {
+            "data": "01_Data/Amer_Fort/Nearby_Heritage/Galtaji_Temple",
+            "images": "02_Images/Amer_Fort/Nearby_Heritage/Galtaji_Temple",
+            "scripts": "03_Scripts/Amer_Fort/Nearby_Heritage/Galtaji_Temple",
+            "audio": "04_Audio/Amer_Fort/Nearby_Heritage/Galtaji_Temple"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 5
+        },
+        {
+          "id": "amer_fort__garh_ganesh_temple",
+          "order": 6,
+          "display_name": "Garh Ganesh Temple",
+          "folder_name": "Garh_Ganesh_Temple",
+          "parent_monument_id": "amer_fort",
+          "paths": {
+            "data": "01_Data/Amer_Fort/Nearby_Heritage/Garh_Ganesh_Temple",
+            "images": "02_Images/Amer_Fort/Nearby_Heritage/Garh_Ganesh_Temple",
+            "scripts": "03_Scripts/Amer_Fort/Nearby_Heritage/Garh_Ganesh_Temple",
+            "audio": "04_Audio/Amer_Fort/Nearby_Heritage/Garh_Ganesh_Temple"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 1
+        },
+        {
+          "id": "amer_fort__vidyadhar_garden",
+          "order": 7,
+          "display_name": "Vidyadhar Garden",
+          "folder_name": "Vidyadhar_Garden",
+          "parent_monument_id": "amer_fort",
+          "paths": {
+            "data": "01_Data/Amer_Fort/Nearby_Heritage/Vidyadhar_Garden",
+            "images": "02_Images/Amer_Fort/Nearby_Heritage/Vidyadhar_Garden",
+            "scripts": "03_Scripts/Amer_Fort/Nearby_Heritage/Vidyadhar_Garden",
+            "audio": "04_Audio/Amer_Fort/Nearby_Heritage/Vidyadhar_Garden"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "amer_fort__sagar_lake",
+          "order": 8,
+          "display_name": "Sagar Lake",
+          "folder_name": "Sagar_Lake",
+          "parent_monument_id": "amer_fort",
+          "paths": {
+            "data": "01_Data/Amer_Fort/Nearby_Heritage/Sagar_Lake",
+            "images": "02_Images/Amer_Fort/Nearby_Heritage/Sagar_Lake",
+            "scripts": "03_Scripts/Amer_Fort/Nearby_Heritage/Sagar_Lake",
+            "audio": "04_Audio/Amer_Fort/Nearby_Heritage/Sagar_Lake"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "amer_fort__sisodia_rani_ka_bagh",
+          "order": 9,
+          "display_name": "Sisodia Rani Ka Bagh",
+          "folder_name": "Sisodia_Rani_Ka_Bagh",
+          "parent_monument_id": "amer_fort",
+          "paths": {
+            "data": "01_Data/Amer_Fort/Nearby_Heritage/Sisodia_Rani_Ka_Bagh",
+            "images": "02_Images/Amer_Fort/Nearby_Heritage/Sisodia_Rani_Ka_Bagh",
+            "scripts": "03_Scripts/Amer_Fort/Nearby_Heritage/Sisodia_Rani_Ka_Bagh",
+            "audio": "04_Audio/Amer_Fort/Nearby_Heritage/Sisodia_Rani_Ka_Bagh"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 5
+        },
+        {
+          "id": "amer_fort__hathni_kund",
+          "order": 10,
+          "display_name": "Hathni Kund",
+          "folder_name": "Hathni_Kund",
+          "parent_monument_id": "amer_fort",
+          "paths": {
+            "data": "01_Data/Amer_Fort/Nearby_Heritage/Hathni_Kund",
+            "images": "02_Images/Amer_Fort/Nearby_Heritage/Hathni_Kund",
+            "scripts": "03_Scripts/Amer_Fort/Nearby_Heritage/Hathni_Kund",
+            "audio": "04_Audio/Amer_Fort/Nearby_Heritage/Hathni_Kund"
+          },
+          "content_status": "identity_pending",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [
+            "Verify the Jaipur-area site."
+          ],
+          "image_status": "identity_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        }
+      ],
+      "image_status": "reviewed_images_saved",
+      "audio_status": "not_generated",
+      "display_image_count": 10
+    },
+    {
+      "id": "red_fort",
+      "order": 4,
+      "display_name": "Red Fort, Delhi",
+      "folder_name": "Red_Fort",
+      "paths": {
+        "data": "01_Data/Red_Fort",
+        "images": "02_Images/Red_Fort",
+        "scripts": "03_Scripts/Red_Fort",
+        "audio": "04_Audio/Red_Fort"
+      },
+      "content_status": "content_ready",
+      "nearby_places": [
+        {
+          "id": "red_fort__sunehri_masjid",
+          "order": 1,
+          "display_name": "Sunehri Masjid",
+          "folder_name": "Sunehri_Masjid",
+          "parent_monument_id": "red_fort",
+          "paths": {
+            "data": "01_Data/Red_Fort/Nearby_Heritage/Sunehri_Masjid",
+            "images": "02_Images/Red_Fort/Nearby_Heritage/Sunehri_Masjid",
+            "scripts": "03_Scripts/Red_Fort/Nearby_Heritage/Sunehri_Masjid",
+            "audio": "04_Audio/Red_Fort/Nearby_Heritage/Sunehri_Masjid"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [
+            "Verify the specific site associated with the Red Fort group."
+          ],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 2
+        },
+        {
+          "id": "red_fort__zeenat_ul_masajid",
+          "order": 2,
+          "display_name": "Zeenat-ul-Masajid",
+          "folder_name": "Zeenat_ul_Masajid",
+          "parent_monument_id": "red_fort",
+          "paths": {
+            "data": "01_Data/Red_Fort/Nearby_Heritage/Zeenat_ul_Masajid",
+            "images": "02_Images/Red_Fort/Nearby_Heritage/Zeenat_ul_Masajid",
+            "scripts": "03_Scripts/Red_Fort/Nearby_Heritage/Zeenat_ul_Masajid",
+            "audio": "04_Audio/Red_Fort/Nearby_Heritage/Zeenat_ul_Masajid"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 1
+        },
+        {
+          "id": "red_fort__mirza_ghalib_ki_haveli",
+          "order": 3,
+          "display_name": "Mirza Ghalib Ki Haveli",
+          "folder_name": "Mirza_Ghalib_Ki_Haveli",
+          "parent_monument_id": "red_fort",
+          "paths": {
+            "data": "01_Data/Red_Fort/Nearby_Heritage/Mirza_Ghalib_Ki_Haveli",
+            "images": "02_Images/Red_Fort/Nearby_Heritage/Mirza_Ghalib_Ki_Haveli",
+            "scripts": "03_Scripts/Red_Fort/Nearby_Heritage/Mirza_Ghalib_Ki_Haveli",
+            "audio": "04_Audio/Red_Fort/Nearby_Heritage/Mirza_Ghalib_Ki_Haveli"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 3
+        },
+        {
+          "id": "red_fort__chunnamal_haveli",
+          "order": 4,
+          "display_name": "Chunnamal Haveli",
+          "folder_name": "Chunnamal_Haveli",
+          "parent_monument_id": "red_fort",
+          "paths": {
+            "data": "01_Data/Red_Fort/Nearby_Heritage/Chunnamal_Haveli",
+            "images": "02_Images/Red_Fort/Nearby_Heritage/Chunnamal_Haveli",
+            "scripts": "03_Scripts/Red_Fort/Nearby_Heritage/Chunnamal_Haveli",
+            "audio": "04_Audio/Red_Fort/Nearby_Heritage/Chunnamal_Haveli"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "red_fort__digambar_jain_bird_hospital",
+          "order": 5,
+          "display_name": "Digambar Jain Bird Hospital",
+          "folder_name": "Digambar_Jain_Bird_Hospital",
+          "parent_monument_id": "red_fort",
+          "paths": {
+            "data": "01_Data/Red_Fort/Nearby_Heritage/Digambar_Jain_Bird_Hospital",
+            "images": "02_Images/Red_Fort/Nearby_Heritage/Digambar_Jain_Bird_Hospital",
+            "scripts": "03_Scripts/Red_Fort/Nearby_Heritage/Digambar_Jain_Bird_Hospital",
+            "audio": "04_Audio/Red_Fort/Nearby_Heritage/Digambar_Jain_Bird_Hospital"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 2
+        },
+        {
+          "id": "red_fort__st_james_church",
+          "order": 6,
+          "display_name": "St. James' Church",
+          "folder_name": "St_James_Church",
+          "parent_monument_id": "red_fort",
+          "paths": {
+            "data": "01_Data/Red_Fort/Nearby_Heritage/St_James_Church",
+            "images": "02_Images/Red_Fort/Nearby_Heritage/St_James_Church",
+            "scripts": "03_Scripts/Red_Fort/Nearby_Heritage/St_James_Church",
+            "audio": "04_Audio/Red_Fort/Nearby_Heritage/St_James_Church"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "red_fort__khooni_darwaza",
+          "order": 7,
+          "display_name": "Khooni Darwaza",
+          "folder_name": "Khooni_Darwaza",
+          "parent_monument_id": "red_fort",
+          "paths": {
+            "data": "01_Data/Red_Fort/Nearby_Heritage/Khooni_Darwaza",
+            "images": "02_Images/Red_Fort/Nearby_Heritage/Khooni_Darwaza",
+            "scripts": "03_Scripts/Red_Fort/Nearby_Heritage/Khooni_Darwaza",
+            "audio": "04_Audio/Red_Fort/Nearby_Heritage/Khooni_Darwaza"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 4
+        },
+        {
+          "id": "red_fort__fatehpuri_masjid",
+          "order": 8,
+          "display_name": "Fatehpuri Masjid",
+          "folder_name": "Fatehpuri_Masjid",
+          "parent_monument_id": "red_fort",
+          "paths": {
+            "data": "01_Data/Red_Fort/Nearby_Heritage/Fatehpuri_Masjid",
+            "images": "02_Images/Red_Fort/Nearby_Heritage/Fatehpuri_Masjid",
+            "scripts": "03_Scripts/Red_Fort/Nearby_Heritage/Fatehpuri_Masjid",
+            "audio": "04_Audio/Red_Fort/Nearby_Heritage/Fatehpuri_Masjid"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 4
+        },
+        {
+          "id": "red_fort__salimgarh_fort",
+          "order": 9,
+          "display_name": "Salimgarh Fort",
+          "folder_name": "Salimgarh_Fort",
+          "parent_monument_id": "red_fort",
+          "paths": {
+            "data": "01_Data/Red_Fort/Nearby_Heritage/Salimgarh_Fort",
+            "images": "02_Images/Red_Fort/Nearby_Heritage/Salimgarh_Fort",
+            "scripts": "03_Scripts/Red_Fort/Nearby_Heritage/Salimgarh_Fort",
+            "audio": "04_Audio/Red_Fort/Nearby_Heritage/Salimgarh_Fort"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 3
+        },
+        {
+          "id": "red_fort__naughara_kinari_bazaar",
+          "order": 10,
+          "display_name": "Naughara (Kinari Bazaar)",
+          "folder_name": "Naughara_Kinari_Bazaar",
+          "parent_monument_id": "red_fort",
+          "paths": {
+            "data": "01_Data/Red_Fort/Nearby_Heritage/Naughara_Kinari_Bazaar",
+            "images": "02_Images/Red_Fort/Nearby_Heritage/Naughara_Kinari_Bazaar",
+            "scripts": "03_Scripts/Red_Fort/Nearby_Heritage/Naughara_Kinari_Bazaar",
+            "audio": "04_Audio/Red_Fort/Nearby_Heritage/Naughara_Kinari_Bazaar"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        }
+      ],
+      "image_status": "reviewed_images_saved",
+      "audio_status": "not_generated",
+      "display_image_count": 8
+    },
+    {
+      "id": "gateway_of_india",
+      "order": 5,
+      "display_name": "Gateway of India, Mumbai",
+      "folder_name": "Gateway_of_India",
+      "paths": {
+        "data": "01_Data/Gateway_of_India",
+        "images": "02_Images/Gateway_of_India",
+        "scripts": "03_Scripts/Gateway_of_India",
+        "audio": "04_Audio/Gateway_of_India"
+      },
+      "content_status": "content_ready",
+      "nearby_places": [
+        {
+          "id": "gateway_of_india__keneseth_eliyahoo_synagogue",
+          "order": 1,
+          "display_name": "Keneseth Eliyahoo Synagogue",
+          "folder_name": "Keneseth_Eliyahoo_Synagogue",
+          "parent_monument_id": "gateway_of_india",
+          "paths": {
+            "data": "01_Data/Gateway_of_India/Nearby_Heritage/Keneseth_Eliyahoo_Synagogue",
+            "images": "02_Images/Gateway_of_India/Nearby_Heritage/Keneseth_Eliyahoo_Synagogue",
+            "scripts": "03_Scripts/Gateway_of_India/Nearby_Heritage/Keneseth_Eliyahoo_Synagogue",
+            "audio": "04_Audio/Gateway_of_India/Nearby_Heritage/Keneseth_Eliyahoo_Synagogue"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 4
+        },
+        {
+          "id": "gateway_of_india__afghan_church",
+          "order": 2,
+          "display_name": "Afghan Church",
+          "folder_name": "Afghan_Church",
+          "parent_monument_id": "gateway_of_india",
+          "paths": {
+            "data": "01_Data/Gateway_of_India/Nearby_Heritage/Afghan_Church",
+            "images": "02_Images/Gateway_of_India/Nearby_Heritage/Afghan_Church",
+            "scripts": "03_Scripts/Gateway_of_India/Nearby_Heritage/Afghan_Church",
+            "audio": "04_Audio/Gateway_of_India/Nearby_Heritage/Afghan_Church"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 4
+        },
+        {
+          "id": "gateway_of_india__ballard_bunder_gatehouse",
+          "order": 3,
+          "display_name": "Ballard Bunder Gatehouse",
+          "folder_name": "Ballard_Bunder_Gatehouse",
+          "parent_monument_id": "gateway_of_india",
+          "paths": {
+            "data": "01_Data/Gateway_of_India/Nearby_Heritage/Ballard_Bunder_Gatehouse",
+            "images": "02_Images/Gateway_of_India/Nearby_Heritage/Ballard_Bunder_Gatehouse",
+            "scripts": "03_Scripts/Gateway_of_India/Nearby_Heritage/Ballard_Bunder_Gatehouse",
+            "audio": "04_Audio/Gateway_of_India/Nearby_Heritage/Ballard_Bunder_Gatehouse"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 1
+        },
+        {
+          "id": "gateway_of_india__horniman_circle_gardens",
+          "order": 4,
+          "display_name": "Horniman Circle Gardens",
+          "folder_name": "Horniman_Circle_Gardens",
+          "parent_monument_id": "gateway_of_india",
+          "paths": {
+            "data": "01_Data/Gateway_of_India/Nearby_Heritage/Horniman_Circle_Gardens",
+            "images": "02_Images/Gateway_of_India/Nearby_Heritage/Horniman_Circle_Gardens",
+            "scripts": "03_Scripts/Gateway_of_India/Nearby_Heritage/Horniman_Circle_Gardens",
+            "audio": "04_Audio/Gateway_of_India/Nearby_Heritage/Horniman_Circle_Gardens"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 4
+        },
+        {
+          "id": "gateway_of_india__david_sassoon_library",
+          "order": 5,
+          "display_name": "David Sassoon Library",
+          "folder_name": "David_Sassoon_Library",
+          "parent_monument_id": "gateway_of_india",
+          "paths": {
+            "data": "01_Data/Gateway_of_India/Nearby_Heritage/David_Sassoon_Library",
+            "images": "02_Images/Gateway_of_India/Nearby_Heritage/David_Sassoon_Library",
+            "scripts": "03_Scripts/Gateway_of_India/Nearby_Heritage/David_Sassoon_Library",
+            "audio": "04_Audio/Gateway_of_India/Nearby_Heritage/David_Sassoon_Library"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 5
+        },
+        {
+          "id": "gateway_of_india__banganga_tank",
+          "order": 6,
+          "display_name": "Banganga Tank",
+          "folder_name": "Banganga_Tank",
+          "parent_monument_id": "gateway_of_india",
+          "paths": {
+            "data": "01_Data/Gateway_of_India/Nearby_Heritage/Banganga_Tank",
+            "images": "02_Images/Gateway_of_India/Nearby_Heritage/Banganga_Tank",
+            "scripts": "03_Scripts/Gateway_of_India/Nearby_Heritage/Banganga_Tank",
+            "audio": "04_Audio/Gateway_of_India/Nearby_Heritage/Banganga_Tank"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 4
+        },
+        {
+          "id": "gateway_of_india__khotachiwadi_village",
+          "order": 7,
+          "display_name": "Khotachiwadi Village",
+          "folder_name": "Khotachiwadi_Village",
+          "parent_monument_id": "gateway_of_india",
+          "paths": {
+            "data": "01_Data/Gateway_of_India/Nearby_Heritage/Khotachiwadi_Village",
+            "images": "02_Images/Gateway_of_India/Nearby_Heritage/Khotachiwadi_Village",
+            "scripts": "03_Scripts/Gateway_of_India/Nearby_Heritage/Khotachiwadi_Village",
+            "audio": "04_Audio/Gateway_of_India/Nearby_Heritage/Khotachiwadi_Village"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 5
+        },
+        {
+          "id": "gateway_of_india__rbi_monetary_museum",
+          "order": 8,
+          "display_name": "RBI Monetary Museum",
+          "folder_name": "RBI_Monetary_Museum",
+          "parent_monument_id": "gateway_of_india",
+          "paths": {
+            "data": "01_Data/Gateway_of_India/Nearby_Heritage/RBI_Monetary_Museum",
+            "images": "02_Images/Gateway_of_India/Nearby_Heritage/RBI_Monetary_Museum",
+            "scripts": "03_Scripts/Gateway_of_India/Nearby_Heritage/RBI_Monetary_Museum",
+            "audio": "04_Audio/Gateway_of_India/Nearby_Heritage/RBI_Monetary_Museum"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 3
+        },
+        {
+          "id": "gateway_of_india__sewri_fort",
+          "order": 9,
+          "display_name": "Sewri Fort",
+          "folder_name": "Sewri_Fort",
+          "parent_monument_id": "gateway_of_india",
+          "paths": {
+            "data": "01_Data/Gateway_of_India/Nearby_Heritage/Sewri_Fort",
+            "images": "02_Images/Gateway_of_India/Nearby_Heritage/Sewri_Fort",
+            "scripts": "03_Scripts/Gateway_of_India/Nearby_Heritage/Sewri_Fort",
+            "audio": "04_Audio/Gateway_of_India/Nearby_Heritage/Sewri_Fort"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 4
+        },
+        {
+          "id": "gateway_of_india__bhau_daji_lad_museum",
+          "order": 10,
+          "display_name": "Bhau Daji Lad Museum",
+          "folder_name": "Bhau_Daji_Lad_Museum",
+          "parent_monument_id": "gateway_of_india",
+          "paths": {
+            "data": "01_Data/Gateway_of_India/Nearby_Heritage/Bhau_Daji_Lad_Museum",
+            "images": "02_Images/Gateway_of_India/Nearby_Heritage/Bhau_Daji_Lad_Museum",
+            "scripts": "03_Scripts/Gateway_of_India/Nearby_Heritage/Bhau_Daji_Lad_Museum",
+            "audio": "04_Audio/Gateway_of_India/Nearby_Heritage/Bhau_Daji_Lad_Museum"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 4
+        }
+      ],
+      "image_status": "reviewed_images_saved",
+      "audio_status": "not_generated",
+      "display_image_count": 12
+    },
+    {
+      "id": "charminar",
+      "order": 6,
+      "display_name": "Charminar, Hyderabad",
+      "folder_name": "Charminar",
+      "paths": {
+        "data": "01_Data/Charminar",
+        "images": "02_Images/Charminar",
+        "scripts": "03_Scripts/Charminar",
+        "audio": "04_Audio/Charminar"
+      },
+      "content_status": "content_ready",
+      "nearby_places": [
+        {
+          "id": "charminar__badshahi_ashurkhana",
+          "order": 1,
+          "display_name": "Badshahi Ashurkhana",
+          "folder_name": "Badshahi_Ashurkhana",
+          "parent_monument_id": "charminar",
+          "paths": {
+            "data": "01_Data/Charminar/Nearby_Heritage/Badshahi_Ashurkhana",
+            "images": "02_Images/Charminar/Nearby_Heritage/Badshahi_Ashurkhana",
+            "scripts": "03_Scripts/Charminar/Nearby_Heritage/Badshahi_Ashurkhana",
+            "audio": "04_Audio/Charminar/Nearby_Heritage/Badshahi_Ashurkhana"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 4
+        },
+        {
+          "id": "charminar__purani_haveli",
+          "order": 2,
+          "display_name": "Purani Haveli",
+          "folder_name": "Purani_Haveli",
+          "parent_monument_id": "charminar",
+          "paths": {
+            "data": "01_Data/Charminar/Nearby_Heritage/Purani_Haveli",
+            "images": "02_Images/Charminar/Nearby_Heritage/Purani_Haveli",
+            "scripts": "03_Scripts/Charminar/Nearby_Heritage/Purani_Haveli",
+            "audio": "04_Audio/Charminar/Nearby_Heritage/Purani_Haveli"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [
+            "Check overlap between the palace complex and Nizam's Museum; retain both selected entries."
+          ],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 4
+        },
+        {
+          "id": "charminar__paigah_tombs",
+          "order": 3,
+          "display_name": "Paigah Tombs",
+          "folder_name": "Paigah_Tombs",
+          "parent_monument_id": "charminar",
+          "paths": {
+            "data": "01_Data/Charminar/Nearby_Heritage/Paigah_Tombs",
+            "images": "02_Images/Charminar/Nearby_Heritage/Paigah_Tombs",
+            "scripts": "03_Scripts/Charminar/Nearby_Heritage/Paigah_Tombs",
+            "audio": "04_Audio/Charminar/Nearby_Heritage/Paigah_Tombs"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 5
+        },
+        {
+          "id": "charminar__toli_masjid",
+          "order": 4,
+          "display_name": "Toli Masjid",
+          "folder_name": "Toli_Masjid",
+          "parent_monument_id": "charminar",
+          "paths": {
+            "data": "01_Data/Charminar/Nearby_Heritage/Toli_Masjid",
+            "images": "02_Images/Charminar/Nearby_Heritage/Toli_Masjid",
+            "scripts": "03_Scripts/Charminar/Nearby_Heritage/Toli_Masjid",
+            "audio": "04_Audio/Charminar/Nearby_Heritage/Toli_Masjid"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 5
+        },
+        {
+          "id": "charminar__raymonds_tomb",
+          "order": 5,
+          "display_name": "Raymond's Tomb",
+          "folder_name": "Raymonds_Tomb",
+          "parent_monument_id": "charminar",
+          "paths": {
+            "data": "01_Data/Charminar/Nearby_Heritage/Raymonds_Tomb",
+            "images": "02_Images/Charminar/Nearby_Heritage/Raymonds_Tomb",
+            "scripts": "03_Scripts/Charminar/Nearby_Heritage/Raymonds_Tomb",
+            "audio": "04_Audio/Charminar/Nearby_Heritage/Raymonds_Tomb"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 5
+        },
+        {
+          "id": "charminar__hayat_bakshi_mosque",
+          "order": 6,
+          "display_name": "Hayat Bakshi Mosque",
+          "folder_name": "Hayat_Bakshi_Mosque",
+          "parent_monument_id": "charminar",
+          "paths": {
+            "data": "01_Data/Charminar/Nearby_Heritage/Hayat_Bakshi_Mosque",
+            "images": "02_Images/Charminar/Nearby_Heritage/Hayat_Bakshi_Mosque",
+            "scripts": "03_Scripts/Charminar/Nearby_Heritage/Hayat_Bakshi_Mosque",
+            "audio": "04_Audio/Charminar/Nearby_Heritage/Hayat_Bakshi_Mosque"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "charminar__spanish_mosque",
+          "order": 7,
+          "display_name": "Spanish Mosque",
+          "folder_name": "Spanish_Mosque",
+          "parent_monument_id": "charminar",
+          "paths": {
+            "data": "01_Data/Charminar/Nearby_Heritage/Spanish_Mosque",
+            "images": "02_Images/Charminar/Nearby_Heritage/Spanish_Mosque",
+            "scripts": "03_Scripts/Charminar/Nearby_Heritage/Spanish_Mosque",
+            "audio": "04_Audio/Charminar/Nearby_Heritage/Spanish_Mosque"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 1
+        },
+        {
+          "id": "charminar__nizams_museum",
+          "order": 8,
+          "display_name": "Nizam's Museum",
+          "folder_name": "Nizams_Museum",
+          "parent_monument_id": "charminar",
+          "paths": {
+            "data": "01_Data/Charminar/Nearby_Heritage/Nizams_Museum",
+            "images": "02_Images/Charminar/Nearby_Heritage/Nizams_Museum",
+            "scripts": "03_Scripts/Charminar/Nearby_Heritage/Nizams_Museum",
+            "audio": "04_Audio/Charminar/Nearby_Heritage/Nizams_Museum"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [
+            "Check whether photographs depict museum exhibits or the larger Purani Haveli complex."
+          ],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 1
+        },
+        {
+          "id": "charminar__khursheed_jah_devdi",
+          "order": 9,
+          "display_name": "Khursheed Jah Devdi",
+          "folder_name": "Khursheed_Jah_Devdi",
+          "parent_monument_id": "charminar",
+          "paths": {
+            "data": "01_Data/Charminar/Nearby_Heritage/Khursheed_Jah_Devdi",
+            "images": "02_Images/Charminar/Nearby_Heritage/Khursheed_Jah_Devdi",
+            "scripts": "03_Scripts/Charminar/Nearby_Heritage/Khursheed_Jah_Devdi",
+            "audio": "04_Audio/Charminar/Nearby_Heritage/Khursheed_Jah_Devdi"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 4
+        },
+        {
+          "id": "charminar__qutb_shahi_tombs",
+          "order": 10,
+          "display_name": "Qutb Shahi Tombs",
+          "folder_name": "Qutb_Shahi_Tombs",
+          "parent_monument_id": "charminar",
+          "paths": {
+            "data": "01_Data/Charminar/Nearby_Heritage/Qutb_Shahi_Tombs",
+            "images": "02_Images/Charminar/Nearby_Heritage/Qutb_Shahi_Tombs",
+            "scripts": "03_Scripts/Charminar/Nearby_Heritage/Qutb_Shahi_Tombs",
+            "audio": "04_Audio/Charminar/Nearby_Heritage/Qutb_Shahi_Tombs"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 5
+        }
+      ],
+      "image_status": "reviewed_images_saved",
+      "audio_status": "not_generated",
+      "display_image_count": 14
+    },
+    {
+      "id": "victoria_memorial",
+      "order": 7,
+      "display_name": "Victoria Memorial, Kolkata",
+      "folder_name": "Victoria_Memorial",
+      "paths": {
+        "data": "01_Data/Victoria_Memorial",
+        "images": "02_Images/Victoria_Memorial",
+        "scripts": "03_Scripts/Victoria_Memorial",
+        "audio": "04_Audio/Victoria_Memorial"
+      },
+      "content_status": "content_ready",
+      "nearby_places": [
+        {
+          "id": "victoria_memorial__south_park_street_cemetery",
+          "order": 1,
+          "display_name": "South Park Street Cemetery",
+          "folder_name": "South_Park_Street_Cemetery",
+          "parent_monument_id": "victoria_memorial",
+          "paths": {
+            "data": "01_Data/Victoria_Memorial/Nearby_Heritage/South_Park_Street_Cemetery",
+            "images": "02_Images/Victoria_Memorial/Nearby_Heritage/South_Park_Street_Cemetery",
+            "scripts": "03_Scripts/Victoria_Memorial/Nearby_Heritage/South_Park_Street_Cemetery",
+            "audio": "04_Audio/Victoria_Memorial/Nearby_Heritage/South_Park_Street_Cemetery"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 5
+        },
+        {
+          "id": "victoria_memorial__lascar_war_memorial",
+          "order": 2,
+          "display_name": "Lascar War Memorial",
+          "folder_name": "Lascar_War_Memorial",
+          "parent_monument_id": "victoria_memorial",
+          "paths": {
+            "data": "01_Data/Victoria_Memorial/Nearby_Heritage/Lascar_War_Memorial",
+            "images": "02_Images/Victoria_Memorial/Nearby_Heritage/Lascar_War_Memorial",
+            "scripts": "03_Scripts/Victoria_Memorial/Nearby_Heritage/Lascar_War_Memorial",
+            "audio": "04_Audio/Victoria_Memorial/Nearby_Heritage/Lascar_War_Memorial"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 5
+        },
+        {
+          "id": "victoria_memorial__marble_palace",
+          "order": 3,
+          "display_name": "Marble Palace",
+          "folder_name": "Marble_Palace",
+          "parent_monument_id": "victoria_memorial",
+          "paths": {
+            "data": "01_Data/Victoria_Memorial/Nearby_Heritage/Marble_Palace",
+            "images": "02_Images/Victoria_Memorial/Nearby_Heritage/Marble_Palace",
+            "scripts": "03_Scripts/Victoria_Memorial/Nearby_Heritage/Marble_Palace",
+            "audio": "04_Audio/Victoria_Memorial/Nearby_Heritage/Marble_Palace"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "victoria_memorial__nipponzan_myohoji_temple",
+          "order": 4,
+          "display_name": "Nipponzan Myohoji Temple",
+          "folder_name": "Nipponzan_Myohoji_Temple",
+          "parent_monument_id": "victoria_memorial",
+          "paths": {
+            "data": "01_Data/Victoria_Memorial/Nearby_Heritage/Nipponzan_Myohoji_Temple",
+            "images": "02_Images/Victoria_Memorial/Nearby_Heritage/Nipponzan_Myohoji_Temple",
+            "scripts": "03_Scripts/Victoria_Memorial/Nearby_Heritage/Nipponzan_Myohoji_Temple",
+            "audio": "04_Audio/Victoria_Memorial/Nearby_Heritage/Nipponzan_Myohoji_Temple"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "victoria_memorial__st_johns_church",
+          "order": 5,
+          "display_name": "St. John's Church",
+          "folder_name": "St_Johns_Church",
+          "parent_monument_id": "victoria_memorial",
+          "paths": {
+            "data": "01_Data/Victoria_Memorial/Nearby_Heritage/St_Johns_Church",
+            "images": "02_Images/Victoria_Memorial/Nearby_Heritage/St_Johns_Church",
+            "scripts": "03_Scripts/Victoria_Memorial/Nearby_Heritage/St_Johns_Church",
+            "audio": "04_Audio/Victoria_Memorial/Nearby_Heritage/St_Johns_Church"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 3
+        },
+        {
+          "id": "victoria_memorial__mullick_ghat_flower_market",
+          "order": 6,
+          "display_name": "Mullick Ghat Flower Market",
+          "folder_name": "Mullick_Ghat_Flower_Market",
+          "parent_monument_id": "victoria_memorial",
+          "paths": {
+            "data": "01_Data/Victoria_Memorial/Nearby_Heritage/Mullick_Ghat_Flower_Market",
+            "images": "02_Images/Victoria_Memorial/Nearby_Heritage/Mullick_Ghat_Flower_Market",
+            "scripts": "03_Scripts/Victoria_Memorial/Nearby_Heritage/Mullick_Ghat_Flower_Market",
+            "audio": "04_Audio/Victoria_Memorial/Nearby_Heritage/Mullick_Ghat_Flower_Market"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 4
+        },
+        {
+          "id": "victoria_memorial__prinsep_ghat",
+          "order": 7,
+          "display_name": "Prinsep Ghat",
+          "folder_name": "Prinsep_Ghat",
+          "parent_monument_id": "victoria_memorial",
+          "paths": {
+            "data": "01_Data/Victoria_Memorial/Nearby_Heritage/Prinsep_Ghat",
+            "images": "02_Images/Victoria_Memorial/Nearby_Heritage/Prinsep_Ghat",
+            "scripts": "03_Scripts/Victoria_Memorial/Nearby_Heritage/Prinsep_Ghat",
+            "audio": "04_Audio/Victoria_Memorial/Nearby_Heritage/Prinsep_Ghat"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 5
+        },
+        {
+          "id": "victoria_memorial__jorasanko_thakur_bari",
+          "order": 8,
+          "display_name": "Jorasanko Thakur Bari",
+          "folder_name": "Jorasanko_Thakur_Bari",
+          "parent_monument_id": "victoria_memorial",
+          "paths": {
+            "data": "01_Data/Victoria_Memorial/Nearby_Heritage/Jorasanko_Thakur_Bari",
+            "images": "02_Images/Victoria_Memorial/Nearby_Heritage/Jorasanko_Thakur_Bari",
+            "scripts": "03_Scripts/Victoria_Memorial/Nearby_Heritage/Jorasanko_Thakur_Bari",
+            "audio": "04_Audio/Victoria_Memorial/Nearby_Heritage/Jorasanko_Thakur_Bari"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 4
+        },
+        {
+          "id": "victoria_memorial__armenian_church",
+          "order": 9,
+          "display_name": "Armenian Church",
+          "folder_name": "Armenian_Church",
+          "parent_monument_id": "victoria_memorial",
+          "paths": {
+            "data": "01_Data/Victoria_Memorial/Nearby_Heritage/Armenian_Church",
+            "images": "02_Images/Victoria_Memorial/Nearby_Heritage/Armenian_Church",
+            "scripts": "03_Scripts/Victoria_Memorial/Nearby_Heritage/Armenian_Church",
+            "audio": "04_Audio/Victoria_Memorial/Nearby_Heritage/Armenian_Church"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [
+            "Verify the Kolkata site."
+          ],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 3
+        },
+        {
+          "id": "victoria_memorial__magen_david_synagogue",
+          "order": 10,
+          "display_name": "Magen David Synagogue",
+          "folder_name": "Magen_David_Synagogue",
+          "parent_monument_id": "victoria_memorial",
+          "paths": {
+            "data": "01_Data/Victoria_Memorial/Nearby_Heritage/Magen_David_Synagogue",
+            "images": "02_Images/Victoria_Memorial/Nearby_Heritage/Magen_David_Synagogue",
+            "scripts": "03_Scripts/Victoria_Memorial/Nearby_Heritage/Magen_David_Synagogue",
+            "audio": "04_Audio/Victoria_Memorial/Nearby_Heritage/Magen_David_Synagogue"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "reviewed_images_saved",
+          "audio_status": "not_generated",
+          "display_image_count": 5
+        }
+      ],
+      "image_status": "reviewed_images_saved",
+      "audio_status": "not_generated",
+      "display_image_count": 13
+    },
+    {
+      "id": "mysore_palace",
+      "order": 8,
+      "display_name": "Mysore Palace, Mysuru",
+      "folder_name": "Mysore_Palace",
+      "paths": {
+        "data": "01_Data/Mysore_Palace",
+        "images": "02_Images/Mysore_Palace",
+        "scripts": "03_Scripts/Mysore_Palace",
+        "audio": "04_Audio/Mysore_Palace"
+      },
+      "content_status": "content_ready",
+      "nearby_places": [
+        {
+          "id": "mysore_palace__jaganmohan_palace",
+          "order": 1,
+          "display_name": "Jaganmohan Palace",
+          "folder_name": "Jaganmohan_Palace",
+          "parent_monument_id": "mysore_palace",
+          "paths": {
+            "data": "01_Data/Mysore_Palace/Nearby_Heritage/Jaganmohan_Palace",
+            "images": "02_Images/Mysore_Palace/Nearby_Heritage/Jaganmohan_Palace",
+            "scripts": "03_Scripts/Mysore_Palace/Nearby_Heritage/Jaganmohan_Palace",
+            "audio": "04_Audio/Mysore_Palace/Nearby_Heritage/Jaganmohan_Palace"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "mysore_palace__railway_museum_mysore",
+          "order": 2,
+          "display_name": "Railway Museum Mysore",
+          "folder_name": "Railway_Museum_Mysore",
+          "parent_monument_id": "mysore_palace",
+          "paths": {
+            "data": "01_Data/Mysore_Palace/Nearby_Heritage/Railway_Museum_Mysore",
+            "images": "02_Images/Mysore_Palace/Nearby_Heritage/Railway_Museum_Mysore",
+            "scripts": "03_Scripts/Mysore_Palace/Nearby_Heritage/Railway_Museum_Mysore",
+            "audio": "04_Audio/Mysore_Palace/Nearby_Heritage/Railway_Museum_Mysore"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "mysore_palace__kukkarahalli_lake",
+          "order": 3,
+          "display_name": "Kukkarahalli Lake",
+          "folder_name": "Kukkarahalli_Lake",
+          "parent_monument_id": "mysore_palace",
+          "paths": {
+            "data": "01_Data/Mysore_Palace/Nearby_Heritage/Kukkarahalli_Lake",
+            "images": "02_Images/Mysore_Palace/Nearby_Heritage/Kukkarahalli_Lake",
+            "scripts": "03_Scripts/Mysore_Palace/Nearby_Heritage/Kukkarahalli_Lake",
+            "audio": "04_Audio/Mysore_Palace/Nearby_Heritage/Kukkarahalli_Lake"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "mysore_palace__melody_world_wax_museum",
+          "order": 4,
+          "display_name": "Melody World Wax Museum",
+          "folder_name": "Melody_World_Wax_Museum",
+          "parent_monument_id": "mysore_palace",
+          "paths": {
+            "data": "01_Data/Mysore_Palace/Nearby_Heritage/Melody_World_Wax_Museum",
+            "images": "02_Images/Mysore_Palace/Nearby_Heritage/Melody_World_Wax_Museum",
+            "scripts": "03_Scripts/Mysore_Palace/Nearby_Heritage/Melody_World_Wax_Museum",
+            "audio": "04_Audio/Mysore_Palace/Nearby_Heritage/Melody_World_Wax_Museum"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "mysore_palace__kishkindha_moolika_bonsai_garden",
+          "order": 5,
+          "display_name": "Kishkindha Moolika Bonsai Garden",
+          "folder_name": "Kishkindha_Moolika_Bonsai_Garden",
+          "parent_monument_id": "mysore_palace",
+          "paths": {
+            "data": "01_Data/Mysore_Palace/Nearby_Heritage/Kishkindha_Moolika_Bonsai_Garden",
+            "images": "02_Images/Mysore_Palace/Nearby_Heritage/Kishkindha_Moolika_Bonsai_Garden",
+            "scripts": "03_Scripts/Mysore_Palace/Nearby_Heritage/Kishkindha_Moolika_Bonsai_Garden",
+            "audio": "04_Audio/Mysore_Palace/Nearby_Heritage/Kishkindha_Moolika_Bonsai_Garden"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "mysore_palace__st_philomenas_church_crypt",
+          "order": 6,
+          "display_name": "St. Philomena's Church Crypt",
+          "folder_name": "St_Philomenas_Church_Crypt",
+          "parent_monument_id": "mysore_palace",
+          "paths": {
+            "data": "01_Data/Mysore_Palace/Nearby_Heritage/St_Philomenas_Church_Crypt",
+            "images": "02_Images/Mysore_Palace/Nearby_Heritage/St_Philomenas_Church_Crypt",
+            "scripts": "03_Scripts/Mysore_Palace/Nearby_Heritage/St_Philomenas_Church_Crypt",
+            "audio": "04_Audio/Mysore_Palace/Nearby_Heritage/St_Philomenas_Church_Crypt"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "mysore_palace__gun_house",
+          "order": 7,
+          "display_name": "Gun House",
+          "folder_name": "Gun_House",
+          "parent_monument_id": "mysore_palace",
+          "paths": {
+            "data": "01_Data/Mysore_Palace/Nearby_Heritage/Gun_House",
+            "images": "02_Images/Mysore_Palace/Nearby_Heritage/Gun_House",
+            "scripts": "03_Scripts/Mysore_Palace/Nearby_Heritage/Gun_House",
+            "audio": "04_Audio/Mysore_Palace/Nearby_Heritage/Gun_House"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [
+            "Verify the Mysuru site and image subject."
+          ],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "mysore_palace__karanji_lake_aviary",
+          "order": 8,
+          "display_name": "Karanji Lake Aviary",
+          "folder_name": "Karanji_Lake_Aviary",
+          "parent_monument_id": "mysore_palace",
+          "paths": {
+            "data": "01_Data/Mysore_Palace/Nearby_Heritage/Karanji_Lake_Aviary",
+            "images": "02_Images/Mysore_Palace/Nearby_Heritage/Karanji_Lake_Aviary",
+            "scripts": "03_Scripts/Mysore_Palace/Nearby_Heritage/Karanji_Lake_Aviary",
+            "audio": "04_Audio/Mysore_Palace/Nearby_Heritage/Karanji_Lake_Aviary"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "mysore_palace__wellington_lodge",
+          "order": 9,
+          "display_name": "Wellington Lodge",
+          "folder_name": "Wellington_Lodge",
+          "parent_monument_id": "mysore_palace",
+          "paths": {
+            "data": "01_Data/Mysore_Palace/Nearby_Heritage/Wellington_Lodge",
+            "images": "02_Images/Mysore_Palace/Nearby_Heritage/Wellington_Lodge",
+            "scripts": "03_Scripts/Mysore_Palace/Nearby_Heritage/Wellington_Lodge",
+            "audio": "04_Audio/Mysore_Palace/Nearby_Heritage/Wellington_Lodge"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "mysore_palace__jayalakshmi_vilas_mansion",
+          "order": 10,
+          "display_name": "Jayalakshmi Vilas Mansion",
+          "folder_name": "Jayalakshmi_Vilas_Mansion",
+          "parent_monument_id": "mysore_palace",
+          "paths": {
+            "data": "01_Data/Mysore_Palace/Nearby_Heritage/Jayalakshmi_Vilas_Mansion",
+            "images": "02_Images/Mysore_Palace/Nearby_Heritage/Jayalakshmi_Vilas_Mansion",
+            "scripts": "03_Scripts/Mysore_Palace/Nearby_Heritage/Jayalakshmi_Vilas_Mansion",
+            "audio": "04_Audio/Mysore_Palace/Nearby_Heritage/Jayalakshmi_Vilas_Mansion"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        }
+      ],
+      "image_status": "reviewed_images_saved",
+      "audio_status": "not_generated",
+      "display_image_count": 9
+    },
+    {
+      "id": "hampi_monuments",
+      "order": 9,
+      "display_name": "Hampi Monuments, Karnataka",
+      "folder_name": "Hampi_Monuments",
+      "paths": {
+        "data": "01_Data/Hampi_Monuments",
+        "images": "02_Images/Hampi_Monuments",
+        "scripts": "03_Scripts/Hampi_Monuments",
+        "audio": "04_Audio/Hampi_Monuments"
+      },
+      "content_status": "content_ready",
+      "nearby_places": [
+        {
+          "id": "hampi_monuments__hemakuta_hill_temples",
+          "order": 1,
+          "display_name": "Hemakuta Hill Temples",
+          "folder_name": "Hemakuta_Hill_Temples",
+          "parent_monument_id": "hampi_monuments",
+          "paths": {
+            "data": "01_Data/Hampi_Monuments/Nearby_Heritage/Hemakuta_Hill_Temples",
+            "images": "02_Images/Hampi_Monuments/Nearby_Heritage/Hemakuta_Hill_Temples",
+            "scripts": "03_Scripts/Hampi_Monuments/Nearby_Heritage/Hemakuta_Hill_Temples",
+            "audio": "04_Audio/Hampi_Monuments/Nearby_Heritage/Hemakuta_Hill_Temples"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "hampi_monuments__matanga_hill",
+          "order": 2,
+          "display_name": "Matanga Hill",
+          "folder_name": "Matanga_Hill",
+          "parent_monument_id": "hampi_monuments",
+          "paths": {
+            "data": "01_Data/Hampi_Monuments/Nearby_Heritage/Matanga_Hill",
+            "images": "02_Images/Hampi_Monuments/Nearby_Heritage/Matanga_Hill",
+            "scripts": "03_Scripts/Hampi_Monuments/Nearby_Heritage/Matanga_Hill",
+            "audio": "04_Audio/Hampi_Monuments/Nearby_Heritage/Matanga_Hill"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "hampi_monuments__achyutaraya_temple",
+          "order": 3,
+          "display_name": "Achyutaraya Temple",
+          "folder_name": "Achyutaraya_Temple",
+          "parent_monument_id": "hampi_monuments",
+          "paths": {
+            "data": "01_Data/Hampi_Monuments/Nearby_Heritage/Achyutaraya_Temple",
+            "images": "02_Images/Hampi_Monuments/Nearby_Heritage/Achyutaraya_Temple",
+            "scripts": "03_Scripts/Hampi_Monuments/Nearby_Heritage/Achyutaraya_Temple",
+            "audio": "04_Audio/Hampi_Monuments/Nearby_Heritage/Achyutaraya_Temple"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "hampi_monuments__sugrivas_cave",
+          "order": 4,
+          "display_name": "Sugriva's Cave",
+          "folder_name": "Sugrivas_Cave",
+          "parent_monument_id": "hampi_monuments",
+          "paths": {
+            "data": "01_Data/Hampi_Monuments/Nearby_Heritage/Sugrivas_Cave",
+            "images": "02_Images/Hampi_Monuments/Nearby_Heritage/Sugrivas_Cave",
+            "scripts": "03_Scripts/Hampi_Monuments/Nearby_Heritage/Sugrivas_Cave",
+            "audio": "04_Audio/Hampi_Monuments/Nearby_Heritage/Sugrivas_Cave"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "hampi_monuments__zenana_enclosure",
+          "order": 5,
+          "display_name": "Zenana Enclosure",
+          "folder_name": "Zenana_Enclosure",
+          "parent_monument_id": "hampi_monuments",
+          "paths": {
+            "data": "01_Data/Hampi_Monuments/Nearby_Heritage/Zenana_Enclosure",
+            "images": "02_Images/Hampi_Monuments/Nearby_Heritage/Zenana_Enclosure",
+            "scripts": "03_Scripts/Hampi_Monuments/Nearby_Heritage/Zenana_Enclosure",
+            "audio": "04_Audio/Hampi_Monuments/Nearby_Heritage/Zenana_Enclosure"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "hampi_monuments__badavilinga_temple",
+          "order": 6,
+          "display_name": "Badavilinga Temple",
+          "folder_name": "Badavilinga_Temple",
+          "parent_monument_id": "hampi_monuments",
+          "paths": {
+            "data": "01_Data/Hampi_Monuments/Nearby_Heritage/Badavilinga_Temple",
+            "images": "02_Images/Hampi_Monuments/Nearby_Heritage/Badavilinga_Temple",
+            "scripts": "03_Scripts/Hampi_Monuments/Nearby_Heritage/Badavilinga_Temple",
+            "audio": "04_Audio/Hampi_Monuments/Nearby_Heritage/Badavilinga_Temple"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "hampi_monuments__sasivekalu_ganesha",
+          "order": 7,
+          "display_name": "Sasivekalu Ganesha",
+          "folder_name": "Sasivekalu_Ganesha",
+          "parent_monument_id": "hampi_monuments",
+          "paths": {
+            "data": "01_Data/Hampi_Monuments/Nearby_Heritage/Sasivekalu_Ganesha",
+            "images": "02_Images/Hampi_Monuments/Nearby_Heritage/Sasivekalu_Ganesha",
+            "scripts": "03_Scripts/Hampi_Monuments/Nearby_Heritage/Sasivekalu_Ganesha",
+            "audio": "04_Audio/Hampi_Monuments/Nearby_Heritage/Sasivekalu_Ganesha"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "hampi_monuments__anegundi_village",
+          "order": 8,
+          "display_name": "Anegundi Village",
+          "folder_name": "Anegundi_Village",
+          "parent_monument_id": "hampi_monuments",
+          "paths": {
+            "data": "01_Data/Hampi_Monuments/Nearby_Heritage/Anegundi_Village",
+            "images": "02_Images/Hampi_Monuments/Nearby_Heritage/Anegundi_Village",
+            "scripts": "03_Scripts/Hampi_Monuments/Nearby_Heritage/Anegundi_Village",
+            "audio": "04_Audio/Hampi_Monuments/Nearby_Heritage/Anegundi_Village"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "hampi_monuments__sanapur_lake",
+          "order": 9,
+          "display_name": "Sanapur Lake",
+          "folder_name": "Sanapur_Lake",
+          "parent_monument_id": "hampi_monuments",
+          "paths": {
+            "data": "01_Data/Hampi_Monuments/Nearby_Heritage/Sanapur_Lake",
+            "images": "02_Images/Hampi_Monuments/Nearby_Heritage/Sanapur_Lake",
+            "scripts": "03_Scripts/Hampi_Monuments/Nearby_Heritage/Sanapur_Lake",
+            "audio": "04_Audio/Hampi_Monuments/Nearby_Heritage/Sanapur_Lake"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "hampi_monuments__pampa_sarovar",
+          "order": 10,
+          "display_name": "Pampa Sarovar",
+          "folder_name": "Pampa_Sarovar",
+          "parent_monument_id": "hampi_monuments",
+          "paths": {
+            "data": "01_Data/Hampi_Monuments/Nearby_Heritage/Pampa_Sarovar",
+            "images": "02_Images/Hampi_Monuments/Nearby_Heritage/Pampa_Sarovar",
+            "scripts": "03_Scripts/Hampi_Monuments/Nearby_Heritage/Pampa_Sarovar",
+            "audio": "04_Audio/Hampi_Monuments/Nearby_Heritage/Pampa_Sarovar"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        }
+      ],
+      "image_status": "suitable_images_pending",
+      "audio_status": "not_generated",
+      "display_image_count": 0
+    },
+    {
+      "id": "meenakshi_temple",
+      "order": 10,
+      "display_name": "Meenakshi Temple, Madurai",
+      "folder_name": "Meenakshi_Temple",
+      "paths": {
+        "data": "01_Data/Meenakshi_Temple",
+        "images": "02_Images/Meenakshi_Temple",
+        "scripts": "03_Scripts/Meenakshi_Temple",
+        "audio": "04_Audio/Meenakshi_Temple"
+      },
+      "content_status": "content_ready",
+      "nearby_places": [
+        {
+          "id": "meenakshi_temple__thirumalai_nayakkar_mahal",
+          "order": 1,
+          "display_name": "Thirumalai Nayakkar Mahal",
+          "folder_name": "Thirumalai_Nayakkar_Mahal",
+          "parent_monument_id": "meenakshi_temple",
+          "paths": {
+            "data": "01_Data/Meenakshi_Temple/Nearby_Heritage/Thirumalai_Nayakkar_Mahal",
+            "images": "02_Images/Meenakshi_Temple/Nearby_Heritage/Thirumalai_Nayakkar_Mahal",
+            "scripts": "03_Scripts/Meenakshi_Temple/Nearby_Heritage/Thirumalai_Nayakkar_Mahal",
+            "audio": "04_Audio/Meenakshi_Temple/Nearby_Heritage/Thirumalai_Nayakkar_Mahal"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "meenakshi_temple__gandhi_memorial_museum",
+          "order": 2,
+          "display_name": "Gandhi Memorial Museum",
+          "folder_name": "Gandhi_Memorial_Museum",
+          "parent_monument_id": "meenakshi_temple",
+          "paths": {
+            "data": "01_Data/Meenakshi_Temple/Nearby_Heritage/Gandhi_Memorial_Museum",
+            "images": "02_Images/Meenakshi_Temple/Nearby_Heritage/Gandhi_Memorial_Museum",
+            "scripts": "03_Scripts/Meenakshi_Temple/Nearby_Heritage/Gandhi_Memorial_Museum",
+            "audio": "04_Audio/Meenakshi_Temple/Nearby_Heritage/Gandhi_Memorial_Museum"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "meenakshi_temple__vandiyur_mariamman_teppakulam",
+          "order": 3,
+          "display_name": "Vandiyur Mariamman Teppakulam",
+          "folder_name": "Vandiyur_Mariamman_Teppakulam",
+          "parent_monument_id": "meenakshi_temple",
+          "paths": {
+            "data": "01_Data/Meenakshi_Temple/Nearby_Heritage/Vandiyur_Mariamman_Teppakulam",
+            "images": "02_Images/Meenakshi_Temple/Nearby_Heritage/Vandiyur_Mariamman_Teppakulam",
+            "scripts": "03_Scripts/Meenakshi_Temple/Nearby_Heritage/Vandiyur_Mariamman_Teppakulam",
+            "audio": "04_Audio/Meenakshi_Temple/Nearby_Heritage/Vandiyur_Mariamman_Teppakulam"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "meenakshi_temple__vilachery_pottery_village",
+          "order": 4,
+          "display_name": "Vilachery Pottery Village",
+          "folder_name": "Vilachery_Pottery_Village",
+          "parent_monument_id": "meenakshi_temple",
+          "paths": {
+            "data": "01_Data/Meenakshi_Temple/Nearby_Heritage/Vilachery_Pottery_Village",
+            "images": "02_Images/Meenakshi_Temple/Nearby_Heritage/Vilachery_Pottery_Village",
+            "scripts": "03_Scripts/Meenakshi_Temple/Nearby_Heritage/Vilachery_Pottery_Village",
+            "audio": "04_Audio/Meenakshi_Temple/Nearby_Heritage/Vilachery_Pottery_Village"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "meenakshi_temple__goripalayam_dargah",
+          "order": 5,
+          "display_name": "Goripalayam Dargah",
+          "folder_name": "Goripalayam_Dargah",
+          "parent_monument_id": "meenakshi_temple",
+          "paths": {
+            "data": "01_Data/Meenakshi_Temple/Nearby_Heritage/Goripalayam_Dargah",
+            "images": "02_Images/Meenakshi_Temple/Nearby_Heritage/Goripalayam_Dargah",
+            "scripts": "03_Scripts/Meenakshi_Temple/Nearby_Heritage/Goripalayam_Dargah",
+            "audio": "04_Audio/Meenakshi_Temple/Nearby_Heritage/Goripalayam_Dargah"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "meenakshi_temple__koodal_azhagar_temple",
+          "order": 6,
+          "display_name": "Koodal Azhagar Temple",
+          "folder_name": "Koodal_Azhagar_Temple",
+          "parent_monument_id": "meenakshi_temple",
+          "paths": {
+            "data": "01_Data/Meenakshi_Temple/Nearby_Heritage/Koodal_Azhagar_Temple",
+            "images": "02_Images/Meenakshi_Temple/Nearby_Heritage/Koodal_Azhagar_Temple",
+            "scripts": "03_Scripts/Meenakshi_Temple/Nearby_Heritage/Koodal_Azhagar_Temple",
+            "audio": "04_Audio/Meenakshi_Temple/Nearby_Heritage/Koodal_Azhagar_Temple"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "meenakshi_temple__palamuthirsolai_murugan_temple",
+          "order": 7,
+          "display_name": "Palamuthirsolai Murugan Temple",
+          "folder_name": "Palamuthirsolai_Murugan_Temple",
+          "parent_monument_id": "meenakshi_temple",
+          "paths": {
+            "data": "01_Data/Meenakshi_Temple/Nearby_Heritage/Palamuthirsolai_Murugan_Temple",
+            "images": "02_Images/Meenakshi_Temple/Nearby_Heritage/Palamuthirsolai_Murugan_Temple",
+            "scripts": "03_Scripts/Meenakshi_Temple/Nearby_Heritage/Palamuthirsolai_Murugan_Temple",
+            "audio": "04_Audio/Meenakshi_Temple/Nearby_Heritage/Palamuthirsolai_Murugan_Temple"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "meenakshi_temple__kazimar_big_mosque",
+          "order": 8,
+          "display_name": "Kazimar Big Mosque",
+          "folder_name": "Kazimar_Big_Mosque",
+          "parent_monument_id": "meenakshi_temple",
+          "paths": {
+            "data": "01_Data/Meenakshi_Temple/Nearby_Heritage/Kazimar_Big_Mosque",
+            "images": "02_Images/Meenakshi_Temple/Nearby_Heritage/Kazimar_Big_Mosque",
+            "scripts": "03_Scripts/Meenakshi_Temple/Nearby_Heritage/Kazimar_Big_Mosque",
+            "audio": "04_Audio/Meenakshi_Temple/Nearby_Heritage/Kazimar_Big_Mosque"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "meenakshi_temple__yanaimalai",
+          "order": 9,
+          "display_name": "Yanaimalai",
+          "folder_name": "Yanaimalai",
+          "parent_monument_id": "meenakshi_temple",
+          "paths": {
+            "data": "01_Data/Meenakshi_Temple/Nearby_Heritage/Yanaimalai",
+            "images": "02_Images/Meenakshi_Temple/Nearby_Heritage/Yanaimalai",
+            "scripts": "03_Scripts/Meenakshi_Temple/Nearby_Heritage/Yanaimalai",
+            "audio": "04_Audio/Meenakshi_Temple/Nearby_Heritage/Yanaimalai"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "meenakshi_temple__samanar_hills",
+          "order": 10,
+          "display_name": "Samanar Hills",
+          "folder_name": "Samanar_Hills",
+          "parent_monument_id": "meenakshi_temple",
+          "paths": {
+            "data": "01_Data/Meenakshi_Temple/Nearby_Heritage/Samanar_Hills",
+            "images": "02_Images/Meenakshi_Temple/Nearby_Heritage/Samanar_Hills",
+            "scripts": "03_Scripts/Meenakshi_Temple/Nearby_Heritage/Samanar_Hills",
+            "audio": "04_Audio/Meenakshi_Temple/Nearby_Heritage/Samanar_Hills"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        }
+      ],
+      "image_status": "suitable_images_pending",
+      "audio_status": "not_generated",
+      "display_image_count": 0
+    },
+    {
+      "id": "golden_temple",
+      "order": 11,
+      "display_name": "Golden Temple, Amritsar",
+      "folder_name": "Golden_Temple",
+      "paths": {
+        "data": "01_Data/Golden_Temple",
+        "images": "02_Images/Golden_Temple",
+        "scripts": "03_Scripts/Golden_Temple",
+        "audio": "04_Audio/Golden_Temple"
+      },
+      "content_status": "content_ready",
+      "nearby_places": [
+        {
+          "id": "golden_temple__pul_kanjri",
+          "order": 1,
+          "display_name": "Pul Kanjri",
+          "folder_name": "Pul_Kanjri",
+          "parent_monument_id": "golden_temple",
+          "paths": {
+            "data": "01_Data/Golden_Temple/Nearby_Heritage/Pul_Kanjri",
+            "images": "02_Images/Golden_Temple/Nearby_Heritage/Pul_Kanjri",
+            "scripts": "03_Scripts/Golden_Temple/Nearby_Heritage/Pul_Kanjri",
+            "audio": "04_Audio/Golden_Temple/Nearby_Heritage/Pul_Kanjri"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "golden_temple__gurdwara_baba_atal_rai",
+          "order": 2,
+          "display_name": "Gurdwara Baba Atal Rai",
+          "folder_name": "Gurdwara_Baba_Atal_Rai",
+          "parent_monument_id": "golden_temple",
+          "paths": {
+            "data": "01_Data/Golden_Temple/Nearby_Heritage/Gurdwara_Baba_Atal_Rai",
+            "images": "02_Images/Golden_Temple/Nearby_Heritage/Gurdwara_Baba_Atal_Rai",
+            "scripts": "03_Scripts/Golden_Temple/Nearby_Heritage/Gurdwara_Baba_Atal_Rai",
+            "audio": "04_Audio/Golden_Temple/Nearby_Heritage/Gurdwara_Baba_Atal_Rai"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "golden_temple__khalsa_college",
+          "order": 3,
+          "display_name": "Khalsa College",
+          "folder_name": "Khalsa_College",
+          "parent_monument_id": "golden_temple",
+          "paths": {
+            "data": "01_Data/Golden_Temple/Nearby_Heritage/Khalsa_College",
+            "images": "02_Images/Golden_Temple/Nearby_Heritage/Khalsa_College",
+            "scripts": "03_Scripts/Golden_Temple/Nearby_Heritage/Khalsa_College",
+            "audio": "04_Audio/Golden_Temple/Nearby_Heritage/Khalsa_College"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "golden_temple__ram_bagh_palace",
+          "order": 4,
+          "display_name": "Ram Bagh Palace",
+          "folder_name": "Ram_Bagh_Palace",
+          "parent_monument_id": "golden_temple",
+          "paths": {
+            "data": "01_Data/Golden_Temple/Nearby_Heritage/Ram_Bagh_Palace",
+            "images": "02_Images/Golden_Temple/Nearby_Heritage/Ram_Bagh_Palace",
+            "scripts": "03_Scripts/Golden_Temple/Nearby_Heritage/Ram_Bagh_Palace",
+            "audio": "04_Audio/Golden_Temple/Nearby_Heritage/Ram_Bagh_Palace"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "golden_temple__gobindgarh_fort",
+          "order": 5,
+          "display_name": "Gobindgarh Fort",
+          "folder_name": "Gobindgarh_Fort",
+          "parent_monument_id": "golden_temple",
+          "paths": {
+            "data": "01_Data/Golden_Temple/Nearby_Heritage/Gobindgarh_Fort",
+            "images": "02_Images/Golden_Temple/Nearby_Heritage/Gobindgarh_Fort",
+            "scripts": "03_Scripts/Golden_Temple/Nearby_Heritage/Gobindgarh_Fort",
+            "audio": "04_Audio/Golden_Temple/Nearby_Heritage/Gobindgarh_Fort"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "golden_temple__partition_museum",
+          "order": 6,
+          "display_name": "Partition Museum",
+          "folder_name": "Partition_Museum",
+          "parent_monument_id": "golden_temple",
+          "paths": {
+            "data": "01_Data/Golden_Temple/Nearby_Heritage/Partition_Museum",
+            "images": "02_Images/Golden_Temple/Nearby_Heritage/Partition_Museum",
+            "scripts": "03_Scripts/Golden_Temple/Nearby_Heritage/Partition_Museum",
+            "audio": "04_Audio/Golden_Temple/Nearby_Heritage/Partition_Museum"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "golden_temple__gurdwara_mata_kaulan",
+          "order": 7,
+          "display_name": "Gurdwara Mata Kaulan",
+          "folder_name": "Gurdwara_Mata_Kaulan",
+          "parent_monument_id": "golden_temple",
+          "paths": {
+            "data": "01_Data/Golden_Temple/Nearby_Heritage/Gurdwara_Mata_Kaulan",
+            "images": "02_Images/Golden_Temple/Nearby_Heritage/Gurdwara_Mata_Kaulan",
+            "scripts": "03_Scripts/Golden_Temple/Nearby_Heritage/Gurdwara_Mata_Kaulan",
+            "audio": "04_Audio/Golden_Temple/Nearby_Heritage/Gurdwara_Mata_Kaulan"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "golden_temple__durgiana_temple",
+          "order": 8,
+          "display_name": "Durgiana Temple",
+          "folder_name": "Durgiana_Temple",
+          "parent_monument_id": "golden_temple",
+          "paths": {
+            "data": "01_Data/Golden_Temple/Nearby_Heritage/Durgiana_Temple",
+            "images": "02_Images/Golden_Temple/Nearby_Heritage/Durgiana_Temple",
+            "scripts": "03_Scripts/Golden_Temple/Nearby_Heritage/Durgiana_Temple",
+            "audio": "04_Audio/Golden_Temple/Nearby_Heritage/Durgiana_Temple"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "golden_temple__harike_wetland",
+          "order": 9,
+          "display_name": "Harike Wetland",
+          "folder_name": "Harike_Wetland",
+          "parent_monument_id": "golden_temple",
+          "paths": {
+            "data": "01_Data/Golden_Temple/Nearby_Heritage/Harike_Wetland",
+            "images": "02_Images/Golden_Temple/Nearby_Heritage/Harike_Wetland",
+            "scripts": "03_Scripts/Golden_Temple/Nearby_Heritage/Harike_Wetland",
+            "audio": "04_Audio/Golden_Temple/Nearby_Heritage/Harike_Wetland"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "golden_temple__saragarhi_memorial",
+          "order": 10,
+          "display_name": "Saragarhi Memorial",
+          "folder_name": "Saragarhi_Memorial",
+          "parent_monument_id": "golden_temple",
+          "paths": {
+            "data": "01_Data/Golden_Temple/Nearby_Heritage/Saragarhi_Memorial",
+            "images": "02_Images/Golden_Temple/Nearby_Heritage/Saragarhi_Memorial",
+            "scripts": "03_Scripts/Golden_Temple/Nearby_Heritage/Saragarhi_Memorial",
+            "audio": "04_Audio/Golden_Temple/Nearby_Heritage/Saragarhi_Memorial"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        }
+      ],
+      "image_status": "suitable_images_pending",
+      "audio_status": "not_generated",
+      "display_image_count": 0
+    },
+    {
+      "id": "khajuraho_monuments",
+      "order": 12,
+      "display_name": "Khajuraho Monuments, Madhya Pradesh",
+      "folder_name": "Khajuraho_Monuments",
+      "paths": {
+        "data": "01_Data/Khajuraho_Monuments",
+        "images": "02_Images/Khajuraho_Monuments",
+        "scripts": "03_Scripts/Khajuraho_Monuments",
+        "audio": "04_Audio/Khajuraho_Monuments"
+      },
+      "content_status": "content_ready",
+      "nearby_places": [
+        {
+          "id": "khajuraho_monuments__raneh_falls",
+          "order": 1,
+          "display_name": "Raneh Falls",
+          "folder_name": "Raneh_Falls",
+          "parent_monument_id": "khajuraho_monuments",
+          "paths": {
+            "data": "01_Data/Khajuraho_Monuments/Nearby_Heritage/Raneh_Falls",
+            "images": "02_Images/Khajuraho_Monuments/Nearby_Heritage/Raneh_Falls",
+            "scripts": "03_Scripts/Khajuraho_Monuments/Nearby_Heritage/Raneh_Falls",
+            "audio": "04_Audio/Khajuraho_Monuments/Nearby_Heritage/Raneh_Falls"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "khajuraho_monuments__pandav_falls",
+          "order": 2,
+          "display_name": "Pandav Falls",
+          "folder_name": "Pandav_Falls",
+          "parent_monument_id": "khajuraho_monuments",
+          "paths": {
+            "data": "01_Data/Khajuraho_Monuments/Nearby_Heritage/Pandav_Falls",
+            "images": "02_Images/Khajuraho_Monuments/Nearby_Heritage/Pandav_Falls",
+            "scripts": "03_Scripts/Khajuraho_Monuments/Nearby_Heritage/Pandav_Falls",
+            "audio": "04_Audio/Khajuraho_Monuments/Nearby_Heritage/Pandav_Falls"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "khajuraho_monuments__ken_gharial_sanctuary",
+          "order": 3,
+          "display_name": "Ken Gharial Sanctuary",
+          "folder_name": "Ken_Gharial_Sanctuary",
+          "parent_monument_id": "khajuraho_monuments",
+          "paths": {
+            "data": "01_Data/Khajuraho_Monuments/Nearby_Heritage/Ken_Gharial_Sanctuary",
+            "images": "02_Images/Khajuraho_Monuments/Nearby_Heritage/Ken_Gharial_Sanctuary",
+            "scripts": "03_Scripts/Khajuraho_Monuments/Nearby_Heritage/Ken_Gharial_Sanctuary",
+            "audio": "04_Audio/Khajuraho_Monuments/Nearby_Heritage/Ken_Gharial_Sanctuary"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "khajuraho_monuments__matangeshwar_temple",
+          "order": 4,
+          "display_name": "Matangeshwar Temple",
+          "folder_name": "Matangeshwar_Temple",
+          "parent_monument_id": "khajuraho_monuments",
+          "paths": {
+            "data": "01_Data/Khajuraho_Monuments/Nearby_Heritage/Matangeshwar_Temple",
+            "images": "02_Images/Khajuraho_Monuments/Nearby_Heritage/Matangeshwar_Temple",
+            "scripts": "03_Scripts/Khajuraho_Monuments/Nearby_Heritage/Matangeshwar_Temple",
+            "audio": "04_Audio/Khajuraho_Monuments/Nearby_Heritage/Matangeshwar_Temple"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "khajuraho_monuments__ajaigarh_fort",
+          "order": 5,
+          "display_name": "Ajaigarh Fort",
+          "folder_name": "Ajaigarh_Fort",
+          "parent_monument_id": "khajuraho_monuments",
+          "paths": {
+            "data": "01_Data/Khajuraho_Monuments/Nearby_Heritage/Ajaigarh_Fort",
+            "images": "02_Images/Khajuraho_Monuments/Nearby_Heritage/Ajaigarh_Fort",
+            "scripts": "03_Scripts/Khajuraho_Monuments/Nearby_Heritage/Ajaigarh_Fort",
+            "audio": "04_Audio/Khajuraho_Monuments/Nearby_Heritage/Ajaigarh_Fort"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "khajuraho_monuments__kalinjar_fort",
+          "order": 6,
+          "display_name": "Kalinjar Fort",
+          "folder_name": "Kalinjar_Fort",
+          "parent_monument_id": "khajuraho_monuments",
+          "paths": {
+            "data": "01_Data/Khajuraho_Monuments/Nearby_Heritage/Kalinjar_Fort",
+            "images": "02_Images/Khajuraho_Monuments/Nearby_Heritage/Kalinjar_Fort",
+            "scripts": "03_Scripts/Khajuraho_Monuments/Nearby_Heritage/Kalinjar_Fort",
+            "audio": "04_Audio/Khajuraho_Monuments/Nearby_Heritage/Kalinjar_Fort"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "khajuraho_monuments__jain_museum",
+          "order": 7,
+          "display_name": "Jain Museum",
+          "folder_name": "Jain_Museum",
+          "parent_monument_id": "khajuraho_monuments",
+          "paths": {
+            "data": "01_Data/Khajuraho_Monuments/Nearby_Heritage/Jain_Museum",
+            "images": "02_Images/Khajuraho_Monuments/Nearby_Heritage/Jain_Museum",
+            "scripts": "03_Scripts/Khajuraho_Monuments/Nearby_Heritage/Jain_Museum",
+            "audio": "04_Audio/Khajuraho_Monuments/Nearby_Heritage/Jain_Museum"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [
+            "Verify the specific museum associated with Khajuraho."
+          ],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "khajuraho_monuments__duladeo_temple",
+          "order": 8,
+          "display_name": "Duladeo Temple",
+          "folder_name": "Duladeo_Temple",
+          "parent_monument_id": "khajuraho_monuments",
+          "paths": {
+            "data": "01_Data/Khajuraho_Monuments/Nearby_Heritage/Duladeo_Temple",
+            "images": "02_Images/Khajuraho_Monuments/Nearby_Heritage/Duladeo_Temple",
+            "scripts": "03_Scripts/Khajuraho_Monuments/Nearby_Heritage/Duladeo_Temple",
+            "audio": "04_Audio/Khajuraho_Monuments/Nearby_Heritage/Duladeo_Temple"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "khajuraho_monuments__chaturbhuj_temple",
+          "order": 9,
+          "display_name": "Chaturbhuj Temple",
+          "folder_name": "Chaturbhuj_Temple",
+          "parent_monument_id": "khajuraho_monuments",
+          "paths": {
+            "data": "01_Data/Khajuraho_Monuments/Nearby_Heritage/Chaturbhuj_Temple",
+            "images": "02_Images/Khajuraho_Monuments/Nearby_Heritage/Chaturbhuj_Temple",
+            "scripts": "03_Scripts/Khajuraho_Monuments/Nearby_Heritage/Chaturbhuj_Temple",
+            "audio": "04_Audio/Khajuraho_Monuments/Nearby_Heritage/Chaturbhuj_Temple"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "khajuraho_monuments__beni_sagar_dam",
+          "order": 10,
+          "display_name": "Beni Sagar Dam",
+          "folder_name": "Beni_Sagar_Dam",
+          "parent_monument_id": "khajuraho_monuments",
+          "paths": {
+            "data": "01_Data/Khajuraho_Monuments/Nearby_Heritage/Beni_Sagar_Dam",
+            "images": "02_Images/Khajuraho_Monuments/Nearby_Heritage/Beni_Sagar_Dam",
+            "scripts": "03_Scripts/Khajuraho_Monuments/Nearby_Heritage/Beni_Sagar_Dam",
+            "audio": "04_Audio/Khajuraho_Monuments/Nearby_Heritage/Beni_Sagar_Dam"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        }
+      ],
+      "image_status": "suitable_images_pending",
+      "audio_status": "not_generated",
+      "display_image_count": 0
+    },
+    {
+      "id": "ajanta_ellora_caves",
+      "order": 13,
+      "display_name": "Ajanta & Ellora Caves, Maharashtra",
+      "folder_name": "Ajanta_Ellora_Caves",
+      "paths": {
+        "data": "01_Data/Ajanta_Ellora_Caves",
+        "images": "02_Images/Ajanta_Ellora_Caves",
+        "scripts": "03_Scripts/Ajanta_Ellora_Caves",
+        "audio": "04_Audio/Ajanta_Ellora_Caves"
+      },
+      "content_status": "content_ready",
+      "nearby_places": [
+        {
+          "id": "ajanta_ellora_caves__daulatabad_fort",
+          "order": 1,
+          "display_name": "Daulatabad Fort",
+          "folder_name": "Daulatabad_Fort",
+          "parent_monument_id": "ajanta_ellora_caves",
+          "paths": {
+            "data": "01_Data/Ajanta_Ellora_Caves/Nearby_Heritage/Daulatabad_Fort",
+            "images": "02_Images/Ajanta_Ellora_Caves/Nearby_Heritage/Daulatabad_Fort",
+            "scripts": "03_Scripts/Ajanta_Ellora_Caves/Nearby_Heritage/Daulatabad_Fort",
+            "audio": "04_Audio/Ajanta_Ellora_Caves/Nearby_Heritage/Daulatabad_Fort"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "ajanta_ellora_caves__bibi_ka_maqbara",
+          "order": 2,
+          "display_name": "Bibi Ka Maqbara",
+          "folder_name": "Bibi_Ka_Maqbara",
+          "parent_monument_id": "ajanta_ellora_caves",
+          "paths": {
+            "data": "01_Data/Ajanta_Ellora_Caves/Nearby_Heritage/Bibi_Ka_Maqbara",
+            "images": "02_Images/Ajanta_Ellora_Caves/Nearby_Heritage/Bibi_Ka_Maqbara",
+            "scripts": "03_Scripts/Ajanta_Ellora_Caves/Nearby_Heritage/Bibi_Ka_Maqbara",
+            "audio": "04_Audio/Ajanta_Ellora_Caves/Nearby_Heritage/Bibi_Ka_Maqbara"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "ajanta_ellora_caves__khuldabad",
+          "order": 3,
+          "display_name": "Khuldabad",
+          "folder_name": "Khuldabad",
+          "parent_monument_id": "ajanta_ellora_caves",
+          "paths": {
+            "data": "01_Data/Ajanta_Ellora_Caves/Nearby_Heritage/Khuldabad",
+            "images": "02_Images/Ajanta_Ellora_Caves/Nearby_Heritage/Khuldabad",
+            "scripts": "03_Scripts/Ajanta_Ellora_Caves/Nearby_Heritage/Khuldabad",
+            "audio": "04_Audio/Ajanta_Ellora_Caves/Nearby_Heritage/Khuldabad"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "ajanta_ellora_caves__grishneshwar_jyotirlinga",
+          "order": 4,
+          "display_name": "Grishneshwar Jyotirlinga",
+          "folder_name": "Grishneshwar_Jyotirlinga",
+          "parent_monument_id": "ajanta_ellora_caves",
+          "paths": {
+            "data": "01_Data/Ajanta_Ellora_Caves/Nearby_Heritage/Grishneshwar_Jyotirlinga",
+            "images": "02_Images/Ajanta_Ellora_Caves/Nearby_Heritage/Grishneshwar_Jyotirlinga",
+            "scripts": "03_Scripts/Ajanta_Ellora_Caves/Nearby_Heritage/Grishneshwar_Jyotirlinga",
+            "audio": "04_Audio/Ajanta_Ellora_Caves/Nearby_Heritage/Grishneshwar_Jyotirlinga"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "ajanta_ellora_caves__siddharth_garden",
+          "order": 5,
+          "display_name": "Siddharth Garden",
+          "folder_name": "Siddharth_Garden",
+          "parent_monument_id": "ajanta_ellora_caves",
+          "paths": {
+            "data": "01_Data/Ajanta_Ellora_Caves/Nearby_Heritage/Siddharth_Garden",
+            "images": "02_Images/Ajanta_Ellora_Caves/Nearby_Heritage/Siddharth_Garden",
+            "scripts": "03_Scripts/Ajanta_Ellora_Caves/Nearby_Heritage/Siddharth_Garden",
+            "audio": "04_Audio/Ajanta_Ellora_Caves/Nearby_Heritage/Siddharth_Garden"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "ajanta_ellora_caves__salim_ali_lake",
+          "order": 6,
+          "display_name": "Salim Ali Lake",
+          "folder_name": "Salim_Ali_Lake",
+          "parent_monument_id": "ajanta_ellora_caves",
+          "paths": {
+            "data": "01_Data/Ajanta_Ellora_Caves/Nearby_Heritage/Salim_Ali_Lake",
+            "images": "02_Images/Ajanta_Ellora_Caves/Nearby_Heritage/Salim_Ali_Lake",
+            "scripts": "03_Scripts/Ajanta_Ellora_Caves/Nearby_Heritage/Salim_Ali_Lake",
+            "audio": "04_Audio/Ajanta_Ellora_Caves/Nearby_Heritage/Salim_Ali_Lake"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "ajanta_ellora_caves__panchakki",
+          "order": 7,
+          "display_name": "Panchakki",
+          "folder_name": "Panchakki",
+          "parent_monument_id": "ajanta_ellora_caves",
+          "paths": {
+            "data": "01_Data/Ajanta_Ellora_Caves/Nearby_Heritage/Panchakki",
+            "images": "02_Images/Ajanta_Ellora_Caves/Nearby_Heritage/Panchakki",
+            "scripts": "03_Scripts/Ajanta_Ellora_Caves/Nearby_Heritage/Panchakki",
+            "audio": "04_Audio/Ajanta_Ellora_Caves/Nearby_Heritage/Panchakki"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "ajanta_ellora_caves__jama_masjid_aurangabad",
+          "order": 8,
+          "display_name": "Jama Masjid Aurangabad",
+          "folder_name": "Jama_Masjid_Aurangabad",
+          "parent_monument_id": "ajanta_ellora_caves",
+          "paths": {
+            "data": "01_Data/Ajanta_Ellora_Caves/Nearby_Heritage/Jama_Masjid_Aurangabad",
+            "images": "02_Images/Ajanta_Ellora_Caves/Nearby_Heritage/Jama_Masjid_Aurangabad",
+            "scripts": "03_Scripts/Ajanta_Ellora_Caves/Nearby_Heritage/Jama_Masjid_Aurangabad",
+            "audio": "04_Audio/Ajanta_Ellora_Caves/Nearby_Heritage/Jama_Masjid_Aurangabad"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "ajanta_ellora_caves__soneri_mahal",
+          "order": 9,
+          "display_name": "Soneri Mahal",
+          "folder_name": "Soneri_Mahal",
+          "parent_monument_id": "ajanta_ellora_caves",
+          "paths": {
+            "data": "01_Data/Ajanta_Ellora_Caves/Nearby_Heritage/Soneri_Mahal",
+            "images": "02_Images/Ajanta_Ellora_Caves/Nearby_Heritage/Soneri_Mahal",
+            "scripts": "03_Scripts/Ajanta_Ellora_Caves/Nearby_Heritage/Soneri_Mahal",
+            "audio": "04_Audio/Ajanta_Ellora_Caves/Nearby_Heritage/Soneri_Mahal"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "ajanta_ellora_caves__bhadra_maruti_temple",
+          "order": 10,
+          "display_name": "Bhadra Maruti Temple",
+          "folder_name": "Bhadra_Maruti_Temple",
+          "parent_monument_id": "ajanta_ellora_caves",
+          "paths": {
+            "data": "01_Data/Ajanta_Ellora_Caves/Nearby_Heritage/Bhadra_Maruti_Temple",
+            "images": "02_Images/Ajanta_Ellora_Caves/Nearby_Heritage/Bhadra_Maruti_Temple",
+            "scripts": "03_Scripts/Ajanta_Ellora_Caves/Nearby_Heritage/Bhadra_Maruti_Temple",
+            "audio": "04_Audio/Ajanta_Ellora_Caves/Nearby_Heritage/Bhadra_Maruti_Temple"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        }
+      ],
+      "image_status": "suitable_images_pending",
+      "audio_status": "not_generated",
+      "display_image_count": 0
+    },
+    {
+      "id": "konark_sun_temple",
+      "order": 14,
+      "display_name": "Konark Sun Temple, Odisha",
+      "folder_name": "Konark_Sun_Temple",
+      "paths": {
+        "data": "01_Data/Konark_Sun_Temple",
+        "images": "02_Images/Konark_Sun_Temple",
+        "scripts": "03_Scripts/Konark_Sun_Temple",
+        "audio": "04_Audio/Konark_Sun_Temple"
+      },
+      "content_status": "content_ready",
+      "nearby_places": [
+        {
+          "id": "konark_sun_temple__kuruma_buddhist_site",
+          "order": 1,
+          "display_name": "Kuruma Buddhist Site",
+          "folder_name": "Kuruma_Buddhist_Site",
+          "parent_monument_id": "konark_sun_temple",
+          "paths": {
+            "data": "01_Data/Konark_Sun_Temple/Nearby_Heritage/Kuruma_Buddhist_Site",
+            "images": "02_Images/Konark_Sun_Temple/Nearby_Heritage/Kuruma_Buddhist_Site",
+            "scripts": "03_Scripts/Konark_Sun_Temple/Nearby_Heritage/Kuruma_Buddhist_Site",
+            "audio": "04_Audio/Konark_Sun_Temple/Nearby_Heritage/Kuruma_Buddhist_Site"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "konark_sun_temple__ramachandi_temple",
+          "order": 2,
+          "display_name": "Ramachandi Temple",
+          "folder_name": "Ramachandi_Temple",
+          "parent_monument_id": "konark_sun_temple",
+          "paths": {
+            "data": "01_Data/Konark_Sun_Temple/Nearby_Heritage/Ramachandi_Temple",
+            "images": "02_Images/Konark_Sun_Temple/Nearby_Heritage/Ramachandi_Temple",
+            "scripts": "03_Scripts/Konark_Sun_Temple/Nearby_Heritage/Ramachandi_Temple",
+            "audio": "04_Audio/Konark_Sun_Temple/Nearby_Heritage/Ramachandi_Temple"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "konark_sun_temple__chandrabhaga_beach",
+          "order": 3,
+          "display_name": "Chandrabhaga Beach",
+          "folder_name": "Chandrabhaga_Beach",
+          "parent_monument_id": "konark_sun_temple",
+          "paths": {
+            "data": "01_Data/Konark_Sun_Temple/Nearby_Heritage/Chandrabhaga_Beach",
+            "images": "02_Images/Konark_Sun_Temple/Nearby_Heritage/Chandrabhaga_Beach",
+            "scripts": "03_Scripts/Konark_Sun_Temple/Nearby_Heritage/Chandrabhaga_Beach",
+            "audio": "04_Audio/Konark_Sun_Temple/Nearby_Heritage/Chandrabhaga_Beach"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "konark_sun_temple__astaranga_beach",
+          "order": 4,
+          "display_name": "Astaranga Beach",
+          "folder_name": "Astaranga_Beach",
+          "parent_monument_id": "konark_sun_temple",
+          "paths": {
+            "data": "01_Data/Konark_Sun_Temple/Nearby_Heritage/Astaranga_Beach",
+            "images": "02_Images/Konark_Sun_Temple/Nearby_Heritage/Astaranga_Beach",
+            "scripts": "03_Scripts/Konark_Sun_Temple/Nearby_Heritage/Astaranga_Beach",
+            "audio": "04_Audio/Konark_Sun_Temple/Nearby_Heritage/Astaranga_Beach"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "konark_sun_temple__barahi_temple_chaurasi",
+          "order": 5,
+          "display_name": "Barahi Temple (Chaurasi)",
+          "folder_name": "Barahi_Temple_Chaurasi",
+          "parent_monument_id": "konark_sun_temple",
+          "paths": {
+            "data": "01_Data/Konark_Sun_Temple/Nearby_Heritage/Barahi_Temple_Chaurasi",
+            "images": "02_Images/Konark_Sun_Temple/Nearby_Heritage/Barahi_Temple_Chaurasi",
+            "scripts": "03_Scripts/Konark_Sun_Temple/Nearby_Heritage/Barahi_Temple_Chaurasi",
+            "audio": "04_Audio/Konark_Sun_Temple/Nearby_Heritage/Barahi_Temple_Chaurasi"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "konark_sun_temple__pipili_village",
+          "order": 6,
+          "display_name": "Pipili Village",
+          "folder_name": "Pipili_Village",
+          "parent_monument_id": "konark_sun_temple",
+          "paths": {
+            "data": "01_Data/Konark_Sun_Temple/Nearby_Heritage/Pipili_Village",
+            "images": "02_Images/Konark_Sun_Temple/Nearby_Heritage/Pipili_Village",
+            "scripts": "03_Scripts/Konark_Sun_Temple/Nearby_Heritage/Pipili_Village",
+            "audio": "04_Audio/Konark_Sun_Temple/Nearby_Heritage/Pipili_Village"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "konark_sun_temple__dhauli_shanti_stupa",
+          "order": 7,
+          "display_name": "Dhauli Shanti Stupa",
+          "folder_name": "Dhauli_Shanti_Stupa",
+          "parent_monument_id": "konark_sun_temple",
+          "paths": {
+            "data": "01_Data/Konark_Sun_Temple/Nearby_Heritage/Dhauli_Shanti_Stupa",
+            "images": "02_Images/Konark_Sun_Temple/Nearby_Heritage/Dhauli_Shanti_Stupa",
+            "scripts": "03_Scripts/Konark_Sun_Temple/Nearby_Heritage/Dhauli_Shanti_Stupa",
+            "audio": "04_Audio/Konark_Sun_Temple/Nearby_Heritage/Dhauli_Shanti_Stupa"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "konark_sun_temple__chausathi_yogini_temple",
+          "order": 8,
+          "display_name": "Chausathi Yogini Temple",
+          "folder_name": "Chausathi_Yogini_Temple",
+          "parent_monument_id": "konark_sun_temple",
+          "paths": {
+            "data": "01_Data/Konark_Sun_Temple/Nearby_Heritage/Chausathi_Yogini_Temple",
+            "images": "02_Images/Konark_Sun_Temple/Nearby_Heritage/Chausathi_Yogini_Temple",
+            "scripts": "03_Scripts/Konark_Sun_Temple/Nearby_Heritage/Chausathi_Yogini_Temple",
+            "audio": "04_Audio/Konark_Sun_Temple/Nearby_Heritage/Chausathi_Yogini_Temple"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [
+            "Verify the specific Odisha site before collecting content."
+          ],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "konark_sun_temple__mangalajodi_chilika",
+          "order": 9,
+          "display_name": "Mangalajodi (Chilika)",
+          "folder_name": "Mangalajodi_Chilika",
+          "parent_monument_id": "konark_sun_temple",
+          "paths": {
+            "data": "01_Data/Konark_Sun_Temple/Nearby_Heritage/Mangalajodi_Chilika",
+            "images": "02_Images/Konark_Sun_Temple/Nearby_Heritage/Mangalajodi_Chilika",
+            "scripts": "03_Scripts/Konark_Sun_Temple/Nearby_Heritage/Mangalajodi_Chilika",
+            "audio": "04_Audio/Konark_Sun_Temple/Nearby_Heritage/Mangalajodi_Chilika"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "konark_sun_temple__raghurajpur_artist_village",
+          "order": 10,
+          "display_name": "Raghurajpur Artist Village",
+          "folder_name": "Raghurajpur_Artist_Village",
+          "parent_monument_id": "konark_sun_temple",
+          "paths": {
+            "data": "01_Data/Konark_Sun_Temple/Nearby_Heritage/Raghurajpur_Artist_Village",
+            "images": "02_Images/Konark_Sun_Temple/Nearby_Heritage/Raghurajpur_Artist_Village",
+            "scripts": "03_Scripts/Konark_Sun_Temple/Nearby_Heritage/Raghurajpur_Artist_Village",
+            "audio": "04_Audio/Konark_Sun_Temple/Nearby_Heritage/Raghurajpur_Artist_Village"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        }
+      ],
+      "image_status": "suitable_images_pending",
+      "audio_status": "not_generated",
+      "display_image_count": 0
+    },
+    {
+      "id": "sanchi_stupa",
+      "order": 15,
+      "display_name": "Sanchi Stupa, Madhya Pradesh",
+      "folder_name": "Sanchi_Stupa",
+      "paths": {
+        "data": "01_Data/Sanchi_Stupa",
+        "images": "02_Images/Sanchi_Stupa",
+        "scripts": "03_Scripts/Sanchi_Stupa",
+        "audio": "04_Audio/Sanchi_Stupa"
+      },
+      "content_status": "content_ready",
+      "nearby_places": [
+        {
+          "id": "sanchi_stupa__udayagiri_caves",
+          "order": 1,
+          "display_name": "Udayagiri Caves",
+          "folder_name": "Udayagiri_Caves",
+          "parent_monument_id": "sanchi_stupa",
+          "paths": {
+            "data": "01_Data/Sanchi_Stupa/Nearby_Heritage/Udayagiri_Caves",
+            "images": "02_Images/Sanchi_Stupa/Nearby_Heritage/Udayagiri_Caves",
+            "scripts": "03_Scripts/Sanchi_Stupa/Nearby_Heritage/Udayagiri_Caves",
+            "audio": "04_Audio/Sanchi_Stupa/Nearby_Heritage/Udayagiri_Caves"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "sanchi_stupa__heliodorus_pillar",
+          "order": 2,
+          "display_name": "Heliodorus Pillar",
+          "folder_name": "Heliodorus_Pillar",
+          "parent_monument_id": "sanchi_stupa",
+          "paths": {
+            "data": "01_Data/Sanchi_Stupa/Nearby_Heritage/Heliodorus_Pillar",
+            "images": "02_Images/Sanchi_Stupa/Nearby_Heritage/Heliodorus_Pillar",
+            "scripts": "03_Scripts/Sanchi_Stupa/Nearby_Heritage/Heliodorus_Pillar",
+            "audio": "04_Audio/Sanchi_Stupa/Nearby_Heritage/Heliodorus_Pillar"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "sanchi_stupa__bijamandal",
+          "order": 3,
+          "display_name": "Bijamandal",
+          "folder_name": "Bijamandal",
+          "parent_monument_id": "sanchi_stupa",
+          "paths": {
+            "data": "01_Data/Sanchi_Stupa/Nearby_Heritage/Bijamandal",
+            "images": "02_Images/Sanchi_Stupa/Nearby_Heritage/Bijamandal",
+            "scripts": "03_Scripts/Sanchi_Stupa/Nearby_Heritage/Bijamandal",
+            "audio": "04_Audio/Sanchi_Stupa/Nearby_Heritage/Bijamandal"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "sanchi_stupa__raisen_fort",
+          "order": 4,
+          "display_name": "Raisen Fort",
+          "folder_name": "Raisen_Fort",
+          "parent_monument_id": "sanchi_stupa",
+          "paths": {
+            "data": "01_Data/Sanchi_Stupa/Nearby_Heritage/Raisen_Fort",
+            "images": "02_Images/Sanchi_Stupa/Nearby_Heritage/Raisen_Fort",
+            "scripts": "03_Scripts/Sanchi_Stupa/Nearby_Heritage/Raisen_Fort",
+            "audio": "04_Audio/Sanchi_Stupa/Nearby_Heritage/Raisen_Fort"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "sanchi_stupa__sonari_stupas",
+          "order": 5,
+          "display_name": "Sonari Stupas",
+          "folder_name": "Sonari_Stupas",
+          "parent_monument_id": "sanchi_stupa",
+          "paths": {
+            "data": "01_Data/Sanchi_Stupa/Nearby_Heritage/Sonari_Stupas",
+            "images": "02_Images/Sanchi_Stupa/Nearby_Heritage/Sonari_Stupas",
+            "scripts": "03_Scripts/Sanchi_Stupa/Nearby_Heritage/Sonari_Stupas",
+            "audio": "04_Audio/Sanchi_Stupa/Nearby_Heritage/Sonari_Stupas"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "sanchi_stupa__satdhara_stupas",
+          "order": 6,
+          "display_name": "Satdhara Stupas",
+          "folder_name": "Satdhara_Stupas",
+          "parent_monument_id": "sanchi_stupa",
+          "paths": {
+            "data": "01_Data/Sanchi_Stupa/Nearby_Heritage/Satdhara_Stupas",
+            "images": "02_Images/Sanchi_Stupa/Nearby_Heritage/Satdhara_Stupas",
+            "scripts": "03_Scripts/Sanchi_Stupa/Nearby_Heritage/Satdhara_Stupas",
+            "audio": "04_Audio/Sanchi_Stupa/Nearby_Heritage/Satdhara_Stupas"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "sanchi_stupa__bhojpur_temple",
+          "order": 7,
+          "display_name": "Bhojpur Temple",
+          "folder_name": "Bhojpur_Temple",
+          "parent_monument_id": "sanchi_stupa",
+          "paths": {
+            "data": "01_Data/Sanchi_Stupa/Nearby_Heritage/Bhojpur_Temple",
+            "images": "02_Images/Sanchi_Stupa/Nearby_Heritage/Bhojpur_Temple",
+            "scripts": "03_Scripts/Sanchi_Stupa/Nearby_Heritage/Bhojpur_Temple",
+            "audio": "04_Audio/Sanchi_Stupa/Nearby_Heritage/Bhojpur_Temple"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "sanchi_stupa__andher_stupas",
+          "order": 8,
+          "display_name": "Andher Stupas",
+          "folder_name": "Andher_Stupas",
+          "parent_monument_id": "sanchi_stupa",
+          "paths": {
+            "data": "01_Data/Sanchi_Stupa/Nearby_Heritage/Andher_Stupas",
+            "images": "02_Images/Sanchi_Stupa/Nearby_Heritage/Andher_Stupas",
+            "scripts": "03_Scripts/Sanchi_Stupa/Nearby_Heritage/Andher_Stupas",
+            "audio": "04_Audio/Sanchi_Stupa/Nearby_Heritage/Andher_Stupas"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "sanchi_stupa__halali_dam",
+          "order": 9,
+          "display_name": "Halali Dam",
+          "folder_name": "Halali_Dam",
+          "parent_monument_id": "sanchi_stupa",
+          "paths": {
+            "data": "01_Data/Sanchi_Stupa/Nearby_Heritage/Halali_Dam",
+            "images": "02_Images/Sanchi_Stupa/Nearby_Heritage/Halali_Dam",
+            "scripts": "03_Scripts/Sanchi_Stupa/Nearby_Heritage/Halali_Dam",
+            "audio": "04_Audio/Sanchi_Stupa/Nearby_Heritage/Halali_Dam"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "sanchi_stupa__neelkantheshwar_temple",
+          "order": 10,
+          "display_name": "Neelkantheshwar Temple",
+          "folder_name": "Neelkantheshwar_Temple",
+          "parent_monument_id": "sanchi_stupa",
+          "paths": {
+            "data": "01_Data/Sanchi_Stupa/Nearby_Heritage/Neelkantheshwar_Temple",
+            "images": "02_Images/Sanchi_Stupa/Nearby_Heritage/Neelkantheshwar_Temple",
+            "scripts": "03_Scripts/Sanchi_Stupa/Nearby_Heritage/Neelkantheshwar_Temple",
+            "audio": "04_Audio/Sanchi_Stupa/Nearby_Heritage/Neelkantheshwar_Temple"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [
+            "Verify the specific site associated with the Sanchi group."
+          ],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        }
+      ],
+      "image_status": "suitable_images_pending",
+      "audio_status": "not_generated",
+      "display_image_count": 0
+    },
+    {
+      "id": "city_palace_udaipur",
+      "order": 16,
+      "display_name": "City Palace, Udaipur",
+      "folder_name": "City_Palace_Udaipur",
+      "paths": {
+        "data": "01_Data/City_Palace_Udaipur",
+        "images": "02_Images/City_Palace_Udaipur",
+        "scripts": "03_Scripts/City_Palace_Udaipur",
+        "audio": "04_Audio/City_Palace_Udaipur"
+      },
+      "content_status": "content_ready",
+      "nearby_places": [
+        {
+          "id": "city_palace_udaipur__ahar_cenotaphs",
+          "order": 1,
+          "display_name": "Ahar Cenotaphs",
+          "folder_name": "Ahar_Cenotaphs",
+          "parent_monument_id": "city_palace_udaipur",
+          "paths": {
+            "data": "01_Data/City_Palace_Udaipur/Nearby_Heritage/Ahar_Cenotaphs",
+            "images": "02_Images/City_Palace_Udaipur/Nearby_Heritage/Ahar_Cenotaphs",
+            "scripts": "03_Scripts/City_Palace_Udaipur/Nearby_Heritage/Ahar_Cenotaphs",
+            "audio": "04_Audio/City_Palace_Udaipur/Nearby_Heritage/Ahar_Cenotaphs"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "city_palace_udaipur__sajjangarh_monsoon_palace",
+          "order": 2,
+          "display_name": "Sajjangarh (Monsoon Palace)",
+          "folder_name": "Sajjangarh_Monsoon_Palace",
+          "parent_monument_id": "city_palace_udaipur",
+          "paths": {
+            "data": "01_Data/City_Palace_Udaipur/Nearby_Heritage/Sajjangarh_Monsoon_Palace",
+            "images": "02_Images/City_Palace_Udaipur/Nearby_Heritage/Sajjangarh_Monsoon_Palace",
+            "scripts": "03_Scripts/City_Palace_Udaipur/Nearby_Heritage/Sajjangarh_Monsoon_Palace",
+            "audio": "04_Audio/City_Palace_Udaipur/Nearby_Heritage/Sajjangarh_Monsoon_Palace"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "city_palace_udaipur__badi_lake",
+          "order": 3,
+          "display_name": "Badi Lake",
+          "folder_name": "Badi_Lake",
+          "parent_monument_id": "city_palace_udaipur",
+          "paths": {
+            "data": "01_Data/City_Palace_Udaipur/Nearby_Heritage/Badi_Lake",
+            "images": "02_Images/City_Palace_Udaipur/Nearby_Heritage/Badi_Lake",
+            "scripts": "03_Scripts/City_Palace_Udaipur/Nearby_Heritage/Badi_Lake",
+            "audio": "04_Audio/City_Palace_Udaipur/Nearby_Heritage/Badi_Lake"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "city_palace_udaipur__saheliyon_ki_bari",
+          "order": 4,
+          "display_name": "Saheliyon Ki Bari",
+          "folder_name": "Saheliyon_Ki_Bari",
+          "parent_monument_id": "city_palace_udaipur",
+          "paths": {
+            "data": "01_Data/City_Palace_Udaipur/Nearby_Heritage/Saheliyon_Ki_Bari",
+            "images": "02_Images/City_Palace_Udaipur/Nearby_Heritage/Saheliyon_Ki_Bari",
+            "scripts": "03_Scripts/City_Palace_Udaipur/Nearby_Heritage/Saheliyon_Ki_Bari",
+            "audio": "04_Audio/City_Palace_Udaipur/Nearby_Heritage/Saheliyon_Ki_Bari"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "city_palace_udaipur__bagore_ki_haveli",
+          "order": 5,
+          "display_name": "Bagore Ki Haveli",
+          "folder_name": "Bagore_Ki_Haveli",
+          "parent_monument_id": "city_palace_udaipur",
+          "paths": {
+            "data": "01_Data/City_Palace_Udaipur/Nearby_Heritage/Bagore_Ki_Haveli",
+            "images": "02_Images/City_Palace_Udaipur/Nearby_Heritage/Bagore_Ki_Haveli",
+            "scripts": "03_Scripts/City_Palace_Udaipur/Nearby_Heritage/Bagore_Ki_Haveli",
+            "audio": "04_Audio/City_Palace_Udaipur/Nearby_Heritage/Bagore_Ki_Haveli"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "city_palace_udaipur__shilpgram",
+          "order": 6,
+          "display_name": "Shilpgram",
+          "folder_name": "Shilpgram",
+          "parent_monument_id": "city_palace_udaipur",
+          "paths": {
+            "data": "01_Data/City_Palace_Udaipur/Nearby_Heritage/Shilpgram",
+            "images": "02_Images/City_Palace_Udaipur/Nearby_Heritage/Shilpgram",
+            "scripts": "03_Scripts/City_Palace_Udaipur/Nearby_Heritage/Shilpgram",
+            "audio": "04_Audio/City_Palace_Udaipur/Nearby_Heritage/Shilpgram"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "city_palace_udaipur__karni_mata_temple",
+          "order": 7,
+          "display_name": "Karni Mata Temple",
+          "folder_name": "Karni_Mata_Temple",
+          "parent_monument_id": "city_palace_udaipur",
+          "paths": {
+            "data": "01_Data/City_Palace_Udaipur/Nearby_Heritage/Karni_Mata_Temple",
+            "images": "02_Images/City_Palace_Udaipur/Nearby_Heritage/Karni_Mata_Temple",
+            "scripts": "03_Scripts/City_Palace_Udaipur/Nearby_Heritage/Karni_Mata_Temple",
+            "audio": "04_Audio/City_Palace_Udaipur/Nearby_Heritage/Karni_Mata_Temple"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "city_palace_udaipur__ambrai_ghat",
+          "order": 8,
+          "display_name": "Ambrai Ghat",
+          "folder_name": "Ambrai_Ghat",
+          "parent_monument_id": "city_palace_udaipur",
+          "paths": {
+            "data": "01_Data/City_Palace_Udaipur/Nearby_Heritage/Ambrai_Ghat",
+            "images": "02_Images/City_Palace_Udaipur/Nearby_Heritage/Ambrai_Ghat",
+            "scripts": "03_Scripts/City_Palace_Udaipur/Nearby_Heritage/Ambrai_Ghat",
+            "audio": "04_Audio/City_Palace_Udaipur/Nearby_Heritage/Ambrai_Ghat"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "city_palace_udaipur__vintage_car_museum",
+          "order": 9,
+          "display_name": "Vintage Car Museum",
+          "folder_name": "Vintage_Car_Museum",
+          "parent_monument_id": "city_palace_udaipur",
+          "paths": {
+            "data": "01_Data/City_Palace_Udaipur/Nearby_Heritage/Vintage_Car_Museum",
+            "images": "02_Images/City_Palace_Udaipur/Nearby_Heritage/Vintage_Car_Museum",
+            "scripts": "03_Scripts/City_Palace_Udaipur/Nearby_Heritage/Vintage_Car_Museum",
+            "audio": "04_Audio/City_Palace_Udaipur/Nearby_Heritage/Vintage_Car_Museum"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "city_palace_udaipur__eklingji_temple",
+          "order": 10,
+          "display_name": "Eklingji Temple",
+          "folder_name": "Eklingji_Temple",
+          "parent_monument_id": "city_palace_udaipur",
+          "paths": {
+            "data": "01_Data/City_Palace_Udaipur/Nearby_Heritage/Eklingji_Temple",
+            "images": "02_Images/City_Palace_Udaipur/Nearby_Heritage/Eklingji_Temple",
+            "scripts": "03_Scripts/City_Palace_Udaipur/Nearby_Heritage/Eklingji_Temple",
+            "audio": "04_Audio/City_Palace_Udaipur/Nearby_Heritage/Eklingji_Temple"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        }
+      ],
+      "image_status": "suitable_images_pending",
+      "audio_status": "not_generated",
+      "display_image_count": 0
+    },
+    {
+      "id": "mahabalipuram",
+      "order": 17,
+      "display_name": "Mahabalipuram, Tamil Nadu",
+      "folder_name": "Mahabalipuram",
+      "paths": {
+        "data": "01_Data/Mahabalipuram",
+        "images": "02_Images/Mahabalipuram",
+        "scripts": "03_Scripts/Mahabalipuram",
+        "audio": "04_Audio/Mahabalipuram"
+      },
+      "content_status": "content_ready",
+      "nearby_places": [
+        {
+          "id": "mahabalipuram__tiger_cave",
+          "order": 1,
+          "display_name": "Tiger Cave",
+          "folder_name": "Tiger_Cave",
+          "parent_monument_id": "mahabalipuram",
+          "paths": {
+            "data": "01_Data/Mahabalipuram/Nearby_Heritage/Tiger_Cave",
+            "images": "02_Images/Mahabalipuram/Nearby_Heritage/Tiger_Cave",
+            "scripts": "03_Scripts/Mahabalipuram/Nearby_Heritage/Tiger_Cave",
+            "audio": "04_Audio/Mahabalipuram/Nearby_Heritage/Tiger_Cave"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "mahabalipuram__sadras_dutch_fort",
+          "order": 2,
+          "display_name": "Sadras Dutch Fort",
+          "folder_name": "Sadras_Dutch_Fort",
+          "parent_monument_id": "mahabalipuram",
+          "paths": {
+            "data": "01_Data/Mahabalipuram/Nearby_Heritage/Sadras_Dutch_Fort",
+            "images": "02_Images/Mahabalipuram/Nearby_Heritage/Sadras_Dutch_Fort",
+            "scripts": "03_Scripts/Mahabalipuram/Nearby_Heritage/Sadras_Dutch_Fort",
+            "audio": "04_Audio/Mahabalipuram/Nearby_Heritage/Sadras_Dutch_Fort"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "mahabalipuram__nithyakalyana_perumal_temple",
+          "order": 3,
+          "display_name": "Nithyakalyana Perumal Temple",
+          "folder_name": "Nithyakalyana_Perumal_Temple",
+          "parent_monument_id": "mahabalipuram",
+          "paths": {
+            "data": "01_Data/Mahabalipuram/Nearby_Heritage/Nithyakalyana_Perumal_Temple",
+            "images": "02_Images/Mahabalipuram/Nearby_Heritage/Nithyakalyana_Perumal_Temple",
+            "scripts": "03_Scripts/Mahabalipuram/Nearby_Heritage/Nithyakalyana_Perumal_Temple",
+            "audio": "04_Audio/Mahabalipuram/Nearby_Heritage/Nithyakalyana_Perumal_Temple"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [
+            "Confirm site identity against Sri Thiruvidandhai; retain both user-selected entries until checked."
+          ],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "mahabalipuram__alamparai_fort",
+          "order": 4,
+          "display_name": "Alamparai Fort",
+          "folder_name": "Alamparai_Fort",
+          "parent_monument_id": "mahabalipuram",
+          "paths": {
+            "data": "01_Data/Mahabalipuram/Nearby_Heritage/Alamparai_Fort",
+            "images": "02_Images/Mahabalipuram/Nearby_Heritage/Alamparai_Fort",
+            "scripts": "03_Scripts/Mahabalipuram/Nearby_Heritage/Alamparai_Fort",
+            "audio": "04_Audio/Mahabalipuram/Nearby_Heritage/Alamparai_Fort"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "mahabalipuram__cholamandal_artists_village",
+          "order": 5,
+          "display_name": "Cholamandal Artists' Village",
+          "folder_name": "Cholamandal_Artists_Village",
+          "parent_monument_id": "mahabalipuram",
+          "paths": {
+            "data": "01_Data/Mahabalipuram/Nearby_Heritage/Cholamandal_Artists_Village",
+            "images": "02_Images/Mahabalipuram/Nearby_Heritage/Cholamandal_Artists_Village",
+            "scripts": "03_Scripts/Mahabalipuram/Nearby_Heritage/Cholamandal_Artists_Village",
+            "audio": "04_Audio/Mahabalipuram/Nearby_Heritage/Cholamandal_Artists_Village"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "mahabalipuram__dakshinachitra",
+          "order": 6,
+          "display_name": "DakshinaChitra",
+          "folder_name": "DakshinaChitra",
+          "parent_monument_id": "mahabalipuram",
+          "paths": {
+            "data": "01_Data/Mahabalipuram/Nearby_Heritage/DakshinaChitra",
+            "images": "02_Images/Mahabalipuram/Nearby_Heritage/DakshinaChitra",
+            "scripts": "03_Scripts/Mahabalipuram/Nearby_Heritage/DakshinaChitra",
+            "audio": "04_Audio/Mahabalipuram/Nearby_Heritage/DakshinaChitra"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "mahabalipuram__muttukadu_backwaters",
+          "order": 7,
+          "display_name": "Muttukadu Backwaters",
+          "folder_name": "Muttukadu_Backwaters",
+          "parent_monument_id": "mahabalipuram",
+          "paths": {
+            "data": "01_Data/Mahabalipuram/Nearby_Heritage/Muttukadu_Backwaters",
+            "images": "02_Images/Mahabalipuram/Nearby_Heritage/Muttukadu_Backwaters",
+            "scripts": "03_Scripts/Mahabalipuram/Nearby_Heritage/Muttukadu_Backwaters",
+            "audio": "04_Audio/Mahabalipuram/Nearby_Heritage/Muttukadu_Backwaters"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "mahabalipuram__vedanthangal_bird_sanctuary",
+          "order": 8,
+          "display_name": "Vedanthangal Bird Sanctuary",
+          "folder_name": "Vedanthangal_Bird_Sanctuary",
+          "parent_monument_id": "mahabalipuram",
+          "paths": {
+            "data": "01_Data/Mahabalipuram/Nearby_Heritage/Vedanthangal_Bird_Sanctuary",
+            "images": "02_Images/Mahabalipuram/Nearby_Heritage/Vedanthangal_Bird_Sanctuary",
+            "scripts": "03_Scripts/Mahabalipuram/Nearby_Heritage/Vedanthangal_Bird_Sanctuary",
+            "audio": "04_Audio/Mahabalipuram/Nearby_Heritage/Vedanthangal_Bird_Sanctuary"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "mahabalipuram__sri_thiruvidandhai",
+          "order": 9,
+          "display_name": "Sri Thiruvidandhai",
+          "folder_name": "Sri_Thiruvidandhai",
+          "parent_monument_id": "mahabalipuram",
+          "paths": {
+            "data": "01_Data/Mahabalipuram/Nearby_Heritage/Sri_Thiruvidandhai",
+            "images": "02_Images/Mahabalipuram/Nearby_Heritage/Sri_Thiruvidandhai",
+            "scripts": "03_Scripts/Mahabalipuram/Nearby_Heritage/Sri_Thiruvidandhai",
+            "audio": "04_Audio/Mahabalipuram/Nearby_Heritage/Sri_Thiruvidandhai"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [
+            "Confirm whether this is the locality or the temple already listed as Nithyakalyana Perumal Temple."
+          ],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "mahabalipuram__poonjeri_village",
+          "order": 10,
+          "display_name": "Poonjeri Village",
+          "folder_name": "Poonjeri_Village",
+          "parent_monument_id": "mahabalipuram",
+          "paths": {
+            "data": "01_Data/Mahabalipuram/Nearby_Heritage/Poonjeri_Village",
+            "images": "02_Images/Mahabalipuram/Nearby_Heritage/Poonjeri_Village",
+            "scripts": "03_Scripts/Mahabalipuram/Nearby_Heritage/Poonjeri_Village",
+            "audio": "04_Audio/Mahabalipuram/Nearby_Heritage/Poonjeri_Village"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        }
+      ],
+      "image_status": "suitable_images_pending",
+      "audio_status": "not_generated",
+      "display_image_count": 0
+    },
+    {
+      "id": "jaisalmer_fort",
+      "order": 18,
+      "display_name": "Jaisalmer Fort, Rajasthan",
+      "folder_name": "Jaisalmer_Fort",
+      "paths": {
+        "data": "01_Data/Jaisalmer_Fort",
+        "images": "02_Images/Jaisalmer_Fort",
+        "scripts": "03_Scripts/Jaisalmer_Fort",
+        "audio": "04_Audio/Jaisalmer_Fort"
+      },
+      "content_status": "content_ready",
+      "nearby_places": [
+        {
+          "id": "jaisalmer_fort__kuldhara_village",
+          "order": 1,
+          "display_name": "Kuldhara Village",
+          "folder_name": "Kuldhara_Village",
+          "parent_monument_id": "jaisalmer_fort",
+          "paths": {
+            "data": "01_Data/Jaisalmer_Fort/Nearby_Heritage/Kuldhara_Village",
+            "images": "02_Images/Jaisalmer_Fort/Nearby_Heritage/Kuldhara_Village",
+            "scripts": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Kuldhara_Village",
+            "audio": "04_Audio/Jaisalmer_Fort/Nearby_Heritage/Kuldhara_Village"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "jaisalmer_fort__bada_bagh",
+          "order": 2,
+          "display_name": "Bada Bagh",
+          "folder_name": "Bada_Bagh",
+          "parent_monument_id": "jaisalmer_fort",
+          "paths": {
+            "data": "01_Data/Jaisalmer_Fort/Nearby_Heritage/Bada_Bagh",
+            "images": "02_Images/Jaisalmer_Fort/Nearby_Heritage/Bada_Bagh",
+            "scripts": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Bada_Bagh",
+            "audio": "04_Audio/Jaisalmer_Fort/Nearby_Heritage/Bada_Bagh"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "jaisalmer_fort__khaba_fort",
+          "order": 3,
+          "display_name": "Khaba Fort",
+          "folder_name": "Khaba_Fort",
+          "parent_monument_id": "jaisalmer_fort",
+          "paths": {
+            "data": "01_Data/Jaisalmer_Fort/Nearby_Heritage/Khaba_Fort",
+            "images": "02_Images/Jaisalmer_Fort/Nearby_Heritage/Khaba_Fort",
+            "scripts": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Khaba_Fort",
+            "audio": "04_Audio/Jaisalmer_Fort/Nearby_Heritage/Khaba_Fort"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "jaisalmer_fort__lodhruva_jain_temples",
+          "order": 4,
+          "display_name": "Lodhruva Jain Temples",
+          "folder_name": "Lodhruva_Jain_Temples",
+          "parent_monument_id": "jaisalmer_fort",
+          "paths": {
+            "data": "01_Data/Jaisalmer_Fort/Nearby_Heritage/Lodhruva_Jain_Temples",
+            "images": "02_Images/Jaisalmer_Fort/Nearby_Heritage/Lodhruva_Jain_Temples",
+            "scripts": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Lodhruva_Jain_Temples",
+            "audio": "04_Audio/Jaisalmer_Fort/Nearby_Heritage/Lodhruva_Jain_Temples"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "jaisalmer_fort__vyas_chhatri",
+          "order": 5,
+          "display_name": "Vyas Chhatri",
+          "folder_name": "Vyas_Chhatri",
+          "parent_monument_id": "jaisalmer_fort",
+          "paths": {
+            "data": "01_Data/Jaisalmer_Fort/Nearby_Heritage/Vyas_Chhatri",
+            "images": "02_Images/Jaisalmer_Fort/Nearby_Heritage/Vyas_Chhatri",
+            "scripts": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Vyas_Chhatri",
+            "audio": "04_Audio/Jaisalmer_Fort/Nearby_Heritage/Vyas_Chhatri"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "jaisalmer_fort__desert_national_park",
+          "order": 6,
+          "display_name": "Desert National Park",
+          "folder_name": "Desert_National_Park",
+          "parent_monument_id": "jaisalmer_fort",
+          "paths": {
+            "data": "01_Data/Jaisalmer_Fort/Nearby_Heritage/Desert_National_Park",
+            "images": "02_Images/Jaisalmer_Fort/Nearby_Heritage/Desert_National_Park",
+            "scripts": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Desert_National_Park",
+            "audio": "04_Audio/Jaisalmer_Fort/Nearby_Heritage/Desert_National_Park"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "jaisalmer_fort__tanot_mata_temple",
+          "order": 7,
+          "display_name": "Tanot Mata Temple",
+          "folder_name": "Tanot_Mata_Temple",
+          "parent_monument_id": "jaisalmer_fort",
+          "paths": {
+            "data": "01_Data/Jaisalmer_Fort/Nearby_Heritage/Tanot_Mata_Temple",
+            "images": "02_Images/Jaisalmer_Fort/Nearby_Heritage/Tanot_Mata_Temple",
+            "scripts": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Tanot_Mata_Temple",
+            "audio": "04_Audio/Jaisalmer_Fort/Nearby_Heritage/Tanot_Mata_Temple"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "jaisalmer_fort__akal_wood_fossil_park",
+          "order": 8,
+          "display_name": "Akal Wood Fossil Park",
+          "folder_name": "Akal_Wood_Fossil_Park",
+          "parent_monument_id": "jaisalmer_fort",
+          "paths": {
+            "data": "01_Data/Jaisalmer_Fort/Nearby_Heritage/Akal_Wood_Fossil_Park",
+            "images": "02_Images/Jaisalmer_Fort/Nearby_Heritage/Akal_Wood_Fossil_Park",
+            "scripts": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Akal_Wood_Fossil_Park",
+            "audio": "04_Audio/Jaisalmer_Fort/Nearby_Heritage/Akal_Wood_Fossil_Park"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "jaisalmer_fort__amar_sagar_jain_temple",
+          "order": 9,
+          "display_name": "Amar Sagar Jain Temple",
+          "folder_name": "Amar_Sagar_Jain_Temple",
+          "parent_monument_id": "jaisalmer_fort",
+          "paths": {
+            "data": "01_Data/Jaisalmer_Fort/Nearby_Heritage/Amar_Sagar_Jain_Temple",
+            "images": "02_Images/Jaisalmer_Fort/Nearby_Heritage/Amar_Sagar_Jain_Temple",
+            "scripts": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Amar_Sagar_Jain_Temple",
+            "audio": "04_Audio/Jaisalmer_Fort/Nearby_Heritage/Amar_Sagar_Jain_Temple"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "jaisalmer_fort__nathmal_ji_ki_haveli",
+          "order": 10,
+          "display_name": "Nathmal Ji Ki Haveli",
+          "folder_name": "Nathmal_Ji_Ki_Haveli",
+          "parent_monument_id": "jaisalmer_fort",
+          "paths": {
+            "data": "01_Data/Jaisalmer_Fort/Nearby_Heritage/Nathmal_Ji_Ki_Haveli",
+            "images": "02_Images/Jaisalmer_Fort/Nearby_Heritage/Nathmal_Ji_Ki_Haveli",
+            "scripts": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Nathmal_Ji_Ki_Haveli",
+            "audio": "04_Audio/Jaisalmer_Fort/Nearby_Heritage/Nathmal_Ji_Ki_Haveli"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        }
+      ],
+      "image_status": "suitable_images_pending",
+      "audio_status": "not_generated",
+      "display_image_count": 0
+    },
+    {
+      "id": "mehrangarh_fort",
+      "order": 19,
+      "display_name": "Mehrangarh Fort, Jodhpur",
+      "folder_name": "Mehrangarh_Fort",
+      "paths": {
+        "data": "01_Data/Mehrangarh_Fort",
+        "images": "02_Images/Mehrangarh_Fort",
+        "scripts": "03_Scripts/Mehrangarh_Fort",
+        "audio": "04_Audio/Mehrangarh_Fort"
+      },
+      "content_status": "content_ready",
+      "nearby_places": [
+        {
+          "id": "mehrangarh_fort__rao_jodha_desert_rock_park",
+          "order": 1,
+          "display_name": "Rao Jodha Desert Rock Park",
+          "folder_name": "Rao_Jodha_Desert_Rock_Park",
+          "parent_monument_id": "mehrangarh_fort",
+          "paths": {
+            "data": "01_Data/Mehrangarh_Fort/Nearby_Heritage/Rao_Jodha_Desert_Rock_Park",
+            "images": "02_Images/Mehrangarh_Fort/Nearby_Heritage/Rao_Jodha_Desert_Rock_Park",
+            "scripts": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Rao_Jodha_Desert_Rock_Park",
+            "audio": "04_Audio/Mehrangarh_Fort/Nearby_Heritage/Rao_Jodha_Desert_Rock_Park"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "mehrangarh_fort__jaswant_thada",
+          "order": 2,
+          "display_name": "Jaswant Thada",
+          "folder_name": "Jaswant_Thada",
+          "parent_monument_id": "mehrangarh_fort",
+          "paths": {
+            "data": "01_Data/Mehrangarh_Fort/Nearby_Heritage/Jaswant_Thada",
+            "images": "02_Images/Mehrangarh_Fort/Nearby_Heritage/Jaswant_Thada",
+            "scripts": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Jaswant_Thada",
+            "audio": "04_Audio/Mehrangarh_Fort/Nearby_Heritage/Jaswant_Thada"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "mehrangarh_fort__toorji_ka_jhalra",
+          "order": 3,
+          "display_name": "Toorji Ka Jhalra",
+          "folder_name": "Toorji_Ka_Jhalra",
+          "parent_monument_id": "mehrangarh_fort",
+          "paths": {
+            "data": "01_Data/Mehrangarh_Fort/Nearby_Heritage/Toorji_Ka_Jhalra",
+            "images": "02_Images/Mehrangarh_Fort/Nearby_Heritage/Toorji_Ka_Jhalra",
+            "scripts": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Toorji_Ka_Jhalra",
+            "audio": "04_Audio/Mehrangarh_Fort/Nearby_Heritage/Toorji_Ka_Jhalra"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "mehrangarh_fort__mandore_gardens",
+          "order": 4,
+          "display_name": "Mandore Gardens",
+          "folder_name": "Mandore_Gardens",
+          "parent_monument_id": "mehrangarh_fort",
+          "paths": {
+            "data": "01_Data/Mehrangarh_Fort/Nearby_Heritage/Mandore_Gardens",
+            "images": "02_Images/Mehrangarh_Fort/Nearby_Heritage/Mandore_Gardens",
+            "scripts": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Mandore_Gardens",
+            "audio": "04_Audio/Mehrangarh_Fort/Nearby_Heritage/Mandore_Gardens"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "mehrangarh_fort__balsamand_lake",
+          "order": 5,
+          "display_name": "Balsamand Lake",
+          "folder_name": "Balsamand_Lake",
+          "parent_monument_id": "mehrangarh_fort",
+          "paths": {
+            "data": "01_Data/Mehrangarh_Fort/Nearby_Heritage/Balsamand_Lake",
+            "images": "02_Images/Mehrangarh_Fort/Nearby_Heritage/Balsamand_Lake",
+            "scripts": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Balsamand_Lake",
+            "audio": "04_Audio/Mehrangarh_Fort/Nearby_Heritage/Balsamand_Lake"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "mehrangarh_fort__mahamandir_temple",
+          "order": 6,
+          "display_name": "Mahamandir Temple",
+          "folder_name": "Mahamandir_Temple",
+          "parent_monument_id": "mehrangarh_fort",
+          "paths": {
+            "data": "01_Data/Mehrangarh_Fort/Nearby_Heritage/Mahamandir_Temple",
+            "images": "02_Images/Mehrangarh_Fort/Nearby_Heritage/Mahamandir_Temple",
+            "scripts": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Mahamandir_Temple",
+            "audio": "04_Audio/Mehrangarh_Fort/Nearby_Heritage/Mahamandir_Temple"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "mehrangarh_fort__osian_temples",
+          "order": 7,
+          "display_name": "Osian Temples",
+          "folder_name": "Osian_Temples",
+          "parent_monument_id": "mehrangarh_fort",
+          "paths": {
+            "data": "01_Data/Mehrangarh_Fort/Nearby_Heritage/Osian_Temples",
+            "images": "02_Images/Mehrangarh_Fort/Nearby_Heritage/Osian_Temples",
+            "scripts": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Osian_Temples",
+            "audio": "04_Audio/Mehrangarh_Fort/Nearby_Heritage/Osian_Temples"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "mehrangarh_fort__machia_biological_park",
+          "order": 8,
+          "display_name": "Machia Biological Park",
+          "folder_name": "Machia_Biological_Park",
+          "parent_monument_id": "mehrangarh_fort",
+          "paths": {
+            "data": "01_Data/Mehrangarh_Fort/Nearby_Heritage/Machia_Biological_Park",
+            "images": "02_Images/Mehrangarh_Fort/Nearby_Heritage/Machia_Biological_Park",
+            "scripts": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Machia_Biological_Park",
+            "audio": "04_Audio/Mehrangarh_Fort/Nearby_Heritage/Machia_Biological_Park"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "mehrangarh_fort__singhasni_village",
+          "order": 9,
+          "display_name": "Singhasni Village",
+          "folder_name": "Singhasni_Village",
+          "parent_monument_id": "mehrangarh_fort",
+          "paths": {
+            "data": "01_Data/Mehrangarh_Fort/Nearby_Heritage/Singhasni_Village",
+            "images": "02_Images/Mehrangarh_Fort/Nearby_Heritage/Singhasni_Village",
+            "scripts": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Singhasni_Village",
+            "audio": "04_Audio/Mehrangarh_Fort/Nearby_Heritage/Singhasni_Village"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [
+            "Verify the Jodhpur-area village and heritage relevance before writing factual content."
+          ],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "mehrangarh_fort__navchowkiya",
+          "order": 10,
+          "display_name": "Navchowkiya",
+          "folder_name": "Navchowkiya",
+          "parent_monument_id": "mehrangarh_fort",
+          "paths": {
+            "data": "01_Data/Mehrangarh_Fort/Nearby_Heritage/Navchowkiya",
+            "images": "02_Images/Mehrangarh_Fort/Nearby_Heritage/Navchowkiya",
+            "scripts": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Navchowkiya",
+            "audio": "04_Audio/Mehrangarh_Fort/Nearby_Heritage/Navchowkiya"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        }
+      ],
+      "image_status": "suitable_images_pending",
+      "audio_status": "not_generated",
+      "display_image_count": 0
+    },
+    {
+      "id": "badami_cave_temples",
+      "order": 20,
+      "display_name": "Badami Cave Temples, Karnataka",
+      "folder_name": "Badami_Cave_Temples",
+      "paths": {
+        "data": "01_Data/Badami_Cave_Temples",
+        "images": "02_Images/Badami_Cave_Temples",
+        "scripts": "03_Scripts/Badami_Cave_Temples",
+        "audio": "04_Audio/Badami_Cave_Temples"
+      },
+      "content_status": "content_ready",
+      "nearby_places": [
+        {
+          "id": "badami_cave_temples__bhutanatha_group_of_temples",
+          "order": 1,
+          "display_name": "Bhutanatha Group of Temples",
+          "folder_name": "Bhutanatha_Group_of_Temples",
+          "parent_monument_id": "badami_cave_temples",
+          "paths": {
+            "data": "01_Data/Badami_Cave_Temples/Nearby_Heritage/Bhutanatha_Group_of_Temples",
+            "images": "02_Images/Badami_Cave_Temples/Nearby_Heritage/Bhutanatha_Group_of_Temples",
+            "scripts": "03_Scripts/Badami_Cave_Temples/Nearby_Heritage/Bhutanatha_Group_of_Temples",
+            "audio": "04_Audio/Badami_Cave_Temples/Nearby_Heritage/Bhutanatha_Group_of_Temples"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "badami_cave_temples__agastya_lake",
+          "order": 2,
+          "display_name": "Agastya Lake",
+          "folder_name": "Agastya_Lake",
+          "parent_monument_id": "badami_cave_temples",
+          "paths": {
+            "data": "01_Data/Badami_Cave_Temples/Nearby_Heritage/Agastya_Lake",
+            "images": "02_Images/Badami_Cave_Temples/Nearby_Heritage/Agastya_Lake",
+            "scripts": "03_Scripts/Badami_Cave_Temples/Nearby_Heritage/Agastya_Lake",
+            "audio": "04_Audio/Badami_Cave_Temples/Nearby_Heritage/Agastya_Lake"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "badami_cave_temples__badami_fort",
+          "order": 3,
+          "display_name": "Badami Fort",
+          "folder_name": "Badami_Fort",
+          "parent_monument_id": "badami_cave_temples",
+          "paths": {
+            "data": "01_Data/Badami_Cave_Temples/Nearby_Heritage/Badami_Fort",
+            "images": "02_Images/Badami_Cave_Temples/Nearby_Heritage/Badami_Fort",
+            "scripts": "03_Scripts/Badami_Cave_Temples/Nearby_Heritage/Badami_Fort",
+            "audio": "04_Audio/Badami_Cave_Temples/Nearby_Heritage/Badami_Fort"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "badami_cave_temples__mahakuta_group_of_temples",
+          "order": 4,
+          "display_name": "Mahakuta Group of Temples",
+          "folder_name": "Mahakuta_Group_of_Temples",
+          "parent_monument_id": "badami_cave_temples",
+          "paths": {
+            "data": "01_Data/Badami_Cave_Temples/Nearby_Heritage/Mahakuta_Group_of_Temples",
+            "images": "02_Images/Badami_Cave_Temples/Nearby_Heritage/Mahakuta_Group_of_Temples",
+            "scripts": "03_Scripts/Badami_Cave_Temples/Nearby_Heritage/Mahakuta_Group_of_Temples",
+            "audio": "04_Audio/Badami_Cave_Temples/Nearby_Heritage/Mahakuta_Group_of_Temples"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "badami_cave_temples__pattadakal_monuments",
+          "order": 5,
+          "display_name": "Pattadakal Monuments",
+          "folder_name": "Pattadakal_Monuments",
+          "parent_monument_id": "badami_cave_temples",
+          "paths": {
+            "data": "01_Data/Badami_Cave_Temples/Nearby_Heritage/Pattadakal_Monuments",
+            "images": "02_Images/Badami_Cave_Temples/Nearby_Heritage/Pattadakal_Monuments",
+            "scripts": "03_Scripts/Badami_Cave_Temples/Nearby_Heritage/Pattadakal_Monuments",
+            "audio": "04_Audio/Badami_Cave_Temples/Nearby_Heritage/Pattadakal_Monuments"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "badami_cave_temples__aihole_durga_temple",
+          "order": 6,
+          "display_name": "Aihole (Durga Temple)",
+          "folder_name": "Aihole_Durga_Temple",
+          "parent_monument_id": "badami_cave_temples",
+          "paths": {
+            "data": "01_Data/Badami_Cave_Temples/Nearby_Heritage/Aihole_Durga_Temple",
+            "images": "02_Images/Badami_Cave_Temples/Nearby_Heritage/Aihole_Durga_Temple",
+            "scripts": "03_Scripts/Badami_Cave_Temples/Nearby_Heritage/Aihole_Durga_Temple",
+            "audio": "04_Audio/Badami_Cave_Temples/Nearby_Heritage/Aihole_Durga_Temple"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "badami_cave_temples__banashankari_amma_temple",
+          "order": 7,
+          "display_name": "Banashankari Amma Temple",
+          "folder_name": "Banashankari_Amma_Temple",
+          "parent_monument_id": "badami_cave_temples",
+          "paths": {
+            "data": "01_Data/Badami_Cave_Temples/Nearby_Heritage/Banashankari_Amma_Temple",
+            "images": "02_Images/Badami_Cave_Temples/Nearby_Heritage/Banashankari_Amma_Temple",
+            "scripts": "03_Scripts/Badami_Cave_Temples/Nearby_Heritage/Banashankari_Amma_Temple",
+            "audio": "04_Audio/Badami_Cave_Temples/Nearby_Heritage/Banashankari_Amma_Temple"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "badami_cave_temples__ravan_phadi_cave",
+          "order": 8,
+          "display_name": "Ravan Phadi Cave",
+          "folder_name": "Ravan_Phadi_Cave",
+          "parent_monument_id": "badami_cave_temples",
+          "paths": {
+            "data": "01_Data/Badami_Cave_Temples/Nearby_Heritage/Ravan_Phadi_Cave",
+            "images": "02_Images/Badami_Cave_Temples/Nearby_Heritage/Ravan_Phadi_Cave",
+            "scripts": "03_Scripts/Badami_Cave_Temples/Nearby_Heritage/Ravan_Phadi_Cave",
+            "audio": "04_Audio/Badami_Cave_Temples/Nearby_Heritage/Ravan_Phadi_Cave"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "badami_cave_temples__lad_khan_temple",
+          "order": 9,
+          "display_name": "Lad Khan Temple",
+          "folder_name": "Lad_Khan_Temple",
+          "parent_monument_id": "badami_cave_temples",
+          "paths": {
+            "data": "01_Data/Badami_Cave_Temples/Nearby_Heritage/Lad_Khan_Temple",
+            "images": "02_Images/Badami_Cave_Temples/Nearby_Heritage/Lad_Khan_Temple",
+            "scripts": "03_Scripts/Badami_Cave_Temples/Nearby_Heritage/Lad_Khan_Temple",
+            "audio": "04_Audio/Badami_Cave_Temples/Nearby_Heritage/Lad_Khan_Temple"
+          },
+          "content_status": "content_ready",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [],
+          "image_status": "suitable_images_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        },
+        {
+          "id": "badami_cave_temples__galaganatha_temples",
+          "order": 10,
+          "display_name": "Galaganatha Temples",
+          "folder_name": "Galaganatha_Temples",
+          "parent_monument_id": "badami_cave_temples",
+          "paths": {
+            "data": "01_Data/Badami_Cave_Temples/Nearby_Heritage/Galaganatha_Temples",
+            "images": "02_Images/Badami_Cave_Temples/Nearby_Heritage/Galaganatha_Temples",
+            "scripts": "03_Scripts/Badami_Cave_Temples/Nearby_Heritage/Galaganatha_Temples",
+            "audio": "04_Audio/Badami_Cave_Temples/Nearby_Heritage/Galaganatha_Temples"
+          },
+          "content_status": "identity_pending",
+          "distance_km": null,
+          "travel_time_minutes": null,
+          "identity_notes": [
+            "Verify which temple/site the user label denotes in the Badami group."
+          ],
+          "image_status": "identity_pending",
+          "audio_status": "not_generated",
+          "display_image_count": 0
+        }
+      ],
+      "image_status": "suitable_images_pending",
+      "audio_status": "not_generated",
+      "display_image_count": 0
+    }
+  ],
+  "folder_status": "prepared",
+  "folder_verification_report": "06_Database/JSON/folder_preparation_report.json"
+}

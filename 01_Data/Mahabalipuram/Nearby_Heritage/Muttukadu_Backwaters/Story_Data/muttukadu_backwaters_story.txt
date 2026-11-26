@@ -1,0 +1,12 @@
+VIRASATAI — STORY DATA
+Entry ID: mahabalipuram__muttukadu_backwaters
+Name: Muttukadu Backwaters
+Narrative focus: A water landscape within the coast's wider heritage setting
+Language files: Separate English and Devanagari Hindi master scripts in 03_Scripts.
+Status: Written narration ready for TTS input; pronunciation and generated audio still need listening QA.
+
+Muttukadu Backwaters introduces a quieter kind of stop on the coastal route towards Mamallapuram. The attraction is the water landscape itself, recognised in official tourism material as a place for boating and recreation. Here, a heritage journey can pause to notice the surroundings that connect the coast's towns and cultural destinations.
+
+Watch how the surface changes with light, wind and the movement of a boat. A reflection can make the same shoreline appear different from one moment to the next. You do not need a grand monument to practise careful observation.
+
+Boating is part of Muttukadu's visitor identity, but the activities offered depend on current conditions and local arrangements. Check what is operating, follow the boat staff's instructions and wear the required safety equipment. Keep waste away from the water. This stop offers space to slow down, appreciate a coastal setting and remember that protecting a destination also means caring for its natural environment.

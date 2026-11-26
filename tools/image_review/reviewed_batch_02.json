@@ -1,0 +1,236 @@
+[
+  {
+    "place_id": "qutub_minar__adham_khans_tomb",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 6,
+        "category": "Overview"
+      },
+      {
+        "candidate_id": 8,
+        "category": "Different_Views"
+      },
+      {
+        "candidate_id": 7,
+        "category": "Details"
+      },
+      {
+        "candidate_id": 10,
+        "category": "Details"
+      },
+      {
+        "candidate_id": 2,
+        "category": "Details"
+      }
+    ],
+    "coverage_note": "Color photographs with clear subject selected; repeated views and unrelated architectural details rejected."
+  },
+  {
+    "place_id": "qutub_minar__balbans_tomb",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview"
+      },
+      {
+        "candidate_id": 4,
+        "category": "Different_Views"
+      },
+      {
+        "candidate_id": 10,
+        "category": "Different_Views"
+      },
+      {
+        "candidate_id": 9,
+        "category": "Details"
+      }
+    ],
+    "coverage_note": "Color photographs with clear subject selected; repeated views and unrelated architectural details rejected."
+  },
+  {
+    "place_id": "qutub_minar__gandhak_ki_baoli",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 2,
+        "category": "Overview"
+      },
+      {
+        "candidate_id": 3,
+        "category": "Details"
+      },
+      {
+        "candidate_id": 6,
+        "category": "Different_Views"
+      }
+    ],
+    "coverage_note": "Color photographs with clear subject selected; repeated views and unrelated architectural details rejected."
+  },
+  {
+    "place_id": "qutub_minar__hauz_i_shamsi",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 4,
+        "category": "Overview"
+      },
+      {
+        "candidate_id": 7,
+        "category": "Surroundings"
+      },
+      {
+        "candidate_id": 8,
+        "category": "Details"
+      },
+      {
+        "candidate_id": 6,
+        "category": "Details"
+      }
+    ],
+    "coverage_note": "Color photographs with clear subject selected; repeated views and unrelated architectural details rejected."
+  },
+  {
+    "place_id": "qutub_minar__hijron_ka_khanqah",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview"
+      },
+      {
+        "candidate_id": 3,
+        "category": "Different_Views"
+      },
+      {
+        "candidate_id": 5,
+        "category": "Details"
+      },
+      {
+        "candidate_id": 6,
+        "category": "Details"
+      }
+    ],
+    "coverage_note": "Color photographs with clear subject selected; repeated views and unrelated architectural details rejected."
+  },
+  {
+    "place_id": "qutub_minar__jahaz_mahal",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview"
+      },
+      {
+        "candidate_id": 5,
+        "category": "Different_Views"
+      },
+      {
+        "candidate_id": 6,
+        "category": "Details"
+      },
+      {
+        "candidate_id": 10,
+        "category": "Details"
+      }
+    ],
+    "coverage_note": "Color photographs with clear subject selected; repeated views and unrelated architectural details rejected."
+  },
+  {
+    "place_id": "qutub_minar__jamali_kamali_mosque",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview"
+      },
+      {
+        "candidate_id": 4,
+        "category": "Details"
+      },
+      {
+        "candidate_id": 7,
+        "category": "Details"
+      },
+      {
+        "candidate_id": 9,
+        "category": "Details"
+      },
+      {
+        "candidate_id": 10,
+        "category": "Surroundings"
+      }
+    ],
+    "coverage_note": "Color photographs with clear subject selected; repeated views and unrelated architectural details rejected."
+  },
+  {
+    "place_id": "qutub_minar__quli_khans_tomb",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 8,
+        "category": "Overview"
+      },
+      {
+        "candidate_id": 1,
+        "category": "Details"
+      },
+      {
+        "candidate_id": 6,
+        "category": "Details"
+      },
+      {
+        "candidate_id": 9,
+        "category": "Surroundings"
+      }
+    ],
+    "coverage_note": "Color photographs with clear subject selected; repeated views and unrelated architectural details rejected."
+  },
+  {
+    "place_id": "qutub_minar__rajon_ki_baoli",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview"
+      },
+      {
+        "candidate_id": 3,
+        "category": "Different_Views"
+      },
+      {
+        "candidate_id": 5,
+        "category": "Different_Views"
+      }
+    ],
+    "coverage_note": "Color photographs with clear subject selected; repeated views and unrelated architectural details rejected."
+  },
+  {
+    "place_id": "qutub_minar__zafar_mahal",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 3,
+        "category": "Overview"
+      },
+      {
+        "candidate_id": 4,
+        "category": "Details"
+      },
+      {
+        "candidate_id": 5,
+        "category": "Details"
+      },
+      {
+        "candidate_id": 7,
+        "category": "Different_Views"
+      },
+      {
+        "candidate_id": 9,
+        "category": "Surroundings"
+      }
+    ],
+    "coverage_note": "Color photographs with clear subject selected; repeated views and unrelated architectural details rejected."
+  }
+]

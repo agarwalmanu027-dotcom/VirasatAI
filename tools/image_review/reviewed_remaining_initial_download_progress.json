@@ -1,0 +1,77 @@
+[
+  {
+    "place_id": "gateway_of_india",
+    "image_count": 12,
+    "manifest": "02_Images\\Gateway_of_India\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "gateway_of_india__afghan_church",
+    "image_count": 4,
+    "manifest": "02_Images\\Gateway_of_India\\Nearby_Heritage\\Afghan_Church\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "gateway_of_india__ballard_bunder_gatehouse",
+    "image_count": 1,
+    "manifest": "02_Images\\Gateway_of_India\\Nearby_Heritage\\Ballard_Bunder_Gatehouse\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "gateway_of_india__banganga_tank",
+    "image_count": 4,
+    "manifest": "02_Images\\Gateway_of_India\\Nearby_Heritage\\Banganga_Tank\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "gateway_of_india__bhau_daji_lad_museum",
+    "image_count": 4,
+    "manifest": "02_Images\\Gateway_of_India\\Nearby_Heritage\\Bhau_Daji_Lad_Museum\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "gateway_of_india__david_sassoon_library",
+    "image_count": 5,
+    "manifest": "02_Images\\Gateway_of_India\\Nearby_Heritage\\David_Sassoon_Library\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "gateway_of_india__horniman_circle_gardens",
+    "image_count": 4,
+    "manifest": "02_Images\\Gateway_of_India\\Nearby_Heritage\\Horniman_Circle_Gardens\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "gateway_of_india__keneseth_eliyahoo_synagogue",
+    "image_count": 4,
+    "manifest": "02_Images\\Gateway_of_India\\Nearby_Heritage\\Keneseth_Eliyahoo_Synagogue\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "gateway_of_india__khotachiwadi_village",
+    "image_count": 5,
+    "manifest": "02_Images\\Gateway_of_India\\Nearby_Heritage\\Khotachiwadi_Village\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "gateway_of_india__rbi_monetary_museum",
+    "image_count": 3,
+    "manifest": "02_Images\\Gateway_of_India\\Nearby_Heritage\\RBI_Monetary_Museum\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "gateway_of_india__sewri_fort",
+    "image_count": 4,
+    "manifest": "02_Images\\Gateway_of_India\\Nearby_Heritage\\Sewri_Fort\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "charminar",
+    "image_count": 14,
+    "manifest": "02_Images\\Charminar\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "charminar__badshahi_ashurkhana",
+    "image_count": 4,
+    "manifest": "02_Images\\Charminar\\Nearby_Heritage\\Badshahi_Ashurkhana\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "charminar__hayat_bakshi_mosque",
+    "image_count": 0,
+    "manifest": "02_Images\\Charminar\\Nearby_Heritage\\Hayat_Bakshi_Mosque\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "charminar__khursheed_jah_devdi",
+    "image_count": 4,
+    "manifest": "02_Images\\Charminar\\Nearby_Heritage\\Khursheed_Jah_Devdi\\Image_Sources\\image_manifest.json"
+  }
+]

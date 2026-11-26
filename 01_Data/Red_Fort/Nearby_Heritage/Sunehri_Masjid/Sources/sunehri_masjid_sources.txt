@@ -1,0 +1,16 @@
+CONTENT SOURCES — Sunehri Masjid
+Checked online: 2026-10-07
+Purpose: Factual research for application text and narration. Image licensing is recorded separately.
+
+[1] Census of India — Delhi District Census Handbook, Sunehri Masjid
+URL: https://censusindia.gov.in/nada/index.php/catalog/912/download/36516/DH_2011_0700_PART_A_DCHB_NCT_OF_DELHI.pdf
+Used for: 1751, Qudsia Begum, Red Fort location, domes and minarets.
+
+[2] IGNCA digitized ASI record — Sunehri Masjid near Delhi Fort
+URL: https://ignca.gov.in/Asi_data/87960.pdf
+Used for: Protected-site identity and inscription-derived construction year.
+
+Editorial checks
+Delhi has several mosques called Sunehri Masjid. This content explicitly uses the one near Red Fort/Delhi Gate; do not mix its images/history with Roshan-ud-Daula's mosque near Sis Ganj or Sunehri Bagh mosque. Royal relationship wording conflicts between records and is omitted.
+The audio scripts are original paraphrases, with sources kept outside the spoken text.
+No distance or travel time is inferred from the parent association.

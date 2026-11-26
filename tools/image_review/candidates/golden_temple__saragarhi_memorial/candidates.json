@@ -1,0 +1,11 @@
+{
+  "place_id": "golden_temple__saragarhi_memorial",
+  "display_name": "Saragarhi Memorial",
+  "parent_id": "golden_temple",
+  "main_order": 11,
+  "is_main": false,
+  "candidates": [],
+  "errors": [],
+  "visual_review_status": "pending",
+  "status": "no_qualifying_candidates"
+}

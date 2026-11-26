@@ -1,0 +1,14 @@
+VIRASATAI — STORY DATA
+Entry ID: city_palace_udaipur__ahar_cenotaphs
+Name: Ahar Cenotaphs
+Narrative focus: Remembering rulers through carved pavilions.
+Language files: Separate English and Devanagari Hindi master scripts in 03_Scripts.
+Status: Written narration ready for TTS input; pronunciation and generated audio still need listening QA.
+
+At Ahar, the memory of Mewar's rulers takes the form of carefully built stone pavilions. These cenotaphs are memorials, often called chhatris because their roofs recall the shape of an umbrella.
+
+Look at how pillars lift a roof above an open space. Light passes between them, making the monument feel different from a solid palace wall. Repeated forms connect the memorials, while details give individual structures their own character.
+
+Ahar encourages a thoughtful pace. Rather than treating the complex as a collection of photo backgrounds, consider why communities create lasting places of remembrance. Architecture can preserve respect as well as a name.
+
+The nearby archaeological museum adds another perspective on the area's past. Together, the memorial setting and the objects preserved in the museum show how Udaipur's heritage reaches beyond its famous lakeside palaces, into both remembrance and the evidence left by earlier communities.

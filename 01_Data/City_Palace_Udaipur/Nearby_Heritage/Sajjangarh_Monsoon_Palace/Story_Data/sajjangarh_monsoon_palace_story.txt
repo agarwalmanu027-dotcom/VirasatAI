@@ -1,0 +1,14 @@
+VIRASATAI — STORY DATA
+Entry ID: city_palace_udaipur__sajjangarh_monsoon_palace
+Name: Sajjangarh (Monsoon Palace)
+Narrative focus: A royal building that changes the way the lake city is seen.
+Language files: Separate English and Devanagari Hindi master scripts in 03_Scripts.
+Status: Written narration ready for TTS input; pronunciation and generated audio still need listening QA.
+
+Sajjangarh changes the scale of a visit to Udaipur. Also called the Monsoon Palace, this nineteenth-century building stands on the Bansdara hills, high above the city's lakes and streets. It is associated with Maharana Sajjan Singh.
+
+From below, the palace is a landmark on the skyline. From its hilltop setting, the wider landscape becomes the subject. Lakes, buildings and the Aravalli hills can be understood together, rather than as separate stops on a route.
+
+Notice how the palace's pale surfaces meet the darker shapes of the surrounding hills. Its position is as important to its identity as the rooms within it.
+
+Sajjangarh adds a new viewpoint to the story of Mewar's royal architecture. After seeing the City Palace beside the water, this hilltop retreat helps you appreciate how Udaipur's rulers and builders worked with very different parts of the same landscape.

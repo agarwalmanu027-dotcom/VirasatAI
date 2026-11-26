@@ -1,0 +1,31 @@
+{
+  "placeId": "red_fort__chunnamal_haveli",
+  "queries": [
+    "Chunnamal Haveli Delhi",
+    "Chunna Mal Haveli Chandni Chowk"
+  ],
+  "candidates": [
+    {
+      "candidateId": 1,
+      "title": "File:Chunnamal Haveli Common Room.jpg",
+      "query": "Chunnamal Haveli Delhi",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Chunnamal_Haveli_Common_Room.jpg",
+      "previewUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Chunnamal_Haveli_Common_Room.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "Captsahil",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "previewPath": "tools/image_review/remaining_zero_broad/red_fort__chunnamal_haveli/candidate_01.jpg"
+    },
+    {
+      "candidateId": 2,
+      "title": "File:Chunnamal Haveli Entrance.jpg",
+      "query": "Chunnamal Haveli Delhi",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Chunnamal_Haveli_Entrance.jpg",
+      "previewUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Chunnamal_Haveli_Entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "Captsahil",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "previewPath": "tools/image_review/remaining_zero_broad/red_fort__chunnamal_haveli/candidate_02.jpg"
+    }
+  ]
+}

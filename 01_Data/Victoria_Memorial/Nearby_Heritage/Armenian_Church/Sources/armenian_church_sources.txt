@@ -1,0 +1,16 @@
+CONTENT SOURCES — Armenian Church
+Checked online: 2026-10-07
+Purpose: Factual research for application text and narration. Image licensing is recorded separately.
+
+[1] Embassy of Armenia to India — Community overview
+URL: https://india.mfa.am/en/community-overview/
+Used for: Church identity, 1707/1724 history, Agha Nazar, 1734 tower and cemetery context.
+
+[2] West Bengal Tourism — Armenian Church
+URL: https://wbtourism.gov.in/topDestination/details1?id=63d8018be4bbd858c20633b7&template_id=1
+Used for: Armenian Street/Burrabazar location and marble interior.
+
+Editorial checks
+The user's generic Armenian Church label resolves to Holy Church of Nazareth; other Armenian churches in Kolkata are distinct. Tourism's 1764 construction date conflicts with the embassy chronology; the latter is used.
+The audio scripts are original paraphrases, with sources kept outside the spoken text.
+No distance or travel time is inferred from the parent association.

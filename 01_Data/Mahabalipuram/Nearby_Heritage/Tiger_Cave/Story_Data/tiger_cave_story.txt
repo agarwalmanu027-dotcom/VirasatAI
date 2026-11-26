@@ -1,0 +1,12 @@
+VIRASATAI — STORY DATA
+Entry ID: mahabalipuram__tiger_cave
+Name: Tiger Cave
+Narrative focus: Animal-headed carving and the distinction between a name and a literal animal habitat
+Language files: Separate English and Devanagari Hindi master scripts in 03_Scripts.
+Status: Written narration ready for TTS input; pronunciation and generated audio still need listening QA.
+
+Tiger Cave at Saluvankuppam invites you to look twice. Its name may suggest a wild animal's shelter, but the attraction is a carefully carved rock pavilion. Around its opening, fierce animal heads turn the stone into an extraordinary frame. These creatures are commonly understood as yalis, imaginative beings found in South Indian architectural art.
+
+The carving belongs to the wider Pallava landscape around Mamallapuram. Compare the rough body of the boulder with the deliberate shapes cut into it. That contrast helps you appreciate how the sculptors worked with a natural rock instead of building a separate room from blocks.
+
+Several interpretations have been offered for the pavilion's original use. Its shape alone cannot prove every story told about it. What remains clear is the skill of the carving and the strong visual effect of those heads. Pause to study their expressions, photograph without climbing, and let the surviving stone be your guide.

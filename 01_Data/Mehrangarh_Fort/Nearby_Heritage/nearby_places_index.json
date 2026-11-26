@@ -1,0 +1,180 @@
+{
+  "parent_monument_id": "mehrangarh_fort",
+  "parent_monument_name": "Mehrangarh Fort, Jodhpur",
+  "selection_source": "User-supplied table",
+  "nearby_entry_count": 10,
+  "places": [
+    {
+      "id": "mehrangarh_fort__rao_jodha_desert_rock_park",
+      "order": 1,
+      "display_name": "Rao Jodha Desert Rock Park",
+      "folder_name": "Rao_Jodha_Desert_Rock_Park",
+      "parent_monument_id": "mehrangarh_fort",
+      "paths": {
+        "data": "01_Data/Mehrangarh_Fort/Nearby_Heritage/Rao_Jodha_Desert_Rock_Park",
+        "images": "02_Images/Mehrangarh_Fort/Nearby_Heritage/Rao_Jodha_Desert_Rock_Park",
+        "scripts": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Rao_Jodha_Desert_Rock_Park",
+        "audio": "04_Audio/Mehrangarh_Fort/Nearby_Heritage/Rao_Jodha_Desert_Rock_Park"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "mehrangarh_fort__jaswant_thada",
+      "order": 2,
+      "display_name": "Jaswant Thada",
+      "folder_name": "Jaswant_Thada",
+      "parent_monument_id": "mehrangarh_fort",
+      "paths": {
+        "data": "01_Data/Mehrangarh_Fort/Nearby_Heritage/Jaswant_Thada",
+        "images": "02_Images/Mehrangarh_Fort/Nearby_Heritage/Jaswant_Thada",
+        "scripts": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Jaswant_Thada",
+        "audio": "04_Audio/Mehrangarh_Fort/Nearby_Heritage/Jaswant_Thada"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "mehrangarh_fort__toorji_ka_jhalra",
+      "order": 3,
+      "display_name": "Toorji Ka Jhalra",
+      "folder_name": "Toorji_Ka_Jhalra",
+      "parent_monument_id": "mehrangarh_fort",
+      "paths": {
+        "data": "01_Data/Mehrangarh_Fort/Nearby_Heritage/Toorji_Ka_Jhalra",
+        "images": "02_Images/Mehrangarh_Fort/Nearby_Heritage/Toorji_Ka_Jhalra",
+        "scripts": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Toorji_Ka_Jhalra",
+        "audio": "04_Audio/Mehrangarh_Fort/Nearby_Heritage/Toorji_Ka_Jhalra"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "mehrangarh_fort__mandore_gardens",
+      "order": 4,
+      "display_name": "Mandore Gardens",
+      "folder_name": "Mandore_Gardens",
+      "parent_monument_id": "mehrangarh_fort",
+      "paths": {
+        "data": "01_Data/Mehrangarh_Fort/Nearby_Heritage/Mandore_Gardens",
+        "images": "02_Images/Mehrangarh_Fort/Nearby_Heritage/Mandore_Gardens",
+        "scripts": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Mandore_Gardens",
+        "audio": "04_Audio/Mehrangarh_Fort/Nearby_Heritage/Mandore_Gardens"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "mehrangarh_fort__balsamand_lake",
+      "order": 5,
+      "display_name": "Balsamand Lake",
+      "folder_name": "Balsamand_Lake",
+      "parent_monument_id": "mehrangarh_fort",
+      "paths": {
+        "data": "01_Data/Mehrangarh_Fort/Nearby_Heritage/Balsamand_Lake",
+        "images": "02_Images/Mehrangarh_Fort/Nearby_Heritage/Balsamand_Lake",
+        "scripts": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Balsamand_Lake",
+        "audio": "04_Audio/Mehrangarh_Fort/Nearby_Heritage/Balsamand_Lake"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "mehrangarh_fort__mahamandir_temple",
+      "order": 6,
+      "display_name": "Mahamandir Temple",
+      "folder_name": "Mahamandir_Temple",
+      "parent_monument_id": "mehrangarh_fort",
+      "paths": {
+        "data": "01_Data/Mehrangarh_Fort/Nearby_Heritage/Mahamandir_Temple",
+        "images": "02_Images/Mehrangarh_Fort/Nearby_Heritage/Mahamandir_Temple",
+        "scripts": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Mahamandir_Temple",
+        "audio": "04_Audio/Mehrangarh_Fort/Nearby_Heritage/Mahamandir_Temple"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "mehrangarh_fort__osian_temples",
+      "order": 7,
+      "display_name": "Osian Temples",
+      "folder_name": "Osian_Temples",
+      "parent_monument_id": "mehrangarh_fort",
+      "paths": {
+        "data": "01_Data/Mehrangarh_Fort/Nearby_Heritage/Osian_Temples",
+        "images": "02_Images/Mehrangarh_Fort/Nearby_Heritage/Osian_Temples",
+        "scripts": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Osian_Temples",
+        "audio": "04_Audio/Mehrangarh_Fort/Nearby_Heritage/Osian_Temples"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "mehrangarh_fort__machia_biological_park",
+      "order": 8,
+      "display_name": "Machia Biological Park",
+      "folder_name": "Machia_Biological_Park",
+      "parent_monument_id": "mehrangarh_fort",
+      "paths": {
+        "data": "01_Data/Mehrangarh_Fort/Nearby_Heritage/Machia_Biological_Park",
+        "images": "02_Images/Mehrangarh_Fort/Nearby_Heritage/Machia_Biological_Park",
+        "scripts": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Machia_Biological_Park",
+        "audio": "04_Audio/Mehrangarh_Fort/Nearby_Heritage/Machia_Biological_Park"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "mehrangarh_fort__singhasni_village",
+      "order": 9,
+      "display_name": "Singhasni Village",
+      "folder_name": "Singhasni_Village",
+      "parent_monument_id": "mehrangarh_fort",
+      "paths": {
+        "data": "01_Data/Mehrangarh_Fort/Nearby_Heritage/Singhasni_Village",
+        "images": "02_Images/Mehrangarh_Fort/Nearby_Heritage/Singhasni_Village",
+        "scripts": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Singhasni_Village",
+        "audio": "04_Audio/Mehrangarh_Fort/Nearby_Heritage/Singhasni_Village"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": [
+        "Verify the Jodhpur-area village and heritage relevance before writing factual content."
+      ]
+    },
+    {
+      "id": "mehrangarh_fort__navchowkiya",
+      "order": 10,
+      "display_name": "Navchowkiya",
+      "folder_name": "Navchowkiya",
+      "parent_monument_id": "mehrangarh_fort",
+      "paths": {
+        "data": "01_Data/Mehrangarh_Fort/Nearby_Heritage/Navchowkiya",
+        "images": "02_Images/Mehrangarh_Fort/Nearby_Heritage/Navchowkiya",
+        "scripts": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Navchowkiya",
+        "audio": "04_Audio/Mehrangarh_Fort/Nearby_Heritage/Navchowkiya"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    }
+  ]
+}

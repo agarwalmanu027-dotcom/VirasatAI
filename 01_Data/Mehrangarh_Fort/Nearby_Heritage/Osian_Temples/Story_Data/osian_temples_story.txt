@@ -1,0 +1,12 @@
+VIRASATAI — STORY DATA
+Entry ID: mehrangarh_fort__osian_temples
+Name: Osian Temples
+Narrative focus: Different religious traditions and architectural forms within one settlement
+Language files: Separate English and Devanagari Hindi master scripts in 03_Scripts.
+Status: Written narration ready for TTS input; pronunciation and generated audio still need listening QA.
+
+Osian is a temple destination rather than a single monument. Official Rajasthan tourism material describes a group of Hindu and Jain temples, with important examples dating broadly between the eighth and eleventh centuries. This range invites you to think about a settlement that supported more than one religious and artistic tradition.
+
+Compare the temples you can visit instead of assuming that they all share one design. A doorway, a tower profile or the treatment of a carved figure may show a different architectural choice. Some sites continue to carry religious meaning, making present-day worship part of the experience as well as historical interpretation.
+
+Use individual temple names when looking for directions or photographs, since a general image of Osian may not show the shrine you intend to see. Follow each site's rules and avoid touching delicate sculpture. A thoughtful visit brings the larger group and its separate buildings together, showing how a regional centre could become a place for varied forms of sacred architecture.

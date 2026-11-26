@@ -1,0 +1,13 @@
+VIRASATAI — BASIC INFORMATION
+Name: Amar Sagar Jain Temple
+Entry ID: jaisalmer_fort__amar_sagar_jain_temple
+Location: Amar Sagar, Jaisalmer district, Rajasthan
+Type: Living Jain temple in a lake-and-palace setting
+Identity note: User-selected site identity verified against the sources below.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. The Rajasthan Foundation district profile identifies a carved Jain temple at one end of the Amar Sagar lake setting. [1]
+2. Amar Sagar is associated with a lake and the neighbouring Amar Singh Palace. [1,2]
+3. A founding date or dedication to a named Tirthankara is not asserted without a stronger institutional temple record.
+
+Sources: See amar_sagar_jain_temple_sources.txt. The parent association is the user's selection, not a verified proximity claim.

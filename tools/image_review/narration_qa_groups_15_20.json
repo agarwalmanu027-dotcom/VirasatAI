@@ -1,0 +1,15 @@
+{
+  "scope": "Sample review, not a complete factual or spoken-audio audit",
+  "main_entries_sampled_in_both_languages": ["sanchi_stupa", "city_palace_udaipur", "mahabalipuram", "jaisalmer_fort", "mehrangarh_fort", "badami_cave_temples"],
+  "nearby_samples": ["sanchi_stupa__neelkantheshwar_temple English", "city_palace_udaipur__karni_mata_temple Hindi", "city_palace_udaipur__vintage_car_museum English", "mahabalipuram__sri_thiruvidandhai English", "jaisalmer_fort__kuldhara_village Hindi", "mehrangarh_fort__singhasni_village English", "mehrangarh_fort__navchowkiya Hindi", "badami_cave_temples__lad_khan_temple English"],
+  "findings": [
+    {"severity": "good", "note": "Main scripts have clean spoken bodies, natural paragraph flow, and spoken dates. Hindi scripts use Devanagari consistently. No source URLs or stage instructions are mixed into the sampled narration."},
+    {"severity": "polish_needed", "place_id": "mehrangarh_fort__singhasni_village", "note": "Spoken script describes the research source and the reason not to invent a foundation story. Move research-process explanation to Sources or Basic_Info. Narration should directly introduce the documented pottery association and the cultural meaning of craftsmanship without inventing local techniques, dates or geography."},
+    {"severity": "polish_needed", "place_id": "mahabalipuram__sri_thiruvidandhai", "note": "Spoken script mostly explains duplicate catalog labels and itinerary bookkeeping. Keep an alias note in structured data, then introduce the actual temple and locality naturally. One brief alternate-name sentence is enough for spoken content."},
+    {"severity": "correct_identity", "place_id": "sanchi_stupa__neelkantheshwar_temple", "note": "Narration correctly identifies Udaipur village in Vidisha Madhya Pradesh, rather than Udaipur Rajasthan."},
+    {"severity": "correct_identity", "place_id": "city_palace_udaipur__karni_mata_temple", "note": "Hindi narration correctly identifies Udaipur Machla Magra temple and separates it from Deshnoke."},
+    {"severity": "appropriate_uncertainty", "place_id": "jaisalmer_fort__kuldhara_village", "note": "Hindi narration marks the abandonment/curse account as folklore rather than established historical proof."}
+  ],
+  "edits_made": false,
+  "audio_generated_or_listened": false
+}

@@ -1,0 +1,42 @@
+{
+  "placeId": "city_palace_udaipur__vintage_car_museum",
+  "displayName": "Vintage Car Museum",
+  "candidates": [
+    {
+      "candidateId": 1,
+      "title": "File:Mercedes Benz in Vintage & Classic Car Collection Museum, Udaipur.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Mercedes_Benz_in_Vintage_%26_Classic_Car_Collection_Museum,_Udaipur.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Mercedes_Benz_in_Vintage_%26_Classic_Car_Collection_Museum%2C_Udaipur.jpg/1280px-Mercedes_Benz_in_Vintage_%26_Classic_Car_Collection_Museum%2C_Udaipur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalWidth": 3872,
+      "originalHeight": 2592,
+      "author": "Schwiki",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "previewPath": "tools/image_review/exact_zero_candidates/city_palace_udaipur__vintage_car_museum/candidate_01.jpg"
+    },
+    {
+      "candidateId": 2,
+      "title": "File:1934 Rolls-Royce in Vintage & Classic Car Collection Museum, Udaipur.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:1934_Rolls-Royce_in_Vintage_%26_Classic_Car_Collection_Museum,_Udaipur.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/1934_Rolls-Royce_in_Vintage_%26_Classic_Car_Collection_Museum%2C_Udaipur.jpg/1280px-1934_Rolls-Royce_in_Vintage_%26_Classic_Car_Collection_Museum%2C_Udaipur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalWidth": 3872,
+      "originalHeight": 2592,
+      "author": "Schwiki",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "previewPath": "tools/image_review/exact_zero_candidates/city_palace_udaipur__vintage_car_museum/candidate_02.jpg"
+    },
+    {
+      "candidateId": 3,
+      "title": "File:Front view of Buick Super 8 in Vintage & Classic Car Collection Museum, Udaipur.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Front_view_of_Buick_Super_8_in_Vintage_%26_Classic_Car_Collection_Museum,_Udaipur.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Front_view_of_Buick_Super_8_in_Vintage_%26_Classic_Car_Collection_Museum%2C_Udaipur.jpg/1280px-Front_view_of_Buick_Super_8_in_Vintage_%26_Classic_Car_Collection_Museum%2C_Udaipur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalWidth": 3872,
+      "originalHeight": 2592,
+      "author": "Schwiki",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "previewPath": "tools/image_review/exact_zero_candidates/city_palace_udaipur__vintage_car_museum/candidate_03.jpg"
+    }
+  ]
+}

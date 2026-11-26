@@ -1,0 +1,44 @@
+VIRASATAI - WIKIMEDIA IMAGE SOURCE RECORD
+St. John's Church
+
+High-resolution color photographs. Downloaded and original dimensions recorded separately. Photographer and license copied from Commons metadata.
+Check each linked file page for complete license conditions before reuse.
+
+01. File:Panorama view of St. John's Church (4), Kolkata (cropped).jpg
+Local file: 02_Images/Victoria_Memorial/Nearby_Heritage/St_Johns_Church/Overview/st_johns_church_overview_01.jpg
+Downloaded size: 1920 x 1135
+Original size: 2546 x 1505
+Photographer/artist: Antaroop2010
+License: CC BY-SA 4.0
+License link: https://creativecommons.org/licenses/by-sa/4.0
+Commons file page: https://commons.wikimedia.org/wiki/File:Panorama_view_of_St._John%27s_Church_(4),_Kolkata_(cropped).jpg
+Downloaded image: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Panorama_view_of_St._John%27s_Church_%284%29%2C_Kolkata_%28cropped%29.jpg/1920px-Panorama_view_of_St._John%27s_Church_%284%29%2C_Kolkata_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+Original image: https://upload.wikimedia.org/wikipedia/commons/2/27/Panorama_view_of_St._John%27s_Church_%284%29%2C_Kolkata_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Credit: Own work
+Attribution: 
+
+02. File:St. John's Church at Hastigns Street,Kolkata.JPG
+Local file: 02_Images/Victoria_Memorial/Nearby_Heritage/St_Johns_Church/Different_Views/st_johns_church_different_views_02.jpg
+Downloaded size: 3840 x 2880
+Original size: 4896 x 3672
+Photographer/artist: SayantanRoni
+License: CC BY-SA 3.0
+License link: https://creativecommons.org/licenses/by-sa/3.0
+Commons file page: https://commons.wikimedia.org/wiki/File:St._John%27s_Church_at_Hastigns_Street,Kolkata.JPG
+Downloaded image: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/St._John%27s_Church_at_Hastigns_Street%2CKolkata.JPG/3840px-St._John%27s_Church_at_Hastigns_Street%2CKolkata.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+Original image: https://upload.wikimedia.org/wikipedia/commons/6/63/St._John%27s_Church_at_Hastigns_Street%2CKolkata.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Credit: Own work
+Attribution: 
+
+03. File:Clock Tower of the St. John's Church,Kolkata.JPG
+Local file: 02_Images/Victoria_Memorial/Nearby_Heritage/St_Johns_Church/Details/st_johns_church_details_03.jpg
+Downloaded size: 1920 x 2560
+Original size: 3672 x 4896
+Photographer/artist: SayantanRoni
+License: CC BY-SA 3.0
+License link: https://creativecommons.org/licenses/by-sa/3.0
+Commons file page: https://commons.wikimedia.org/wiki/File:Clock_Tower_of_the_St._John%27s_Church,Kolkata.JPG
+Downloaded image: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Clock_Tower_of_the_St._John%27s_Church%2CKolkata.JPG/1920px-Clock_Tower_of_the_St._John%27s_Church%2CKolkata.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+Original image: https://upload.wikimedia.org/wikipedia/commons/e/ee/Clock_Tower_of_the_St._John%27s_Church%2CKolkata.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Credit: Own work
+Attribution: 

@@ -1,0 +1,35 @@
+{
+  "scope": "Only the six locally downloaded monument folders; not the full shared Drive",
+  "reviewed_on": "2026-10-14",
+  "rejections": [
+    {
+      "reason": "Jaipur street scene, not a visible Vidyadhar Garden view; 12 byte-identical copies",
+      "paths": [
+        [
+          "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_002.jpg",
+          "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_015.jpg",
+          "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_028.jpg",
+          "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_041.jpg",
+          "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_054.jpg",
+          "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_067.jpg",
+          "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_080.jpg",
+          "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_093.jpg",
+          "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_106.jpg",
+          "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_119.jpg",
+          "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_132.jpg",
+          "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_145.jpg"
+        ]
+      ]
+    },
+    {
+      "reason": "Map screenshot with markers, not a photograph of either labelled place",
+      "paths": [
+        [
+          "amer_fort\\sub_places\\garh_ganesh_temple\\images\\garh_ganesh_temple_013.jpg",
+          "taj_mahal\\sub_places\\bateshwar_temples\\images\\bateshwar_temples_146.jpg"
+        ]
+      ]
+    }
+  ],
+  "drive_deletion_status": "Attempted deletion of the 12 street copies; Google Drive returned insufficientFilePermissions for every file. All remain in Drive."
+}

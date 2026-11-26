@@ -1,0 +1,775 @@
+{
+  "amer_fort": {
+    "factsHindi": [
+      "आमेर किला, जिसे एम्बर पैलेस भी कहते हैं, यूनेस्को की राजस्थान के पहाड़ी किलों वाली विश्व धरोहर का हिस्सा है।",
+      "पहाड़ी पर स्थित इस परिसर में सुरक्षा दीवारें, महल के आँगन और बाग साथ हैं।",
+      "परिसर में सभा कक्ष और दर्पणों से सजा शीश महल शामिल हैं।",
+      "यूनेस्को आमेर को सत्रहवीं शताब्दी की राजपूत-मुगल दरबारी शैली का महत्वपूर्ण उदाहरण मानता है।"
+    ],
+    "historyParagraphs": [
+      3
+    ],
+    "architectureParagraphs": [
+      1,
+      2
+    ],
+    "factLabels": [
+      "Heritage status",
+      "Setting",
+      "Palace features",
+      "Style"
+    ],
+    "factLabelsHindi": [
+      "धरोहर स्थिति",
+      "परिवेश",
+      "महल की विशेषताएँ",
+      "शैली"
+    ],
+    "quickFacts": [
+      "Hill Forts of Rajasthan (UNESCO)",
+      "Hilltop fort, palace courts and gardens",
+      "Audience halls and Sheesh Mahal",
+      "Seventeenth-century Rajput–Mughal court style"
+    ],
+    "quickFactsHindi": [
+      "राजस्थान के पहाड़ी किले (यूनेस्को)",
+      "पहाड़ी किला, महल के आँगन और बाग",
+      "सभा कक्ष और शीश महल",
+      "सत्रहवीं शताब्दी की राजपूत-मुगल दरबारी शैली"
+    ]
+  },
+  "red_fort": {
+    "factsHindi": [
+      "शाहजहाँ ने लाल किला अपनी राजधानी शाहजहाँबाद के शाही महल और किले के रूप में बनवाया था।",
+      "लाल बलुआ पत्थर की सुरक्षा दीवारों के भीतर मंडप, सभा कक्ष और बाग हैं।",
+      "नहर-ए-बहिश्त नाम का जल मार्ग निजी कक्षों को जोड़ता था।",
+      "यूनेस्को में सूचीबद्ध परिसर में पुराना सलीमगढ़ किला भी शामिल है; इसे 2007 में सूचीबद्ध किया गया।",
+      "लाल किला भारत के स्वतंत्रता दिवस समारोहों से जुड़ा है।"
+    ],
+    "historyParagraphs": [
+      0,
+      3,
+      4
+    ],
+    "architectureParagraphs": [
+      1,
+      2
+    ],
+    "factLabels": [
+      "Commissioned by",
+      "Layout",
+      "Water system",
+      "UNESCO listing",
+      "National significance"
+    ],
+    "factLabelsHindi": [
+      "निर्माता",
+      "योजना",
+      "जल व्यवस्था",
+      "यूनेस्को सूची",
+      "राष्ट्रीय महत्व"
+    ],
+    "quickFacts": [
+      "Shah Jahan, for Shahjahanabad",
+      "Red-sandstone walls, halls, pavilions and gardens",
+      "Nahr-i-Behisht",
+      "2007; includes Salimgarh Fort",
+      "Independence Day celebrations"
+    ],
+    "quickFactsHindi": [
+      "शाहजहाँ, शाहजहाँबाद के लिए",
+      "लाल बलुआ पत्थर की दीवारें, सभा कक्ष, मंडप और बाग",
+      "नहर-ए-बहिश्त",
+      "2007; सलीमगढ़ किला भी शामिल",
+      "स्वतंत्रता दिवस समारोह"
+    ]
+  },
+  "gateway_of_india": {
+    "factsHindi": [
+      "गेटवे ऑफ इंडिया अपोलो बंदर पर अरब सागर के सामने स्थित है।",
+      "इसे 1911 में राजा जॉर्ज पंचम और रानी मैरी की यात्रा की याद में बनाया गया; यह 1924 में पूरा हुआ।",
+      "लगभग 26 मीटर ऊँचे इस इंडो-सारासेनिक स्मारक का डिजाइन जॉर्ज विटेट ने बनाया।",
+      "इसमें बड़ी केंद्रीय मेहराब, गुंबद और भारतीय तथा इस्लामी वास्तु रूप मिलते हैं।"
+    ],
+    "historyParagraphs": [
+      0
+    ],
+    "architectureParagraphs": [
+      1
+    ],
+    "factLabels": [
+      "Location",
+      "Construction",
+      "Architect and style",
+      "Design"
+    ],
+    "factLabelsHindi": [
+      "स्थान",
+      "निर्माण",
+      "वास्तुकार और शैली",
+      "रचना"
+    ],
+    "quickFacts": [
+      "Apollo Bunder, Arabian Sea waterfront",
+      "Completed 1924; commemorates the 1911 royal visit",
+      "George Wittet; Indo-Saracenic, about 26 metres",
+      "Central arch, dome, Indian and Islamic motifs"
+    ],
+    "quickFactsHindi": [
+      "अपोलो बंदर, अरब सागर का किनारा",
+      "1924 में पूरा; 1911 की शाही यात्रा की स्मृति",
+      "जॉर्ज विटेट; इंडो-सारासेनिक, लगभग 26 मीटर",
+      "केंद्रीय मेहराब, गुंबद, भारतीय और इस्लामी रूप"
+    ]
+  },
+  "charminar": {
+    "factsHindi": [
+      "सुल्तान मुहम्मद क़ुली क़ुत्ब शाह ने चारमीनार 1591 में बनवाया।",
+      "यह हैदराबाद के ऐतिहासिक नियोजित नगर के केंद्र में स्थित है।",
+      "चौकोर इमारत में चार बड़ी मेहराबें और हर कोने पर एक मीनार है।",
+      "इसके निर्माण में ग्रेनाइट और चूने का गारा शामिल है; ऊपरी भाग में मस्जिद है।"
+    ],
+    "historyParagraphs": [
+      0
+    ],
+    "architectureParagraphs": [
+      1,
+      2
+    ],
+    "factLabels": [
+      "Construction",
+      "City setting",
+      "Design",
+      "Materials"
+    ],
+    "factLabelsHindi": [
+      "निर्माण",
+      "शहर में स्थान",
+      "रचना",
+      "सामग्री"
+    ],
+    "quickFacts": [
+      "1591, Sultan Muhammad Quli Qutb Shah",
+      "Centre of historic planned Hyderabad",
+      "Four arches and four corner minarets",
+      "Granite and lime mortar; mosque on an upper level"
+    ],
+    "quickFactsHindi": [
+      "1591, सुल्तान मुहम्मद क़ुली क़ुत्ब शाह",
+      "ऐतिहासिक नियोजित हैदराबाद का केंद्र",
+      "चार मेहराबें और कोनों पर चार मीनारें",
+      "ग्रेनाइट और चूने का गारा; ऊपर मस्जिद"
+    ]
+  },
+  "victoria_memorial": {
+    "factsHindi": [
+      "1901 में महारानी विक्टोरिया के निधन के बाद लॉर्ड कर्ज़न ने विक्टोरिया मेमोरियल बनाने का प्रस्ताव आगे बढ़ाया।",
+      "विलियम इमर्सन ने इमारत का डिजाइन बनाया और विंसेंट एश ने निर्माण की देखरेख की।",
+      "यह 28 दिसंबर 1921 को जनता के लिए खुला; कुछ निर्माण कार्य बाद में पूरे हुए।",
+      "इसके संग्रहालय में भारतीय इतिहास से जुड़े चित्र, तस्वीरें, पांडुलिपियाँ, वस्तुएँ और अभिलेख हैं।",
+      "संगमरमर की इमारत कोलकाता के मैदान क्षेत्र में बागों के बीच स्थित है।"
+    ],
+    "historyParagraphs": [
+      0,
+      1
+    ],
+    "architectureParagraphs": [
+      0,
+      3
+    ],
+    "factLabels": [
+      "Origins",
+      "Architect",
+      "Public opening",
+      "Museum",
+      "Setting"
+    ],
+    "factLabelsHindi": [
+      "आरंभ",
+      "वास्तुकार",
+      "जनता के लिए खुलना",
+      "संग्रहालय",
+      "परिवेश"
+    ],
+    "quickFacts": [
+      "Proposed by Lord Curzon after Victoria died in 1901",
+      "William Emerson; work supervised by Vincent Esch",
+      "28 December 1921; some work finished later",
+      "Paintings, photographs, manuscripts and historical objects",
+      "Marble building in gardens on Kolkata Maidan"
+    ],
+    "quickFactsHindi": [
+      "1901 में विक्टोरिया के निधन के बाद लॉर्ड कर्ज़न का प्रस्ताव",
+      "विलियम इमर्सन; देखरेख विंसेंट एश",
+      "28 दिसंबर 1921; कुछ काम बाद में पूरे",
+      "चित्र, तस्वीरें, पांडुलिपियाँ और ऐतिहासिक वस्तुएँ",
+      "कोलकाता मैदान में बागों के बीच संगमरमर की इमारत"
+    ]
+  },
+  "mysore_palace": {
+    "factsHindi": [
+      "वर्तमान महल का निर्माण 1897 से 1912 के बीच हुआ।",
+      "हेनरी इरविन ने इसकी इंडो-सारासेनिक शैली का डिजाइन बनाया।",
+      "तीन मंजिला इमारत में गुंबद वाले मीनारनुमा हिस्से हैं।",
+      "दरबार हॉल में सजी हुई छतें और तराशे हुए स्तंभ हैं।",
+      "कल्याण मंडप में आकृतियों वाला फर्श और रंगीन काँच हैं।"
+    ],
+    "historyParagraphs": [
+      1,
+      3
+    ],
+    "architectureParagraphs": [
+      1,
+      2
+    ],
+    "factLabels": [
+      "Construction",
+      "Architect and style",
+      "Building",
+      "Durbar Hall",
+      "Kalyanamantapa"
+    ],
+    "factLabelsHindi": [
+      "निर्माण",
+      "वास्तुकार और शैली",
+      "इमारत",
+      "दरबार हॉल",
+      "कल्याण मंडप"
+    ],
+    "quickFacts": [
+      "1897–1912",
+      "Henry Irwin; Indo-Saracenic",
+      "Three storeys with domed towers",
+      "Decorated ceilings and carved pillars",
+      "Patterned floor and stained glass"
+    ],
+    "quickFactsHindi": [
+      "1897–1912",
+      "हेनरी इरविन; इंडो-सारासेनिक",
+      "तीन मंजिलें और गुंबद वाले मीनारनुमा भाग",
+      "सजी हुई छतें और तराशे हुए स्तंभ",
+      "आकृतियों वाला फर्श और रंगीन काँच"
+    ]
+  },
+  "hampi_monuments": {
+    "factsHindi": [
+      "हम्पी विजयनगर साम्राज्य की राजधानी था।",
+      "इसका प्रमुख विकास चौदहवीं से सोलहवीं शताब्दी के बीच हुआ।",
+      "1565 के संघर्ष के बाद नगर को बड़े विनाश का सामना करना पड़ा।",
+      "विश्व धरोहर परिसर में धार्मिक, शाही, जल व्यवस्था और शहरी संरचनाओं के अवशेष हैं।",
+      "यह स्मारक समूह 1986 में यूनेस्को की विश्व धरोहर सूची में शामिल हुआ।"
+    ],
+    "architectureParagraphs": [
+      1,
+      2
+    ],
+    "historyParagraphs": [
+      0,
+      3
+    ],
+    "factLabels": [
+      "Historic role",
+      "Main period",
+      "1565 conflict",
+      "Surviving remains",
+      "UNESCO listing"
+    ],
+    "factLabelsHindi": [
+      "ऐतिहासिक भूमिका",
+      "मुख्य काल",
+      "1565 का संघर्ष",
+      "बचे हुए अवशेष",
+      "यूनेस्को सूची"
+    ],
+    "quickFacts": [
+      "Capital of the Vijayanagara Empire",
+      "Fourteenth–sixteenth centuries",
+      "Major destruction followed the conflict",
+      "Sacred, royal, water and urban structures",
+      "1986"
+    ],
+    "quickFactsHindi": [
+      "विजयनगर साम्राज्य की राजधानी",
+      "चौदहवीं–सोलहवीं शताब्दी",
+      "संघर्ष के बाद नगर को भारी विनाश हुआ",
+      "धार्मिक, शाही, जल व्यवस्था और शहरी संरचनाएँ",
+      "1986"
+    ]
+  },
+  "meenakshi_temple": {
+    "factsHindi": [
+      "दो मुख्य गर्भगृह मीनाक्षी और सुंदरेश्वर को समर्पित हैं।",
+      "परिसर का विकास कई राजवंशों के समय हुआ।",
+      "सत्रहवीं शताब्दी में तिरुमलै नायक के शासन में बड़ा विस्तार हुआ।",
+      "मूर्तियों से सजे प्रवेश गोपुरम और हज़ार स्तंभ मंडप इसकी प्रमुख विशेषताएँ हैं।",
+      "मंदिर आज भी सक्रिय धार्मिक संस्था है।"
+    ],
+    "historyParagraphs": [
+      1,
+      4
+    ],
+    "architectureParagraphs": [
+      2,
+      3
+    ],
+    "factLabels": [
+      "Dedication",
+      "Development",
+      "Major expansion",
+      "Key features",
+      "Religious use"
+    ],
+    "factLabelsHindi": [
+      "समर्पण",
+      "विकास",
+      "प्रमुख विस्तार",
+      "मुख्य विशेषताएँ",
+      "धार्मिक उपयोग"
+    ],
+    "quickFacts": [
+      "Meenakshi and Sundareswarar",
+      "Contributions from several dynasties",
+      "Thirumalai Nayak, seventeenth century",
+      "Sculptured gopurams and Thousand Pillar Hall",
+      "Active place of worship"
+    ],
+    "quickFactsHindi": [
+      "मीनाक्षी और सुंदरेश्वर",
+      "कई राजवंशों का योगदान",
+      "तिरुमलै नायक, सत्रहवीं शताब्दी",
+      "मूर्तियों से सजे गोपुरम और हज़ार स्तंभ मंडप",
+      "सक्रिय उपासना स्थल"
+    ]
+  },
+  "golden_temple": {
+    "factsHindi": [
+      "गुरु अर्जन ने मुख्य मंदिर को विकसित किया और 1604 में यहाँ पवित्र ग्रंथ की स्थापना की।",
+      "मुख्य भवन सरोवर में स्थित है और उस तक पुलनुमा रास्ते से पहुँचा जाता है।",
+      "संस्था की व्याख्या में चार प्रवेश द्वार सामाजिक और धार्मिक भेदों से ऊपर उठकर सबका स्वागत करने का प्रतीक हैं।",
+      "महाराजा रणजीत सिंह ने बाद में इसकी सजावट में योगदान दिया।",
+      "परिसर का प्रबंधन शिरोमणि गुरुद्वारा प्रबंधक कमेटी करती है।"
+    ],
+    "architectureParagraphs": [
+      0,
+      2,
+      3
+    ],
+    "historyParagraphs": [
+      1
+    ],
+    "factLabels": [
+      "Early development",
+      "Setting",
+      "Entrances",
+      "Later patronage",
+      "Management"
+    ],
+    "factLabelsHindi": [
+      "प्रारंभिक विकास",
+      "परिवेश",
+      "प्रवेश द्वार",
+      "बाद का संरक्षण",
+      "प्रबंधन"
+    ],
+    "quickFacts": [
+      "Guru Arjan; scripture installed in 1604",
+      "Shrine in the sarovar, reached by a causeway",
+      "Four entrances; institutional symbol of welcome",
+      "Maharaja Ranjit Singh",
+      "Shiromani Gurdwara Parbandhak Committee"
+    ],
+    "quickFactsHindi": [
+      "गुरु अर्जन; 1604 में पवित्र ग्रंथ की स्थापना",
+      "सरोवर में मुख्य भवन; पुलनुमा प्रवेश मार्ग",
+      "चार प्रवेश द्वार; संस्था के अनुसार सबके स्वागत का प्रतीक",
+      "महाराजा रणजीत सिंह",
+      "शिरोमणि गुरुद्वारा प्रबंधक कमेटी"
+    ]
+  },
+  "khajuraho_monuments": {
+    "factsHindi": [
+      "मंदिर निर्माण का मुख्य दौर दसवीं और ग्यारहवीं शताब्दी में चंदेल शासकों के समय था।",
+      "इस समूह में हिंदू और जैन मंदिर हैं।",
+      "मंदिर पश्चिमी, पूर्वी और दक्षिणी समूहों में बँटे हैं।",
+      "बलुआ पत्थर के मंदिर ऊँचे चबूतरों पर हैं और उनके गर्भगृहों के ऊपर शिखर हैं।",
+      "यह स्मारक समूह 1986 में यूनेस्को की विश्व धरोहर सूची में शामिल हुआ।"
+    ],
+    "historyParagraphs": [
+      0
+    ],
+    "architectureParagraphs": [
+      1,
+      2,
+      3
+    ],
+    "factLabels": [
+      "Construction period",
+      "Religious traditions",
+      "Groups",
+      "Structure",
+      "UNESCO listing"
+    ],
+    "factLabelsHindi": [
+      "निर्माण काल",
+      "धार्मिक परंपराएँ",
+      "समूह",
+      "संरचना",
+      "यूनेस्को सूची"
+    ],
+    "quickFacts": [
+      "Chandelas, tenth–eleventh centuries",
+      "Hindu and Jain",
+      "Western, eastern and southern groups",
+      "Sandstone, raised platforms and sanctum towers",
+      "1986"
+    ],
+    "quickFactsHindi": [
+      "चंदेल शासक, दसवीं–ग्यारहवीं शताब्दी",
+      "हिंदू और जैन",
+      "पश्चिमी, पूर्वी और दक्षिणी समूह",
+      "बलुआ पत्थर, ऊँचे चबूतरे और गर्भगृह पर शिखर",
+      "1986"
+    ]
+  },
+  "ajanta_ellora_caves": {
+    "factsHindi": [
+      "अजंता और एलोरा अलग-अलग स्थल हैं; वे एक ही गुफा परिसर नहीं हैं।",
+      "अजंता में बौद्ध मठ, उपासना कक्ष, चित्र और मूर्तियाँ हैं।",
+      "अजंता की मुख्य खुदाई दूसरी-पहली शताब्दी ईसा पूर्व और पाँचवीं-छठी शताब्दी ईस्वी के चरणों में हुई।",
+      "एलोरा की 34 मुख्य गुफाएँ बौद्ध, हिंदू और जैन परंपराओं से जुड़ी हैं।",
+      "एलोरा की गुफा 16 कैलास मंदिर है।",
+      "दोनों स्थल 1983 में यूनेस्को की विश्व धरोहर सूची में शामिल हुए।"
+    ],
+    "historyParagraphs": [
+      0,
+      1,
+      2
+    ],
+    "architectureParagraphs": [
+      3
+    ],
+    "factLabels": [
+      "Site identity",
+      "Ajanta",
+      "Ajanta periods",
+      "Ellora",
+      "Kailasa temple",
+      "UNESCO listing"
+    ],
+    "factLabelsHindi": [
+      "स्थल की पहचान",
+      "अजंता",
+      "अजंता के काल",
+      "एलोरा",
+      "कैलास मंदिर",
+      "यूनेस्को सूची"
+    ],
+    "quickFacts": [
+      "Two distinct sites in Maharashtra",
+      "Buddhist monasteries, halls, paintings and sculpture",
+      "Second–first centuries BCE; fifth–sixth centuries CE",
+      "34 principal Buddhist, Hindu and Jain caves",
+      "Cave 16, Ellora",
+      "1983, both sites"
+    ],
+    "quickFactsHindi": [
+      "महाराष्ट्र के दो अलग-अलग स्थल",
+      "बौद्ध मठ, कक्ष, चित्र और मूर्तियाँ",
+      "दूसरी–पहली शताब्दी ईसा पूर्व; पाँचवीं–छठी शताब्दी ईस्वी",
+      "34 मुख्य बौद्ध, हिंदू और जैन गुफाएँ",
+      "गुफा 16, एलोरा",
+      "1983, दोनों स्थल"
+    ]
+  },
+  "konark_sun_temple": {
+    "factsHindi": [
+      "पूर्वी गंग वंश के नरसिंहदेव प्रथम के समय तेरहवीं शताब्दी में मंदिर बनाया गया।",
+      "इसकी योजना सूर्य देव के रथ को दर्शाती है, जिसमें 24 नक्काशीदार पहिए हैं।",
+      "बचे हुए परिसर में प्रमुख जगमोहन और बिना छत का नृत्य मंडप शामिल हैं।",
+      "शिल्प दृश्यों में संगीतकार, नर्तक, पशु और उस समय के जीवन के पहलू हैं।",
+      "यह स्थल 1984 में यूनेस्को की विश्व धरोहर सूची में शामिल हुआ।",
+      "भारतीय पुरातत्व सर्वेक्षण यहाँ संरक्षण कार्य करता है।"
+    ],
+    "historyParagraphs": [
+      0,
+      4
+    ],
+    "architectureParagraphs": [
+      1,
+      2,
+      3
+    ],
+    "factLabels": [
+      "Construction",
+      "Design",
+      "Surviving structures",
+      "Sculptures",
+      "UNESCO listing",
+      "Conservation"
+    ],
+    "factLabelsHindi": [
+      "निर्माण",
+      "रचना",
+      "बची हुई संरचनाएँ",
+      "मूर्तिकला",
+      "यूनेस्को सूची",
+      "संरक्षण"
+    ],
+    "quickFacts": [
+      "Thirteenth century, Narasimha Deva I",
+      "Surya’s chariot, with 24 carved wheels",
+      "Jagamohana and roofless dance hall",
+      "Musicians, dancers, animals and daily life",
+      "1984",
+      "Archaeological Survey of India"
+    ],
+    "quickFactsHindi": [
+      "तेरहवीं शताब्दी, नरसिंहदेव प्रथम",
+      "सूर्य देव का रथ; 24 नक्काशीदार पहिए",
+      "जगमोहन और बिना छत का नृत्य मंडप",
+      "संगीतकार, नर्तक, पशु और दैनिक जीवन",
+      "1984",
+      "भारतीय पुरातत्व सर्वेक्षण"
+    ]
+  },
+  "sanchi_stupa": {
+    "factsHindi": [
+      "इस पवित्र परिसर की शुरुआत तीसरी शताब्दी ईसा पूर्व में सम्राट अशोक के समय हुई। [1]",
+      "महान स्तूप का आकार बाद के विस्तार और परिवर्धन से विकसित हुआ। [1]",
+      "नक्काशीदार तोरणों में बौद्ध प्रतीक और जातक कथाएँ दिखाई गई हैं। [1]",
+      "परिसर में स्तूप, मंदिर, मठ और स्तंभ शामिल हैं। [1,2]",
+      "साँची के बौद्ध स्मारक 1989 में यूनेस्को की विश्व धरोहर सूची में शामिल हुए। [1]"
+    ],
+    "historyParagraphs": [
+      1
+    ],
+    "architectureParagraphs": [
+      2,
+      3
+    ],
+    "factLabels": [
+      "Origins",
+      "Development",
+      "Gateways",
+      "Complex",
+      "UNESCO listing"
+    ],
+    "factLabelsHindi": [
+      "आरंभ",
+      "विकास",
+      "तोरण",
+      "परिसर",
+      "यूनेस्को सूची"
+    ],
+    "quickFacts": [
+      "Emperor Ashoka, third century BCE [1]",
+      "Later enlargements of the Great Stupa [1]",
+      "Buddhist symbols and Jataka scenes [1]",
+      "Stupas, temples, monasteries and pillars [1,2]",
+      "1989 [1]"
+    ],
+    "quickFactsHindi": [
+      "सम्राट अशोक, तीसरी शताब्दी ईसा पूर्व [1]",
+      "बाद के समय में महान स्तूप का विस्तार [1]",
+      "बौद्ध प्रतीक और जातक कथाओं के दृश्य [1]",
+      "स्तूप, मंदिर, मठ और स्तंभ [1,2]",
+      "1989 [1]"
+    ]
+  },
+  "city_palace_udaipur": {
+    "factsHindi": [
+      "महल परिसर का विकास मेवाड़ के क्रमिक शासकों के समय हुआ। [1]",
+      "सिटी पैलेस संग्रहालय 1969 में जनता के लिए खुला। [1]",
+      "संग्रहालय में मर्दाना महल और जनाना महल शामिल हैं। [1]",
+      "संग्रह में चित्र, मूर्तियाँ और चाँदी की वस्तुएँ हैं। [2]"
+    ],
+    "architectureParagraphs": [
+      1
+    ],
+    "historyParagraphs": [
+      0,
+      2
+    ],
+    "factLabels": [
+      "Development",
+      "Museum opening",
+      "Palace buildings",
+      "Collections"
+    ],
+    "factLabelsHindi": [
+      "विकास",
+      "संग्रहालय का आरंभ",
+      "महल के भवन",
+      "संग्रह"
+    ],
+    "quickFacts": [
+      "Successive rulers of Mewar [1]",
+      "1969 [1]",
+      "Mardana Mahal and Zenana Mahal [1]",
+      "Paintings, sculpture and silver [2]"
+    ],
+    "quickFactsHindi": [
+      "मेवाड़ के क्रमिक शासक [1]",
+      "1969 [1]",
+      "मर्दाना महल और जनाना महल [1]",
+      "चित्र, मूर्तियाँ और चाँदी की वस्तुएँ [2]"
+    ]
+  },
+  "mahabalipuram": {
+    "factsHindi": [
+      "महाबलीपुरम और मामल्लपुरम एक ही समुद्री नगर के नाम हैं। यूनेस्को की संपत्ति महाबलीपुरम का स्मारक समूह है। [1]",
+      "पल्लव शासकों के संरक्षण में सातवीं और आठवीं शताब्दी में मुख्य स्मारक बने। [1]",
+      "समूह में गुफा मंदिर, एकाश्म रथ, नक्काशीदार शिल्प दृश्य और पत्थर जोड़कर बने मंदिर हैं। [1]",
+      "यह संपत्ति 1984 में विश्व धरोहर सूची में शामिल हुई। [1]"
+    ],
+    "architectureParagraphs": [
+      1,
+      2
+    ],
+    "historyParagraphs": [
+      0
+    ],
+    "factLabels": [
+      "Site identity",
+      "Patrons and period",
+      "Monument types",
+      "UNESCO listing"
+    ],
+    "factLabelsHindi": [
+      "स्थल की पहचान",
+      "संरक्षक और काल",
+      "स्मारकों के प्रकार",
+      "यूनेस्को सूची"
+    ],
+    "quickFacts": [
+      "Mahabalipuram / Mamallapuram [1]",
+      "Pallavas, seventh–eighth centuries [1]",
+      "Caves, monolithic rathas, reliefs and structural temples [1]",
+      "1984 [1]"
+    ],
+    "quickFactsHindi": [
+      "महाबलीपुरम / मामल्लपुरम [1]",
+      "पल्लव, सातवीं–आठवीं शताब्दी [1]",
+      "गुफाएँ, एकाश्म रथ, शिल्प दृश्य और पत्थर जोड़कर बने मंदिर [1]",
+      "1984 [1]"
+    ]
+  },
+  "jaisalmer_fort": {
+    "factsHindi": [
+      "जैसलमेर किले का संबंध रावल जैसल और बारहवीं शताब्दी में नगर की स्थापना से है। [1]",
+      "पीले बलुआ पत्थर के कारण इसे सोनार किला या स्वर्ण किला कहा जाता है। [1]",
+      "किले के भीतर घरों, मंदिरों और व्यापार वाला आबादी क्षेत्र है। [1,2]",
+      "यह यूनेस्को की राजस्थान के पहाड़ी किलों वाली संपत्ति के छह किलों में से एक है, जिसे 2013 में सूचीबद्ध किया गया। [2]"
+    ],
+    "historyParagraphs": [
+      0,
+      2
+    ],
+    "architectureParagraphs": [
+      1
+    ],
+    "factLabels": [
+      "Origins",
+      "Material",
+      "Living fort",
+      "UNESCO listing"
+    ],
+    "factLabelsHindi": [
+      "आरंभ",
+      "सामग्री",
+      "आबादी वाला किला",
+      "यूनेस्को सूची"
+    ],
+    "quickFacts": [
+      "Rawal Jaisal, twelfth century [1]",
+      "Yellow sandstone; Sonar Qila [1]",
+      "Homes, temples, shops and daily life [1,2]",
+      "2013; Hill Forts of Rajasthan [2]"
+    ],
+    "quickFactsHindi": [
+      "रावल जैसल, बारहवीं शताब्दी [1]",
+      "पीला बलुआ पत्थर; सोनार किला [1]",
+      "घर, मंदिर, दुकानें और दैनिक जीवन [1,2]",
+      "2013; राजस्थान के पहाड़ी किले [2]"
+    ]
+  },
+  "mehrangarh_fort": {
+    "factsHindi": [
+      "राव जोधा ने 1459 में मेहरानगढ़ की स्थापना की। [1]",
+      "किले और महलों का विकास कई सदियों में हुआ; बाद के शासकों ने पुरानी इमारतों में बदलाव किए। [1]",
+      "मालदेव और अजीत सिंह के शासन प्रमुख निर्माण चरणों में शामिल हैं। [1]",
+      "संग्रहालय की दीर्घाओं में चित्र, वस्त्र, हथियार, पालकियाँ और हाथियों के हौदे हैं। [2]"
+    ],
+    "architectureParagraphs": [
+      1,
+      2
+    ],
+    "historyParagraphs": [
+      0,
+      1
+    ],
+    "factLabels": [
+      "Foundation",
+      "Development",
+      "Building phases",
+      "Museum collections"
+    ],
+    "factLabelsHindi": [
+      "स्थापना",
+      "विकास",
+      "निर्माण चरण",
+      "संग्रहालय संग्रह"
+    ],
+    "quickFacts": [
+      "Rao Jodha, 1459 [1]",
+      "Fort and palace changes over several centuries [1]",
+      "Including Maldeo and Ajit Singh [1]",
+      "Paintings, textiles, arms, palanquins and howdahs [2]"
+    ],
+    "quickFactsHindi": [
+      "राव जोधा, 1459 [1]",
+      "कई सदियों में किले और महलों का विकास [1]",
+      "मालदेव और अजीत सिंह सहित कई शासक [1]",
+      "चित्र, वस्त्र, हथियार, पालकियाँ और हौदे [2]"
+    ]
+  },
+  "badami_cave_temples": {
+    "factsHindi": [
+      "ऐतिहासिक रूप से वातापी कहलाने वाला बादामी प्रारंभिक चालुक्यों की राजधानी था। [1,2]",
+      "बलुआ पत्थर में काटकर चार मुख्य गुफा मंदिर बनाए गए; तीन हिंदू और एक जैन गुफा है। [1,2]",
+      "पहली गुफा में अठारह भुजाओं वाले नटराज शिव हैं; अन्य गुफाओं में विष्णु और जैन तीर्थंकरों की मूर्तियाँ हैं। [1]",
+      "ऐहोल-बादामी-पट्टदकल के विकास से जुड़ा व्यापक प्रस्ताव यूनेस्को की संभावित सूची में है; इससे बादामी की गुफाएँ सूचीबद्ध विश्व धरोहर नहीं बन जातीं। [3]"
+    ],
+    "historyParagraphs": [
+      0
+    ],
+    "architectureParagraphs": [
+      1,
+      2
+    ],
+    "factLabels": [
+      "Historic identity",
+      "Cave temples",
+      "Sculpture",
+      "Heritage status"
+    ],
+    "factLabelsHindi": [
+      "ऐतिहासिक पहचान",
+      "गुफा मंदिर",
+      "मूर्तिकला",
+      "धरोहर स्थिति"
+    ],
+    "quickFacts": [
+      "Vatapi, Early Chalukya capital [1,2]",
+      "Four sandstone caves: three Hindu, one Jain [1,2]",
+      "Nataraja, Vishnu and Jain Tirthankaras [1]",
+      "Wider Aihole–Badami–Pattadakal proposal on UNESCO Tentative List [3]"
+    ],
+    "quickFactsHindi": [
+      "वातापी, प्रारंभिक चालुक्यों की राजधानी [1,2]",
+      "बलुआ पत्थर की चार गुफाएँ: तीन हिंदू, एक जैन [1,2]",
+      "नटराज, विष्णु और जैन तीर्थंकर [1]",
+      "व्यापक ऐहोल-बादामी-पट्टदकल प्रस्ताव यूनेस्को की संभावित सूची में [3]"
+    ]
+  }
+}

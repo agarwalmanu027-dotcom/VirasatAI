@@ -1,0 +1,12 @@
+VIRASATAI — STORY DATA
+Entry ID: mehrangarh_fort__toorji_ka_jhalra
+Name: Toorji Ka Jhalra
+Narrative focus: Water infrastructure expressed through stepped geometry
+Language files: Separate English and Devanagari Hindi master scripts in 03_Scripts.
+Status: Written narration ready for TTS input; pronunciation and generated audio still need listening QA.
+
+Toorji Ka Jhalra makes water infrastructure visible as architecture. This eighteenth-century sandstone stepwell belongs to the history of managing water in Jodhpur. Its repeated steps create a striking geometric form, but they also had a practical purpose: allowing people to reach water as its level changed.
+
+Look across the structure before concentrating on one flight of steps. The pattern can seem almost abstract from above. Thinking about movement through it brings the design back to daily life, effort and the need for a reliable water source.
+
+A historic stepwell is not an invitation to enter the water or descend wherever you wish. Surfaces and edges can be hazardous, so follow current instructions and view from a safe position. Do not throw anything into the well. Toorji Ka Jhalra encourages appreciation of an often overlooked kind of heritage, where a basic need produced a structure with both engineering logic and visual power.

@@ -1,0 +1,75 @@
+[
+  {
+    "place_id": "red_fort__st_james_church",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Clear complete yellow church and dome explicitly identified as Delhi Kashmiri Gate.",
+        "reviewed_source_title": "File:Delhi, Saint James Church.JPG",
+        "reviewed_source_sha1": "6ef8092da07a753eca81485662e0f374df73317e"
+      },
+      {
+        "candidate_id": 3,
+        "category": "Details",
+        "review_note": "Sharp close dome and curved facade of Skinner's Church Delhi.",
+        "reviewed_source_title": "File:Skinner's Church 1.jpg",
+        "reviewed_source_sha1": "c3c8852dea0a630a924116108ecd7a118070f285"
+      },
+      {
+        "candidate_id": 4,
+        "category": "Details",
+        "review_note": "Clear side tower, arched windows and colonnade.",
+        "reviewed_source_title": "File:Skinner's Church 2.jpg",
+        "reviewed_source_sha1": "e2a03e61b863d21276508f501876f8fb1d6e6c28"
+      },
+      {
+        "candidate_id": 6,
+        "category": "Surroundings",
+        "review_note": "Church front and green garden through natural tree framing; Delhi Kashmiri Gate record.",
+        "reviewed_source_title": "File:St James' Church, Kashmiri Gate, Delhi, India.jpg",
+        "reviewed_source_sha1": "f13ba4237cc73f57f7eed5045c7d7bb4249e685b"
+      }
+    ],
+    "coverage_note": "Four clear genuine Delhi St James Church photographs selected. Lower-resolution repeated overview and flash-glared memorial slab omitted."
+  },
+  {
+    "place_id": "sanchi_stupa__neelkantheshwar_temple",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Sharp carved temple porch with architecture filling the frame; file identifies Udayeshwara Temple Udayapur, matching the Vidisha site. Seated visitors are a minor foreground element.",
+        "reviewed_source_title": "File:Local folk at Udayeshwara Temple Udayapur.jpg",
+        "reviewed_source_sha1": "b60465e6a89b3f2b7d25105a57c513d2843109ac"
+      }
+    ],
+    "coverage_note": "One clear real photograph of the correct Udayeshwar temple available. No Rajasthan Udaipur substitution."
+  }
+  ,{
+    "place_id": "mehrangarh_fort__balsamand_lake",
+    "review_status": "source_coverage_gap",
+    "selected": [],
+    "coverage_note": "No verified qualifying Commons photo found after targeted Balsamand/Bal Samand searches. Keep explicit gap; Kaylana and Sardar Samand are different lakes."
+  },
+  {
+    "place_id": "mehrangarh_fort__machia_biological_park",
+    "review_status": "source_coverage_gap",
+    "selected": [],
+    "coverage_note": "Only indexed Commons photograph found is 1220 by 913, under the current quality threshold. No verified large alternative found. Parque Machia in Bolivia is unrelated."
+  },
+  {
+    "place_id": "mehrangarh_fort__singhasni_village",
+    "review_status": "source_coverage_gap",
+    "selected": [],
+    "coverage_note": "No verified Commons photographs of Singhasni/Singhasani village found. Generic pottery photographs would not establish the exact site and have not been substituted."
+  },
+  {
+    "place_id": "mehrangarh_fort__navchowkiya",
+    "review_status": "source_coverage_gap",
+    "selected": [],
+    "coverage_note": "No verified Commons photograph of this exact neighborhood found. Unspecified Jodhpur Blue City streets cannot be assigned to Navchowkiya without identity evidence."
+  }
+]

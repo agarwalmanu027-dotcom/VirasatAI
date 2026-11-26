@@ -1,0 +1,11 @@
+{
+  "place_id": "meenakshi_temple__goripalayam_dargah",
+  "display_name": "Goripalayam Dargah",
+  "parent_id": "meenakshi_temple",
+  "main_order": 10,
+  "is_main": false,
+  "candidates": [],
+  "errors": [],
+  "visual_review_status": "pending",
+  "status": "no_qualifying_candidates"
+}

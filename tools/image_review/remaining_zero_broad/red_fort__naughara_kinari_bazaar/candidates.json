@@ -1,0 +1,43 @@
+{
+  "placeId": "red_fort__naughara_kinari_bazaar",
+  "queries": [
+    "Naughara Delhi",
+    "Nau Ghara Kinari Bazaar",
+    "Naughara Jain temple Delhi"
+  ],
+  "candidates": [
+    {
+      "candidateId": 1,
+      "title": "File:Naughara mansions in Kinari Bazaar.jpg",
+      "query": "Naughara Delhi",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Naughara_mansions_in_Kinari_Bazaar.jpg",
+      "previewUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/Naughara_mansions_in_Kinari_Bazaar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "Ramesh Lalwani",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "previewPath": "tools/image_review/remaining_zero_broad/red_fort__naughara_kinari_bazaar/candidate_01.jpg"
+    },
+    {
+      "candidateId": 2,
+      "title": "File:Sumtinath.jpg",
+      "query": "Naughara Delhi",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Sumtinath.jpg",
+      "previewUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Sumtinath.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "TrueIndian09",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/remaining_zero_broad/red_fort__naughara_kinari_bazaar/candidate_02.jpg"
+    },
+    {
+      "candidateId": 3,
+      "title": "File:Sumatinath prabhu naughara.jpg",
+      "query": "Naughara Delhi",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Sumatinath_prabhu_naughara.jpg",
+      "previewUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Sumatinath_prabhu_naughara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "Rahulpalawat",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "previewPath": "tools/image_review/remaining_zero_broad/red_fort__naughara_kinari_bazaar/candidate_03.jpg"
+    }
+  ]
+}

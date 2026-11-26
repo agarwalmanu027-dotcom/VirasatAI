@@ -1,0 +1,178 @@
+{
+  "parent_monument_id": "meenakshi_temple",
+  "parent_monument_name": "Meenakshi Temple, Madurai",
+  "selection_source": "User-supplied table",
+  "nearby_entry_count": 10,
+  "places": [
+    {
+      "id": "meenakshi_temple__thirumalai_nayakkar_mahal",
+      "order": 1,
+      "display_name": "Thirumalai Nayakkar Mahal",
+      "folder_name": "Thirumalai_Nayakkar_Mahal",
+      "parent_monument_id": "meenakshi_temple",
+      "paths": {
+        "data": "01_Data/Meenakshi_Temple/Nearby_Heritage/Thirumalai_Nayakkar_Mahal",
+        "images": "02_Images/Meenakshi_Temple/Nearby_Heritage/Thirumalai_Nayakkar_Mahal",
+        "scripts": "03_Scripts/Meenakshi_Temple/Nearby_Heritage/Thirumalai_Nayakkar_Mahal",
+        "audio": "04_Audio/Meenakshi_Temple/Nearby_Heritage/Thirumalai_Nayakkar_Mahal"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "meenakshi_temple__gandhi_memorial_museum",
+      "order": 2,
+      "display_name": "Gandhi Memorial Museum",
+      "folder_name": "Gandhi_Memorial_Museum",
+      "parent_monument_id": "meenakshi_temple",
+      "paths": {
+        "data": "01_Data/Meenakshi_Temple/Nearby_Heritage/Gandhi_Memorial_Museum",
+        "images": "02_Images/Meenakshi_Temple/Nearby_Heritage/Gandhi_Memorial_Museum",
+        "scripts": "03_Scripts/Meenakshi_Temple/Nearby_Heritage/Gandhi_Memorial_Museum",
+        "audio": "04_Audio/Meenakshi_Temple/Nearby_Heritage/Gandhi_Memorial_Museum"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "meenakshi_temple__vandiyur_mariamman_teppakulam",
+      "order": 3,
+      "display_name": "Vandiyur Mariamman Teppakulam",
+      "folder_name": "Vandiyur_Mariamman_Teppakulam",
+      "parent_monument_id": "meenakshi_temple",
+      "paths": {
+        "data": "01_Data/Meenakshi_Temple/Nearby_Heritage/Vandiyur_Mariamman_Teppakulam",
+        "images": "02_Images/Meenakshi_Temple/Nearby_Heritage/Vandiyur_Mariamman_Teppakulam",
+        "scripts": "03_Scripts/Meenakshi_Temple/Nearby_Heritage/Vandiyur_Mariamman_Teppakulam",
+        "audio": "04_Audio/Meenakshi_Temple/Nearby_Heritage/Vandiyur_Mariamman_Teppakulam"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "meenakshi_temple__vilachery_pottery_village",
+      "order": 4,
+      "display_name": "Vilachery Pottery Village",
+      "folder_name": "Vilachery_Pottery_Village",
+      "parent_monument_id": "meenakshi_temple",
+      "paths": {
+        "data": "01_Data/Meenakshi_Temple/Nearby_Heritage/Vilachery_Pottery_Village",
+        "images": "02_Images/Meenakshi_Temple/Nearby_Heritage/Vilachery_Pottery_Village",
+        "scripts": "03_Scripts/Meenakshi_Temple/Nearby_Heritage/Vilachery_Pottery_Village",
+        "audio": "04_Audio/Meenakshi_Temple/Nearby_Heritage/Vilachery_Pottery_Village"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "meenakshi_temple__goripalayam_dargah",
+      "order": 5,
+      "display_name": "Goripalayam Dargah",
+      "folder_name": "Goripalayam_Dargah",
+      "parent_monument_id": "meenakshi_temple",
+      "paths": {
+        "data": "01_Data/Meenakshi_Temple/Nearby_Heritage/Goripalayam_Dargah",
+        "images": "02_Images/Meenakshi_Temple/Nearby_Heritage/Goripalayam_Dargah",
+        "scripts": "03_Scripts/Meenakshi_Temple/Nearby_Heritage/Goripalayam_Dargah",
+        "audio": "04_Audio/Meenakshi_Temple/Nearby_Heritage/Goripalayam_Dargah"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "meenakshi_temple__koodal_azhagar_temple",
+      "order": 6,
+      "display_name": "Koodal Azhagar Temple",
+      "folder_name": "Koodal_Azhagar_Temple",
+      "parent_monument_id": "meenakshi_temple",
+      "paths": {
+        "data": "01_Data/Meenakshi_Temple/Nearby_Heritage/Koodal_Azhagar_Temple",
+        "images": "02_Images/Meenakshi_Temple/Nearby_Heritage/Koodal_Azhagar_Temple",
+        "scripts": "03_Scripts/Meenakshi_Temple/Nearby_Heritage/Koodal_Azhagar_Temple",
+        "audio": "04_Audio/Meenakshi_Temple/Nearby_Heritage/Koodal_Azhagar_Temple"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "meenakshi_temple__palamuthirsolai_murugan_temple",
+      "order": 7,
+      "display_name": "Palamuthirsolai Murugan Temple",
+      "folder_name": "Palamuthirsolai_Murugan_Temple",
+      "parent_monument_id": "meenakshi_temple",
+      "paths": {
+        "data": "01_Data/Meenakshi_Temple/Nearby_Heritage/Palamuthirsolai_Murugan_Temple",
+        "images": "02_Images/Meenakshi_Temple/Nearby_Heritage/Palamuthirsolai_Murugan_Temple",
+        "scripts": "03_Scripts/Meenakshi_Temple/Nearby_Heritage/Palamuthirsolai_Murugan_Temple",
+        "audio": "04_Audio/Meenakshi_Temple/Nearby_Heritage/Palamuthirsolai_Murugan_Temple"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "meenakshi_temple__kazimar_big_mosque",
+      "order": 8,
+      "display_name": "Kazimar Big Mosque",
+      "folder_name": "Kazimar_Big_Mosque",
+      "parent_monument_id": "meenakshi_temple",
+      "paths": {
+        "data": "01_Data/Meenakshi_Temple/Nearby_Heritage/Kazimar_Big_Mosque",
+        "images": "02_Images/Meenakshi_Temple/Nearby_Heritage/Kazimar_Big_Mosque",
+        "scripts": "03_Scripts/Meenakshi_Temple/Nearby_Heritage/Kazimar_Big_Mosque",
+        "audio": "04_Audio/Meenakshi_Temple/Nearby_Heritage/Kazimar_Big_Mosque"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "meenakshi_temple__yanaimalai",
+      "order": 9,
+      "display_name": "Yanaimalai",
+      "folder_name": "Yanaimalai",
+      "parent_monument_id": "meenakshi_temple",
+      "paths": {
+        "data": "01_Data/Meenakshi_Temple/Nearby_Heritage/Yanaimalai",
+        "images": "02_Images/Meenakshi_Temple/Nearby_Heritage/Yanaimalai",
+        "scripts": "03_Scripts/Meenakshi_Temple/Nearby_Heritage/Yanaimalai",
+        "audio": "04_Audio/Meenakshi_Temple/Nearby_Heritage/Yanaimalai"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "meenakshi_temple__samanar_hills",
+      "order": 10,
+      "display_name": "Samanar Hills",
+      "folder_name": "Samanar_Hills",
+      "parent_monument_id": "meenakshi_temple",
+      "paths": {
+        "data": "01_Data/Meenakshi_Temple/Nearby_Heritage/Samanar_Hills",
+        "images": "02_Images/Meenakshi_Temple/Nearby_Heritage/Samanar_Hills",
+        "scripts": "03_Scripts/Meenakshi_Temple/Nearby_Heritage/Samanar_Hills",
+        "audio": "04_Audio/Meenakshi_Temple/Nearby_Heritage/Samanar_Hills"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    }
+  ]
+}

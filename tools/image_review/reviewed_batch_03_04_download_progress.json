@@ -1,0 +1,97 @@
+[
+  {
+    "place_id": "amer_fort",
+    "image_count": 10,
+    "manifest": "02_Images\\Amer_Fort\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "amer_fort__anokhi_museum",
+    "image_count": 2,
+    "manifest": "02_Images\\Amer_Fort\\Nearby_Heritage\\Anokhi_Museum\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "amer_fort__gaitore_ki_chhatriyan",
+    "image_count": 5,
+    "manifest": "02_Images\\Amer_Fort\\Nearby_Heritage\\Gaitore_Ki_Chhatriyan\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "amer_fort__galtaji_temple",
+    "image_count": 5,
+    "manifest": "02_Images\\Amer_Fort\\Nearby_Heritage\\Galtaji_Temple\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "amer_fort__garh_ganesh_temple",
+    "image_count": 1,
+    "manifest": "02_Images\\Amer_Fort\\Nearby_Heritage\\Garh_Ganesh_Temple\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "amer_fort__jagat_shiromani_temple",
+    "image_count": 4,
+    "manifest": "02_Images\\Amer_Fort\\Nearby_Heritage\\Jagat_Shiromani_Temple\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "amer_fort__panna_meena_ka_kund",
+    "image_count": 4,
+    "manifest": "02_Images\\Amer_Fort\\Nearby_Heritage\\Panna_Meena_Ka_Kund\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "amer_fort__sagar_lake",
+    "image_count": 0,
+    "manifest": "02_Images\\Amer_Fort\\Nearby_Heritage\\Sagar_Lake\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "amer_fort__sisodia_rani_ka_bagh",
+    "image_count": 5,
+    "manifest": "02_Images\\Amer_Fort\\Nearby_Heritage\\Sisodia_Rani_Ka_Bagh\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "amer_fort__vidyadhar_garden",
+    "image_count": 0,
+    "manifest": "02_Images\\Amer_Fort\\Nearby_Heritage\\Vidyadhar_Garden\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "amer_fort__hathni_kund",
+    "image_count": 0,
+    "manifest": "02_Images\\Amer_Fort\\Nearby_Heritage\\Hathni_Kund\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "red_fort",
+    "image_count": 8,
+    "manifest": "02_Images\\Red_Fort\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "red_fort__digambar_jain_bird_hospital",
+    "image_count": 2,
+    "manifest": "02_Images\\Red_Fort\\Nearby_Heritage\\Digambar_Jain_Bird_Hospital\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "red_fort__fatehpuri_masjid",
+    "image_count": 4,
+    "manifest": "02_Images\\Red_Fort\\Nearby_Heritage\\Fatehpuri_Masjid\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "red_fort__khooni_darwaza",
+    "image_count": 4,
+    "manifest": "02_Images\\Red_Fort\\Nearby_Heritage\\Khooni_Darwaza\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "red_fort__mirza_ghalib_ki_haveli",
+    "image_count": 3,
+    "manifest": "02_Images\\Red_Fort\\Nearby_Heritage\\Mirza_Ghalib_Ki_Haveli\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "red_fort__salimgarh_fort",
+    "image_count": 3,
+    "manifest": "02_Images\\Red_Fort\\Nearby_Heritage\\Salimgarh_Fort\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "red_fort__sunehri_masjid",
+    "image_count": 2,
+    "manifest": "02_Images\\Red_Fort\\Nearby_Heritage\\Sunehri_Masjid\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "red_fort__zeenat_ul_masajid",
+    "image_count": 1,
+    "manifest": "02_Images\\Red_Fort\\Nearby_Heritage\\Zeenat_ul_Masajid\\Image_Sources\\image_manifest.json"
+  }
+]

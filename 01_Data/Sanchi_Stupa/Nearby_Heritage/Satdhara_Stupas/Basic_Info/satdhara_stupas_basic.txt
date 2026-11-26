@@ -1,0 +1,13 @@
+VIRASATAI — BASIC INFORMATION
+Name: Satdhara Stupas
+Entry ID: sanchi_stupa__satdhara_stupas
+Location: Satdhara, Murlikhedi locality, Raisen district, Madhya Pradesh, India
+Type: Buddhist archaeological site
+Identity note: User-selected site identity verified against the sources below.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. Satdhara is a Buddhist stupa site overlooking the Halali river landscape. [1]
+2. ASI lists stupas and other remains at Satdhara under Murlikhedi in Raisen district. [2]
+3. The site is distinct from Satdhara Falls in Himachal Pradesh. [1,2]
+
+Sources: See satdhara_stupas_sources.txt. The parent association is the user's selection, not a verified proximity claim.

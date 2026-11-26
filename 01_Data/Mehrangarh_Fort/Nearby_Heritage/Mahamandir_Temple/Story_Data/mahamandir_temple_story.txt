@@ -1,0 +1,12 @@
+VIRASATAI — STORY DATA
+Entry ID: mehrangarh_fort__mahamandir_temple
+Name: Mahamandir Temple
+Narrative focus: Carved pillars and representations of yoga
+Language files: Separate English and Devanagari Hindi master scripts in 03_Scripts.
+Status: Written narration ready for TTS input; pronunciation and generated audio still need listening QA.
+
+Mahamandir Temple draws attention to the pillar as both structure and sculpture. This nineteenth-century Shiva temple in Jodhpur is known for eighty-four carved pillars and imagery that includes yoga postures. A support for a roof becomes a surface for expressing religious ideas and skilled observation of the body.
+
+Rather than trying to take in every detail at once, choose one pillar in a permitted area and study how its carving is arranged. Then compare it with another. Repetition gives the architecture a rhythm, while individual details reward a slower visit.
+
+The temple's religious meaning deserves the same care as its artistic value. Follow local instructions, give worshippers space and avoid touching the carved surfaces. Do not assume that an attractive sculpture is simply decoration without a cultural context. Mahamandir offers a useful reminder that architecture can work at two levels together, carrying a building physically while also carrying images, practices and ideas important to its community.

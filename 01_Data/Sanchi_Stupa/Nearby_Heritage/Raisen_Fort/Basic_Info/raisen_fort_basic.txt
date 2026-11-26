@@ -1,0 +1,13 @@
+VIRASATAI — BASIC INFORMATION
+Name: Raisen Fort
+Entry ID: sanchi_stupa__raisen_fort
+Location: Raisen town, Madhya Pradesh, India
+Type: Historic hill fort
+Identity note: User-selected site identity verified against the sources below.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. The fort occupies a hill overlooking Raisen town. [1]
+2. Its surviving complex includes palaces, reservoirs, temples and a dargah. [1]
+3. The fort is listed among ASI's centrally protected sites. [2]
+
+Sources: See raisen_fort_sources.txt. The parent association is the user's selection, not a verified proximity claim.

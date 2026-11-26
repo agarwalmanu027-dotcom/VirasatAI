@@ -1,0 +1,1236 @@
+{
+  "scope": "Local structural and spoken-body audit, groups 1–7; sampled identity/source check recorded separately. This does not claim all citations independently rechecked online.",
+  "entries": 77,
+  "ready_new_content": 75,
+  "pending": 1,
+  "needs_attention": 0,
+  "image_review_counts": [
+    {
+      "group": 5,
+      "places": 11,
+      "selected_images": 50
+    },
+    {
+      "group": 6,
+      "places": 11,
+      "selected_images": 48
+    },
+    {
+      "group": 7,
+      "places": 11,
+      "selected_images": 47
+    }
+  ],
+  "records": [
+    {
+      "place_id": "taj_mahal",
+      "status": "existing_pilot_preserved",
+      "note": "Existing Taj Mahal main text/scripts deliberately excluded from new-content length checks."
+    },
+    {
+      "place_id": "taj_mahal__mehtab_bagh",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Taj_Mahal/Nearby_Heritage/Mehtab_Bagh/English/mehtab_bagh_master_story_English.txt",
+        "Hindi": "03_Scripts/Taj_Mahal/Nearby_Heritage/Mehtab_Bagh/Hindi/mehtab_bagh_master_story_Hindi.txt"
+      },
+      "English_word_count": 128,
+      "Hindi_word_count": 131,
+      "source_urls": [
+        "https://agra.nic.in/tourist-place/mehtab-bagh/",
+        "https://www.tajmahal.gov.in/nearby-attractions.aspx"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "taj_mahal__chini_ka_rauza",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Taj_Mahal/Nearby_Heritage/Chini_Ka_Rauza/English/chini_ka_rauza_master_story_English.txt",
+        "Hindi": "03_Scripts/Taj_Mahal/Nearby_Heritage/Chini_Ka_Rauza/Hindi/chini_ka_rauza_master_story_Hindi.txt"
+      },
+      "English_word_count": 127,
+      "Hindi_word_count": 137,
+      "source_urls": [
+        "https://agra.nic.in/tourist-place/chini-ka-rauza/"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "taj_mahal__the_red_taj_hessings_tomb",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Taj_Mahal/Nearby_Heritage/The_Red_Taj_Hessings_Tomb/English/the_red_taj_hessings_tomb_master_story_English.txt",
+        "Hindi": "03_Scripts/Taj_Mahal/Nearby_Heritage/The_Red_Taj_Hessings_Tomb/Hindi/the_red_taj_hessings_tomb_master_story_Hindi.txt"
+      },
+      "English_word_count": 132,
+      "Hindi_word_count": 142,
+      "source_urls": [
+        "https://lmrcl.com/pdf/HIA%20Report%20Agra%20Metro%20Rail%20Project.pdf",
+        "https://ignca.gov.in/Asi_data/22864.pdf"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "taj_mahal__taj_nature_walk",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Taj_Mahal/Nearby_Heritage/Taj_Nature_Walk/English/taj_nature_walk_master_story_English.txt",
+        "Hindi": "03_Scripts/Taj_Mahal/Nearby_Heritage/Taj_Nature_Walk/Hindi/taj_nature_walk_master_story_Hindi.txt"
+      },
+      "English_word_count": 132,
+      "Hindi_word_count": 138,
+      "source_urls": [
+        "https://tajmahal.gov.in/about-agra.aspx"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "taj_mahal__mariam_uz_zamani_tomb",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Taj_Mahal/Nearby_Heritage/Mariam_uz_Zamani_Tomb/English/mariam_uz_zamani_tomb_master_story_English.txt",
+        "Hindi": "03_Scripts/Taj_Mahal/Nearby_Heritage/Mariam_uz_Zamani_Tomb/Hindi/mariam_uz_zamani_tomb_master_story_Hindi.txt"
+      },
+      "English_word_count": 125,
+      "Hindi_word_count": 134,
+      "source_urls": [
+        "https://agra.nic.in/tourist-place/tomb-of-mariam-uz-zamani/",
+        "https://tajmahal.gov.in/about-agra.aspx"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "taj_mahal__ram_bagh",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Taj_Mahal/Nearby_Heritage/Ram_Bagh/English/ram_bagh_master_story_English.txt",
+        "Hindi": "03_Scripts/Taj_Mahal/Nearby_Heritage/Ram_Bagh/Hindi/ram_bagh_master_story_Hindi.txt"
+      },
+      "English_word_count": 133,
+      "Hindi_word_count": 139,
+      "source_urls": [
+        "https://agra.nic.in/tourist-place/ram-bagh-bagh-i-gul-afshan/"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "taj_mahal__kanch_mahal",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Taj_Mahal/Nearby_Heritage/Kanch_Mahal/English/kanch_mahal_master_story_English.txt",
+        "Hindi": "03_Scripts/Taj_Mahal/Nearby_Heritage/Kanch_Mahal/Hindi/kanch_mahal_master_story_Hindi.txt"
+      },
+      "English_word_count": 128,
+      "Hindi_word_count": 132,
+      "source_urls": [
+        "https://www.asiagracircle.in/list-of2.html",
+        "https://ignca.gov.in/Asi_data/37526.pdf"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "taj_mahal__bateshwar_temples",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Taj_Mahal/Nearby_Heritage/Bateshwar_Temples/English/bateshwar_temples_master_story_English.txt",
+        "Hindi": "03_Scripts/Taj_Mahal/Nearby_Heritage/Bateshwar_Temples/Hindi/bateshwar_temples_master_story_Hindi.txt"
+      },
+      "English_word_count": 129,
+      "Hindi_word_count": 138,
+      "source_urls": [
+        "https://agra.nic.in/festivals/",
+        "https://agra.nic.in/hi/tourist-place/%E0%A4%AC%E0%A4%9F%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B0-%E0%A4%AE%E0%A4%82%E0%A4%A6%E0%A4%BF%E0%A4%B0/"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "taj_mahal__jaswant_singh_ki_chhatri",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Taj_Mahal/Nearby_Heritage/Jaswant_Singh_Ki_Chhatri/English/jaswant_singh_ki_chhatri_master_story_English.txt",
+        "Hindi": "03_Scripts/Taj_Mahal/Nearby_Heritage/Jaswant_Singh_Ki_Chhatri/Hindi/jaswant_singh_ki_chhatri_master_story_Hindi.txt"
+      },
+      "English_word_count": 127,
+      "Hindi_word_count": 130,
+      "source_urls": [
+        "https://www.nitiforstates.gov.in/public-assets/Policy/policy_files/PSTNAR000245.pdf",
+        "https://ignca.gov.in/Asi_data/22146.pdf"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "taj_mahal__gurudwara_guru_ka_taal",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Taj_Mahal/Nearby_Heritage/Gurudwara_Guru_Ka_Taal/English/gurudwara_guru_ka_taal_master_story_English.txt",
+        "Hindi": "03_Scripts/Taj_Mahal/Nearby_Heritage/Gurudwara_Guru_Ka_Taal/Hindi/gurudwara_guru_ka_taal_master_story_Hindi.txt"
+      },
+      "English_word_count": 126,
+      "Hindi_word_count": 136,
+      "source_urls": [
+        "https://agra.nic.in/tourist-place/guru-ka-taal-gurudwara/"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "qutub_minar",
+      "is_main": true,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Qutub_Minar/English/qutub_minar_master_story_English.txt",
+        "Hindi": "03_Scripts/Qutub_Minar/Hindi/qutub_minar_master_story_Hindi.txt"
+      },
+      "English_word_count": 193,
+      "Hindi_word_count": 202,
+      "source_urls": [
+        "https://whc.unesco.org/en/list/233/",
+        "https://delhitourism.gov.in/aboutus/mehrauli.html"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "qutub_minar__jamali_kamali_mosque",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Qutub_Minar/Nearby_Heritage/Jamali_Kamali_Mosque/English/jamali_kamali_mosque_master_story_English.txt",
+        "Hindi": "03_Scripts/Qutub_Minar/Nearby_Heritage/Jamali_Kamali_Mosque/Hindi/jamali_kamali_mosque_master_story_Hindi.txt"
+      },
+      "English_word_count": 128,
+      "Hindi_word_count": 137,
+      "source_urls": [
+        "https://delhitourism.gov.in/dt/unexplored_delhi/jamali_kamali_mosque.html",
+        "https://www.incredibleindia.gov.in/en/delhi/delhi/mehrauli-archaeological-park"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "qutub_minar__rajon_ki_baoli",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Qutub_Minar/Nearby_Heritage/Rajon_Ki_Baoli/English/rajon_ki_baoli_master_story_English.txt",
+        "Hindi": "03_Scripts/Qutub_Minar/Nearby_Heritage/Rajon_Ki_Baoli/Hindi/rajon_ki_baoli_master_story_Hindi.txt"
+      },
+      "English_word_count": 126,
+      "Hindi_word_count": 134,
+      "source_urls": [
+        "https://delhitourism.gov.in/dt/unexplored_delhi/rajon_ki_baoli.html"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "qutub_minar__balbans_tomb",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Qutub_Minar/Nearby_Heritage/Balbans_Tomb/English/balbans_tomb_master_story_English.txt",
+        "Hindi": "03_Scripts/Qutub_Minar/Nearby_Heritage/Balbans_Tomb/Hindi/balbans_tomb_master_story_Hindi.txt"
+      },
+      "English_word_count": 126,
+      "Hindi_word_count": 137,
+      "source_urls": [
+        "https://ignca.gov.in/asi_reports/sdbkt0001.pdf",
+        "https://ignca.gov.in/Asi_data/37526.pdf"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "qutub_minar__zafar_mahal",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Qutub_Minar/Nearby_Heritage/Zafar_Mahal/English/zafar_mahal_master_story_English.txt",
+        "Hindi": "03_Scripts/Qutub_Minar/Nearby_Heritage/Zafar_Mahal/Hindi/zafar_mahal_master_story_Hindi.txt"
+      },
+      "English_word_count": 128,
+      "Hindi_word_count": 139,
+      "source_urls": [
+        "https://ignca.gov.in/Asi_data/87960.pdf"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "qutub_minar__adham_khans_tomb",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Qutub_Minar/Nearby_Heritage/Adham_Khans_Tomb/English/adham_khans_tomb_master_story_English.txt",
+        "Hindi": "03_Scripts/Qutub_Minar/Nearby_Heritage/Adham_Khans_Tomb/Hindi/adham_khans_tomb_master_story_Hindi.txt"
+      },
+      "English_word_count": 124,
+      "Hindi_word_count": 130,
+      "source_urls": [
+        "https://delhitourism.gov.in/dt/unexplored_delhi/adham_khan's_tomb.html"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "qutub_minar__gandhak_ki_baoli",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Qutub_Minar/Nearby_Heritage/Gandhak_Ki_Baoli/English/gandhak_ki_baoli_master_story_English.txt",
+        "Hindi": "03_Scripts/Qutub_Minar/Nearby_Heritage/Gandhak_Ki_Baoli/Hindi/gandhak_ki_baoli_master_story_Hindi.txt"
+      },
+      "English_word_count": 127,
+      "Hindi_word_count": 134,
+      "source_urls": [
+        "https://artsandculture.google.com/story/8gVRBQUicQcA8A"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "qutub_minar__hijron_ka_khanqah",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Qutub_Minar/Nearby_Heritage/Hijron_Ka_Khanqah/English/hijron_ka_khanqah_master_story_English.txt",
+        "Hindi": "03_Scripts/Qutub_Minar/Nearby_Heritage/Hijron_Ka_Khanqah/Hindi/hijron_ka_khanqah_master_story_Hindi.txt"
+      },
+      "English_word_count": 125,
+      "Hindi_word_count": 139,
+      "source_urls": [
+        "https://www.incredibleindia.gov.in/en/delhi/delhi/mehrauli-archaeological-park",
+        "https://delhitourism.gov.in/heritage_Walk/karavan.html"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "qutub_minar__jahaz_mahal",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Qutub_Minar/Nearby_Heritage/Jahaz_Mahal/English/jahaz_mahal_master_story_English.txt",
+        "Hindi": "03_Scripts/Qutub_Minar/Nearby_Heritage/Jahaz_Mahal/Hindi/jahaz_mahal_master_story_Hindi.txt"
+      },
+      "English_word_count": 125,
+      "Hindi_word_count": 131,
+      "source_urls": [
+        "https://delhitourism.gov.in/dt/unexplored_delhi/jahaz_mahal.html"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "qutub_minar__quli_khans_tomb",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Qutub_Minar/Nearby_Heritage/Quli_Khans_Tomb/English/quli_khans_tomb_master_story_English.txt",
+        "Hindi": "03_Scripts/Qutub_Minar/Nearby_Heritage/Quli_Khans_Tomb/Hindi/quli_khans_tomb_master_story_Hindi.txt"
+      },
+      "English_word_count": 126,
+      "Hindi_word_count": 140,
+      "source_urls": [
+        "https://delhitourism.gov.in/heritage/lesser_known_monuments.html",
+        "https://www.delhitourism.gov.in/booking/heritage_walk.html"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "qutub_minar__hauz_i_shamsi",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Qutub_Minar/Nearby_Heritage/Hauz_i_Shamsi/English/hauz_i_shamsi_master_story_English.txt",
+        "Hindi": "03_Scripts/Qutub_Minar/Nearby_Heritage/Hauz_i_Shamsi/Hindi/hauz_i_shamsi_master_story_Hindi.txt"
+      },
+      "English_word_count": 127,
+      "Hindi_word_count": 137,
+      "source_urls": [
+        "https://www.nma.gov.in/showfile.php?lang=1&level=2&lid=1485&ls_id=1210&nma_type=0",
+        "https://archaeology.delhi.gov.in/archaeology/jharnah"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "amer_fort",
+      "is_main": true,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Amer_Fort/English/amer_fort_master_story_English.txt",
+        "Hindi": "03_Scripts/Amer_Fort/Hindi/amer_fort_master_story_Hindi.txt"
+      },
+      "English_word_count": 200,
+      "Hindi_word_count": 201,
+      "source_urls": [
+        "https://whc.unesco.org/en/list/247/",
+        "https://www.tourism.rajasthan.gov.in/amber-palace.html"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "amer_fort__panna_meena_ka_kund",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Amer_Fort/Nearby_Heritage/Panna_Meena_Ka_Kund/English/panna_meena_ka_kund_master_story_English.txt",
+        "Hindi": "03_Scripts/Amer_Fort/Nearby_Heritage/Panna_Meena_Ka_Kund/Hindi/panna_meena_ka_kund_master_story_Hindi.txt"
+      },
+      "English_word_count": 136,
+      "Hindi_word_count": 128,
+      "source_urls": [
+        "https://www.incredibleindia.gov.in/en/rajasthan/jaipur/panna-meena-ka-kund",
+        "https://forest.rajasthan.gov.in/content/dam/raj/forest/ForestDepartment/PDFs/Department%20Wing/Wildlife/Sanction-Zonal-Master-Plan/Zonal%20Master%20Plan%20for%20Eco-Sensitive%20Zone%20of%20Nahargarh%20WLS.pdf"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "amer_fort__jagat_shiromani_temple",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Amer_Fort/Nearby_Heritage/Jagat_Shiromani_Temple/English/jagat_shiromani_temple_master_story_English.txt",
+        "Hindi": "03_Scripts/Amer_Fort/Nearby_Heritage/Jagat_Shiromani_Temple/Hindi/jagat_shiromani_temple_master_story_Hindi.txt"
+      },
+      "English_word_count": 131,
+      "Hindi_word_count": 124,
+      "source_urls": [
+        "https://www.tourism.rajasthan.gov.in/jaipur.html"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "amer_fort__gaitore_ki_chhatriyan",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Amer_Fort/Nearby_Heritage/Gaitore_Ki_Chhatriyan/English/gaitore_ki_chhatriyan_master_story_English.txt",
+        "Hindi": "03_Scripts/Amer_Fort/Nearby_Heritage/Gaitore_Ki_Chhatriyan/Hindi/gaitore_ki_chhatriyan_master_story_Hindi.txt"
+      },
+      "English_word_count": 126,
+      "Hindi_word_count": 132,
+      "source_urls": [
+        "https://www.prod.incredibleindia.gov.in/content/incredible-india-v2/en/destinations/jaipur/gaitore.html"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "amer_fort__anokhi_museum",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Amer_Fort/Nearby_Heritage/Anokhi_Museum/English/anokhi_museum_master_story_English.txt",
+        "Hindi": "03_Scripts/Amer_Fort/Nearby_Heritage/Anokhi_Museum/Hindi/anokhi_museum_master_story_Hindi.txt"
+      },
+      "English_word_count": 126,
+      "Hindi_word_count": 136,
+      "source_urls": [
+        "https://www.anokhimuseum.com/visit/",
+        "https://www.anokhimuseum.com/about/"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "amer_fort__galtaji_temple",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Amer_Fort/Nearby_Heritage/Galtaji_Temple/English/galtaji_temple_master_story_English.txt",
+        "Hindi": "03_Scripts/Amer_Fort/Nearby_Heritage/Galtaji_Temple/Hindi/galtaji_temple_master_story_Hindi.txt"
+      },
+      "English_word_count": 129,
+      "Hindi_word_count": 137,
+      "source_urls": [
+        "https://www.tourism.rajasthan.gov.in/jaipur.html"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "amer_fort__garh_ganesh_temple",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Amer_Fort/Nearby_Heritage/Garh_Ganesh_Temple/English/garh_ganesh_temple_master_story_English.txt",
+        "Hindi": "03_Scripts/Amer_Fort/Nearby_Heritage/Garh_Ganesh_Temple/Hindi/garh_ganesh_temple_master_story_Hindi.txt"
+      },
+      "English_word_count": 131,
+      "Hindi_word_count": 139,
+      "source_urls": [
+        "https://forest.rajasthan.gov.in/content/dam/raj/forest/ForestDepartment/PDFs/Department%20Wing/Wildlife/Sanction-Zonal-Master-Plan/Zonal%20Master%20Plan%20for%20Eco-Sensitive%20Zone%20of%20Nahargarh%20WLS.pdf",
+        "https://www.incredibleindia.gov.in/en/rajasthan/jaipur/garh-ganesh-temple"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "amer_fort__vidyadhar_garden",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Amer_Fort/Nearby_Heritage/Vidyadhar_Garden/English/vidyadhar_garden_master_story_English.txt",
+        "Hindi": "03_Scripts/Amer_Fort/Nearby_Heritage/Vidyadhar_Garden/Hindi/vidyadhar_garden_master_story_Hindi.txt"
+      },
+      "English_word_count": 126,
+      "Hindi_word_count": 137,
+      "source_urls": [
+        "https://www.tourism.rajasthan.gov.in/jaipur.html"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "amer_fort__sagar_lake",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Amer_Fort/Nearby_Heritage/Sagar_Lake/English/sagar_lake_master_story_English.txt",
+        "Hindi": "03_Scripts/Amer_Fort/Nearby_Heritage/Sagar_Lake/Hindi/sagar_lake_master_story_Hindi.txt"
+      },
+      "English_word_count": 132,
+      "Hindi_word_count": 136,
+      "source_urls": [
+        "https://utsav.gov.in/view-event/world-tourism-day-2024-cleanliness-drive",
+        "https://forest.rajasthan.gov.in/content/dam/raj/forest/ForestDepartment/PDFs/Department%20Wing/Wildlife/Sanction-Zonal-Master-Plan/Zonal%20Master%20Plan%20for%20Eco-Sensitive%20Zone%20of%20Nahargarh%20WLS.pdf"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "amer_fort__sisodia_rani_ka_bagh",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Amer_Fort/Nearby_Heritage/Sisodia_Rani_Ka_Bagh/English/sisodia_rani_ka_bagh_master_story_English.txt",
+        "Hindi": "03_Scripts/Amer_Fort/Nearby_Heritage/Sisodia_Rani_Ka_Bagh/Hindi/sisodia_rani_ka_bagh_master_story_Hindi.txt"
+      },
+      "English_word_count": 132,
+      "Hindi_word_count": 145,
+      "source_urls": [
+        "https://www.tourism.rajasthan.gov.in/jaipur.html",
+        "https://www.prod.incredibleindia.gov.in/content/incredible-india-v2/en/destinations/jaipur/sisodia-rani-palace-and-garden.html"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "amer_fort__hathni_kund",
+      "is_main": false,
+      "issues": [
+        "missing_English_script",
+        "missing_Hindi_script",
+        "missing_Basic_Info",
+        "missing_Facts",
+        "missing_Story_Data",
+        "sources_missing_check_date",
+        "sources_missing_claim_scope",
+        "missing_voice_directions"
+      ],
+      "script_paths": {},
+      "source_urls": [
+        "https://www.kartavyya.com/drives),",
+        "https://timesofindia.indiatimes.com/city/jaipur/jaipur-teen-drowns-in-hathni-kund-in-forests-of-nahargarh/articleshow/93172422.cms)."
+      ],
+      "status": "documented_research_pending",
+      "note": "Hathni Kund remains explicitly unresolved; missing narration is expected and must not be called complete."
+    },
+    {
+      "place_id": "red_fort",
+      "is_main": true,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Red_Fort/English/red_fort_master_story_English.txt",
+        "Hindi": "03_Scripts/Red_Fort/Hindi/red_fort_master_story_Hindi.txt"
+      },
+      "English_word_count": 208,
+      "Hindi_word_count": 208,
+      "source_urls": [
+        "https://whc.unesco.org/en/list/231/",
+        "https://www.incredibleindia.gov.in/en/delhi/delhi/red-fort"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "red_fort__sunehri_masjid",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Red_Fort/Nearby_Heritage/Sunehri_Masjid/English/sunehri_masjid_master_story_English.txt",
+        "Hindi": "03_Scripts/Red_Fort/Nearby_Heritage/Sunehri_Masjid/Hindi/sunehri_masjid_master_story_Hindi.txt"
+      },
+      "English_word_count": 128,
+      "Hindi_word_count": 139,
+      "source_urls": [
+        "https://censusindia.gov.in/nada/index.php/catalog/912/download/36516/DH_2011_0700_PART_A_DCHB_NCT_OF_DELHI.pdf",
+        "https://ignca.gov.in/Asi_data/87960.pdf"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "red_fort__zeenat_ul_masajid",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Red_Fort/Nearby_Heritage/Zeenat_ul_Masajid/English/zeenat_ul_masajid_master_story_English.txt",
+        "Hindi": "03_Scripts/Red_Fort/Nearby_Heritage/Zeenat_ul_Masajid/Hindi/zeenat_ul_masajid_master_story_Hindi.txt"
+      },
+      "English_word_count": 128,
+      "Hindi_word_count": 136,
+      "source_urls": [
+        "https://ignca.gov.in/Asi_data/22805.pdf"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "red_fort__mirza_ghalib_ki_haveli",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Red_Fort/Nearby_Heritage/Mirza_Ghalib_Ki_Haveli/English/mirza_ghalib_ki_haveli_master_story_English.txt",
+        "Hindi": "03_Scripts/Red_Fort/Nearby_Heritage/Mirza_Ghalib_Ki_Haveli/Hindi/mirza_ghalib_ki_haveli_master_story_Hindi.txt"
+      },
+      "English_word_count": 135,
+      "Hindi_word_count": 129,
+      "source_urls": [
+        "https://delhitourism.gov.in/dt/unexplored_delhi/mirza_ghalib_ki_haveli.html"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "red_fort__chunnamal_haveli",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Red_Fort/Nearby_Heritage/Chunnamal_Haveli/English/chunnamal_haveli_master_story_English.txt",
+        "Hindi": "03_Scripts/Red_Fort/Nearby_Heritage/Chunnamal_Haveli/Hindi/chunnamal_haveli_master_story_Hindi.txt"
+      },
+      "English_word_count": 129,
+      "Hindi_word_count": 136,
+      "source_urls": [
+        "https://srdc.delhi.gov.in/en/srdc/1800-1900"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "red_fort__digambar_jain_bird_hospital",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Red_Fort/Nearby_Heritage/Digambar_Jain_Bird_Hospital/English/digambar_jain_bird_hospital_master_story_English.txt",
+        "Hindi": "03_Scripts/Red_Fort/Nearby_Heritage/Digambar_Jain_Bird_Hospital/Hindi/digambar_jain_bird_hospital_master_story_Hindi.txt"
+      },
+      "English_word_count": 132,
+      "Hindi_word_count": 138,
+      "source_urls": [
+        "https://delhitourism.gov.in/tourist_place/spritual_delhi.html",
+        "https://aud.delhi.gov.in/sites/default/files/inline-files/dharohar_e-magazine_iii.pdf"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "red_fort__st_james_church",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Red_Fort/Nearby_Heritage/St_James_Church/English/st_james_church_master_story_English.txt",
+        "Hindi": "03_Scripts/Red_Fort/Nearby_Heritage/St_James_Church/Hindi/st_james_church_master_story_Hindi.txt"
+      },
+      "English_word_count": 130,
+      "Hindi_word_count": 139,
+      "source_urls": [
+        "https://stjameschurchdelhi.net/?p=209",
+        "https://prod.incredibleindia.gov.in/content/incredible-india-v2/en/destinations/delhi/st-james-church.html"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "red_fort__khooni_darwaza",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Red_Fort/Nearby_Heritage/Khooni_Darwaza/English/khooni_darwaza_master_story_English.txt",
+        "Hindi": "03_Scripts/Red_Fort/Nearby_Heritage/Khooni_Darwaza/Hindi/khooni_darwaza_master_story_Hindi.txt"
+      },
+      "English_word_count": 128,
+      "Hindi_word_count": 136,
+      "source_urls": [
+        "https://ignca.gov.in/asi_reports/sd26ld0001.pdf",
+        "https://asi.nic.in/pdf/CPM_List.pdf",
+        "https://srdc.delhi.gov.in/en/srdc/1600-1700"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "red_fort__fatehpuri_masjid",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Red_Fort/Nearby_Heritage/Fatehpuri_Masjid/English/fatehpuri_masjid_master_story_English.txt",
+        "Hindi": "03_Scripts/Red_Fort/Nearby_Heritage/Fatehpuri_Masjid/Hindi/fatehpuri_masjid_master_story_Hindi.txt"
+      },
+      "English_word_count": 129,
+      "Hindi_word_count": 136,
+      "source_urls": [
+        "https://srdc.delhi.gov.in/en/srdc/1600-1700"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "red_fort__salimgarh_fort",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Red_Fort/Nearby_Heritage/Salimgarh_Fort/English/salimgarh_fort_master_story_English.txt",
+        "Hindi": "03_Scripts/Red_Fort/Nearby_Heritage/Salimgarh_Fort/Hindi/salimgarh_fort_master_story_Hindi.txt"
+      },
+      "English_word_count": 128,
+      "Hindi_word_count": 139,
+      "source_urls": [
+        "https://whc.unesco.org/en/list/231/",
+        "https://asi.nic.in/pdf/CPM_List.pdf"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "red_fort__naughara_kinari_bazaar",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Red_Fort/Nearby_Heritage/Naughara_Kinari_Bazaar/English/naughara_kinari_bazaar_master_story_English.txt",
+        "Hindi": "03_Scripts/Red_Fort/Nearby_Heritage/Naughara_Kinari_Bazaar/Hindi/naughara_kinari_bazaar_master_story_Hindi.txt"
+      },
+      "English_word_count": 123,
+      "Hindi_word_count": 140,
+      "source_urls": [
+        "https://duac.org.in/Upload/City%20Level%20Studies/Site%20specific%20design%20for%20wards/653954173410426.pdf",
+        "https://udd.delhi.gov.in/sites/default/files/UD/generic_multiple_files/supplementary_list_of_heritage_sites.pdf"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "gateway_of_india",
+      "is_main": true,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Gateway_of_India/English/gateway_of_india_master_story_English.txt",
+        "Hindi": "03_Scripts/Gateway_of_India/Hindi/gateway_of_india_master_story_Hindi.txt"
+      },
+      "English_word_count": 206,
+      "Hindi_word_count": 218,
+      "source_urls": [
+        "https://mumbaicity.gov.in/tourist-place/gateway-of-india/",
+        "https://www.incredibleindia.gov.in/en/maharashtra/mumbai/the-gateway-of-india"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "gateway_of_india__keneseth_eliyahoo_synagogue",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Gateway_of_India/Nearby_Heritage/Keneseth_Eliyahoo_Synagogue/English/keneseth_eliyahoo_synagogue_master_story_English.txt",
+        "Hindi": "03_Scripts/Gateway_of_India/Nearby_Heritage/Keneseth_Eliyahoo_Synagogue/Hindi/keneseth_eliyahoo_synagogue_master_story_Hindi.txt"
+      },
+      "English_word_count": 144,
+      "Hindi_word_count": 173,
+      "source_urls": [
+        "https://www.wmf.org/news/wmf-receives-two-2019-unesco-asia-pacific-awards-cultural-heritage-conservation",
+        "https://kenesetheliyahoo.com/"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "gateway_of_india__afghan_church",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Gateway_of_India/Nearby_Heritage/Afghan_Church/English/afghan_church_master_story_English.txt",
+        "Hindi": "03_Scripts/Gateway_of_India/Nearby_Heritage/Afghan_Church/Hindi/afghan_church_master_story_Hindi.txt"
+      },
+      "English_word_count": 148,
+      "Hindi_word_count": 161,
+      "source_urls": [
+        "https://afghanchurch.in/",
+        "https://www.mmrhcs.org.in/images/documents/projects/Listing-grading-task-1%281-316-632%29/02_Heritage_list.pdf",
+        "https://www.wmf.org/sites/default/files/article/pdfs/2022_watch_magazine.pdf"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "gateway_of_india__ballard_bunder_gatehouse",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Gateway_of_India/Nearby_Heritage/Ballard_Bunder_Gatehouse/English/ballard_bunder_gatehouse_master_story_English.txt",
+        "Hindi": "03_Scripts/Gateway_of_India/Nearby_Heritage/Ballard_Bunder_Gatehouse/Hindi/ballard_bunder_gatehouse_master_story_Hindi.txt"
+      },
+      "English_word_count": 146,
+      "Hindi_word_count": 162,
+      "source_urls": [
+        "https://mmrhcs.org.in/images/documents/annual-reports/2004-05.pdf",
+        "https://mmrhcs.org.in/images/documents/projects/ballard%20pier%20precinct/ballard%20estate%20heritage%20precinct%20study.pdf"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "gateway_of_india__horniman_circle_gardens",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Gateway_of_India/Nearby_Heritage/Horniman_Circle_Gardens/English/horniman_circle_gardens_master_story_English.txt",
+        "Hindi": "03_Scripts/Gateway_of_India/Nearby_Heritage/Horniman_Circle_Gardens/Hindi/horniman_circle_gardens_master_story_Hindi.txt"
+      },
+      "English_word_count": 143,
+      "Hindi_word_count": 153,
+      "source_urls": [
+        "https://sirismm.si.edu/EADpdfs/FSA.A2000.02.pdf",
+        "https://mmrhcs.org.in/images/documents/projects/ballard%20pier%20precinct/ballard%20estate%20heritage%20precinct%20study.pdf"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "gateway_of_india__david_sassoon_library",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Gateway_of_India/Nearby_Heritage/David_Sassoon_Library/English/david_sassoon_library_master_story_English.txt",
+        "Hindi": "03_Scripts/Gateway_of_India/Nearby_Heritage/David_Sassoon_Library/Hindi/david_sassoon_library_master_story_Hindi.txt"
+      },
+      "English_word_count": 143,
+      "Hindi_word_count": 158,
+      "source_urls": [
+        "https://www.davidsassoonlibrary.com/about.html",
+        "https://whc.unesco.org/document/160656"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "gateway_of_india__banganga_tank",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Gateway_of_India/Nearby_Heritage/Banganga_Tank/English/banganga_tank_master_story_English.txt",
+        "Hindi": "03_Scripts/Gateway_of_India/Nearby_Heritage/Banganga_Tank/Hindi/banganga_tank_master_story_Hindi.txt"
+      },
+      "English_word_count": 137,
+      "Hindi_word_count": 148,
+      "source_urls": [
+        "https://www.mmrhcs.org.in/images/Location_PDFS/384-Banganga_Precinct.pdf",
+        "https://theheritageproject.in/"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "gateway_of_india__khotachiwadi_village",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Gateway_of_India/Nearby_Heritage/Khotachiwadi_Village/English/khotachiwadi_village_master_story_English.txt",
+        "Hindi": "03_Scripts/Gateway_of_India/Nearby_Heritage/Khotachiwadi_Village/Hindi/khotachiwadi_village_master_story_Hindi.txt"
+      },
+      "English_word_count": 140,
+      "Hindi_word_count": 148,
+      "source_urls": [
+        "https://mmrhcs.org.in/images/publications_manuals/kotachiwadi_english.pdf",
+        "https://mmrhcs.org.in/images/Location_PDFS/508-Khotachiwadi_Precinct.pdf"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "gateway_of_india__rbi_monetary_museum",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Gateway_of_India/Nearby_Heritage/RBI_Monetary_Museum/English/rbi_monetary_museum_master_story_English.txt",
+        "Hindi": "03_Scripts/Gateway_of_India/Nearby_Heritage/RBI_Monetary_Museum/Hindi/rbi_monetary_museum_master_story_Hindi.txt"
+      },
+      "English_word_count": 145,
+      "Hindi_word_count": 168,
+      "source_urls": [
+        "https://www.rbi.org.in/scripts/BS_ViewCurrencyPressRelease.aspx?Id=10860"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "gateway_of_india__sewri_fort",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Gateway_of_India/Nearby_Heritage/Sewri_Fort/English/sewri_fort_master_story_English.txt",
+        "Hindi": "03_Scripts/Gateway_of_India/Nearby_Heritage/Sewri_Fort/Hindi/sewri_fort_master_story_Hindi.txt"
+      },
+      "English_word_count": 144,
+      "Hindi_word_count": 161,
+      "source_urls": [
+        "https://www.mmrhcs.org.in/images/documents/projects/07-Fs3---Proformas-compressed.pdf",
+        "https://theheritageproject.in/sewri-fort/"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "gateway_of_india__bhau_daji_lad_museum",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Gateway_of_India/Nearby_Heritage/Bhau_Daji_Lad_Museum/English/bhau_daji_lad_museum_master_story_English.txt",
+        "Hindi": "03_Scripts/Gateway_of_India/Nearby_Heritage/Bhau_Daji_Lad_Museum/Hindi/bhau_daji_lad_museum_master_story_Hindi.txt"
+      },
+      "English_word_count": 142,
+      "Hindi_word_count": 155,
+      "source_urls": [
+        "https://bdlmuseum.mcgm.gov.in/",
+        "https://www.bdlmuseum.org/pdf/press-release-shoonya-ghar-sudarshan-shetty.pdf"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "charminar",
+      "is_main": true,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Charminar/English/charminar_master_story_English.txt",
+        "Hindi": "03_Scripts/Charminar/Hindi/charminar_master_story_Hindi.txt"
+      },
+      "English_word_count": 207,
+      "Hindi_word_count": 206,
+      "source_urls": [
+        "https://hyderabad.telangana.gov.in/tourist-place/charminar/",
+        "https://hyderabad.telangana.gov.in/about-district/"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "charminar__badshahi_ashurkhana",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Charminar/Nearby_Heritage/Badshahi_Ashurkhana/English/badshahi_ashurkhana_master_story_English.txt",
+        "Hindi": "03_Scripts/Charminar/Nearby_Heritage/Badshahi_Ashurkhana/Hindi/badshahi_ashurkhana_master_story_Hindi.txt"
+      },
+      "English_word_count": 139,
+      "Hindi_word_count": 153,
+      "source_urls": [
+        "https://www.tourism.telangana.gov.in/customized-heritage-sites-monuments",
+        "https://www.qutbshahiheritagepark.org/storage/publication/Annual-Report-2021-QSHP.pdf"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "charminar__purani_haveli",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Charminar/Nearby_Heritage/Purani_Haveli/English/purani_haveli_master_story_English.txt",
+        "Hindi": "03_Scripts/Charminar/Nearby_Heritage/Purani_Haveli/Hindi/purani_haveli_master_story_Hindi.txt"
+      },
+      "English_word_count": 146,
+      "Hindi_word_count": 158,
+      "source_urls": [
+        "https://www.prod.incredibleindia.gov.in/content/incredible-india-v2/en/destinations/hyderabad/purani-haveli.html",
+        "https://www.hmda.gov.in/wp-content/uploads/2020/07/Zoning-Regulations-and-MasterPlan-GOs.pdf",
+        "https://thenizamsmuseum.com/"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "charminar__paigah_tombs",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Charminar/Nearby_Heritage/Paigah_Tombs/English/paigah_tombs_master_story_English.txt",
+        "Hindi": "03_Scripts/Charminar/Nearby_Heritage/Paigah_Tombs/Hindi/paigah_tombs_master_story_Hindi.txt"
+      },
+      "English_word_count": 138,
+      "Hindi_word_count": 158,
+      "source_urls": [
+        "https://tourism.telangana.gov.in/attractions/paigah-tombs",
+        "https://www.qutbshahiheritagepark.org/storage/publication/Annual-Report-2019-QSHP-compressed.pdf"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "charminar__toli_masjid",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Charminar/Nearby_Heritage/Toli_Masjid/English/toli_masjid_master_story_English.txt",
+        "Hindi": "03_Scripts/Charminar/Nearby_Heritage/Toli_Masjid/Hindi/toli_masjid_master_story_Hindi.txt"
+      },
+      "English_word_count": 137,
+      "Hindi_word_count": 149,
+      "source_urls": [
+        "https://tourism.telangana.gov.in/customized-mosque",
+        "https://www.qutbshahiheritagepark.org/storage/publication/Annual-Report-2021-QSHP.pdf"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "charminar__raymonds_tomb",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Charminar/Nearby_Heritage/Raymonds_Tomb/English/raymonds_tomb_master_story_English.txt",
+        "Hindi": "03_Scripts/Charminar/Nearby_Heritage/Raymonds_Tomb/Hindi/raymonds_tomb_master_story_Hindi.txt"
+      },
+      "English_word_count": 135,
+      "Hindi_word_count": 153,
+      "source_urls": [
+        "https://www.tourism.telangana.gov.in/customized-heritage-sites-monuments",
+        "https://hyderabad.afindia.org/events/heritage-walk-monsieur-raymonds-tomb/",
+        "https://www.hydlitfest.org/wp-content/uploads/2023/07/Final-HLF-KHABAR-VOL-II-NO-4-March-May-2023_compressed.pdf"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "charminar__hayat_bakshi_mosque",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Charminar/Nearby_Heritage/Hayat_Bakshi_Mosque/English/hayat_bakshi_mosque_master_story_English.txt",
+        "Hindi": "03_Scripts/Charminar/Nearby_Heritage/Hayat_Bakshi_Mosque/Hindi/hayat_bakshi_mosque_master_story_Hindi.txt"
+      },
+      "English_word_count": 140,
+      "Hindi_word_count": 155,
+      "source_urls": [
+        "https://dome.mit.edu/entities/picture/db5b5fbe-9851-41e4-b0d4-842cc477df6a",
+        "https://directorateofevdm.ghmc.telangana.gov.in/cec-api/uploads/downloads/661e0e0103b4f_1713245697000.pdf"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "charminar__spanish_mosque",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Charminar/Nearby_Heritage/Spanish_Mosque/English/spanish_mosque_master_story_English.txt",
+        "Hindi": "03_Scripts/Charminar/Nearby_Heritage/Spanish_Mosque/Hindi/spanish_mosque_master_story_Hindi.txt"
+      },
+      "English_word_count": 139,
+      "Hindi_word_count": 146,
+      "source_urls": [
+        "https://www.incredibleindia.gov.in/en/telangana/hyderabad/spanish-mosque",
+        "https://www.prod.incredibleindia.gov.in/content/incredible-india-v2/en/destinations/hyderabad/spanish-mosque.html"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "charminar__nizams_museum",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Charminar/Nearby_Heritage/Nizams_Museum/English/nizams_museum_master_story_English.txt",
+        "Hindi": "03_Scripts/Charminar/Nearby_Heritage/Nizams_Museum/Hindi/nizams_museum_master_story_Hindi.txt"
+      },
+      "English_word_count": 139,
+      "Hindi_word_count": 162,
+      "source_urls": [
+        "https://thenizamsmuseum.com/"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "charminar__khursheed_jah_devdi",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Charminar/Nearby_Heritage/Khursheed_Jah_Devdi/English/khursheed_jah_devdi_master_story_English.txt",
+        "Hindi": "03_Scripts/Charminar/Nearby_Heritage/Khursheed_Jah_Devdi/Hindi/khursheed_jah_devdi_master_story_Hindi.txt"
+      },
+      "English_word_count": 144,
+      "Hindi_word_count": 157,
+      "source_urls": [
+        "https://www.hmda.gov.in/wp-content/uploads/2020/07/Zoning-Regulations-and-MasterPlan-GOs.pdf",
+        "https://dspace.mit.edu/bitstream/handle/1721.1/69102/HyderabadGuide_2009.pdf"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "charminar__qutb_shahi_tombs",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Charminar/Nearby_Heritage/Qutb_Shahi_Tombs/English/qutb_shahi_tombs_master_story_English.txt",
+        "Hindi": "03_Scripts/Charminar/Nearby_Heritage/Qutb_Shahi_Tombs/Hindi/qutb_shahi_tombs_master_story_Hindi.txt"
+      },
+      "English_word_count": 138,
+      "Hindi_word_count": 150,
+      "source_urls": [
+        "https://www.qutbshahiheritagepark.org/plan-your-visit",
+        "https://hyderabad.telangana.gov.in/tourist-place/qutub-shahi-tombs/"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "victoria_memorial",
+      "is_main": true,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Victoria_Memorial/English/victoria_memorial_master_story_English.txt",
+        "Hindi": "03_Scripts/Victoria_Memorial/Hindi/victoria_memorial_master_story_Hindi.txt"
+      },
+      "English_word_count": 210,
+      "Hindi_word_count": 227,
+      "source_urls": [
+        "https://victoriamemorial-cal.org/history/",
+        "https://victoriamemorial-cal.org/about-us/",
+        "https://victoriamemorial-cal.org/gardens/"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "victoria_memorial__south_park_street_cemetery",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Victoria_Memorial/Nearby_Heritage/South_Park_Street_Cemetery/English/south_park_street_cemetery_master_story_English.txt",
+        "Hindi": "03_Scripts/Victoria_Memorial/Nearby_Heritage/South_Park_Street_Cemetery/Hindi/south_park_street_cemetery_master_story_Hindi.txt"
+      },
+      "English_word_count": 141,
+      "Hindi_word_count": 156,
+      "source_urls": [
+        "https://christianburialboardkolkata.com/heritage",
+        "https://www.christianburialboardkolkata.com/archaeology",
+        "https://christianburialboardkolkata.com/culture"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "victoria_memorial__lascar_war_memorial",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Victoria_Memorial/Nearby_Heritage/Lascar_War_Memorial/English/lascar_war_memorial_master_story_English.txt",
+        "Hindi": "03_Scripts/Victoria_Memorial/Nearby_Heritage/Lascar_War_Memorial/Hindi/lascar_war_memorial_master_story_Hindi.txt"
+      },
+      "English_word_count": 142,
+      "Hindi_word_count": 165,
+      "source_urls": [
+        "https://www.mea.gov.in/Uploads/PublicationDocs/23460_IWM_Book__11-06-2014_.pdf",
+        "https://nfpc.in/wp-content/uploads/2024/02/QD-2023_compressed.pdf"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "victoria_memorial__marble_palace",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Victoria_Memorial/Nearby_Heritage/Marble_Palace/English/marble_palace_master_story_English.txt",
+        "Hindi": "03_Scripts/Victoria_Memorial/Nearby_Heritage/Marble_Palace/Hindi/marble_palace_master_story_Hindi.txt"
+      },
+      "English_word_count": 141,
+      "Hindi_word_count": 155,
+      "source_urls": [
+        "https://wbtourism.gov.in/Heritage%20Tourism/details?id=63fc8126cec836803000e166&template_id=1"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "victoria_memorial__nipponzan_myohoji_temple",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Victoria_Memorial/Nearby_Heritage/Nipponzan_Myohoji_Temple/English/nipponzan_myohoji_temple_master_story_English.txt",
+        "Hindi": "03_Scripts/Victoria_Memorial/Nearby_Heritage/Nipponzan_Myohoji_Temple/Hindi/nipponzan_myohoji_temple_master_story_Hindi.txt"
+      },
+      "English_word_count": 140,
+      "Hindi_word_count": 154,
+      "source_urls": [
+        "https://nkks.org.in/uploads/Report%2026th.pdf",
+        "https://www.indembassy-tokyo.gov.in/public_files/assets/pdf/Newsletter%20December_17.pdf"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "victoria_memorial__st_johns_church",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Victoria_Memorial/Nearby_Heritage/St_Johns_Church/English/st_johns_church_master_story_English.txt",
+        "Hindi": "03_Scripts/Victoria_Memorial/Nearby_Heritage/St_Johns_Church/Hindi/st_johns_church_master_story_Hindi.txt"
+      },
+      "English_word_count": 137,
+      "Hindi_word_count": 155,
+      "source_urls": [
+        "https://www.nma.gov.in/showfile.php?lang=2&level=1&lid=2189&ls_id=1759&nma_type=0"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "victoria_memorial__mullick_ghat_flower_market",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Victoria_Memorial/Nearby_Heritage/Mullick_Ghat_Flower_Market/English/mullick_ghat_flower_market_master_story_English.txt",
+        "Hindi": "03_Scripts/Victoria_Memorial/Nearby_Heritage/Mullick_Ghat_Flower_Market/Hindi/mullick_ghat_flower_market_master_story_Hindi.txt"
+      },
+      "English_word_count": 138,
+      "Hindi_word_count": 148,
+      "source_urls": [
+        "https://thesis.eur.nl/pub/13102/Prasenjit%20Hans_ISS_Final%20RP_PPM_HANS-14Nov%202012_uploaded_1583.pdf",
+        "https://www.incredibleindia.gov.in/en/west-bengal/kolkata/vidyasagar-setu"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "victoria_memorial__prinsep_ghat",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Victoria_Memorial/Nearby_Heritage/Prinsep_Ghat/English/prinsep_ghat_master_story_English.txt",
+        "Hindi": "03_Scripts/Victoria_Memorial/Nearby_Heritage/Prinsep_Ghat/Hindi/prinsep_ghat_master_story_Hindi.txt"
+      },
+      "English_word_count": 137,
+      "Hindi_word_count": 146,
+      "source_urls": [
+        "https://asiaticsociety.culture.gov.in/sites/default/files/2026-04/James%20Prinsep%20Journal%20for%20Net%20Version.pdf",
+        "https://www.incredibleindia.gov.in/en/west-bengal/kolkata/outram-ghat"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "victoria_memorial__jorasanko_thakur_bari",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Victoria_Memorial/Nearby_Heritage/Jorasanko_Thakur_Bari/English/jorasanko_thakur_bari_master_story_English.txt",
+        "Hindi": "03_Scripts/Victoria_Memorial/Nearby_Heritage/Jorasanko_Thakur_Bari/Hindi/jorasanko_thakur_bari_master_story_Hindi.txt"
+      },
+      "English_word_count": 140,
+      "Hindi_word_count": 154,
+      "source_urls": [
+        "https://rbu.ac.in/home/quick/02e74f10e0327ad868d138f2b4fdd6f0"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "victoria_memorial__armenian_church",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Victoria_Memorial/Nearby_Heritage/Armenian_Church/English/armenian_church_master_story_English.txt",
+        "Hindi": "03_Scripts/Victoria_Memorial/Nearby_Heritage/Armenian_Church/Hindi/armenian_church_master_story_Hindi.txt"
+      },
+      "English_word_count": 145,
+      "Hindi_word_count": 157,
+      "source_urls": [
+        "https://india.mfa.am/en/community-overview/",
+        "https://wbtourism.gov.in/topDestination/details1?id=63d8018be4bbd858c20633b7&template_id=1"
+      ],
+      "status": "checked"
+    },
+    {
+      "place_id": "victoria_memorial__magen_david_synagogue",
+      "is_main": false,
+      "issues": [],
+      "script_paths": {
+        "English": "03_Scripts/Victoria_Memorial/Nearby_Heritage/Magen_David_Synagogue/English/magen_david_synagogue_master_story_English.txt",
+        "Hindi": "03_Scripts/Victoria_Memorial/Nearby_Heritage/Magen_David_Synagogue/Hindi/magen_david_synagogue_master_story_Hindi.txt"
+      },
+      "English_word_count": 141,
+      "Hindi_word_count": 161,
+      "source_urls": [
+        "https://asikolkata.in/monument-sites/maghen-david-synagogue/",
+        "https://wbtourism.gov.in/topDestination/details1?id=63d901676327ed072c056a59&template_id=1"
+      ],
+      "status": "checked"
+    }
+  ]
+}

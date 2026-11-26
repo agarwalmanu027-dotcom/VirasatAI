@@ -1,0 +1,13 @@
+VIRASATAI — BASIC INFORMATION
+Name: Bagore Ki Haveli
+Entry ID: city_palace_udaipur__bagore_ki_haveli
+Location: Gangaur Ghat, Lake Pichola, Udaipur, Rajasthan, India
+Type: Historic haveli and cultural museum
+Identity note: User-selected site identity verified against the sources below.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. The haveli stands beside Lake Pichola at Gangaur Ghat. [1]
+2. It was built in the eighteenth century by Amar Chand Badwa, a Mewar prime minister. [1]
+3. The West Zone Cultural Centre maintains a museum in the restored haveli. [2]
+
+Sources: See bagore_ki_haveli_sources.txt. The parent association is the user's selection, not a verified proximity claim.

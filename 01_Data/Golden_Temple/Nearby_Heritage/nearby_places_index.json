@@ -1,0 +1,178 @@
+{
+  "parent_monument_id": "golden_temple",
+  "parent_monument_name": "Golden Temple, Amritsar",
+  "selection_source": "User-supplied table",
+  "nearby_entry_count": 10,
+  "places": [
+    {
+      "id": "golden_temple__pul_kanjri",
+      "order": 1,
+      "display_name": "Pul Kanjri",
+      "folder_name": "Pul_Kanjri",
+      "parent_monument_id": "golden_temple",
+      "paths": {
+        "data": "01_Data/Golden_Temple/Nearby_Heritage/Pul_Kanjri",
+        "images": "02_Images/Golden_Temple/Nearby_Heritage/Pul_Kanjri",
+        "scripts": "03_Scripts/Golden_Temple/Nearby_Heritage/Pul_Kanjri",
+        "audio": "04_Audio/Golden_Temple/Nearby_Heritage/Pul_Kanjri"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "golden_temple__gurdwara_baba_atal_rai",
+      "order": 2,
+      "display_name": "Gurdwara Baba Atal Rai",
+      "folder_name": "Gurdwara_Baba_Atal_Rai",
+      "parent_monument_id": "golden_temple",
+      "paths": {
+        "data": "01_Data/Golden_Temple/Nearby_Heritage/Gurdwara_Baba_Atal_Rai",
+        "images": "02_Images/Golden_Temple/Nearby_Heritage/Gurdwara_Baba_Atal_Rai",
+        "scripts": "03_Scripts/Golden_Temple/Nearby_Heritage/Gurdwara_Baba_Atal_Rai",
+        "audio": "04_Audio/Golden_Temple/Nearby_Heritage/Gurdwara_Baba_Atal_Rai"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "golden_temple__khalsa_college",
+      "order": 3,
+      "display_name": "Khalsa College",
+      "folder_name": "Khalsa_College",
+      "parent_monument_id": "golden_temple",
+      "paths": {
+        "data": "01_Data/Golden_Temple/Nearby_Heritage/Khalsa_College",
+        "images": "02_Images/Golden_Temple/Nearby_Heritage/Khalsa_College",
+        "scripts": "03_Scripts/Golden_Temple/Nearby_Heritage/Khalsa_College",
+        "audio": "04_Audio/Golden_Temple/Nearby_Heritage/Khalsa_College"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "golden_temple__ram_bagh_palace",
+      "order": 4,
+      "display_name": "Ram Bagh Palace",
+      "folder_name": "Ram_Bagh_Palace",
+      "parent_monument_id": "golden_temple",
+      "paths": {
+        "data": "01_Data/Golden_Temple/Nearby_Heritage/Ram_Bagh_Palace",
+        "images": "02_Images/Golden_Temple/Nearby_Heritage/Ram_Bagh_Palace",
+        "scripts": "03_Scripts/Golden_Temple/Nearby_Heritage/Ram_Bagh_Palace",
+        "audio": "04_Audio/Golden_Temple/Nearby_Heritage/Ram_Bagh_Palace"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "golden_temple__gobindgarh_fort",
+      "order": 5,
+      "display_name": "Gobindgarh Fort",
+      "folder_name": "Gobindgarh_Fort",
+      "parent_monument_id": "golden_temple",
+      "paths": {
+        "data": "01_Data/Golden_Temple/Nearby_Heritage/Gobindgarh_Fort",
+        "images": "02_Images/Golden_Temple/Nearby_Heritage/Gobindgarh_Fort",
+        "scripts": "03_Scripts/Golden_Temple/Nearby_Heritage/Gobindgarh_Fort",
+        "audio": "04_Audio/Golden_Temple/Nearby_Heritage/Gobindgarh_Fort"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "golden_temple__partition_museum",
+      "order": 6,
+      "display_name": "Partition Museum",
+      "folder_name": "Partition_Museum",
+      "parent_monument_id": "golden_temple",
+      "paths": {
+        "data": "01_Data/Golden_Temple/Nearby_Heritage/Partition_Museum",
+        "images": "02_Images/Golden_Temple/Nearby_Heritage/Partition_Museum",
+        "scripts": "03_Scripts/Golden_Temple/Nearby_Heritage/Partition_Museum",
+        "audio": "04_Audio/Golden_Temple/Nearby_Heritage/Partition_Museum"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "golden_temple__gurdwara_mata_kaulan",
+      "order": 7,
+      "display_name": "Gurdwara Mata Kaulan",
+      "folder_name": "Gurdwara_Mata_Kaulan",
+      "parent_monument_id": "golden_temple",
+      "paths": {
+        "data": "01_Data/Golden_Temple/Nearby_Heritage/Gurdwara_Mata_Kaulan",
+        "images": "02_Images/Golden_Temple/Nearby_Heritage/Gurdwara_Mata_Kaulan",
+        "scripts": "03_Scripts/Golden_Temple/Nearby_Heritage/Gurdwara_Mata_Kaulan",
+        "audio": "04_Audio/Golden_Temple/Nearby_Heritage/Gurdwara_Mata_Kaulan"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "golden_temple__durgiana_temple",
+      "order": 8,
+      "display_name": "Durgiana Temple",
+      "folder_name": "Durgiana_Temple",
+      "parent_monument_id": "golden_temple",
+      "paths": {
+        "data": "01_Data/Golden_Temple/Nearby_Heritage/Durgiana_Temple",
+        "images": "02_Images/Golden_Temple/Nearby_Heritage/Durgiana_Temple",
+        "scripts": "03_Scripts/Golden_Temple/Nearby_Heritage/Durgiana_Temple",
+        "audio": "04_Audio/Golden_Temple/Nearby_Heritage/Durgiana_Temple"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "golden_temple__harike_wetland",
+      "order": 9,
+      "display_name": "Harike Wetland",
+      "folder_name": "Harike_Wetland",
+      "parent_monument_id": "golden_temple",
+      "paths": {
+        "data": "01_Data/Golden_Temple/Nearby_Heritage/Harike_Wetland",
+        "images": "02_Images/Golden_Temple/Nearby_Heritage/Harike_Wetland",
+        "scripts": "03_Scripts/Golden_Temple/Nearby_Heritage/Harike_Wetland",
+        "audio": "04_Audio/Golden_Temple/Nearby_Heritage/Harike_Wetland"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "golden_temple__saragarhi_memorial",
+      "order": 10,
+      "display_name": "Saragarhi Memorial",
+      "folder_name": "Saragarhi_Memorial",
+      "parent_monument_id": "golden_temple",
+      "paths": {
+        "data": "01_Data/Golden_Temple/Nearby_Heritage/Saragarhi_Memorial",
+        "images": "02_Images/Golden_Temple/Nearby_Heritage/Saragarhi_Memorial",
+        "scripts": "03_Scripts/Golden_Temple/Nearby_Heritage/Saragarhi_Memorial",
+        "audio": "04_Audio/Golden_Temple/Nearby_Heritage/Saragarhi_Memorial"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    }
+  ]
+}

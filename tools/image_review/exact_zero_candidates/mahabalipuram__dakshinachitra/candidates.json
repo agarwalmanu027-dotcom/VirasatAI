@@ -1,0 +1,78 @@
+{
+  "placeId": "mahabalipuram__dakshinachitra",
+  "displayName": "DakshinaChitra",
+  "candidates": [
+    {
+      "candidateId": 1,
+      "title": "File:Dakshina-Chitra-Tamil-Nadu-House.JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Dakshina-Chitra-Tamil-Nadu-House.JPG",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Dakshina-Chitra-Tamil-Nadu-House.JPG/1280px-Dakshina-Chitra-Tamil-Nadu-House.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalWidth": 2048,
+      "originalHeight": 1536,
+      "author": "Destination8infinity",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "previewPath": "tools/image_review/exact_zero_candidates/mahabalipuram__dakshinachitra/candidate_01.jpg"
+    },
+    {
+      "candidateId": 2,
+      "title": "File:Amphitheatre at DakshinaChitra.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Amphitheatre_at_DakshinaChitra.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Amphitheatre_at_DakshinaChitra.jpg/1280px-Amphitheatre_at_DakshinaChitra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalWidth": 4000,
+      "originalHeight": 3000,
+      "author": "Mohan Babu V",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/exact_zero_candidates/mahabalipuram__dakshinachitra/candidate_02.jpg"
+    },
+    {
+      "candidateId": 3,
+      "title": "File:Calicut House.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Calicut_House.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Calicut_House.jpg/1280px-Calicut_House.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalWidth": 4000,
+      "originalHeight": 3000,
+      "author": "Mohan Babu V",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/exact_zero_candidates/mahabalipuram__dakshinachitra/candidate_03.jpg"
+    },
+    {
+      "candidateId": 4,
+      "title": "File:Ilkal Weaver's House, DakshinaChitra.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Ilkal_Weaver%27s_House,_DakshinaChitra.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Ilkal_Weaver%27s_House%2C_DakshinaChitra.jpg/1280px-Ilkal_Weaver%27s_House%2C_DakshinaChitra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalWidth": 4000,
+      "originalHeight": 3000,
+      "author": "Mohan Babu V",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/exact_zero_candidates/mahabalipuram__dakshinachitra/candidate_04.jpg"
+    },
+    {
+      "candidateId": 5,
+      "title": "File:DakshinaChitra-Pottery presentation-WUS-01625.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:DakshinaChitra-Pottery_presentation-WUS-01625.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/DakshinaChitra-Pottery_presentation-WUS-01625.jpg/1280px-DakshinaChitra-Pottery_presentation-WUS-01625.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalWidth": 4000,
+      "originalHeight": 6000,
+      "author": "Rainer Halama",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/exact_zero_candidates/mahabalipuram__dakshinachitra/candidate_05.jpg"
+    },
+    {
+      "candidateId": 6,
+      "title": "File:DakshinaChitra-Kerala style house-WUS-01628.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:DakshinaChitra-Kerala_style_house-WUS-01628.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/DakshinaChitra-Kerala_style_house-WUS-01628.jpg/1280px-DakshinaChitra-Kerala_style_house-WUS-01628.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalWidth": 6000,
+      "originalHeight": 4000,
+      "author": "Rainer Halama",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/exact_zero_candidates/mahabalipuram__dakshinachitra/candidate_06.jpg"
+    }
+  ]
+}

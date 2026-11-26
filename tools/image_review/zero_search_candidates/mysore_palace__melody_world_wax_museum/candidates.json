@@ -1,0 +1,47 @@
+{
+  "placeId": "mysore_palace__melody_world_wax_museum",
+  "displayName": "Melody World Wax Museum",
+  "query": "\"Melody World Wax Museum\" Mysuru, Karnataka filetype:bitmap",
+  "candidates": [
+    {
+      "candidateId": 1,
+      "title": "File:Melody World Wax Museum - Mysore.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Melody_World_Wax_Museum_-_Mysore.jpg",
+      "previewUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Melody_World_Wax_Museum_-_Mysore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "Reenashreeji",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/zero_search_candidates/mysore_palace__melody_world_wax_museum/candidate_01.jpg"
+    },
+    {
+      "candidateId": 2,
+      "title": "File:Melody World Wax Museum at Mysore.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Melody_World_Wax_Museum_at_Mysore.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Melody_World_Wax_Museum_at_Mysore.jpg/1280px-Melody_World_Wax_Museum_at_Mysore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Melodyworld",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/zero_search_candidates/mysore_palace__melody_world_wax_museum/candidate_02.jpg"
+    },
+    {
+      "candidateId": 3,
+      "title": "File:Music museum in Mysore - Melody World Wax Museum.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Music_museum_in_Mysore_-_Melody_World_Wax_Museum.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Music_museum_in_Mysore_-_Melody_World_Wax_Museum.jpg/1280px-Music_museum_in_Mysore_-_Melody_World_Wax_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Melodyworld",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/zero_search_candidates/mysore_palace__melody_world_wax_museum/candidate_03.jpg"
+    },
+    {
+      "candidateId": 4,
+      "title": "File:Mysore Maharaja Krishnaraja Wodiyar displayed at Melody World Wax Museum at Mysore.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Mysore_Maharaja_Krishnaraja_Wodiyar_displayed_at_Melody_World_Wax_Museum_at_Mysore.jpg",
+      "previewUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Mysore_Maharaja_Krishnaraja_Wodiyar_displayed_at_Melody_World_Wax_Museum_at_Mysore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "Reenashreeji",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/zero_search_candidates/mysore_palace__melody_world_wax_museum/candidate_04.jpg"
+    }
+  ]
+}

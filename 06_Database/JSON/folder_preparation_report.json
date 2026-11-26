@@ -1,0 +1,214 @@
+{
+  "recorded_on": "2026-10-07",
+  "task": "Prepare folders for the supplied main-monument and nearby-place list",
+  "main_groups": 20,
+  "nearby_entries": 200,
+  "place_records": 220,
+  "expected_directories_checked": 4149,
+  "new_directories_created": 4113,
+  "new_place_and_group_readmes_created": 295,
+  "protected_existing_assets_checked": 49,
+  "changed_protected_assets": [],
+  "taj_mahal_display_images": 40,
+  "longest_expected_path_characters": 112.0,
+  "missing_directories": [],
+  "content_stage": "Folders prepared; verified details, new scripts, audio and new images pending",
+  "protected_assets": [
+    {
+      "path": "C:\\Desktop\\VirasatAI\\01_Data\\Taj_Mahal\\README.txt",
+      "sha256": "1F8BF3ADA6A55AE4E56685128F7535DBE574C836FBBF10C6DA2F79D8457A9809"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\01_Data\\Taj_Mahal\\Basic_Info\\taj_mahal_basic.txt",
+      "sha256": "24F7C13F105B8BF3C1399C4814ADCB75A2CE196F35CF7638408334D056A2BBBA"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\01_Data\\Taj_Mahal\\Facts\\taj_mahal_facts.txt.txt",
+      "sha256": "41E99A807F9A26947272E70B72BF4EE28C537818B136373D8D0C5776F0F627B8"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\01_Data\\Taj_Mahal\\Sources\\taj_mahal_sources.txt",
+      "sha256": "9B49F24496356F8CBC9FE95009C5A0D0FC7E670C793F9AC84E1CE59E16402901"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\01_Data\\Taj_Mahal\\Story_Data\\taj_mahal_story.txt",
+      "sha256": "1D588F86E0BBAEDC1C8AE0566C01D53DF75638D972BBD8F7A372E8C5DC721169"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\02_Images\\Taj_Mahal\\Aerial\\Taj_Mahal_01.jpg",
+      "sha256": "CA2E3C6A071D1DD0683FEA0E1EC9DC6CA9FE694E294AFCA2B5AD743ED858AA0B"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\02_Images\\Taj_Mahal\\Aerial\\Taj_mahal_02.png",
+      "sha256": "2763323A3D9B5C383B81A690912F4A983B94F76ADC27FE56910DAC47E2EED8CB"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\02_Images\\Taj_Mahal\\Back_Yamuna\\Taj_Mahal_01.jpg",
+      "sha256": "CB2606BA55FAE02AD870EDB78011B3CCC95194B2F04888F5E9B2C26D90687EA9"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\02_Images\\Taj_Mahal\\Back_Yamuna\\Taj_Mahal_02.jpg",
+      "sha256": "71BDB4812583B64CF6C3E92344935D757FFEAB1591C25F188A3F4AC39B3CD6F1"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\02_Images\\Taj_Mahal\\Back_Yamuna\\Taj_Mahal_03.JPG",
+      "sha256": "493C37D5A6BC970E414A8085856B1848644DEC1C9E34DC07641C382470925AAF"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\02_Images\\Taj_Mahal\\Calligraphy\\Taj_Mahal_01.jpg",
+      "sha256": "656C1F00834813DED67DE38038C849EB3B0071BF8BD399891BFBF4D085B40D7E"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\02_Images\\Taj_Mahal\\Calligraphy\\Taj_Mahal_02.jpg",
+      "sha256": "E9F309FF8DE100AA0462A55030B98223C7F8E290A7FE32758859CDC677B913B0"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\02_Images\\Taj_Mahal\\Dome\\Taj_Mahal_01.jpg",
+      "sha256": "6BF4C8FA694E26DFBAEA53891183A85C9EEC1A06589FDBD5DE4797DCE9454DE6"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\02_Images\\Taj_Mahal\\Dome\\Taj_Mahal_03.jpg",
+      "sha256": "2E26C0A964F81CA9843667ADC8C822F3E278DC860578096BE4B8FDB8E0300F59"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\02_Images\\Taj_Mahal\\Dome\\Taj_Mahal._02jpg.jpg",
+      "sha256": "F7A99B95098CDFDC4EB8FAB4C53382A466708E03712FF75A9FF8DCB17D6B6610"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\02_Images\\Taj_Mahal\\East\\Taj_Mahal_01.jpeg",
+      "sha256": "63E2D985BFC9B059EF77FBE89943E6611E8884DE46998B545B171113D8DE0DA8"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\02_Images\\Taj_Mahal\\East\\Taj_Mahal_02.jpg",
+      "sha256": "92D608102E9E516F60FE4EDEC0F86CCE673B96C8AB1A1DC8CBA1EE4D5EF83BBA"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\02_Images\\Taj_Mahal\\Front\\Taj_Mahal_01l.jpg",
+      "sha256": "B65F4E84A6B4ADDD434432C674AB9417C5DB6E5BC71B24DDE539A7B7C2B0645A"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\02_Images\\Taj_Mahal\\Front\\Taj_Mahal_02.jpg",
+      "sha256": "232932FC7C39B96EEA395930F55ADAD59A6078FD8245CA5E7E6F34A94BADC4E4"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\02_Images\\Taj_Mahal\\Front\\Taj_Mahal_03.jpg",
+      "sha256": "A429690BBCF7B7D2AEC3604EAE234EC99C88DB8B9E1D7EA03DA62DDA502F171F"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\02_Images\\Taj_Mahal\\Front\\Taj_Mahal_04.jpg",
+      "sha256": "E50266D7D007CBA1DFBF43CBE3A77CBE701EC65C44C361AEB1F7663D2D98AEC8"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\02_Images\\Taj_Mahal\\Front\\Taj_Mahal_05.jpg",
+      "sha256": "6D5E9FFF770A1354D3C2E0C78FBBC3D77A589DA426C23C7334D3333CAEE330FA"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\02_Images\\Taj_Mahal\\Garden\\Taj_Mahal_01.jpg",
+      "sha256": "9A72D2EF1048A61D5776DAB2ED45A35AF23261238AA65B44D3075C8DDAEA0AF4"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\02_Images\\Taj_Mahal\\Garden\\Taj_Mahal_02.jpg",
+      "sha256": "5642769405095CAB7B27494EDB1E4A656CC550AA1DB8A5C0234616278335E703"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\02_Images\\Taj_Mahal\\Image_Sources\\taj_mahal_source_record.txt",
+      "sha256": "E6E3AC08309D045203E269E2C600D83C3E065B00E3693BA2ED95177B95401DF3"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\02_Images\\Taj_Mahal\\Interior\\Taj_Mahal_01.jpg",
+      "sha256": "5BB5374D38299881E27C1237AC1E30EBA843F37FBA44619D2E852E925692A986"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\02_Images\\Taj_Mahal\\Interior\\Taj_mahal_02.jpg",
+      "sha256": "195144894529B12A11A66BAE27174B8D55BE0A8BF65A633470D32385510BDE87"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\02_Images\\Taj_Mahal\\Interior\\Taj_Mahal_03.jpg",
+      "sha256": "3CE275223B33E8C6A07EC641A67528FB04214D1D756D80391D87E64F5E9D0004"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\02_Images\\Taj_Mahal\\Jali\\Taj_Mahal_01.jpg",
+      "sha256": "691A29726777232B274FAC80C8C8AAEA7BCAF974C3F06B1AA0CEECD354D38FF6"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\02_Images\\Taj_Mahal\\Jali\\Taj_Mahal_02.jpg",
+      "sha256": "52A7B84EFB621C53E11C9B881C29F802AAE9DD4ED5E81843ACE6EE315A9E9D4E"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\02_Images\\Taj_Mahal\\Jawab\\Taj_Mahal_01.jpg",
+      "sha256": "207BFDDA5D2A73528B90FCB077729CB9F1AB1DDD436FBBEB7A9E868CCA1453EC"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\02_Images\\Taj_Mahal\\Jawab\\Taj_Mahal_02.jpg",
+      "sha256": "DDD8CCEE1B3737ECFFD680BEB2350AEC8C7E2C32E6E22C38FB92E252FB31B719"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\02_Images\\Taj_Mahal\\Minarets\\Taj_Mahal_01.jpg",
+      "sha256": "EA49AA7D915C87291550A6AE3CE367C190E6CB7AED972D5B3F8FB08C05E69845"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\02_Images\\Taj_Mahal\\Minarets\\Taj_Mahal_02.jpg",
+      "sha256": "DA4C6E59A5A8B64FE9DD7ECE52B5AED1DA120EF78A357583A438BC566D3DC4D2"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\02_Images\\Taj_Mahal\\Minarets\\Taj_Mahal_03.jpg",
+      "sha256": "7877F1DCB1813CD9975DE4B8BA88E5855AB2EA043520B6DFA8669C3A3D96EFA4"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\02_Images\\Taj_Mahal\\Mosque\\Taj_Mahal_01.jpg",
+      "sha256": "43A52DA76E7001278BA5A8B21C1C7E40A9974380EE1FFB12A3E3D071CA46BE4C"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\02_Images\\Taj_Mahal\\Mosque\\Taj_Mahal_02.jpg",
+      "sha256": "43A52DA76E7001278BA5A8B21C1C7E40A9974380EE1FFB12A3E3D071CA46BE4C"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\02_Images\\Taj_Mahal\\North\\Taj_Mahal_01.jpg",
+      "sha256": "EBE2297D60750117B9EF9A28BE304EFF51EB888D39A88FD7589486ACA2EA6EAB"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\02_Images\\Taj_Mahal\\North\\Taj_Mahal_02.jpg",
+      "sha256": "353D8985B56AC539E14E6902E51CD280B3863871AA561E612A26052CB11D6114"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\02_Images\\Taj_Mahal\\Pietra_Dura\\Taj_Mahal_01.jpg",
+      "sha256": "FCE5510CA78BD0469E33CA631D746DCA32616E117CC8117FFC0B62F63C6C339C"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\02_Images\\Taj_Mahal\\Pietra_Dura\\Taj_Mahal_02.jpg",
+      "sha256": "98829BCADD88D3DC183E79C87B7D42F3A7765EC7CD5E71FE74513B4C6463DCE5"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\02_Images\\Taj_Mahal\\Pietra_Dura\\Taj_Mahal_03.jpg",
+      "sha256": "2C3C95ACD335160394B020E9BCFDB0814B55F4C3AD34558DB8F4EDC21FEFBE59"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\02_Images\\Taj_Mahal\\South\\Taj_Mahal_01.jpg",
+      "sha256": "C7FD30A5AA83C1F109561894DE9464AEB83681A4770EF96B4162B6A1316ABA67"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\02_Images\\Taj_Mahal\\South\\Taj_Mahal_02.JPG",
+      "sha256": "1A7774FF8D229543FC5FE038953D5B4C085169255002F44A7A1B0A457A71B8E4"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\02_Images\\Taj_Mahal\\West\\Taj_Mahal_01.jpg",
+      "sha256": "BB936812E57958C602D2807EFCE3EE04FE454126B40D6F746C941C8C3A3EC4DC"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\02_Images\\Taj_Mahal\\West\\Taj_Mahal_02.jpeg",
+      "sha256": "CFAA9419F94AECDFDAC088226DC6B66B4ED89C39B44C652AA0AB9B477D3A6C6B"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\03_Scripts\\Taj_Mahal\\English\\taj_mahal_master_story_English.txt",
+      "sha256": "8F049532CA38E57C251B960FD04F4884E6E0BC349E9CF8B5B78B686F398F077F"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\03_Scripts\\Taj_Mahal\\Hindi\\Taj_mahal_master_story_Hindi.txt",
+      "sha256": "D968B4E3584E3C0B64CBA64D239AB1162E2C7DC1F00F68D5DC86324AED24A5BC"
+    },
+    {
+      "path": "C:\\Desktop\\VirasatAI\\03_Scripts\\Taj_Mahal\\Voice_Directions\\taj_mahal_voice_direction.txt",
+      "sha256": "F9D70C18C9955F51BBCE71BB7558EF384BDBAAFDD922E606BC9B76DC4C526CF9"
+    }
+  ]
+}

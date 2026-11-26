@@ -1,0 +1,16 @@
+VIRASATAI — STORY DATA
+Entry ID: city_palace_udaipur
+Name: City Palace, Udaipur
+Narrative focus: A palace developed by generations and preserved through museum collections.
+Language files: Separate English and Devanagari Hindi master scripts in 03_Scripts.
+Status: Written narration ready for TTS input; pronunciation and generated audio still need listening QA.
+
+Welcome to the City Palace of Udaipur, a complex overlooking Lake Pichola that grew through the work of successive rulers of Mewar. Its many spaces are part of a long architectural history, rather than the result of one single building campaign.
+
+As you move through the palace, notice how a courtyard opens the view and a corridor draws it close again. Balconies, rooms and terraces create a changing relationship between the building, the lake and the city. That movement is part of the experience of palace architecture.
+
+The museum gives these historic spaces another purpose. Formally opened to the public in nineteen sixty-nine, it preserves collections that help explain Mewar's artistic and cultural world. Paintings can show how people imagined their surroundings. Sculptures and silver objects invite a closer look at the materials and skills valued in different settings.
+
+A museum visit is most rewarding when we connect an object with the place around it. Look at a painted detail, then look again at the palace's own spaces. Each can help you understand the other.
+
+The City Palace is both a striking part of Udaipur's skyline and a place of careful preservation. Its story continues through the study, conservation and sharing of the heritage held within its walls.

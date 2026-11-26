@@ -1,0 +1,41 @@
+{
+  "place_id": "mysore_palace__kukkarahalli_lake",
+  "display_name": "Kukkarahalli Lake",
+  "checked_on": "2026-10-08",
+  "source": "Wikimedia Commons",
+  "images": [
+    {
+      "title": "File:Kukkarahalli Lake.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Kukkarahalli_Lake.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Kukkarahalli_Lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_width": 4032,
+      "original_height": 3024,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "LittleT889",
+      "credit": "Own work",
+      "attribution": "",
+      "description": "Kukkarahalli Lake",
+      "date_time_original": "2020-02-06 17:50:12",
+      "sha1": "6a079ad7b59d73ca2cbb121d17d3e15e0ae6fea5",
+      "commons_assessment": "",
+      "copyrighted": "True",
+      "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+      "color_score": 22.54,
+      "sharpness_score": 1402.39,
+      "dhash": "2df8f08070b9bad0",
+      "candidate_id": 1,
+      "local_path": "02_Images/Mysore_Palace/Nearby_Heritage/Kukkarahalli_Lake/Overview/kukkarahalli_lake_overview_01.jpg",
+      "sha256": "6952d8b84a10c5d55b0aa646337c3e83aabcc47682c3831a39f9b6d79fe85e78",
+      "visual_review_status": "visually_reviewed",
+      "downloaded_width": 3840,
+      "downloaded_height": 2880,
+      "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Kukkarahalli_Lake.jpg/3840px-Kukkarahalli_Lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "download_kind": "commons_standard_high_resolution",
+      "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+    }
+  ],
+  "download_errors": [],
+  "coverage_note": "One clear landscape accepted. Watermarked and timestamped alternatives rejected; hazy bird-led view not selected."
+}

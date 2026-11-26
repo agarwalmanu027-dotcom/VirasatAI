@@ -1,0 +1,178 @@
+{
+  "parent_monument_id": "gateway_of_india",
+  "parent_monument_name": "Gateway of India, Mumbai",
+  "selection_source": "User-supplied table",
+  "nearby_entry_count": 10,
+  "places": [
+    {
+      "id": "gateway_of_india__keneseth_eliyahoo_synagogue",
+      "order": 1,
+      "display_name": "Keneseth Eliyahoo Synagogue",
+      "folder_name": "Keneseth_Eliyahoo_Synagogue",
+      "parent_monument_id": "gateway_of_india",
+      "paths": {
+        "data": "01_Data/Gateway_of_India/Nearby_Heritage/Keneseth_Eliyahoo_Synagogue",
+        "images": "02_Images/Gateway_of_India/Nearby_Heritage/Keneseth_Eliyahoo_Synagogue",
+        "scripts": "03_Scripts/Gateway_of_India/Nearby_Heritage/Keneseth_Eliyahoo_Synagogue",
+        "audio": "04_Audio/Gateway_of_India/Nearby_Heritage/Keneseth_Eliyahoo_Synagogue"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "gateway_of_india__afghan_church",
+      "order": 2,
+      "display_name": "Afghan Church",
+      "folder_name": "Afghan_Church",
+      "parent_monument_id": "gateway_of_india",
+      "paths": {
+        "data": "01_Data/Gateway_of_India/Nearby_Heritage/Afghan_Church",
+        "images": "02_Images/Gateway_of_India/Nearby_Heritage/Afghan_Church",
+        "scripts": "03_Scripts/Gateway_of_India/Nearby_Heritage/Afghan_Church",
+        "audio": "04_Audio/Gateway_of_India/Nearby_Heritage/Afghan_Church"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "gateway_of_india__ballard_bunder_gatehouse",
+      "order": 3,
+      "display_name": "Ballard Bunder Gatehouse",
+      "folder_name": "Ballard_Bunder_Gatehouse",
+      "parent_monument_id": "gateway_of_india",
+      "paths": {
+        "data": "01_Data/Gateway_of_India/Nearby_Heritage/Ballard_Bunder_Gatehouse",
+        "images": "02_Images/Gateway_of_India/Nearby_Heritage/Ballard_Bunder_Gatehouse",
+        "scripts": "03_Scripts/Gateway_of_India/Nearby_Heritage/Ballard_Bunder_Gatehouse",
+        "audio": "04_Audio/Gateway_of_India/Nearby_Heritage/Ballard_Bunder_Gatehouse"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "gateway_of_india__horniman_circle_gardens",
+      "order": 4,
+      "display_name": "Horniman Circle Gardens",
+      "folder_name": "Horniman_Circle_Gardens",
+      "parent_monument_id": "gateway_of_india",
+      "paths": {
+        "data": "01_Data/Gateway_of_India/Nearby_Heritage/Horniman_Circle_Gardens",
+        "images": "02_Images/Gateway_of_India/Nearby_Heritage/Horniman_Circle_Gardens",
+        "scripts": "03_Scripts/Gateway_of_India/Nearby_Heritage/Horniman_Circle_Gardens",
+        "audio": "04_Audio/Gateway_of_India/Nearby_Heritage/Horniman_Circle_Gardens"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "gateway_of_india__david_sassoon_library",
+      "order": 5,
+      "display_name": "David Sassoon Library",
+      "folder_name": "David_Sassoon_Library",
+      "parent_monument_id": "gateway_of_india",
+      "paths": {
+        "data": "01_Data/Gateway_of_India/Nearby_Heritage/David_Sassoon_Library",
+        "images": "02_Images/Gateway_of_India/Nearby_Heritage/David_Sassoon_Library",
+        "scripts": "03_Scripts/Gateway_of_India/Nearby_Heritage/David_Sassoon_Library",
+        "audio": "04_Audio/Gateway_of_India/Nearby_Heritage/David_Sassoon_Library"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "gateway_of_india__banganga_tank",
+      "order": 6,
+      "display_name": "Banganga Tank",
+      "folder_name": "Banganga_Tank",
+      "parent_monument_id": "gateway_of_india",
+      "paths": {
+        "data": "01_Data/Gateway_of_India/Nearby_Heritage/Banganga_Tank",
+        "images": "02_Images/Gateway_of_India/Nearby_Heritage/Banganga_Tank",
+        "scripts": "03_Scripts/Gateway_of_India/Nearby_Heritage/Banganga_Tank",
+        "audio": "04_Audio/Gateway_of_India/Nearby_Heritage/Banganga_Tank"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "gateway_of_india__khotachiwadi_village",
+      "order": 7,
+      "display_name": "Khotachiwadi Village",
+      "folder_name": "Khotachiwadi_Village",
+      "parent_monument_id": "gateway_of_india",
+      "paths": {
+        "data": "01_Data/Gateway_of_India/Nearby_Heritage/Khotachiwadi_Village",
+        "images": "02_Images/Gateway_of_India/Nearby_Heritage/Khotachiwadi_Village",
+        "scripts": "03_Scripts/Gateway_of_India/Nearby_Heritage/Khotachiwadi_Village",
+        "audio": "04_Audio/Gateway_of_India/Nearby_Heritage/Khotachiwadi_Village"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "gateway_of_india__rbi_monetary_museum",
+      "order": 8,
+      "display_name": "RBI Monetary Museum",
+      "folder_name": "RBI_Monetary_Museum",
+      "parent_monument_id": "gateway_of_india",
+      "paths": {
+        "data": "01_Data/Gateway_of_India/Nearby_Heritage/RBI_Monetary_Museum",
+        "images": "02_Images/Gateway_of_India/Nearby_Heritage/RBI_Monetary_Museum",
+        "scripts": "03_Scripts/Gateway_of_India/Nearby_Heritage/RBI_Monetary_Museum",
+        "audio": "04_Audio/Gateway_of_India/Nearby_Heritage/RBI_Monetary_Museum"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "gateway_of_india__sewri_fort",
+      "order": 9,
+      "display_name": "Sewri Fort",
+      "folder_name": "Sewri_Fort",
+      "parent_monument_id": "gateway_of_india",
+      "paths": {
+        "data": "01_Data/Gateway_of_India/Nearby_Heritage/Sewri_Fort",
+        "images": "02_Images/Gateway_of_India/Nearby_Heritage/Sewri_Fort",
+        "scripts": "03_Scripts/Gateway_of_India/Nearby_Heritage/Sewri_Fort",
+        "audio": "04_Audio/Gateway_of_India/Nearby_Heritage/Sewri_Fort"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "gateway_of_india__bhau_daji_lad_museum",
+      "order": 10,
+      "display_name": "Bhau Daji Lad Museum",
+      "folder_name": "Bhau_Daji_Lad_Museum",
+      "parent_monument_id": "gateway_of_india",
+      "paths": {
+        "data": "01_Data/Gateway_of_India/Nearby_Heritage/Bhau_Daji_Lad_Museum",
+        "images": "02_Images/Gateway_of_India/Nearby_Heritage/Bhau_Daji_Lad_Museum",
+        "scripts": "03_Scripts/Gateway_of_India/Nearby_Heritage/Bhau_Daji_Lad_Museum",
+        "audio": "04_Audio/Gateway_of_India/Nearby_Heritage/Bhau_Daji_Lad_Museum"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    }
+  ]
+}

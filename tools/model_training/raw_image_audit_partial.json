@@ -1,0 +1,397 @@
+{
+  "root": "C:\\Desktop\\VirasatAI\\new images folder\\raw",
+  "monuments": {
+    "amer_fort": {
+      "files": 712,
+      "small_under_400px": 5,
+      "formats": {
+        "JPEG": 711,
+        "PNG": 1
+      }
+    },
+    "charminar": {
+      "files": 210,
+      "small_under_400px": 0,
+      "formats": {
+        "JPEG": 210
+      }
+    },
+    "gateway_of_india": {
+      "files": 150,
+      "small_under_400px": 0,
+      "formats": {
+        "JPEG": 150
+      }
+    },
+    "mysore_palace": {
+      "files": 19,
+      "small_under_400px": 0,
+      "formats": {
+        "JPEG": 19
+      }
+    },
+    "taj_mahal": {
+      "files": 775,
+      "small_under_400px": 11,
+      "formats": {
+        "JPEG": 773,
+        "PNG": 2
+      }
+    },
+    "victoria_memorial": {
+      "files": 935,
+      "small_under_400px": 2,
+      "formats": {
+        "JPEG": 929,
+        "PNG": 6
+      }
+    }
+  },
+  "exact_duplicates": [
+    [
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_002.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_015.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_028.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_041.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_054.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_067.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_080.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_093.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_106.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_119.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_132.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_145.jpg"
+    ],
+    [
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_008.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_021.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_073.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_125.jpg"
+    ],
+    [
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_009.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_022.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_035.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_048.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_061.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_074.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_087.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_100.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_113.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_126.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_139.jpg"
+    ],
+    [
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_010.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_023.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_036.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_049.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_062.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_075.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_088.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_101.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_114.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_127.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_140.jpg"
+    ],
+    [
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_011.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_024.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_037.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_050.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_063.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_076.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_089.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_102.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_115.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_128.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_141.jpg"
+    ],
+    [
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_014.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_027.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_040.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_053.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_066.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_079.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_092.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_105.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_118.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_131.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_144.jpg"
+    ],
+    [
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_034.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_047.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_086.jpg"
+    ],
+    [
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_059.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_124.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_150.jpg"
+    ],
+    [
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_099.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_112.jpg",
+      "amer_fort\\sub_places\\vidyadhar_garden\\images\\vidyadhar_garden_138.jpg"
+    ],
+    [
+      "amer_fort\\sub_places\\sagar_lake_amer\\images\\sagar_lake_amer_001.jpg",
+      "amer_fort\\sub_places\\jaigarh_fort\\images\\jaigarh_fort_121.jpg"
+    ],
+    [
+      "amer_fort\\sub_places\\sagar_lake_amer\\images\\sagar_lake_amer_002.jpg",
+      "amer_fort\\sub_places\\sagar_lake\\images\\src_sagar_lake_006.jpg"
+    ],
+    [
+      "amer_fort\\sub_places\\sagar_lake_amer\\images\\sagar_lake_amer_003.jpg",
+      "amer_fort\\sub_places\\sagar_lake\\images\\src_sagar_lake_008.jpg"
+    ],
+    [
+      "amer_fort\\sub_places\\sagar_lake_amer\\images\\sagar_lake_amer_004.jpg",
+      "amer_fort\\sub_places\\sagar_lake\\images\\src_sagar_lake_004.jpg"
+    ],
+    [
+      "amer_fort\\sub_places\\sagar_lake_amer\\images\\sagar_lake_amer_005.jpg",
+      "amer_fort\\sub_places\\sagar_lake\\images\\src_sagar_lake_002.jpg"
+    ],
+    [
+      "amer_fort\\sub_places\\sagar_lake_amer\\images\\sagar_lake_amer_006.jpg",
+      "amer_fort\\sub_places\\jaigarh_fort\\images\\jaigarh_fort_044.jpg"
+    ],
+    [
+      "amer_fort\\sub_places\\sagar_lake_amer\\images\\sagar_lake_amer_008.jpg",
+      "amer_fort\\sub_places\\sagar_lake\\images\\src_sagar_lake_010.jpg",
+      "amer_fort\\sub_places\\jaigarh_fort\\images\\jaigarh_fort_128.jpg"
+    ],
+    [
+      "amer_fort\\sub_places\\sagar_lake_amer\\images\\sagar_lake_amer_009.jpg",
+      "amer_fort\\sub_places\\sagar_lake\\images\\src_sagar_lake_001.jpg"
+    ],
+    [
+      "amer_fort\\sub_places\\sagar_lake_amer\\images\\sagar_lake_amer_011.jpg",
+      "amer_fort\\sub_places\\sagar_lake\\images\\src_sagar_lake_009.jpg"
+    ],
+    [
+      "amer_fort\\sub_places\\sagar_lake_amer\\images\\sagar_lake_amer_012.jpg",
+      "amer_fort\\sub_places\\sagar_lake\\images\\src_sagar_lake_005.jpg"
+    ],
+    [
+      "amer_fort\\sub_places\\sagar_lake_amer\\images\\sagar_lake_amer_018.jpg",
+      "amer_fort\\sub_places\\sagar_lake\\images\\src_sagar_lake_007.jpg"
+    ],
+    [
+      "amer_fort\\sub_places\\sagar_lake_amer\\images\\sagar_lake_amer_029.jpg",
+      "amer_fort\\sub_places\\jal_mahal\\images\\jal_mahal_034.jpg"
+    ],
+    [
+      "amer_fort\\sub_places\\sagar_lake_amer\\images\\sagar_lake_amer_062.jpg",
+      "amer_fort\\sub_places\\jal_mahal\\images\\jal_mahal_001.jpg"
+    ],
+    [
+      "amer_fort\\sub_places\\garh_ganesh_temple\\images\\garh_ganesh_temple_013.jpg",
+      "taj_mahal\\sub_places\\bateshwar_temples\\images\\bateshwar_temples_146.jpg"
+    ],
+    [
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_002.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_015.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_028.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_041.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_054.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_067.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_080.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_093.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_106.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_119.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_132.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_145.jpg"
+    ],
+    [
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_008.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_021.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_047.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_060.jpg"
+    ],
+    [
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_009.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_022.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_035.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_048.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_061.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_074.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_087.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_100.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_113.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_126.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_139.jpg"
+    ],
+    [
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_010.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_023.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_036.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_049.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_062.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_075.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_088.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_101.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_114.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_127.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_140.jpg"
+    ],
+    [
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_011.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_024.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_037.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_050.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_063.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_076.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_089.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_102.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_115.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_128.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_141.jpg"
+    ],
+    [
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_014.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_027.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_040.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_053.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_066.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_079.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_092.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_105.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_118.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_131.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_144.jpg"
+    ],
+    [
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_034.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_073.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_099.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_125.jpg"
+    ],
+    [
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_086.jpg",
+      "taj_mahal\\sub_places\\jaswant_singh_ki_chhatri\\images\\jaswant_singh_ki_chhatri_138.jpg"
+    ],
+    [
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_001.jpg",
+      "taj_mahal\\sub_places\\gurudwara_guru_ka_taal\\images\\src_gurudwara_guru_ka_taal_006.jpg"
+    ],
+    [
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_002.jpg",
+      "taj_mahal\\sub_places\\gurudwara_guru_ka_taal\\images\\src_gurudwara_guru_ka_taal_004.jpg"
+    ],
+    [
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_003.jpg",
+      "taj_mahal\\sub_places\\gurudwara_guru_ka_taal\\images\\src_gurudwara_guru_ka_taal_005.jpg"
+    ],
+    [
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_004.jpg",
+      "taj_mahal\\sub_places\\gurudwara_guru_ka_taal\\images\\src_gurudwara_guru_ka_taal_002.jpg"
+    ],
+    [
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_005.jpg",
+      "taj_mahal\\sub_places\\gurudwara_guru_ka_taal\\images\\src_gurudwara_guru_ka_taal_010.jpg"
+    ],
+    [
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_006.jpg",
+      "taj_mahal\\sub_places\\gurudwara_guru_ka_taal\\images\\src_gurudwara_guru_ka_taal_001.jpg"
+    ],
+    [
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_008.jpg",
+      "taj_mahal\\sub_places\\gurudwara_guru_ka_taal\\images\\src_gurudwara_guru_ka_taal_007.jpg"
+    ],
+    [
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_012.jpg",
+      "taj_mahal\\sub_places\\gurudwara_guru_ka_taal\\images\\src_gurudwara_guru_ka_taal_009.jpg"
+    ],
+    [
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_021.jpg",
+      "taj_mahal\\sub_places\\gurudwara_guru_ka_taal\\images\\src_gurudwara_guru_ka_taal_008.jpg"
+    ],
+    [
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_027.jpg",
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_053.jpg",
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_079.jpg",
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_105.jpg",
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_131.jpg"
+    ],
+    [
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_033.jpg",
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_085.jpg",
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_111.jpg",
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_137.jpg"
+    ],
+    [
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_034.jpg",
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_060.jpg",
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_086.jpg",
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_112.jpg",
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_138.jpg"
+    ],
+    [
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_035.jpg",
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_061.jpg",
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_087.jpg",
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_113.jpg",
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_139.jpg"
+    ],
+    [
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_036.jpg",
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_062.jpg",
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_088.jpg",
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_114.jpg",
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_140.jpg"
+    ],
+    [
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_039.jpg",
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_065.jpg",
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_091.jpg",
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_117.jpg",
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_143.jpg"
+    ],
+    [
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_040.jpg",
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_066.jpg",
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_092.jpg",
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_118.jpg",
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_144.jpg"
+    ],
+    [
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_046.jpg",
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_124.jpg",
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_150.jpg"
+    ],
+    [
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_047.jpg",
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_073.jpg",
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_099.jpg",
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_125.jpg"
+    ],
+    [
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_048.jpg",
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_074.jpg",
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_100.jpg",
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_126.jpg"
+    ],
+    [
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_049.jpg",
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_075.jpg",
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_101.jpg",
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_127.jpg"
+    ],
+    [
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_052.jpg",
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_078.jpg",
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_104.jpg",
+      "taj_mahal\\sub_places\\guru_ka_taal\\images\\guru_ka_taal_130.jpg"
+    ],
+    [
+      "victoria_memorial\\sub_places\\nipponzan_myohoji_temple\\images\\nipponzan_myohoji_temple_001.jpg",
+      "victoria_memorial\\sub_places\\nipponzan_myohoji_temple\\images\\nipponzan_myohoji_temple_075.jpg",
+      "victoria_memorial\\sub_places\\nipponzan_myohoji_temple\\images\\nipponzan_myohoji_temple_147.jpg"
+    ]
+  ],
+  "bad_files": []
+}

@@ -1,0 +1,14 @@
+VIRASATAI — STORY DATA
+Entry ID: city_palace_udaipur__shilpgram
+Name: Shilpgram
+Narrative focus: Living heritage expressed through homes, craft and performance.
+Language files: Separate English and Devanagari Hindi master scripts in 03_Scripts.
+Status: Written narration ready for TTS input; pronunciation and generated audio still need listening QA.
+
+Shilpgram invites us to see heritage in the making. This rural arts and crafts complex near Udaipur was created by the West Zone Cultural Centre to share the cultures of communities in western India.
+
+The setting brings attention to houses, materials, everyday objects and artistic skills. A craft is more than its finished product. It also holds the knowledge of the hands that make it, the tools they use and the choices learned through practice.
+
+Look for differences in the built forms and displays rather than imagining one single rural way of life. Regional heritage contains many communities, each with its own experience.
+
+Shilpgram adds a living cultural chapter to Udaipur's palace history. Exhibitions and programmes can vary, but its wider purpose remains clear: to make room for artists and craftspeople, and help visitors appreciate the traditions that continue through their work.

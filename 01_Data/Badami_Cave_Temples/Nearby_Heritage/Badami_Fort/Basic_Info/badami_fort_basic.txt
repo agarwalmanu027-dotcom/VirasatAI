@@ -1,0 +1,14 @@
+VIRASATAI — BASIC INFORMATION
+Name: Badami Fort
+Entry ID: badami_cave_temples__badami_fort
+Location: Northern hill, Badami, Bagalkot district, Karnataka
+Type: Hilltop fortifications and archaeological remains
+Identity note: User-selected site identity verified against the sources below.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. Badami Fort occupies a hill above the town, opposite the cave-temple landscape. [1,2]
+2. The fort area includes gateways, water-storage features and surviving architectural remains. [1]
+3. The fortification history includes later modifications rather than a wholly unchanged Chalukya structure. [1,2]
+4. No claim is made about a sixteenth-century Tipu cannon or a single builder of all visible structures.
+
+Sources: See badami_fort_sources.txt. The parent association is the user's selection, not a verified proximity claim.

@@ -1,0 +1,16 @@
+[
+  {
+    "place_id": "city_palace_udaipur",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {"candidate_id": 1, "category": "Details", "review_note": "Clear exterior balcony detail."},
+      {"candidate_id": 5, "category": "Overview", "review_note": "Clear palace facade and garden view."},
+      {"candidate_id": 7, "category": "Different_Views", "review_note": "Distinct lake-side palace view."},
+      {"candidate_id": 13, "category": "Overview", "review_note": "Clear front architectural view."},
+      {"candidate_id": 17, "category": "Different_Views", "review_note": "Distinct courtyard-side facade."},
+      {"candidate_id": 21, "category": "Details", "review_note": "Clear entrance and upper facade detail."},
+      {"candidate_id": 25, "category": "Different_Views", "review_note": "Distinct courtyard and colonnade view."}
+    ],
+    "coverage_note": "Six visually distinct City Palace Udaipur views added to supplement the two existing app photographs."
+  }
+]

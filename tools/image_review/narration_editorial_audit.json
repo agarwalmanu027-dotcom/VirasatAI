@@ -1,0 +1,318 @@
+{
+  "checked_date": "2026-10-08",
+  "scope": "Global keyword scan of existing English and Hindi master-story files followed by manual triage of matched passages. This is an editorial narration audit, not a new factual-source verification or an audio audition.",
+  "scanned_script_files": 436,
+  "polished_entries": [
+    {
+      "place_id": "hampi_monuments__achyutaraya_temple",
+      "language": "English",
+      "path": "03_Scripts/Hampi_Monuments/Nearby_Heritage/Achyutaraya_Temple/English/achyutaraya_temple_master_story_English.txt",
+      "word_count": 138,
+      "clean_body": true,
+      "contains_research_or_catalog_process": false
+    },
+    {
+      "place_id": "hampi_monuments__achyutaraya_temple",
+      "language": "Hindi",
+      "path": "03_Scripts/Hampi_Monuments/Nearby_Heritage/Achyutaraya_Temple/Hindi/achyutaraya_temple_master_story_Hindi.txt",
+      "word_count": 152,
+      "clean_body": true,
+      "contains_research_or_catalog_process": false
+    },
+    {
+      "place_id": "hampi_monuments__sanapur_lake",
+      "language": "English",
+      "path": "03_Scripts/Hampi_Monuments/Nearby_Heritage/Sanapur_Lake/English/sanapur_lake_master_story_English.txt",
+      "word_count": 137,
+      "clean_body": true,
+      "contains_research_or_catalog_process": false
+    },
+    {
+      "place_id": "hampi_monuments__sanapur_lake",
+      "language": "Hindi",
+      "path": "03_Scripts/Hampi_Monuments/Nearby_Heritage/Sanapur_Lake/Hindi/sanapur_lake_master_story_Hindi.txt",
+      "word_count": 150,
+      "clean_body": true,
+      "contains_research_or_catalog_process": false
+    },
+    {
+      "place_id": "jaisalmer_fort__kuldhara_village",
+      "language": "English",
+      "path": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Kuldhara_Village/English/kuldhara_village_master_story_English.txt",
+      "word_count": 152,
+      "clean_body": true,
+      "contains_research_or_catalog_process": false
+    },
+    {
+      "place_id": "jaisalmer_fort__kuldhara_village",
+      "language": "Hindi",
+      "path": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Kuldhara_Village/Hindi/kuldhara_village_master_story_Hindi.txt",
+      "word_count": 167,
+      "clean_body": true,
+      "contains_research_or_catalog_process": false
+    },
+    {
+      "place_id": "mahabalipuram__poonjeri_village",
+      "language": "English",
+      "path": "03_Scripts/Mahabalipuram/Nearby_Heritage/Poonjeri_Village/English/poonjeri_village_master_story_English.txt",
+      "word_count": 149,
+      "clean_body": true,
+      "contains_research_or_catalog_process": false
+    },
+    {
+      "place_id": "mahabalipuram__poonjeri_village",
+      "language": "Hindi",
+      "path": "03_Scripts/Mahabalipuram/Nearby_Heritage/Poonjeri_Village/Hindi/poonjeri_village_master_story_Hindi.txt",
+      "word_count": 180,
+      "clean_body": true,
+      "contains_research_or_catalog_process": false
+    },
+    {
+      "place_id": "mahabalipuram__sadras_dutch_fort",
+      "language": "English",
+      "path": "03_Scripts/Mahabalipuram/Nearby_Heritage/Sadras_Dutch_Fort/English/sadras_dutch_fort_master_story_English.txt",
+      "word_count": 151,
+      "clean_body": true,
+      "contains_research_or_catalog_process": false
+    },
+    {
+      "place_id": "mahabalipuram__sadras_dutch_fort",
+      "language": "Hindi",
+      "path": "03_Scripts/Mahabalipuram/Nearby_Heritage/Sadras_Dutch_Fort/Hindi/sadras_dutch_fort_master_story_Hindi.txt",
+      "word_count": 172,
+      "clean_body": true,
+      "contains_research_or_catalog_process": false
+    },
+    {
+      "place_id": "mahabalipuram__sri_thiruvidandhai",
+      "language": "English",
+      "path": "03_Scripts/Mahabalipuram/Nearby_Heritage/Sri_Thiruvidandhai/English/sri_thiruvidandhai_master_story_English.txt",
+      "word_count": 127,
+      "clean_body": true,
+      "contains_research_or_catalog_process": false
+    },
+    {
+      "place_id": "mahabalipuram__sri_thiruvidandhai",
+      "language": "Hindi",
+      "path": "03_Scripts/Mahabalipuram/Nearby_Heritage/Sri_Thiruvidandhai/Hindi/sri_thiruvidandhai_master_story_Hindi.txt",
+      "word_count": 148,
+      "clean_body": true,
+      "contains_research_or_catalog_process": false
+    },
+    {
+      "place_id": "meenakshi_temple__goripalayam_dargah",
+      "language": "English",
+      "path": "03_Scripts/Meenakshi_Temple/Nearby_Heritage/Goripalayam_Dargah/English/goripalayam_dargah_master_story_English.txt",
+      "word_count": 136,
+      "clean_body": true,
+      "contains_research_or_catalog_process": false
+    },
+    {
+      "place_id": "meenakshi_temple__goripalayam_dargah",
+      "language": "Hindi",
+      "path": "03_Scripts/Meenakshi_Temple/Nearby_Heritage/Goripalayam_Dargah/Hindi/goripalayam_dargah_master_story_Hindi.txt",
+      "word_count": 145,
+      "clean_body": true,
+      "contains_research_or_catalog_process": false
+    },
+    {
+      "place_id": "mehrangarh_fort__machia_biological_park",
+      "language": "English",
+      "path": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Machia_Biological_Park/English/machia_biological_park_master_story_English.txt",
+      "word_count": 139,
+      "clean_body": true,
+      "contains_research_or_catalog_process": false
+    },
+    {
+      "place_id": "mehrangarh_fort__machia_biological_park",
+      "language": "Hindi",
+      "path": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Machia_Biological_Park/Hindi/machia_biological_park_master_story_Hindi.txt",
+      "word_count": 157,
+      "clean_body": true,
+      "contains_research_or_catalog_process": false
+    },
+    {
+      "place_id": "mehrangarh_fort__singhasni_village",
+      "language": "English",
+      "path": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Singhasni_Village/English/singhasni_village_master_story_English.txt",
+      "word_count": 142,
+      "clean_body": true,
+      "contains_research_or_catalog_process": false
+    },
+    {
+      "place_id": "mehrangarh_fort__singhasni_village",
+      "language": "Hindi",
+      "path": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Singhasni_Village/Hindi/singhasni_village_master_story_Hindi.txt",
+      "word_count": 163,
+      "clean_body": true,
+      "contains_research_or_catalog_process": false
+    }
+  ],
+  "remaining_priority_place_count": 0,
+  "remaining_priority_language_files": 0,
+  "remaining_priority_passages": [],
+  "lighter_source_attribution_opportunities": [
+    {
+      "place_id": "ajanta_ellora_caves__siddharth_garden",
+      "path": "03_Scripts/Ajanta_Ellora_Caves/Nearby_Heritage/Siddharth_Garden/English/siddharth_garden_master_story_English.txt",
+      "excerpt": "The place is also associated with the municipal zoo recorded in Central Zoo Authority documents. That history connects recreation with the care of animals and with opportunities for wildlife education.",
+      "note": "Light spoken attribution to a modern source or registry; optional style polish, not a factual error. Check the matching Hindi body too before editing.",
+      "modified": false
+    },
+    {
+      "place_id": "amer_fort__jagat_shiromani_temple",
+      "path": "03_Scripts/Amer_Fort/Nearby_Heritage/Jagat_Shiromani_Temple/English/jagat_shiromani_temple_master_story_English.txt",
+      "excerpt": "Official tourism accounts place its construction around the beginning of the seventeenth century. Its architecture rewards attention to details, offering a different experience from the large defensive walls of Amer Fort.",
+      "note": "Light spoken attribution to a modern source or registry; optional style polish, not a factual error. Check the matching Hindi body too before editing.",
+      "modified": false
+    },
+    {
+      "place_id": "amer_fort__sagar_lake",
+      "path": "03_Scripts/Amer_Fort/Nearby_Heritage/Sagar_Lake/English/sagar_lake_master_story_English.txt",
+      "excerpt": "Government planning records connect the lake with water supply for Amer and the adjoining forts. That role helps explain why a lake deserves attention alongside the palace walls. A fortified settlement needed resources as well as strong architecture.",
+      "note": "Light spoken attribution to a modern source or registry; optional style polish, not a factual error. Check the matching Hindi body too before editing.",
+      "modified": false
+    },
+    {
+      "place_id": "golden_temple__gurdwara_mata_kaulan",
+      "path": "03_Scripts/Golden_Temple/Nearby_Heritage/Gurdwara_Mata_Kaulan/English/gurdwara_mata_kaulan_master_story_English.txt",
+      "excerpt": "The adjoining Kaulsar pool is an essential part of the place. Official tourism describes its excavation in the sixteen-twenties. Together, water and memorial space create a setting for remembrance beyond the central shrine of Harmandir Sahib.",
+      "note": "Light spoken attribution to a modern source or registry; optional style polish, not a factual error. Check the matching Hindi body too before editing.",
+      "modified": false
+    },
+    {
+      "place_id": "hampi_monuments__badavilinga_temple",
+      "path": "03_Scripts/Hampi_Monuments/Nearby_Heritage/Badavilinga_Temple/English/badavilinga_temple_master_story_English.txt",
+      "excerpt": "Official descriptions place its height at about three metres. The difference between the compact enclosure and the large sacred form gives the shrine its distinctive presence. Openings allow light to reach the stone, while water at its base adds another visual layer.",
+      "note": "Light spoken attribution to a modern source or registry; optional style polish, not a factual error. Check the matching Hindi body too before editing.",
+      "modified": false
+    },
+    {
+      "place_id": "jaisalmer_fort__akal_wood_fossil_park",
+      "path": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Akal_Wood_Fossil_Park/English/akal_wood_fossil_park_master_story_English.txt",
+      "excerpt": "Akal Wood Fossil Park takes the journey far beyond the age of forts and temples. Its fossilised wood belongs to a geological past that official tourism interpretation places at roughly one hundred and eighty million years ago. These remains suggest a landscape very different from the desert around Jaisalmer today.",
+      "note": "Light spoken attribution to a modern source or registry; optional style polish, not a factual error. Check the matching Hindi body too before editing.",
+      "modified": false
+    },
+    {
+      "place_id": "jaisalmer_fort__amar_sagar_jain_temple",
+      "path": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Amar_Sagar_Jain_Temple/English/amar_sagar_jain_temple_master_story_English.txt",
+      "excerpt": "Amar Sagar Jain Temple combines a sacred building with a wider landscape of water and palace architecture. Official Rajasthan descriptions place a carefully carved Jain temple at one end of the Amar Sagar lake setting, beside the area associated with Amar Singh Palace.",
+      "note": "Light spoken attribution to a modern source or registry; optional style polish, not a factual error. Check the matching Hindi body too before editing.",
+      "modified": false
+    },
+    {
+      "place_id": "jaisalmer_fort__khaba_fort",
+      "path": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Khaba_Fort/English/khaba_fort_master_story_English.txt",
+      "excerpt": "Khaba Fort brings together two scales of desert heritage: a defensive structure and the remains of a village. Official Rajasthan tourism material places Khaba among the abandoned Paliwal settlements of the Jaisalmer region. The fort helps you consider the relationship between a place of oversight and the community around it.",
+      "note": "Light spoken attribution to a modern source or registry; optional style polish, not a factual error. Check the matching Hindi body too before editing.",
+      "modified": false
+    },
+    {
+      "place_id": "jaisalmer_fort__lodhruva_jain_temples",
+      "path": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Lodhruva_Jain_Temples/English/lodhruva_jain_temples_master_story_English.txt",
+      "excerpt": "The Jain temples of Lodhruva remind us that the history of Jaisalmer extends beyond its present fort and streets. Official tourism accounts identify Lodhruva, also written Lodurva, as a former capital and a place known for Jain worship.",
+      "note": "Light spoken attribution to a modern source or registry; optional style polish, not a factual error. Check the matching Hindi body too before editing.",
+      "modified": false
+    },
+    {
+      "place_id": "jaisalmer_fort__tanot_mata_temple",
+      "path": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Tanot_Mata_Temple/English/tanot_mata_temple_master_story_English.txt",
+      "excerpt": "Tanot Mata Temple is a place of devotion in Rajasthan's border region. Its identity is closely associated with the goddess worshipped here and with the Border Security Force. Official Rajasthan material describes the involvement of a BSF trust, while government tourism records also identify BSF-linked development at the Tanot complex.",
+      "note": "Light spoken attribution to a modern source or registry; optional style polish, not a factual error. Check the matching Hindi body too before editing.",
+      "modified": false
+    },
+    {
+      "place_id": "khajuraho_monuments__beni_sagar_dam",
+      "path": "03_Scripts/Khajuraho_Monuments/Nearby_Heritage/Beni_Sagar_Dam/English/beni_sagar_dam_master_story_English.txt",
+      "excerpt": "Beni Sagar Dam adds open water to Khajuraho's wider landscape. Identified on the government's city base map and included in official tourism material, it offers a different setting from the temple groups.",
+      "note": "Light spoken attribution to a modern source or registry; optional style polish, not a factual error. Check the matching Hindi body too before editing.",
+      "modified": false
+    },
+    {
+      "place_id": "khajuraho_monuments__ken_gharial_sanctuary",
+      "path": "03_Scripts/Khajuraho_Monuments/Nearby_Heritage/Ken_Gharial_Sanctuary/English/ken_gharial_sanctuary_master_story_English.txt",
+      "excerpt": "Government conservation evaluations point to the importance of suitable sand banks and to pressures on this narrow river habitat. Protection therefore involves the whole river setting, not simply counting animals.",
+      "note": "Light spoken attribution to a modern source or registry; optional style polish, not a factual error. Check the matching Hindi body too before editing.",
+      "modified": false
+    },
+    {
+      "place_id": "konark_sun_temple__chausathi_yogini_temple",
+      "path": "03_Scripts/Konark_Sun_Temple/Nearby_Heritage/Chausathi_Yogini_Temple/English/chausathi_yogini_temple_master_story_English.txt",
+      "excerpt": "Official tourism literature identifies this as a ninth-century shrine. The Yogini figures occupy niches around the enclosure, with individual sculptural details that reward patient observation.",
+      "note": "Light spoken attribution to a modern source or registry; optional style polish, not a factual error. Check the matching Hindi body too before editing.",
+      "modified": false
+    },
+    {
+      "place_id": "mahabalipuram__muttukadu_backwaters",
+      "path": "03_Scripts/Mahabalipuram/Nearby_Heritage/Muttukadu_Backwaters/English/muttukadu_backwaters_master_story_English.txt",
+      "excerpt": "Muttukadu Backwaters introduces a quieter kind of stop on the coastal route towards Mamallapuram. The attraction is the water landscape itself, recognised in official tourism material as a place for boating and recreation. Here, a heritage journey can pause to notice the surroundings that connect the coast's towns and cultural destinations.",
+      "note": "Light spoken attribution to a modern source or registry; optional style polish, not a factual error. Check the matching Hindi body too before editing.",
+      "modified": false
+    },
+    {
+      "place_id": "meenakshi_temple__kazimar_big_mosque",
+      "path": "03_Scripts/Meenakshi_Temple/Nearby_Heritage/Kazimar_Big_Mosque/English/kazimar_big_mosque_master_story_English.txt",
+      "excerpt": "Kazimar Big Mosque, also known as Kazimar Periya Pallivasal, is part of Madurai's Muslim religious heritage. Its identity is recorded in official tourism material and in government records connected with the Kazimar Street area.",
+      "note": "Light spoken attribution to a modern source or registry; optional style polish, not a factual error. Check the matching Hindi body too before editing.",
+      "modified": false
+    },
+    {
+      "place_id": "mehrangarh_fort",
+      "path": "03_Scripts/Mehrangarh_Fort/English/mehrangarh_fort_master_story_English.txt",
+      "excerpt": "The Mehrangarh Museum Trust identifies important phases under rulers including Maldeo and Ajit Singh. Later work sometimes replaced or changed earlier structures, so the age of a room is not always obvious from a quick glance. A doorway, a decorative surface and the arrangement of adjoining spaces can help you notice these differences.",
+      "note": "Light spoken attribution to a modern source or registry; optional style polish, not a factual error. Check the matching Hindi body too before editing.",
+      "modified": false
+    },
+    {
+      "place_id": "mehrangarh_fort__jaswant_thada",
+      "path": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Jaswant_Thada/English/jaswant_thada_master_story_English.txt",
+      "excerpt": "Jaswant Thada gives royal remembrance a setting in marble. The Mehrangarh Museum Trust identifies it as a memorial to Maharaja Jaswant Singh the Second, built by his son, Maharaja Sardar Singh. The trust records its completion in nineteen hundred and six.",
+      "note": "Light spoken attribution to a modern source or registry; optional style polish, not a factual error. Check the matching Hindi body too before editing.",
+      "modified": false
+    },
+    {
+      "place_id": "mehrangarh_fort__navchowkiya",
+      "path": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Navchowkiya/English/navchowkiya_master_story_English.txt",
+      "excerpt": "Navchowkiya offers a street-level view of Jodhpur's old-city character. Official tourism material names the neighbourhood as a place to explore blue lanes, where walls, doors and windows form a varied residential landscape. Its interest lies in the relationship between small architectural details and an area that people continue to call home.",
+      "note": "Light spoken attribution to a modern source or registry; optional style polish, not a factual error. Check the matching Hindi body too before editing.",
+      "modified": false
+    },
+    {
+      "place_id": "mehrangarh_fort__osian_temples",
+      "path": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Osian_Temples/English/osian_temples_master_story_English.txt",
+      "excerpt": "Osian is a temple destination rather than a single monument. Official Rajasthan tourism material describes a group of Hindu and Jain temples, with important examples dating broadly between the eighth and eleventh centuries. This range invites you to think about a settlement that supported more than one religious and artistic tradition.",
+      "note": "Light spoken attribution to a modern source or registry; optional style polish, not a factual error. Check the matching Hindi body too before editing.",
+      "modified": false
+    },
+    {
+      "place_id": "mysore_palace__gun_house",
+      "path": "03_Scripts/Mysore_Palace/Nearby_Heritage/Gun_House/English/gun_house_master_story_English.txt",
+      "excerpt": "Gun House draws attention to the practical buildings around Mysore Palace. Listed in the city's government heritage register south of the palace, it represents a part of royal life that is easily overlooked.",
+      "note": "Light spoken attribution to a modern source or registry; optional style polish, not a factual error. Check the matching Hindi body too before editing.",
+      "modified": false
+    },
+    {
+      "place_id": "mysore_palace__kukkarahalli_lake",
+      "path": "03_Scripts/Mysore_Palace/Nearby_Heritage/Kukkarahalli_Lake/English/kukkarahalli_lake_master_story_English.txt",
+      "excerpt": "The lake is more than a pleasant view. University records describe its role in supporting vegetation and replenishing groundwater. Its setting also provides habitat for birds and aquatic life, reminding us that a city's history includes the natural systems that sustain it.",
+      "note": "Light spoken attribution to a modern source or registry; optional style polish, not a factual error. Check the matching Hindi body too before editing.",
+      "modified": false
+    },
+    {
+      "place_id": "qutub_minar__hijron_ka_khanqah",
+      "path": "03_Scripts/Qutub_Minar/Nearby_Heritage/Hijron_Ka_Khanqah/English/hijron_ka_khanqah_master_story_English.txt",
+      "excerpt": "Hijron Ka Khanqah brings an important community perspective to Mehrauli's history. This spiritual and memorial site is associated with the hijra community, and official tourism material links it with the Lodi-period hospice tradition.",
+      "note": "Light spoken attribution to a modern source or registry; optional style polish, not a factual error. Check the matching Hindi body too before editing.",
+      "modified": false
+    },
+    {
+      "place_id": "sanchi_stupa__bijamandal",
+      "path": "03_Scripts/Sanchi_Stupa/Nearby_Heritage/Bijamandal/English/bijamandal_master_story_English.txt",
+      "excerpt": "Bijamandal in Vidisha asks us to read history in layers. The surviving monument and its architectural material hold evidence of more than one stage of use. Madhya Pradesh's tourism account describes temple and mosque remains, while the protected monument is officially recorded as Bijamandal Mosque.",
+      "note": "Light spoken attribution to a modern source or registry; optional style polish, not a factual error. Check the matching Hindi body too before editing.",
+      "modified": false
+    }
+  ],
+  "preservation": "Nine authorized narration packs were polished: Singhasni Village, Sri Thiruvidandhai, Poonjeri Village, Machia Biological Park, Sanapur Lake, Achyutaraya Temple, Sadras Dutch Fort, Kuldhara Village and Goripalayam Dargah. Corresponding Story_Data and voice directions were synced. Existing sources, facts, basic info, images, catalog and Taj Mahal originals were not edited."
+}

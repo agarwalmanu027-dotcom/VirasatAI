@@ -1,0 +1,178 @@
+{
+  "parent_monument_id": "ajanta_ellora_caves",
+  "parent_monument_name": "Ajanta & Ellora Caves, Maharashtra",
+  "selection_source": "User-supplied table",
+  "nearby_entry_count": 10,
+  "places": [
+    {
+      "id": "ajanta_ellora_caves__daulatabad_fort",
+      "order": 1,
+      "display_name": "Daulatabad Fort",
+      "folder_name": "Daulatabad_Fort",
+      "parent_monument_id": "ajanta_ellora_caves",
+      "paths": {
+        "data": "01_Data/Ajanta_Ellora_Caves/Nearby_Heritage/Daulatabad_Fort",
+        "images": "02_Images/Ajanta_Ellora_Caves/Nearby_Heritage/Daulatabad_Fort",
+        "scripts": "03_Scripts/Ajanta_Ellora_Caves/Nearby_Heritage/Daulatabad_Fort",
+        "audio": "04_Audio/Ajanta_Ellora_Caves/Nearby_Heritage/Daulatabad_Fort"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "ajanta_ellora_caves__bibi_ka_maqbara",
+      "order": 2,
+      "display_name": "Bibi Ka Maqbara",
+      "folder_name": "Bibi_Ka_Maqbara",
+      "parent_monument_id": "ajanta_ellora_caves",
+      "paths": {
+        "data": "01_Data/Ajanta_Ellora_Caves/Nearby_Heritage/Bibi_Ka_Maqbara",
+        "images": "02_Images/Ajanta_Ellora_Caves/Nearby_Heritage/Bibi_Ka_Maqbara",
+        "scripts": "03_Scripts/Ajanta_Ellora_Caves/Nearby_Heritage/Bibi_Ka_Maqbara",
+        "audio": "04_Audio/Ajanta_Ellora_Caves/Nearby_Heritage/Bibi_Ka_Maqbara"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "ajanta_ellora_caves__khuldabad",
+      "order": 3,
+      "display_name": "Khuldabad",
+      "folder_name": "Khuldabad",
+      "parent_monument_id": "ajanta_ellora_caves",
+      "paths": {
+        "data": "01_Data/Ajanta_Ellora_Caves/Nearby_Heritage/Khuldabad",
+        "images": "02_Images/Ajanta_Ellora_Caves/Nearby_Heritage/Khuldabad",
+        "scripts": "03_Scripts/Ajanta_Ellora_Caves/Nearby_Heritage/Khuldabad",
+        "audio": "04_Audio/Ajanta_Ellora_Caves/Nearby_Heritage/Khuldabad"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "ajanta_ellora_caves__grishneshwar_jyotirlinga",
+      "order": 4,
+      "display_name": "Grishneshwar Jyotirlinga",
+      "folder_name": "Grishneshwar_Jyotirlinga",
+      "parent_monument_id": "ajanta_ellora_caves",
+      "paths": {
+        "data": "01_Data/Ajanta_Ellora_Caves/Nearby_Heritage/Grishneshwar_Jyotirlinga",
+        "images": "02_Images/Ajanta_Ellora_Caves/Nearby_Heritage/Grishneshwar_Jyotirlinga",
+        "scripts": "03_Scripts/Ajanta_Ellora_Caves/Nearby_Heritage/Grishneshwar_Jyotirlinga",
+        "audio": "04_Audio/Ajanta_Ellora_Caves/Nearby_Heritage/Grishneshwar_Jyotirlinga"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "ajanta_ellora_caves__siddharth_garden",
+      "order": 5,
+      "display_name": "Siddharth Garden",
+      "folder_name": "Siddharth_Garden",
+      "parent_monument_id": "ajanta_ellora_caves",
+      "paths": {
+        "data": "01_Data/Ajanta_Ellora_Caves/Nearby_Heritage/Siddharth_Garden",
+        "images": "02_Images/Ajanta_Ellora_Caves/Nearby_Heritage/Siddharth_Garden",
+        "scripts": "03_Scripts/Ajanta_Ellora_Caves/Nearby_Heritage/Siddharth_Garden",
+        "audio": "04_Audio/Ajanta_Ellora_Caves/Nearby_Heritage/Siddharth_Garden"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "ajanta_ellora_caves__salim_ali_lake",
+      "order": 6,
+      "display_name": "Salim Ali Lake",
+      "folder_name": "Salim_Ali_Lake",
+      "parent_monument_id": "ajanta_ellora_caves",
+      "paths": {
+        "data": "01_Data/Ajanta_Ellora_Caves/Nearby_Heritage/Salim_Ali_Lake",
+        "images": "02_Images/Ajanta_Ellora_Caves/Nearby_Heritage/Salim_Ali_Lake",
+        "scripts": "03_Scripts/Ajanta_Ellora_Caves/Nearby_Heritage/Salim_Ali_Lake",
+        "audio": "04_Audio/Ajanta_Ellora_Caves/Nearby_Heritage/Salim_Ali_Lake"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "ajanta_ellora_caves__panchakki",
+      "order": 7,
+      "display_name": "Panchakki",
+      "folder_name": "Panchakki",
+      "parent_monument_id": "ajanta_ellora_caves",
+      "paths": {
+        "data": "01_Data/Ajanta_Ellora_Caves/Nearby_Heritage/Panchakki",
+        "images": "02_Images/Ajanta_Ellora_Caves/Nearby_Heritage/Panchakki",
+        "scripts": "03_Scripts/Ajanta_Ellora_Caves/Nearby_Heritage/Panchakki",
+        "audio": "04_Audio/Ajanta_Ellora_Caves/Nearby_Heritage/Panchakki"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "ajanta_ellora_caves__jama_masjid_aurangabad",
+      "order": 8,
+      "display_name": "Jama Masjid Aurangabad",
+      "folder_name": "Jama_Masjid_Aurangabad",
+      "parent_monument_id": "ajanta_ellora_caves",
+      "paths": {
+        "data": "01_Data/Ajanta_Ellora_Caves/Nearby_Heritage/Jama_Masjid_Aurangabad",
+        "images": "02_Images/Ajanta_Ellora_Caves/Nearby_Heritage/Jama_Masjid_Aurangabad",
+        "scripts": "03_Scripts/Ajanta_Ellora_Caves/Nearby_Heritage/Jama_Masjid_Aurangabad",
+        "audio": "04_Audio/Ajanta_Ellora_Caves/Nearby_Heritage/Jama_Masjid_Aurangabad"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "ajanta_ellora_caves__soneri_mahal",
+      "order": 9,
+      "display_name": "Soneri Mahal",
+      "folder_name": "Soneri_Mahal",
+      "parent_monument_id": "ajanta_ellora_caves",
+      "paths": {
+        "data": "01_Data/Ajanta_Ellora_Caves/Nearby_Heritage/Soneri_Mahal",
+        "images": "02_Images/Ajanta_Ellora_Caves/Nearby_Heritage/Soneri_Mahal",
+        "scripts": "03_Scripts/Ajanta_Ellora_Caves/Nearby_Heritage/Soneri_Mahal",
+        "audio": "04_Audio/Ajanta_Ellora_Caves/Nearby_Heritage/Soneri_Mahal"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "ajanta_ellora_caves__bhadra_maruti_temple",
+      "order": 10,
+      "display_name": "Bhadra Maruti Temple",
+      "folder_name": "Bhadra_Maruti_Temple",
+      "parent_monument_id": "ajanta_ellora_caves",
+      "paths": {
+        "data": "01_Data/Ajanta_Ellora_Caves/Nearby_Heritage/Bhadra_Maruti_Temple",
+        "images": "02_Images/Ajanta_Ellora_Caves/Nearby_Heritage/Bhadra_Maruti_Temple",
+        "scripts": "03_Scripts/Ajanta_Ellora_Caves/Nearby_Heritage/Bhadra_Maruti_Temple",
+        "audio": "04_Audio/Ajanta_Ellora_Caves/Nearby_Heritage/Bhadra_Maruti_Temple"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    }
+  ]
+}

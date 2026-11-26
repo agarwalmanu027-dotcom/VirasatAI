@@ -1,0 +1,20 @@
+{
+  "placeId": "amer_fort__vidyadhar_garden",
+  "queries": [
+    "Vidyadhar Garden Jaipur",
+    "Vidhyadhar garden Jaipur"
+  ],
+  "candidates": [
+    {
+      "candidateId": 1,
+      "title": "File:Lascar Jaipur, the Pink City (4499845296).jpg",
+      "query": "Vidyadhar Garden Jaipur",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Lascar_Jaipur,_the_Pink_City_(4499845296).jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Lascar_Jaipur%2C_the_Pink_City_%284499845296%29.jpg/1280px-Lascar_Jaipur%2C_the_Pink_City_%284499845296%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Jorge Láscar from Australia",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "previewPath": "tools/image_review/remaining_zero_broad/amer_fort__vidyadhar_garden/candidate_01.jpg"
+    }
+  ]
+}

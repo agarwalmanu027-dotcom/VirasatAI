@@ -1,0 +1,40 @@
+{
+  "place_id": "taj_mahal__jaswant_singh_ki_chhatri",
+  "display_name": "Jaswant Singh Ki Chhatri",
+  "checked_on": "2026-10-07",
+  "source": "Wikimedia Commons",
+  "images": [
+    {
+      "title": "File:Jaswant Singh-ki-Chattri.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Jaswant_Singh-ki-Chattri.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Jaswant_Singh-ki-Chattri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_width": 6657,
+      "original_height": 4438,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "DeepanjanGhosh",
+      "credit": "Own work",
+      "attribution": "",
+      "description": "Jaswant Singh-ki-Chattri, Agra",
+      "date_time_original": "2017-11-03 13:08:27",
+      "sha1": "e872c334b88ad36e60810343f634de9ad76f87fa",
+      "commons_assessment": "",
+      "copyrighted": "True",
+      "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+      "color_score": 26.12,
+      "sharpness_score": 2600.17,
+      "dhash": "bebe3e8685260003",
+      "candidate_id": 1,
+      "local_path": "02_Images/Taj_Mahal/Nearby_Heritage/Jaswant_Singh_Ki_Chhatri/Overview/jaswant_singh_ki_chhatri_overview_01.jpg",
+      "sha256": "c1a96c4f78a576b7b41a1a29b9ae90c34821562822ba26d9d704c1b5b1f85c58",
+      "visual_review_status": "visually_reviewed",
+      "downloaded_width": 3840,
+      "downloaded_height": 2560,
+      "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Jaswant_Singh-ki-Chattri.jpg/3840px-Jaswant_Singh-ki-Chattri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "download_kind": "commons_standard_high_resolution",
+      "review_note": "Subject, composition and clarity visually checked; original-resolution color photograph selected."
+    }
+  ],
+  "coverage_note": "One clear correctly identified Commons photograph available; gallery quantity kept low to preserve relevance and quality."
+}

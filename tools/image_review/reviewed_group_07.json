@@ -1,0 +1,312 @@
+[
+  {
+    "place_id": "victoria_memorial",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Sharp full daylight facade and garden panorama."
+      },
+      {
+        "candidate_id": 3,
+        "category": "Details",
+        "review_note": "Sharp complete Minto bronze relief panel."
+      },
+      {
+        "candidate_id": 12,
+        "category": "Different_Views",
+        "review_note": "Sharp overhead interior view of patterned rotunda floor."
+      },
+      {
+        "candidate_id": 13,
+        "category": "Details",
+        "review_note": "Clear Jubilee Monument statue and pedestal context."
+      },
+      {
+        "candidate_id": 15,
+        "category": "Details",
+        "review_note": "Clear alternate relief panel and marble pedestal framing."
+      },
+      {
+        "candidate_id": 17,
+        "category": "Different_Views",
+        "review_note": "Clear curved colonnaded elevation and dome."
+      },
+      {
+        "candidate_id": 21,
+        "category": "Details",
+        "review_note": "Sharp upward rotunda and dome decoration."
+      },
+      {
+        "candidate_id": 23,
+        "category": "Details",
+        "review_note": "Sharp central bronze face detail; shallow depth of field is intentional around the focal sculpture."
+      },
+      {
+        "candidate_id": 28,
+        "category": "Aerial",
+        "review_note": "Clear night aerial shows the entire lit building and gardens."
+      },
+      {
+        "candidate_id": 29,
+        "category": "Surroundings",
+        "review_note": "Clear King Edward VII Arch and garden setting."
+      },
+      {
+        "candidate_id": 30,
+        "category": "Different_Views",
+        "review_note": "Clear oblique entrance, dome and corner towers."
+      },
+      {
+        "candidate_id": 31,
+        "category": "Surroundings",
+        "review_note": "Clear garden view from the chequered terrace."
+      },
+      {
+        "candidate_id": 32,
+        "category": "Overview",
+        "review_note": "Sharp opposite full facade with standing statue in foreground."
+      }
+    ],
+    "coverage_note": "Thirteen complementary daylight, night aerial, indoor, garden and sculpture views; repeated relief panels, tourist portraits, defocused grille framing and weak night skyline omitted."
+  },
+  {
+    "place_id": "victoria_memorial__armenian_church",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 2,
+        "category": "Details",
+        "review_note": "Clear churchyard burial slabs and courtyard setting."
+      },
+      {
+        "candidate_id": 8,
+        "category": "Details",
+        "review_note": "Clear sculpted churchyard memorials beside the church wall."
+      },
+      {
+        "candidate_id": 9,
+        "category": "Details",
+        "review_note": "Sharp Armenian-inscribed gravestone slab."
+      }
+    ],
+    "coverage_note": "All candidates explicitly identify Holy Nazareth Church, Kolkata. Three churchyard details qualify; this batch contains no complete church-building overview. Low-contrast repeated slab close-ups omitted."
+  },
+  {
+    "place_id": "victoria_memorial__jorasanko_thakur_bari",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 2,
+        "category": "Overview",
+        "review_note": "Sharp full red mansion and garden view."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Different_Views",
+        "review_note": "Sharp courtyard path and surrounding mansion wings."
+      },
+      {
+        "candidate_id": 9,
+        "category": "Details",
+        "review_note": "Clear Rabindranath Tagore bust."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Different_Views",
+        "review_note": "Sharp street entrance and gateway."
+      }
+    ],
+    "coverage_note": "Mansion, courtyard, entrance and Tagore bust represented; repeated garden facades and weak indoor frame omitted."
+  },
+  {
+    "place_id": "victoria_memorial__lascar_war_memorial",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 6,
+        "category": "Overview",
+        "review_note": "Sharp complete monument, path and blue-sky setting."
+      },
+      {
+        "candidate_id": 8,
+        "category": "Details",
+        "review_note": "Sharp memorial inauguration inscription plaque."
+      },
+      {
+        "candidate_id": 2,
+        "category": "Details",
+        "review_note": "Clear nearby World War One interpretation plaque."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Details",
+        "review_note": "Clear upper memorial crown and carved architectural ornament."
+      },
+      {
+        "candidate_id": 9,
+        "category": "Details",
+        "review_note": "Clear adjacent historic mechanical anchor detail."
+      }
+    ],
+    "coverage_note": "Monument, inscriptions, crown and maritime setting detail represented; repeated full views omitted."
+  },
+  {
+    "place_id": "victoria_memorial__magen_david_synagogue",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 3,
+        "category": "Overview",
+        "review_note": "Sharp full red synagogue facade and tower."
+      },
+      {
+        "candidate_id": 2,
+        "category": "Different_Views",
+        "review_note": "Sharp restored interior, bimah, arcades and floor."
+      },
+      {
+        "candidate_id": 1,
+        "category": "Details",
+        "review_note": "Sharp round stained-glass window."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Different_Views",
+        "review_note": "Clear exterior arched entrance passage."
+      },
+      {
+        "candidate_id": 9,
+        "category": "Details",
+        "review_note": "Clear inner entrance arch and steps."
+      }
+    ],
+    "coverage_note": "Facade, restored hall, stained glass and entrance sequence represented; repetitive interior and tower views omitted."
+  },
+  {
+    "place_id": "victoria_memorial__marble_palace",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "All candidates depict Saint Petersburg's Marble Palace, not Raja Rajendra Mullick's Marble Palace in Kolkata. Candidate 9 was also checked against its Commons categories and belongs to Saint Petersburg. No wrong-site image selected."
+  },
+  {
+    "place_id": "victoria_memorial__mullick_ghat_flower_market",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 6,
+        "category": "Overview",
+        "review_note": "Sharp broad market-lane view with flower traders."
+      },
+      {
+        "candidate_id": 2,
+        "category": "Different_Views",
+        "review_note": "Sharp flower stall and garland-making activity."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Details",
+        "review_note": "Clear stacks of colourful flower garlands at a stall."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Different_Views",
+        "review_note": "Sharp wider traders' working area and flower stock."
+      }
+    ],
+    "coverage_note": "Market activity and flower detail represented; isolated individual portraits and weak dark lane frame omitted."
+  },
+  {
+    "place_id": "victoria_memorial__nipponzan_myohoji_temple",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "No candidate photo passed the collector's identity, resolution and quality filters for this Kolkata temple."
+  },
+  {
+    "place_id": "victoria_memorial__prinsep_ghat",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Sharp complete white memorial and bridge setting."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Different_Views",
+        "review_note": "Clear monument under warm night illumination."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Details",
+        "review_note": "Clear fluted columns and timber roof."
+      },
+      {
+        "candidate_id": 3,
+        "category": "Surroundings",
+        "review_note": "Clear bridge framed between the memorial columns."
+      },
+      {
+        "candidate_id": 8,
+        "category": "Different_Views",
+        "review_note": "Sharp side-corner elevation of the pavilion."
+      }
+    ],
+    "coverage_note": "Memorial, night lighting, columns and bridge setting represented; repeated front views omitted."
+  },
+  {
+    "place_id": "victoria_memorial__south_park_street_cemetery",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Sharp cemetery avenue and historic tombs."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Different_Views",
+        "review_note": "Sharp curved path and garden setting."
+      },
+      {
+        "candidate_id": 8,
+        "category": "Details",
+        "review_note": "Sharp ornate historic tomb structure."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Details",
+        "review_note": "Sharp Derozio memorial bust, grave and inscriptions."
+      },
+      {
+        "candidate_id": 9,
+        "category": "Details",
+        "review_note": "Clear tall obelisk tomb and surrounding monuments."
+      }
+    ],
+    "coverage_note": "Cemetery routes and several distinct memorial forms represented; repeated obelisk and foreground-leaf-dominated frame omitted."
+  },
+  {
+    "place_id": "victoria_memorial__st_johns_church",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 2,
+        "category": "Overview",
+        "review_note": "Sharp complete Kolkata church elevation and grounds."
+      },
+      {
+        "candidate_id": 8,
+        "category": "Different_Views",
+        "review_note": "Sharp corner view includes portico and spire."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Details",
+        "review_note": "Clear clock tower and spire detail."
+      }
+    ],
+    "coverage_note": "Three complementary Kolkata exterior views. Candidate 1 depicts St John's Church in Tartu, Estonia, and was rejected; repetitive tower and dark frames omitted."
+  }
+]

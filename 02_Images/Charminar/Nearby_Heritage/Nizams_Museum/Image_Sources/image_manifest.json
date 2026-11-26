@@ -1,0 +1,41 @@
+{
+  "place_id": "charminar__nizams_museum",
+  "display_name": "Nizam's Museum",
+  "checked_on": "2026-10-08",
+  "source": "Wikimedia Commons",
+  "images": [
+    {
+      "title": "File:Nizam' s museum, purani haveli, Hyderabad.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Nizam%27_s_museum,_purani_haveli,_Hyderabad.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Nizam%27_s_museum%2C_purani_haveli%2C_Hyderabad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_width": 4000,
+      "original_height": 1800,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Bhavss1214",
+      "credit": "Own work",
+      "attribution": "",
+      "description": "Nizam' s museum, purani haveli, Hyderabad",
+      "date_time_original": "6 November 2021 (according to Exif data)",
+      "sha1": "517927e88a506a4a356cd31b196140f63bc73b36",
+      "commons_assessment": "",
+      "copyrighted": "True",
+      "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+      "color_score": 21.37,
+      "sharpness_score": 4821.22,
+      "dhash": "fbdfa4a8aaa8d418",
+      "candidate_id": 1,
+      "local_path": "02_Images/Charminar/Nearby_Heritage/Nizams_Museum/Overview/nizams_museum_overview_01.jpg",
+      "sha256": "ef6eef54cf8d7b8dcf0444a2070ad7398dc3fe4dfe7dfbcb6ebfcd6fe49d0527",
+      "visual_review_status": "visually_reviewed",
+      "downloaded_width": 3840,
+      "downloaded_height": 1728,
+      "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Nizam%27_s_museum%2C_purani_haveli%2C_Hyderabad.jpg/3840px-Nizam%27_s_museum%2C_purani_haveli%2C_Hyderabad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "download_kind": "commons_standard_high_resolution",
+      "review_note": "Sharp exterior of the Nizam's Museum building in Purani Haveli, explicitly identified in source metadata."
+    }
+  ],
+  "download_errors": [],
+  "coverage_note": "Only museum-building exterior qualifies. Candidates 2–10 are explicitly labelled Salarjung Museum, a different institution, and were rejected. Additional genuine Nizam's Museum collection photos are needed."
+}

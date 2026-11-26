@@ -1,0 +1,182 @@
+{
+  "parent_monument_id": "charminar",
+  "parent_monument_name": "Charminar, Hyderabad",
+  "selection_source": "User-supplied table",
+  "nearby_entry_count": 10,
+  "places": [
+    {
+      "id": "charminar__badshahi_ashurkhana",
+      "order": 1,
+      "display_name": "Badshahi Ashurkhana",
+      "folder_name": "Badshahi_Ashurkhana",
+      "parent_monument_id": "charminar",
+      "paths": {
+        "data": "01_Data/Charminar/Nearby_Heritage/Badshahi_Ashurkhana",
+        "images": "02_Images/Charminar/Nearby_Heritage/Badshahi_Ashurkhana",
+        "scripts": "03_Scripts/Charminar/Nearby_Heritage/Badshahi_Ashurkhana",
+        "audio": "04_Audio/Charminar/Nearby_Heritage/Badshahi_Ashurkhana"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "charminar__purani_haveli",
+      "order": 2,
+      "display_name": "Purani Haveli",
+      "folder_name": "Purani_Haveli",
+      "parent_monument_id": "charminar",
+      "paths": {
+        "data": "01_Data/Charminar/Nearby_Heritage/Purani_Haveli",
+        "images": "02_Images/Charminar/Nearby_Heritage/Purani_Haveli",
+        "scripts": "03_Scripts/Charminar/Nearby_Heritage/Purani_Haveli",
+        "audio": "04_Audio/Charminar/Nearby_Heritage/Purani_Haveli"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": [
+        "Check overlap between the palace complex and Nizam's Museum; retain both selected entries."
+      ]
+    },
+    {
+      "id": "charminar__paigah_tombs",
+      "order": 3,
+      "display_name": "Paigah Tombs",
+      "folder_name": "Paigah_Tombs",
+      "parent_monument_id": "charminar",
+      "paths": {
+        "data": "01_Data/Charminar/Nearby_Heritage/Paigah_Tombs",
+        "images": "02_Images/Charminar/Nearby_Heritage/Paigah_Tombs",
+        "scripts": "03_Scripts/Charminar/Nearby_Heritage/Paigah_Tombs",
+        "audio": "04_Audio/Charminar/Nearby_Heritage/Paigah_Tombs"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "charminar__toli_masjid",
+      "order": 4,
+      "display_name": "Toli Masjid",
+      "folder_name": "Toli_Masjid",
+      "parent_monument_id": "charminar",
+      "paths": {
+        "data": "01_Data/Charminar/Nearby_Heritage/Toli_Masjid",
+        "images": "02_Images/Charminar/Nearby_Heritage/Toli_Masjid",
+        "scripts": "03_Scripts/Charminar/Nearby_Heritage/Toli_Masjid",
+        "audio": "04_Audio/Charminar/Nearby_Heritage/Toli_Masjid"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "charminar__raymonds_tomb",
+      "order": 5,
+      "display_name": "Raymond's Tomb",
+      "folder_name": "Raymonds_Tomb",
+      "parent_monument_id": "charminar",
+      "paths": {
+        "data": "01_Data/Charminar/Nearby_Heritage/Raymonds_Tomb",
+        "images": "02_Images/Charminar/Nearby_Heritage/Raymonds_Tomb",
+        "scripts": "03_Scripts/Charminar/Nearby_Heritage/Raymonds_Tomb",
+        "audio": "04_Audio/Charminar/Nearby_Heritage/Raymonds_Tomb"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "charminar__hayat_bakshi_mosque",
+      "order": 6,
+      "display_name": "Hayat Bakshi Mosque",
+      "folder_name": "Hayat_Bakshi_Mosque",
+      "parent_monument_id": "charminar",
+      "paths": {
+        "data": "01_Data/Charminar/Nearby_Heritage/Hayat_Bakshi_Mosque",
+        "images": "02_Images/Charminar/Nearby_Heritage/Hayat_Bakshi_Mosque",
+        "scripts": "03_Scripts/Charminar/Nearby_Heritage/Hayat_Bakshi_Mosque",
+        "audio": "04_Audio/Charminar/Nearby_Heritage/Hayat_Bakshi_Mosque"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "charminar__spanish_mosque",
+      "order": 7,
+      "display_name": "Spanish Mosque",
+      "folder_name": "Spanish_Mosque",
+      "parent_monument_id": "charminar",
+      "paths": {
+        "data": "01_Data/Charminar/Nearby_Heritage/Spanish_Mosque",
+        "images": "02_Images/Charminar/Nearby_Heritage/Spanish_Mosque",
+        "scripts": "03_Scripts/Charminar/Nearby_Heritage/Spanish_Mosque",
+        "audio": "04_Audio/Charminar/Nearby_Heritage/Spanish_Mosque"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "charminar__nizams_museum",
+      "order": 8,
+      "display_name": "Nizam's Museum",
+      "folder_name": "Nizams_Museum",
+      "parent_monument_id": "charminar",
+      "paths": {
+        "data": "01_Data/Charminar/Nearby_Heritage/Nizams_Museum",
+        "images": "02_Images/Charminar/Nearby_Heritage/Nizams_Museum",
+        "scripts": "03_Scripts/Charminar/Nearby_Heritage/Nizams_Museum",
+        "audio": "04_Audio/Charminar/Nearby_Heritage/Nizams_Museum"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": [
+        "Check whether photographs depict museum exhibits or the larger Purani Haveli complex."
+      ]
+    },
+    {
+      "id": "charminar__khursheed_jah_devdi",
+      "order": 9,
+      "display_name": "Khursheed Jah Devdi",
+      "folder_name": "Khursheed_Jah_Devdi",
+      "parent_monument_id": "charminar",
+      "paths": {
+        "data": "01_Data/Charminar/Nearby_Heritage/Khursheed_Jah_Devdi",
+        "images": "02_Images/Charminar/Nearby_Heritage/Khursheed_Jah_Devdi",
+        "scripts": "03_Scripts/Charminar/Nearby_Heritage/Khursheed_Jah_Devdi",
+        "audio": "04_Audio/Charminar/Nearby_Heritage/Khursheed_Jah_Devdi"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "charminar__qutb_shahi_tombs",
+      "order": 10,
+      "display_name": "Qutb Shahi Tombs",
+      "folder_name": "Qutb_Shahi_Tombs",
+      "parent_monument_id": "charminar",
+      "paths": {
+        "data": "01_Data/Charminar/Nearby_Heritage/Qutb_Shahi_Tombs",
+        "images": "02_Images/Charminar/Nearby_Heritage/Qutb_Shahi_Tombs",
+        "scripts": "03_Scripts/Charminar/Nearby_Heritage/Qutb_Shahi_Tombs",
+        "audio": "04_Audio/Charminar/Nearby_Heritage/Qutb_Shahi_Tombs"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    }
+  ]
+}

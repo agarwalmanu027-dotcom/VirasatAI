@@ -1,0 +1,43 @@
+{
+  "placeId": "golden_temple__gurdwara_mata_kaulan",
+  "queries": [
+    "Gurdwara Mata Kaulan",
+    "Kaulsar Sarovar Amritsar",
+    "Gurdwara Kaulsar Sahib"
+  ],
+  "candidates": [
+    {
+      "candidateId": 1,
+      "title": "File:Photograph of a structure commemorating the former location of the Samadhi of Giani Sant Singh, located within the Golden Temple complex, Amritsar, Punjab, India, April 2023.jpg",
+      "query": "Kaulsar Sarovar Amritsar",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Photograph_of_a_structure_commemorating_the_former_location_of_the_Samadhi_of_Giani_Sant_Singh,_located_within_the_Golden_Temple_complex,_Amritsar,_Punjab,_India,_April_2023.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Photograph_of_a_structure_commemorating_the_former_location_of_the_Samadhi_of_Giani_Sant_Singh%2C_located_within_the_Golden_Temple_complex%2C_Amritsar%2C_Punjab%2C_India%2C_April_2023.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "MaplesyrupSushi",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/remaining_zero_broad/golden_temple__gurdwara_mata_kaulan/candidate_01.jpg"
+    },
+    {
+      "candidateId": 2,
+      "title": "File:Photograph of the Kaulsar Sarovar of the Golden Temple complex, Amritsar, Punjab, India, April 2023.jpg",
+      "query": "Kaulsar Sarovar Amritsar",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Photograph_of_the_Kaulsar_Sarovar_of_the_Golden_Temple_complex,_Amritsar,_Punjab,_India,_April_2023.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Photograph_of_the_Kaulsar_Sarovar_of_the_Golden_Temple_complex%2C_Amritsar%2C_Punjab%2C_India%2C_April_2023.jpg/1280px-Photograph_of_the_Kaulsar_Sarovar_of_the_Golden_Temple_complex%2C_Amritsar%2C_Punjab%2C_India%2C_April_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "MaplesyrupSushi",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/remaining_zero_broad/golden_temple__gurdwara_mata_kaulan/candidate_02.jpg"
+    },
+    {
+      "candidateId": 3,
+      "title": "File:Photograph of Gurdwara Baba Atal Rai and the Kaulsar Sarovar, Amritsar, by Jasleen Kaur, 17 September 2009.jpg",
+      "query": "Kaulsar Sarovar Amritsar",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Photograph_of_Gurdwara_Baba_Atal_Rai_and_the_Kaulsar_Sarovar,_Amritsar,_by_Jasleen_Kaur,_17_September_2009.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Photograph_of_Gurdwara_Baba_Atal_Rai_and_the_Kaulsar_Sarovar%2C_Amritsar%2C_by_Jasleen_Kaur%2C_17_September_2009.jpg/1280px-Photograph_of_Gurdwara_Baba_Atal_Rai_and_the_Kaulsar_Sarovar%2C_Amritsar%2C_by_Jasleen_Kaur%2C_17_September_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "jasleen_kaur",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "previewPath": "tools/image_review/remaining_zero_broad/golden_temple__gurdwara_mata_kaulan/candidate_03.jpg"
+    }
+  ]
+}

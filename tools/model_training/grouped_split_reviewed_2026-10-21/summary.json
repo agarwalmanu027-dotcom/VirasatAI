@@ -1,0 +1,111 @@
+{
+  "status": "proposed_requires_visual_review",
+  "photos": 3141,
+  "candidate_source_groups": 3077,
+  "distance_threshold": 8,
+  "near_pairs": 67,
+  "old_cross_split_near_pairs": 31,
+  "counts": {
+    "ajanta_ellora_caves": {
+      "train": 126,
+      "val": 27,
+      "test": 27
+    },
+    "amer_fort": {
+      "train": 123,
+      "val": 27,
+      "test": 26
+    },
+    "badami_cave_temples": {
+      "train": 39,
+      "val": 9,
+      "test": 8
+    },
+    "charminar": {
+      "train": 126,
+      "val": 27,
+      "test": 27
+    },
+    "city_palace_udaipur": {
+      "train": 126,
+      "val": 27,
+      "test": 27
+    },
+    "gateway_of_india": {
+      "train": 123,
+      "val": 26,
+      "test": 26
+    },
+    "golden_temple": {
+      "train": 126,
+      "val": 27,
+      "test": 27
+    },
+    "hampi_monuments": {
+      "train": 126,
+      "val": 27,
+      "test": 27
+    },
+    "jaisalmer_fort": {
+      "train": 100,
+      "val": 21,
+      "test": 21
+    },
+    "khajuraho_monuments": {
+      "train": 126,
+      "val": 27,
+      "test": 27
+    },
+    "konark_sun_temple": {
+      "train": 126,
+      "val": 27,
+      "test": 27
+    },
+    "mahabalipuram": {
+      "train": 126,
+      "val": 27,
+      "test": 27
+    },
+    "meenakshi_temple": {
+      "train": 122,
+      "val": 26,
+      "test": 26
+    },
+    "mehrangarh_fort": {
+      "train": 126,
+      "val": 27,
+      "test": 27
+    },
+    "mysore_palace": {
+      "train": 68,
+      "val": 15,
+      "test": 15
+    },
+    "qutub_minar": {
+      "train": 126,
+      "val": 27,
+      "test": 27
+    },
+    "red_fort": {
+      "train": 102,
+      "val": 22,
+      "test": 22
+    },
+    "sanchi_stupa": {
+      "train": 47,
+      "val": 10,
+      "test": 10
+    },
+    "taj_mahal": {
+      "train": 126,
+      "val": 27,
+      "test": 27
+    },
+    "victoria_memorial": {
+      "train": 89,
+      "val": 19,
+      "test": 19
+    }
+  },
+  "warning": "dHash misses some edits and has false positives. Review source provenance and pairs before training."
+}

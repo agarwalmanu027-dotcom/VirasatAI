@@ -1,0 +1,52 @@
+[
+  {
+    "place_id": "qutub_minar__adham_khans_tomb",
+    "image_count": 5,
+    "manifest": "02_Images\\Qutub_Minar\\Nearby_Heritage\\Adham_Khans_Tomb\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "qutub_minar__balbans_tomb",
+    "image_count": 4,
+    "manifest": "02_Images\\Qutub_Minar\\Nearby_Heritage\\Balbans_Tomb\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "qutub_minar__gandhak_ki_baoli",
+    "image_count": 3,
+    "manifest": "02_Images\\Qutub_Minar\\Nearby_Heritage\\Gandhak_Ki_Baoli\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "qutub_minar__hauz_i_shamsi",
+    "image_count": 4,
+    "manifest": "02_Images\\Qutub_Minar\\Nearby_Heritage\\Hauz_i_Shamsi\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "qutub_minar__hijron_ka_khanqah",
+    "image_count": 4,
+    "manifest": "02_Images\\Qutub_Minar\\Nearby_Heritage\\Hijron_Ka_Khanqah\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "qutub_minar__jahaz_mahal",
+    "image_count": 4,
+    "manifest": "02_Images\\Qutub_Minar\\Nearby_Heritage\\Jahaz_Mahal\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "qutub_minar__jamali_kamali_mosque",
+    "image_count": 5,
+    "manifest": "02_Images\\Qutub_Minar\\Nearby_Heritage\\Jamali_Kamali_Mosque\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "qutub_minar__quli_khans_tomb",
+    "image_count": 4,
+    "manifest": "02_Images\\Qutub_Minar\\Nearby_Heritage\\Quli_Khans_Tomb\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "qutub_minar__rajon_ki_baoli",
+    "image_count": 3,
+    "manifest": "02_Images\\Qutub_Minar\\Nearby_Heritage\\Rajon_Ki_Baoli\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "qutub_minar__zafar_mahal",
+    "image_count": 5,
+    "manifest": "02_Images\\Qutub_Minar\\Nearby_Heritage\\Zafar_Mahal\\Image_Sources\\image_manifest.json"
+  }
+]

@@ -1,0 +1,13 @@
+VIRASATAI — BASIC INFORMATION
+Name: Udayagiri Caves
+Entry ID: sanchi_stupa__udayagiri_caves
+Location: Near Vidisha, Madhya Pradesh, India
+Type: Gupta-period rock-cut cave and sculpture site
+Identity note: User-selected site identity verified against the sources below.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. These are the Udayagiri caves near Vidisha, not the similarly named Odisha caves. [1,2]
+2. The site contains Gupta-period rock carvings and inscriptions. [1]
+3. Madhya Pradesh Tourism describes twenty caves carved during the fourth and fifth centuries. [2]
+
+Sources: See udayagiri_caves_sources.txt. The parent association is the user's selection, not a verified proximity claim.

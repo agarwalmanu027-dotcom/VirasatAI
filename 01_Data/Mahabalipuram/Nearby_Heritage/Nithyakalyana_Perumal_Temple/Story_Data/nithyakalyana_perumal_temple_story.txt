@@ -1,0 +1,12 @@
+VIRASATAI — STORY DATA
+Entry ID: mahabalipuram__nithyakalyana_perumal_temple
+Name: Nithyakalyana Perumal Temple
+Narrative focus: A living temple where Varaha devotion meets architectural heritage
+Language files: Separate English and Devanagari Hindi master scripts in 03_Scripts.
+Status: Written narration ready for TTS input; pronunciation and generated audio still need listening QA.
+
+At Thiruvidanthai, Nithyakalyana Perumal Temple brings you into a living tradition of Vishnu worship. The temple is associated with Lakshmi Varaha Perumal, joining the image of Vishnu's boar incarnation with the goddess. It is also recognised among the Divya Desams, the sacred places celebrated in the Tamil Vaishnava tradition.
+
+Rather than treating the building as an empty historical display, notice how worship gives its spaces meaning. A doorway, a shrine and a place for gathering each belong to a continuing religious life. The temple's name and local devotional stories are important to that tradition, but belief should be understood as belief rather than a dated historical event.
+
+Thiruvidanthai also appears in travel lists as Sri Thiruvidandhai. These labels lead to the same temple setting, so they should not create two separate destinations in your mind. Follow local instructions, respect worshippers and enjoy the architecture quietly. Here, heritage survives through both stone and daily devotion.

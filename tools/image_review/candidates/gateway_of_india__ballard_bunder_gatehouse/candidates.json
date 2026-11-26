@@ -1,0 +1,37 @@
+{
+  "place_id": "gateway_of_india__ballard_bunder_gatehouse",
+  "display_name": "Ballard Bunder Gatehouse",
+  "parent_id": "gateway_of_india",
+  "main_order": 5,
+  "is_main": false,
+  "candidates": [
+    {
+      "title": "File:Ballard Bunder, 1920.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ballard_Bunder,_1920.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Ballard_Bunder%2C_1920.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "preview_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Ballard_Bunder%2C_1920.jpg/1280px-Ballard_Bunder%2C_1920.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_width": 3054,
+      "original_height": 2036,
+      "mime": "image/jpeg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Keith Younger",
+      "credit": "Flickr : Ballard Bunder, 1920",
+      "attribution": "",
+      "description": "This 1920 gatehouse formerly led to the Bombay docks. Now it houses a small maritime museum.",
+      "date_time_original": "2009-09-29 12:36:29",
+      "sha1": "973f2a0ced45884945bccfd41ff70a21b7ad4077",
+      "commons_assessment": "",
+      "copyrighted": "True",
+      "usage_terms": "Creative Commons Attribution 2.0",
+      "color_score": 7.44,
+      "sharpness_score": 2978.98,
+      "dhash": "f17171686a60f0fc",
+      "candidate_id": 1,
+      "preview_path": "tools/image_review/candidates/gateway_of_india__ballard_bunder_gatehouse/candidate_01.jpg"
+    }
+  ],
+  "errors": [],
+  "visual_review_status": "pending",
+  "status": "candidates_collected"
+}

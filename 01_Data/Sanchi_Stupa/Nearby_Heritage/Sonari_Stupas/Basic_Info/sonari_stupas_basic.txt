@@ -1,0 +1,13 @@
+VIRASATAI — BASIC INFORMATION
+Name: Sonari Stupas
+Entry ID: sanchi_stupa__sonari_stupas
+Location: Sonari, Raisen district, Madhya Pradesh, India
+Type: Buddhist stupa remains
+Identity note: User-selected site identity verified against the sources below.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. Sonari preserves a group of Buddhist stupas near Sanchi. [1,2]
+2. ASI lists the stupas and adjacent land as a centrally protected monument. [2]
+3. The site belongs to the broader regional Buddhist landscape. [1]
+
+Sources: See sonari_stupas_sources.txt. The parent association is the user's selection, not a verified proximity claim.

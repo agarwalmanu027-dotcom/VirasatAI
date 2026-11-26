@@ -1,0 +1,13 @@
+VIRASATAI — BASIC INFORMATION
+Name: Navchowkiya
+Entry ID: mehrangarh_fort__navchowkiya
+Location: Old city, Jodhpur, Rajasthan
+Type: Living residential neighbourhood and blue-lane heritage setting
+Identity note: User-selected site identity verified against the sources below.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. The Ministry of Tourism's Jodhpur itinerary names Navchowkiya among places for exploring the blue lanes. [1]
+2. The described setting includes houses, walls, doors and windows in the old-city landscape. [1]
+3. Navchowkiya is a living neighbourhood, not a single ticketed monument with verified fixed access.
+
+Sources: See navchowkiya_sources.txt. The parent association is the user's selection, not a verified proximity claim.

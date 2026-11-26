@@ -1,0 +1,78 @@
+{
+  "placeId": "mehrangarh_fort__jaswant_thada",
+  "displayName": "Jaswant Thada",
+  "candidates": [
+    {
+      "candidateId": 1,
+      "title": "File:A view of Jaswant Thada.JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:A_view_of_Jaswant_Thada.JPG",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/A_view_of_Jaswant_Thada.JPG/1280px-A_view_of_Jaswant_Thada.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalWidth": 4000,
+      "originalHeight": 3000,
+      "author": "Saranya Ghosh",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "previewPath": "tools/image_review/exact_zero_candidates/mehrangarh_fort__jaswant_thada/candidate_01.jpg"
+    },
+    {
+      "candidateId": 2,
+      "title": "File:Jaswant Thada - Front View.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Jaswant_Thada_-_Front_View.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Jaswant_Thada_-_Front_View.jpg/1280px-Jaswant_Thada_-_Front_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalWidth": 2994,
+      "originalHeight": 2237,
+      "author": "Rajendra prabhune",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "previewPath": "tools/image_review/exact_zero_candidates/mehrangarh_fort__jaswant_thada/candidate_02.jpg"
+    },
+    {
+      "candidateId": 3,
+      "title": "File:Jaswant Thada - Relief.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Jaswant_Thada_-_Relief.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Jaswant_Thada_-_Relief.jpg/1280px-Jaswant_Thada_-_Relief.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalWidth": 2932,
+      "originalHeight": 3890,
+      "author": "Wolfgang Sauber",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/exact_zero_candidates/mehrangarh_fort__jaswant_thada/candidate_03.jpg"
+    },
+    {
+      "candidateId": 4,
+      "title": "File:Jaswant Thada - Bodenmosaik.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Jaswant_Thada_-_Bodenmosaik.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Jaswant_Thada_-_Bodenmosaik.jpg/1280px-Jaswant_Thada_-_Bodenmosaik.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalWidth": 4000,
+      "originalHeight": 3000,
+      "author": "Wolfgang Sauber",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/exact_zero_candidates/mehrangarh_fort__jaswant_thada/candidate_04.jpg"
+    },
+    {
+      "candidateId": 5,
+      "title": "File:Exterior of the Jaswant Thada February 2023.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Exterior_of_the_Jaswant_Thada_February_2023.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Exterior_of_the_Jaswant_Thada_February_2023.jpg/1280px-Exterior_of_the_Jaswant_Thada_February_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalWidth": 4000,
+      "originalHeight": 3000,
+      "author": "Nick-D",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/exact_zero_candidates/mehrangarh_fort__jaswant_thada/candidate_05.jpg"
+    },
+    {
+      "candidateId": 6,
+      "title": "File:Gazebo in the Jaswant Thada, Jodhpur.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Gazebo_in_the_Jaswant_Thada,_Jodhpur.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Gazebo_in_the_Jaswant_Thada%2C_Jodhpur.jpg/1280px-Gazebo_in_the_Jaswant_Thada%2C_Jodhpur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalWidth": 5450,
+      "originalHeight": 3638,
+      "author": "Mustang Joe",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "previewPath": "tools/image_review/exact_zero_candidates/mehrangarh_fort__jaswant_thada/candidate_06.jpg"
+    }
+  ]
+}

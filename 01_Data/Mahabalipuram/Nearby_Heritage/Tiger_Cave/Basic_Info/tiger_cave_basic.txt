@@ -1,0 +1,14 @@
+VIRASATAI — BASIC INFORMATION
+Name: Tiger Cave
+Entry ID: mahabalipuram__tiger_cave
+Location: Saluvankuppam, Chengalpattu district, Tamil Nadu
+Type: Rock-cut pavilion and temple site
+Identity note: User-selected site identity verified against the sources below.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. Tiger Cave is a rock-cut site at Saluvankuppam. [1,2]
+2. Its name refers to the animal heads framing the carved pavilion; the forms are commonly interpreted as mythical yalis. [2]
+3. ASI identifies a tiger-headed rock-cut temple in its protected inventory. [1]
+4. Claims that the pavilion was a royal speech platform are interpretations, not established facts used in this narration. [2]
+
+Sources: See tiger_cave_sources.txt. The parent association is the user's selection, not a verified proximity claim.

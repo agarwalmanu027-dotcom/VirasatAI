@@ -1,0 +1,14 @@
+VIRASATAI — STORY DATA
+Entry ID: mehrangarh_fort
+Name: Mehrangarh Fort, Jodhpur
+Narrative focus: A fort built in layers and a museum revealing courtly life
+Language files: Separate English and Devanagari Hindi master scripts in 03_Scripts.
+Status: Written narration ready for TTS input; pronunciation and generated audio still need listening QA.
+
+Mehrangarh Fort makes a powerful first impression above Jodhpur, but its history becomes richer when you look beyond the outline of its walls. Rao Jodha founded the fort in fourteen fifty-nine. What you see today developed through centuries of building, adaptation and changing royal needs. It is a layered place rather than a single finished design.
+
+The Mehrangarh Museum Trust identifies important phases under rulers including Maldeo and Ajit Singh. Later work sometimes replaced or changed earlier structures, so the age of a room is not always obvious from a quick glance. A doorway, a decorative surface and the arrangement of adjoining spaces can help you notice these differences.
+
+Inside the museum, objects bring the scale of the story closer to human life. Paintings, textiles, weapons, palanquins and elephant seats record different aspects of the Marwar court. A palanquin, for example, combines a means of travel with skilled craftsmanship and social custom. These objects deserve attention alongside the larger architecture.
+
+Move slowly through the permitted rooms and galleries. Read a label, study one detail, then connect it with the setting around it. Respect barriers and photography rules. Mehrangarh offers a way to understand how defence, residence, ceremony and art could exist within one fort, and how careful preservation makes those relationships visible today.

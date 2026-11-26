@@ -1,0 +1,180 @@
+{
+  "parent_monument_id": "amer_fort",
+  "parent_monument_name": "Amer Fort, Jaipur",
+  "selection_source": "User-supplied table",
+  "nearby_entry_count": 10,
+  "places": [
+    {
+      "id": "amer_fort__panna_meena_ka_kund",
+      "order": 1,
+      "display_name": "Panna Meena Ka Kund",
+      "folder_name": "Panna_Meena_Ka_Kund",
+      "parent_monument_id": "amer_fort",
+      "paths": {
+        "data": "01_Data/Amer_Fort/Nearby_Heritage/Panna_Meena_Ka_Kund",
+        "images": "02_Images/Amer_Fort/Nearby_Heritage/Panna_Meena_Ka_Kund",
+        "scripts": "03_Scripts/Amer_Fort/Nearby_Heritage/Panna_Meena_Ka_Kund",
+        "audio": "04_Audio/Amer_Fort/Nearby_Heritage/Panna_Meena_Ka_Kund"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "amer_fort__jagat_shiromani_temple",
+      "order": 2,
+      "display_name": "Jagat Shiromani Temple",
+      "folder_name": "Jagat_Shiromani_Temple",
+      "parent_monument_id": "amer_fort",
+      "paths": {
+        "data": "01_Data/Amer_Fort/Nearby_Heritage/Jagat_Shiromani_Temple",
+        "images": "02_Images/Amer_Fort/Nearby_Heritage/Jagat_Shiromani_Temple",
+        "scripts": "03_Scripts/Amer_Fort/Nearby_Heritage/Jagat_Shiromani_Temple",
+        "audio": "04_Audio/Amer_Fort/Nearby_Heritage/Jagat_Shiromani_Temple"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "amer_fort__gaitore_ki_chhatriyan",
+      "order": 3,
+      "display_name": "Gaitore Ki Chhatriyan",
+      "folder_name": "Gaitore_Ki_Chhatriyan",
+      "parent_monument_id": "amer_fort",
+      "paths": {
+        "data": "01_Data/Amer_Fort/Nearby_Heritage/Gaitore_Ki_Chhatriyan",
+        "images": "02_Images/Amer_Fort/Nearby_Heritage/Gaitore_Ki_Chhatriyan",
+        "scripts": "03_Scripts/Amer_Fort/Nearby_Heritage/Gaitore_Ki_Chhatriyan",
+        "audio": "04_Audio/Amer_Fort/Nearby_Heritage/Gaitore_Ki_Chhatriyan"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "amer_fort__anokhi_museum",
+      "order": 4,
+      "display_name": "Anokhi Museum",
+      "folder_name": "Anokhi_Museum",
+      "parent_monument_id": "amer_fort",
+      "paths": {
+        "data": "01_Data/Amer_Fort/Nearby_Heritage/Anokhi_Museum",
+        "images": "02_Images/Amer_Fort/Nearby_Heritage/Anokhi_Museum",
+        "scripts": "03_Scripts/Amer_Fort/Nearby_Heritage/Anokhi_Museum",
+        "audio": "04_Audio/Amer_Fort/Nearby_Heritage/Anokhi_Museum"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "amer_fort__galtaji_temple",
+      "order": 5,
+      "display_name": "Galtaji Temple",
+      "folder_name": "Galtaji_Temple",
+      "parent_monument_id": "amer_fort",
+      "paths": {
+        "data": "01_Data/Amer_Fort/Nearby_Heritage/Galtaji_Temple",
+        "images": "02_Images/Amer_Fort/Nearby_Heritage/Galtaji_Temple",
+        "scripts": "03_Scripts/Amer_Fort/Nearby_Heritage/Galtaji_Temple",
+        "audio": "04_Audio/Amer_Fort/Nearby_Heritage/Galtaji_Temple"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "amer_fort__garh_ganesh_temple",
+      "order": 6,
+      "display_name": "Garh Ganesh Temple",
+      "folder_name": "Garh_Ganesh_Temple",
+      "parent_monument_id": "amer_fort",
+      "paths": {
+        "data": "01_Data/Amer_Fort/Nearby_Heritage/Garh_Ganesh_Temple",
+        "images": "02_Images/Amer_Fort/Nearby_Heritage/Garh_Ganesh_Temple",
+        "scripts": "03_Scripts/Amer_Fort/Nearby_Heritage/Garh_Ganesh_Temple",
+        "audio": "04_Audio/Amer_Fort/Nearby_Heritage/Garh_Ganesh_Temple"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "amer_fort__vidyadhar_garden",
+      "order": 7,
+      "display_name": "Vidyadhar Garden",
+      "folder_name": "Vidyadhar_Garden",
+      "parent_monument_id": "amer_fort",
+      "paths": {
+        "data": "01_Data/Amer_Fort/Nearby_Heritage/Vidyadhar_Garden",
+        "images": "02_Images/Amer_Fort/Nearby_Heritage/Vidyadhar_Garden",
+        "scripts": "03_Scripts/Amer_Fort/Nearby_Heritage/Vidyadhar_Garden",
+        "audio": "04_Audio/Amer_Fort/Nearby_Heritage/Vidyadhar_Garden"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "amer_fort__sagar_lake",
+      "order": 8,
+      "display_name": "Sagar Lake",
+      "folder_name": "Sagar_Lake",
+      "parent_monument_id": "amer_fort",
+      "paths": {
+        "data": "01_Data/Amer_Fort/Nearby_Heritage/Sagar_Lake",
+        "images": "02_Images/Amer_Fort/Nearby_Heritage/Sagar_Lake",
+        "scripts": "03_Scripts/Amer_Fort/Nearby_Heritage/Sagar_Lake",
+        "audio": "04_Audio/Amer_Fort/Nearby_Heritage/Sagar_Lake"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "amer_fort__sisodia_rani_ka_bagh",
+      "order": 9,
+      "display_name": "Sisodia Rani Ka Bagh",
+      "folder_name": "Sisodia_Rani_Ka_Bagh",
+      "parent_monument_id": "amer_fort",
+      "paths": {
+        "data": "01_Data/Amer_Fort/Nearby_Heritage/Sisodia_Rani_Ka_Bagh",
+        "images": "02_Images/Amer_Fort/Nearby_Heritage/Sisodia_Rani_Ka_Bagh",
+        "scripts": "03_Scripts/Amer_Fort/Nearby_Heritage/Sisodia_Rani_Ka_Bagh",
+        "audio": "04_Audio/Amer_Fort/Nearby_Heritage/Sisodia_Rani_Ka_Bagh"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "amer_fort__hathni_kund",
+      "order": 10,
+      "display_name": "Hathni Kund",
+      "folder_name": "Hathni_Kund",
+      "parent_monument_id": "amer_fort",
+      "paths": {
+        "data": "01_Data/Amer_Fort/Nearby_Heritage/Hathni_Kund",
+        "images": "02_Images/Amer_Fort/Nearby_Heritage/Hathni_Kund",
+        "scripts": "03_Scripts/Amer_Fort/Nearby_Heritage/Hathni_Kund",
+        "audio": "04_Audio/Amer_Fort/Nearby_Heritage/Hathni_Kund"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": [
+        "Verify the Jaipur-area site."
+      ]
+    }
+  ]
+}

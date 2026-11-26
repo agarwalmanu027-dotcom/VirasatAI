@@ -1,0 +1,11 @@
+{
+  "place_id": "jaisalmer_fort__akal_wood_fossil_park",
+  "display_name": "Akal Wood Fossil Park",
+  "parent_id": "jaisalmer_fort",
+  "main_order": 18,
+  "is_main": false,
+  "candidates": [],
+  "errors": [],
+  "visual_review_status": "pending",
+  "status": "no_qualifying_candidates"
+}

@@ -1,0 +1,10 @@
+Place: Goripalayam Dargah
+Delivery: warm, clear heritage-guide narration; natural conversational pace.
+English pace: 115–130 words per minute.
+Hindi pace: 105–120 words per minute; use a Hindi voice for Devanagari.
+Pause briefly after each paragraph and at sentence boundaries. Do not read this direction file aloud.
+Pronunciation notes: Goripalayam Dargah. Test local names with the selected TTS engine before audio export.
+English word count: 136.
+Estimated English duration: 63–71 seconds at 115–130 words per minute. Duration is unverified until audio is rendered.
+Scripts have no spoken headings, citations, URLs or stage directions.
+No audio file has been generated or tested by this content-writing step.

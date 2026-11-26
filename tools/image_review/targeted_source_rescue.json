@@ -1,0 +1,710 @@
+{
+  "checked_on": "2026-10-08",
+  "purpose": "Primary Commons metadata rescue for empty/wrong galleries, preserving existing rejection decisions and selected Ajanta assets.",
+  "minimum_original_dimensions": {
+    "long_side_pixels": 1600,
+    "short_side_pixels": 800
+  },
+  "media_downloaded": false,
+  "review_policy": "No image media was fetched in this rescue task. Recommended files have verified Commons metadata, dimensions and free media licenses; they are candidates only, pending visual inspection for exact subject, sharpness, color, watermarks and diversity. Category file hints require individual media-license resolution.",
+  "places": [
+    {
+      "place_id": "charminar__hayat_bakshi_mosque",
+      "identity": "Hayat Bakshi Mosque at Hayathnagar, Hyderabad; not the mosque at the Qutb Shahi Tombs.",
+      "category_urls": [
+        "https://commons.wikimedia.org/wiki/Category:Hayat_Bakshi_Mosque_(Hayathnagar)"
+      ],
+      "identity_evidence": {
+        "source_page": "https://commons.wikimedia.org/wiki/Category:Hayat_Bakshi_Mosque_(Hayathnagar)",
+        "summary": "Commons identifies the mosque in Hayathnagar, Hyderabad; category coordinates are 17°19′34.14″N, 78°35′56.44″E.",
+        "coordinates": [
+          17.32615,
+          78.599011
+        ]
+      },
+      "recommended_files": [
+        {
+          "filename": "File:Frong view hayat bakshi begum mosque.JPG",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Frong_view_hayat_bakshi_begum_mosque.JPG",
+          "original_width": 2592,
+          "original_height": 1944,
+          "dimension_evidence": "Commons file description states original file 2592 × 1944 pixels.",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "author": "Bhaskaranaidu",
+          "identity_evidence": "File summary identifies the full Hayat Bakshi Mosque at Hayatnagar, Hyderabad.",
+          "intended_category": "Overview",
+          "review_status": "metadata_verified_visual_review_pending",
+          "review_note": "Original dimensions and free media license verified on the Commons file page. Requires subject, sharpness, color and watermark review before download approval."
+        },
+        {
+          "filename": "File:Hayat bakshi..... clear picture.JPG",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Hayat_bakshi....._clear_picture.JPG",
+          "original_width": 1944,
+          "original_height": 2592,
+          "dimension_evidence": "Commons file description states original file 1944 × 2592 pixels.",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "author": "Bhaskaranaidu",
+          "identity_evidence": "File summary identifies Hayat Bakshi Mosque at Hayatnagar, Hyderabad.",
+          "intended_category": "Different_Views",
+          "review_status": "metadata_verified_visual_review_pending",
+          "review_note": "Original dimensions and free media license verified on the Commons file page. Requires subject, sharpness, color and watermark review before download approval."
+        },
+        {
+          "filename": "File:Hayatbakshi board in the premises..JPG",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Hayatbakshi_board_in_the_premises..JPG",
+          "original_width": 2592,
+          "original_height": 1944,
+          "dimension_evidence": "Commons file description states original file 2592 × 1944 pixels.",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "author": "Bhaskaranaidu",
+          "identity_evidence": "File summary identifies the board inside Hayat Bakshi Mosque premises at Hayatnagar, Hyderabad.",
+          "intended_category": "Details",
+          "review_status": "metadata_verified_visual_review_pending",
+          "review_note": "Use only if the place-name board is legible and useful. Do not count a board as a replacement for a building photograph."
+        }
+      ],
+      "category_file_hints": [
+        {
+          "filename": "File:Hayat bakshi mosque side view.JPG",
+          "original_width": 1944,
+          "original_height": 2592
+        },
+        {
+          "filename": "File:Hayat bakshi..... back side view.JPG",
+          "original_width": 2592,
+          "original_height": 1944
+        },
+        {
+          "filename": "File:Hayat bakshi..... side structures dome ceiling.JPG",
+          "original_width": 2592,
+          "original_height": 1944
+        },
+        {
+          "filename": "File:Hayat... design on the minar.JPG",
+          "original_width": 1944,
+          "original_height": 2592
+        }
+      ],
+      "category_file_hints_status": "Dimensions and category identity confirmed; resolve each individual media license before admitting these extra files.",
+      "excluded_sources": [
+        {
+          "filename": "File:HayatBakshiMosque01.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:HayatBakshiMosque01.jpg",
+          "reason": "Its description places the mosque at the Qutb Shahi Tombs Complex, a different mosque from the requested Hayathnagar monument."
+        },
+        {
+          "filename": "File:HayatBakshiMosque02.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:HayatBakshiMosque02.jpg",
+          "reason": "Its description and coordinates place it at the Qutb Shahi Tombs Complex, not Hayathnagar."
+        },
+        {
+          "filename": "File:Hayat Bakshi Mosque, Hayathnagar (cropped).png",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Hayat_Bakshi_Mosque%2C_Hayathnagar_(cropped).png",
+          "reason": "A crop of an existing view; avoid duplicate-looking gallery coverage."
+        }
+      ],
+      "coverage_note": "Two building photographs plus one optional identity board are fully metadata-verified. Four additional exact architecture filenames are available in the direct Hayathnagar category.",
+      "search_aliases": [
+        "Hayat Bakshi Mosque Hayathnagar",
+        "Hayat Bakshi Begum Mosque Hayatnagar"
+      ]
+    },
+    {
+      "place_id": "victoria_memorial__marble_palace",
+      "identity": "Marble Palace, 46 Muktaram Babu Street, Kolkata.",
+      "category_urls": [
+        "https://commons.wikimedia.org/wiki/Category:Marble_Palace_(Kolkata)"
+      ],
+      "identity_evidence": {
+        "source_page": "https://commons.wikimedia.org/wiki/Category:Marble_Palace_(Kolkata)",
+        "summary": "The category identifies Marble Palace in Kolkata, street address 46 Muktaram Babu Street, Wikidata Q6755210.",
+        "coordinates": [
+          22.582378,
+          88.360143
+        ]
+      },
+      "recommended_files": [
+        {
+          "filename": "File:Marble Palace at 46, Muktaram Babu Street, Kolkata.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Marble_Palace_at_46%2C_Muktaram_Babu_Street%2C_Kolkata.jpg",
+          "original_width": 2879,
+          "original_height": 1905,
+          "dimension_evidence": "Commons file description states original file 2879 × 1905 pixels.",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "author": "Kanad Sanyal",
+          "identity_evidence": "The file summary gives the Kolkata address, Wikidata Q6755210 and coordinates at the requested palace.",
+          "intended_category": "Overview",
+          "review_status": "metadata_verified_visual_review_pending",
+          "review_note": "Original dimensions and free media license verified on the Commons file page. Requires subject, sharpness, color and watermark review before download approval."
+        },
+        {
+          "filename": "File:Marble Palace Front View.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Marble_Palace_Front_View.jpg",
+          "original_width": 3884,
+          "original_height": 2301,
+          "dimension_evidence": "Commons file description states original file 3884 × 2301 pixels.",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "author": "Discovery Kolkata",
+          "identity_evidence": "The file summary and object coordinates identify Marble Palace in Kolkata, Q6755210.",
+          "intended_category": "Different_Views",
+          "review_status": "metadata_verified_visual_review_pending",
+          "review_note": "Original dimensions and free media license verified on the Commons file page. Requires subject, sharpness, color and watermark review before download approval."
+        },
+        {
+          "filename": "File:Marble Palace Back.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Marble_Palace_Back.jpg",
+          "original_width": 6000,
+          "original_height": 4000,
+          "dimension_evidence": "Commons file description states original file 6000 × 4000 pixels.",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "author": "Debnathsonu1996",
+          "identity_evidence": "The exact back-view file is in the direct Marble Palace (Kolkata) category; license and original dimensions verified individually.",
+          "intended_category": "Different_Views",
+          "review_status": "metadata_verified_visual_review_pending",
+          "review_note": "Original dimensions and free media license verified on the Commons file page. Requires subject, sharpness, color and watermark review before download approval."
+        }
+      ],
+      "excluded_sources": [
+        {
+          "filename": "File:Marble Palace- Kolkata- West Bengal- DSC 0006.jpg",
+          "reason": "1280 × 718 original is below both required dimension limits."
+        },
+        {
+          "filename": "File:Marble-palace.jpg",
+          "reason": "960 × 599 original is below required dimensions."
+        }
+      ],
+      "coverage_note": "Three full-size palace views with free media licenses. Visual review must remove repeated-looking views and heavily obstructed scenes.",
+      "search_aliases": [
+        "Marble Palace Kolkata Muktaram Babu Street"
+      ]
+    },
+    {
+      "place_id": "meenakshi_temple__gandhi_memorial_museum",
+      "identity": "Gandhi Memorial Museum, Madurai, Tamil Nadu.",
+      "category_urls": [
+        "https://commons.wikimedia.org/wiki/Category:Gandhi_Memorial_Museum%2C_Madurai"
+      ],
+      "identity_evidence": {
+        "source_page": "https://commons.wikimedia.org/wiki/Category:Gandhi_Memorial_Museum%2C_Madurai",
+        "summary": "The Commons category identifies the Madurai museum, Q5520712; it is separate from Gandhi Smriti in Delhi.",
+        "coordinates": [
+          9.929922,
+          78.138592
+        ]
+      },
+      "recommended_files": [
+        {
+          "filename": "File:Gandhi Memorial Museum Madurai TamilNadu India.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Gandhi_Memorial_Museum_Madurai_TamilNadu_India.jpg",
+          "original_width": 2788,
+          "original_height": 2243,
+          "dimension_evidence": "Commons file description states original file 2788 × 2243 pixels.",
+          "license": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "author": "N. Vivekananthamoorthy / LiebeErbeIndien",
+          "identity_evidence": "The file explicitly names Gandhi Memorial Museum in Madurai, Tamil Nadu, with Madurai coordinates.",
+          "intended_category": "Overview",
+          "review_status": "metadata_verified_visual_review_pending",
+          "review_note": "Use current cropped original dimensions 2788 × 2243, rather than the older 4096 × 3072 upload."
+        },
+        {
+          "filename": "File:Gandhi museum, Madurai.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Gandhi_museum%2C_Madurai.jpg",
+          "original_width": 12000,
+          "original_height": 6750,
+          "dimension_evidence": "Commons file description states original file 12000 × 6750 pixels.",
+          "license": "CC0",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "author": "Info-farmer",
+          "identity_evidence": "Tamil summary and the file title identify the Gandhi museum in Madurai; category is the Madurai museum.",
+          "intended_category": "Different_Views",
+          "review_status": "metadata_verified_visual_review_pending",
+          "review_note": "Filename uses lower-case museum. Do not confuse with the distinct upper-case Museum file."
+        },
+        {
+          "filename": "File:Gandhi Museum, Madurai.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Gandhi_Museum%2C_Madurai.jpg",
+          "original_width": 3456,
+          "original_height": 2304,
+          "dimension_evidence": "Commons file description states original file 3456 × 2304 pixels.",
+          "license": "CC BY 2.0",
+          "license_url": "https://creativecommons.org/licenses/by/2.0/",
+          "author": "Indian Movie Locations",
+          "identity_evidence": "Exact file is in the Gandhi Memorial Museum, Madurai category; Commons records verified CC BY 2.0 Flickr licensing.",
+          "intended_category": "Different_Views",
+          "review_status": "metadata_verified_visual_review_pending",
+          "review_note": "Filename uses upper-case Museum. Original media license is CC BY 2.0."
+        },
+        {
+          "filename": "File:Ghandi museum entrance (4788227267).jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Ghandi_museum_entrance_(4788227267).jpg",
+          "original_width": 2400,
+          "original_height": 1543,
+          "dimension_evidence": "Commons file description states original file 2400 × 1543 pixels.",
+          "license": "CC BY 2.0",
+          "license_url": "https://creativecommons.org/licenses/by/2.0/",
+          "author": "Ryan from Toronto, Canada",
+          "identity_evidence": "Description and camera location explicitly identify the Madurai entrance, 9.929983°N 78.139035°E.",
+          "intended_category": "Overview",
+          "review_status": "metadata_verified_visual_review_pending",
+          "review_note": "Ghandi spelling is part of the exact source filename."
+        }
+      ],
+      "excluded_sources": [
+        {
+          "filename": "Previously collected Delhi Gandhi Smriti photographs",
+          "reason": "Wrong city and wrong institution; preserve their rejected state."
+        },
+        {
+          "filename": "File:Gandhi Memorial Museum.jpg",
+          "reason": "1296 × 864 original has a long side below 1600 pixels."
+        }
+      ],
+      "coverage_note": "Four exact Madurai museum sources, including an entrance. Full-size files remain subject to review for duplicates, blur and obstructions.",
+      "search_aliases": [
+        "Gandhi Memorial Museum Madurai",
+        "Ghandi museum entrance Madurai"
+      ]
+    },
+    {
+      "place_id": "meenakshi_temple__palamuthirsolai_murugan_temple",
+      "identity": "Pazhamudircholai / Pazhamudhircholai / Palamuthirsolai Murugan Temple near Madurai.",
+      "category_urls": [
+        "https://commons.wikimedia.org/wiki/Category:Pazhamudircholai"
+      ],
+      "identity_evidence": {
+        "source_page": "https://commons.wikimedia.org/wiki/Category:Pazhamudircholai",
+        "summary": "Commons identifies the requested Murugan temple in Madurai district, Q7156977; category coordinates are 10°05′38.79″N, 78°13′24.73″E.",
+        "coordinates": [
+          10.094108,
+          78.223536
+        ]
+      },
+      "recommended_files": [
+        {
+          "filename": "File:Pazhamudhircholai Koil.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Pazhamudhircholai_Koil.jpg",
+          "original_width": 1600,
+          "original_height": 1200,
+          "dimension_evidence": "Commons file description states original file 1600 × 1200 pixels.",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "author": "BaskaranV",
+          "identity_evidence": "File summary identifies the Murugan abode on the Madurai hill, matching the Pazhamudircholai category.",
+          "intended_category": "Overview",
+          "review_status": "metadata_verified_visual_review_pending",
+          "review_note": "Exactly meets the minimum 1600-pixel long-side requirement; inspect sharpness carefully."
+        },
+        {
+          "filename": "File:Pazhamuthir solai Murugan 1.JPG",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Pazhamuthir_solai_Murugan_1.JPG",
+          "original_width": 1712,
+          "original_height": 2288,
+          "dimension_evidence": "Commons file description states original file 1712 × 2288 pixels.",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "author": "Ssrirammt",
+          "identity_evidence": "Exact file identifies Pazhamuthir solai Murugan and belongs to the requested temple category.",
+          "intended_category": "Different_Views",
+          "review_status": "metadata_verified_visual_review_pending",
+          "review_note": "Ignore invalid EXIF year 1899; it is not reliable capture-date evidence."
+        },
+        {
+          "filename": "File:Pazhamuthir solai Murugan 2.JPG",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Pazhamuthir_solai_Murugan_2.JPG",
+          "original_width": 2288,
+          "original_height": 1712,
+          "dimension_evidence": "Commons file description states original file 2288 × 1712 pixels.",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "author": "Ssrirammt",
+          "identity_evidence": "Exact file identifies Pazhamuthir solai Murugan and belongs to the requested temple category.",
+          "intended_category": "Different_Views",
+          "review_status": "metadata_verified_visual_review_pending",
+          "review_note": "Original dimensions and free media license verified on the Commons file page. Requires subject, sharpness, color and watermark review before download approval."
+        },
+        {
+          "filename": "File:Solaimalai.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Solaimalai.jpg",
+          "original_width": 4160,
+          "original_height": 2340,
+          "dimension_evidence": "Commons file description states original file 4160 × 2340 pixels.",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "author": "Santhoshlife91",
+          "identity_evidence": "File is directly categorized at Pazhamudircholai, a name also associated with Solaimalai Murugan.",
+          "intended_category": "Overview",
+          "review_status": "metadata_verified_visual_review_pending",
+          "review_note": "Original dimensions and free media license verified on the Commons file page. Requires subject, sharpness, color and watermark review before download approval."
+        }
+      ],
+      "excluded_sources": [
+        {
+          "filename": "File:Pazhamudhircholai.jpg",
+          "reason": "944 × 776 original fails the required dimensions."
+        },
+        {
+          "filename": "Previously collected Kallazhagar and Bengaluru Shrungagiri images",
+          "reason": "Different temple identities; retain rejection."
+        },
+        {
+          "filename": "Generic bats photograph in the category",
+          "reason": "Animals do not provide useful temple coverage."
+        }
+      ],
+      "coverage_note": "Four exact Murugan-temple sources. Use only genuinely different clear views after visual review.",
+      "search_aliases": [
+        "Pazhamudircholai",
+        "Pazhamudhircholai Koil",
+        "Pazhamuthir solai Murugan",
+        "Solaimalai Murugan Madurai"
+      ]
+    },
+    {
+      "place_id": "golden_temple__gurdwara_mata_kaulan",
+      "identity": "Gurdwara Mata Kaulan / Gurdwara Mata Kaul near Kaulsar Sarovar, Amritsar.",
+      "category_urls": [],
+      "identity_evidence": {
+        "summary": "No exact qualifying Commons file or confirmed direct category for the requested building was found in this targeted search."
+      },
+      "recommended_files": [],
+      "excluded_sources": [
+        {
+          "filename": "File:Photograph of Gurdwara Baba Atal and the tank of Kaulsar in Amritsar, circa 1863–64.jpg",
+          "reason": "Historical monochrome photograph depicts Baba Atal and Kaulsar; it does not establish the requested Mata Kaulan building."
+        },
+        {
+          "filename": "File:Photograph of Gurdwara Baba Atal Rai and the Kaulsar Sarovar, Amritsar, by Jasleen Kaur, 17 September 2009.jpg",
+          "reason": "Baba Atal and the pool are different subjects from the requested Mata Kaulan building."
+        },
+        {
+          "filename": "File:Photograph of a structure commemorating the former location of the Samadhi of Giani Sant Singh, located within the Golden Temple complex, Amritsar, Punjab, India, April 2023.jpg",
+          "reason": "File summary identifies a Giani Sant Singh memorial, not Mata Kaulan."
+        }
+      ],
+      "coverage_note": "Keep gallery empty until exact-building identity can be established. A pool view or nearby Baba Atal photograph must not be relabeled as Mata Kaulan.",
+      "search_aliases": [
+        "Gurdwara Mata Kaulan Amritsar",
+        "Gurdwara Mata Kaul Amritsar",
+        "Mata Kaul Sahib Amritsar",
+        "Kaulan Sahib",
+        "Kaulsar Gurdwara"
+      ],
+      "status": "no_exact_qualified_source_found"
+    },
+    {
+      "place_id": "city_palace_udaipur__karni_mata_temple",
+      "identity": "Shri Manshapurna Karni Mata Temple on Machla Magra hill, Udaipur.",
+      "category_urls": [
+        "https://commons.wikimedia.org/wiki/Category:Karni_Mata_Temple%2C_Udaipur"
+      ],
+      "identity_evidence": {
+        "source_page": "https://commons.wikimedia.org/wiki/Category:Karni_Mata_Temple%2C_Udaipur",
+        "summary": "Commons identifies the Udaipur temple near Doodh Talai, Q24948316; this is separate from Karni Mata Temple at Deshnoke.",
+        "coordinates": [
+          24.565861,
+          73.688306
+        ]
+      },
+      "recommended_files": [
+        {
+          "filename": "File:KarniMata.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:KarniMata.jpg",
+          "original_width": 3072,
+          "original_height": 1728,
+          "dimension_evidence": "Commons file description states original file 3072 × 1728 pixels.",
+          "license": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "author": "Vishal0soni",
+          "identity_evidence": "File description explicitly identifies the Karni Mata Temple entrance in Udaipur, including the gate and lion paintings.",
+          "intended_category": "Overview",
+          "review_status": "metadata_verified_visual_review_pending",
+          "review_note": "Original dimensions and free media license verified on the Commons file page. Requires subject, sharpness, color and watermark review before download approval."
+        },
+        {
+          "filename": "File:KarniMata SideRoof.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:KarniMata_SideRoof.jpg",
+          "original_width": 3072,
+          "original_height": 1728,
+          "dimension_evidence": "Commons file description states original file 3072 × 1728 pixels.",
+          "license": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "author": "Vishal0soni",
+          "identity_evidence": "Description identifies a side-roof area at the Udaipur Karni Mata temple.",
+          "intended_category": "Different_Views",
+          "review_status": "metadata_verified_visual_review_pending",
+          "review_note": "Inspect whether people obstruct the temple features before keeping this candidate."
+        },
+        {
+          "filename": "File:Desi bharatiya udaipuri ooooncha! mandir.JPG",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Desi_bharatiya_udaipuri_ooooncha!_mandir.JPG",
+          "original_width": 4000,
+          "original_height": 3000,
+          "dimension_evidence": "Commons file description states original file 4000 × 3000 pixels.",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "author": "Puchu",
+          "identity_evidence": "Description explicitly names Shri Manshapurna Karni Mata Mandir, Udaipur, with Udaipur coordinates.",
+          "intended_category": "Overview",
+          "review_status": "metadata_verified_visual_review_pending",
+          "review_note": "Original dimensions and free media license verified on the Commons file page. Requires subject, sharpness, color and watermark review before download approval."
+        }
+      ],
+      "excluded_sources": [
+        {
+          "filename": "File:Way to the god ( no special effects).jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Way_to_the_god_(_no_special_effects).jpg",
+          "reason": "Despite category membership, its own description identifies Nimach Mata at Fateh Sagar. Wrong temple."
+        },
+        {
+          "filename": "File:UdaipurLakePichola ViewFromTemple201209small.jpg",
+          "reason": "Side-by-side stereogram does not suit an ordinary user gallery."
+        },
+        {
+          "filename": "File:CityOfLakes.jpg",
+          "reason": "1080 × 648 original fails dimensions."
+        },
+        {
+          "filename": "Deshnoke Karni Mata Temple images",
+          "reason": "Different city and temple identity."
+        }
+      ],
+      "coverage_note": "Three verified Udaipur temple sources. Category has a wrongly categorized Nimach Mata file, so root must continue checking file descriptions individually.",
+      "search_aliases": [
+        "Karni Mata Temple Udaipur Machla Magra",
+        "Shri Manshapurna Karni Mata Mandir"
+      ]
+    },
+    {
+      "place_id": "city_palace_udaipur__vintage_car_museum",
+      "identity": "Vintage & Classic Car Collection Museum, Udaipur.",
+      "category_urls": [
+        "https://commons.wikimedia.org/wiki/Category:Automobiles_in_Vintage_%26_Classic_Car_Collection_Museum_of_Udaipur"
+      ],
+      "identity_evidence": {
+        "source_page": "https://commons.wikimedia.org/wiki/Category:Automobiles_in_Vintage_%26_Classic_Car_Collection_Museum_of_Udaipur",
+        "summary": "The direct category identifies the automobile museum in Udaipur, Q24952067, and lists 71 collection files.",
+        "coordinates": [
+          24.5757,
+          73.694514
+        ]
+      },
+      "recommended_files": [
+        {
+          "filename": "File:Mercedes Benz in Vintage & Classic Car Collection Museum, Udaipur.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Mercedes_Benz_in_Vintage_%26_Classic_Car_Collection_Museum%2C_Udaipur.jpg",
+          "original_width": 3872,
+          "original_height": 2592,
+          "dimension_evidence": "Commons file description states original file 3872 × 2592 pixels.",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "author": "Schwiki",
+          "identity_evidence": "The summary explicitly identifies a collection of old vehicles inside Vintage & Classic Car Collection Museum, Udaipur.",
+          "intended_category": "Different_Views",
+          "review_status": "metadata_verified_visual_review_pending",
+          "review_note": "Prefer this collection-context view if the frame actually shows the museum surroundings, rather than only a cropped car."
+        },
+        {
+          "filename": "File:1934 Rolls-Royce in Vintage & Classic Car Collection Museum, Udaipur.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:1934_Rolls-Royce_in_Vintage_%26_Classic_Car_Collection_Museum%2C_Udaipur.jpg",
+          "original_width": 3872,
+          "original_height": 2592,
+          "dimension_evidence": "Commons file description states original file 3872 × 2592 pixels.",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "author": "Schwiki",
+          "identity_evidence": "Exact filename and direct museum category identify a car within the requested Udaipur collection.",
+          "intended_category": "Details",
+          "review_status": "metadata_verified_visual_review_pending",
+          "review_note": "Original dimensions and free media license verified on the Commons file page. Requires subject, sharpness, color and watermark review before download approval."
+        },
+        {
+          "filename": "File:Front view of Buick Super 8 in Vintage & Classic Car Collection Museum, Udaipur.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Front_view_of_Buick_Super_8_in_Vintage_%26_Classic_Car_Collection_Museum%2C_Udaipur.jpg",
+          "original_width": 3872,
+          "original_height": 2592,
+          "dimension_evidence": "Commons file description states original file 3872 × 2592 pixels.",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "author": "Schwiki",
+          "identity_evidence": "Exact title and direct museum category identify the Buick exhibit in the requested Udaipur museum.",
+          "intended_category": "Details",
+          "review_status": "metadata_verified_visual_review_pending",
+          "review_note": "Original dimensions and free media license verified on the Commons file page. Requires subject, sharpness, color and watermark review before download approval."
+        }
+      ],
+      "excluded_sources": [
+        {
+          "filename": "Dungarpur Mews / Dungarpur vintage car museum images",
+          "reason": "A different museum in a different city; do not use as Udaipur museum imagery."
+        }
+      ],
+      "coverage_note": "Three files only: a museum collection-context candidate and two distinct exhibit candidates. No exact, qualified entrance or exterior image was established; do not invent an exterior view or pad the gallery with ten car close-ups.",
+      "search_aliases": [
+        "Vintage & Classic Car Collection Museum Udaipur",
+        "Vintage Collection of Classic Cars Museum Udaipur"
+      ]
+    },
+    {
+      "place_id": "ajanta_ellora_caves",
+      "identity": "Ellora component of the combined Ajanta & Ellora main-monument entry; Kailasa Hindu temple, Cave 10 Buddhist hall and Cave 32 Jain cave.",
+      "category_urls": [
+        "https://commons.wikimedia.org/wiki/Category:Cave_10%2C_Ellora_-_Interior",
+        "https://commons.wikimedia.org/wiki/Category:Cave_32%2C_Ellora"
+      ],
+      "identity_evidence": {
+        "summary": "Each recommended file explicitly identifies Ellora or its numbered caves. These files remedy the previously reviewed set containing Ajanta only; they do not replace the existing Ajanta selections."
+      },
+      "recommended_files": [
+        {
+          "filename": "File:Kailasa Temple at Ellora (Cave 16).jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Kailasa_Temple_at_Ellora_(Cave_16).jpg",
+          "original_width": 5432,
+          "original_height": 3622,
+          "dimension_evidence": "Commons file description states original file 5432 × 3622 pixels.",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "author": "Rohit Sharma / Rohit14400",
+          "identity_evidence": "Summary and object coordinates identify Kailasa Temple, Cave 16 at Ellora.",
+          "intended_category": "Overview",
+          "review_status": "metadata_verified_visual_review_pending",
+          "review_note": "Original dimensions and free media license verified on the Commons file page. Requires subject, sharpness, color and watermark review before download approval."
+        },
+        {
+          "filename": "File:Panoramic view of Kailash Temple Ellora.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Kailash_Temple_Ellora.jpg",
+          "original_width": 6000,
+          "original_height": 3377,
+          "dimension_evidence": "Commons file description states original file 6000 × 3377 pixels.",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "author": "Shreyans69",
+          "identity_evidence": "Exact title and depicted object identify a panorama of Kailasa Temple at Ellora.",
+          "intended_category": "Overview",
+          "review_status": "metadata_verified_visual_review_pending",
+          "review_note": "Choose the best wide view after review; avoid keeping two nearly identical overviews."
+        },
+        {
+          "filename": "File:Courtyard and Mahabharata Reliefs at the Kailasa Temple, Ellora 01.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Courtyard_and_Mahabharata_Reliefs_at_the_Kailasa_Temple%2C_Ellora_01.jpg",
+          "original_width": 5126,
+          "original_height": 2883,
+          "dimension_evidence": "Commons file description states original file 5126 × 2883 pixels.",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "author": "Rohit Sharma / Rohit14400",
+          "identity_evidence": "Summary identifies the courtyard and Mahabharata reliefs at Kailasa Temple, Ellora, with temple coordinates.",
+          "intended_category": "Different_Views",
+          "review_status": "metadata_verified_visual_review_pending",
+          "review_note": "Original dimensions and free media license verified on the Commons file page. Requires subject, sharpness, color and watermark review before download approval.",
+          "commons_quality_assessment": "Commons Quality Image recorded on its file/category evidence."
+        },
+        {
+          "filename": "File:Corridor at Cave 16, Ellora.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Corridor_at_Cave_16%2C_Ellora.jpg",
+          "original_width": 4288,
+          "original_height": 2848,
+          "dimension_evidence": "Commons file description states original file 4288 × 2848 pixels.",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "author": "Dey.sandip",
+          "identity_evidence": "The summary explicitly identifies a corridor at Cave 16, Ellora.",
+          "intended_category": "Details",
+          "review_status": "metadata_verified_visual_review_pending",
+          "review_note": "Original dimensions and free media license verified on the Commons file page. Requires subject, sharpness, color and watermark review before download approval.",
+          "commons_quality_assessment": "Commons Quality Image recorded on its file page."
+        },
+        {
+          "filename": "File:Ellora Caves, India, Religious shrines in Kailash-Kailasa Temple.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Ellora_Caves%2C_India%2C_Religious_shrines_in_Kailash-Kailasa_Temple.jpg",
+          "original_width": 3072,
+          "original_height": 2048,
+          "dimension_evidence": "Commons file description states original file 3072 × 2048 pixels.",
+          "license": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "author": "Vyacheslav Argenberg",
+          "identity_evidence": "Description identifies religious shrines at the Kailash-Kailasa Temple in Ellora, Maharashtra.",
+          "intended_category": "Details",
+          "review_status": "metadata_verified_visual_review_pending",
+          "review_note": "Original dimensions and free media license verified on the Commons file page. Requires subject, sharpness, color and watermark review before download approval."
+        },
+        {
+          "filename": "File:P1060701 ellora cave number 10 ASI number N-MH-A51.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:P1060701_ellora_cave_number_10_ASI_number_N-MH-A51.jpg",
+          "original_width": 4000,
+          "original_height": 3000,
+          "dimension_evidence": "Commons file description states original file 4000 × 3000 pixels.",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "author": "Punita keshri",
+          "identity_evidence": "Description explicitly identifies the Buddhist Vishwakarma / Carpenter's Cave 10 at Ellora.",
+          "intended_category": "Different_Views",
+          "review_status": "metadata_verified_visual_review_pending",
+          "review_note": "Low-light capture ISO 1000 and 1/8-second exposure: inspect blur and noise carefully. Do not use source prose for historical claims."
+        },
+        {
+          "filename": "File:Lascar Ellora caves - Cave 10 (Vishwakarma cave) (4558324543).jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Lascar_Ellora_caves_-_Cave_10_(Vishwakarma_cave)_(4558324543).jpg",
+          "original_width": 2592,
+          "original_height": 1944,
+          "dimension_evidence": "Commons file description states original file 2592 × 1944 pixels.",
+          "license": "CC BY 2.0",
+          "license_url": "https://creativecommons.org/licenses/by/2.0/",
+          "author": "Jorge Láscar",
+          "identity_evidence": "Description, Cave 10 Ellora interior category, and Ellora camera coordinates identify the Buddhist hall.",
+          "intended_category": "Different_Views",
+          "review_status": "metadata_verified_visual_review_pending",
+          "review_note": "Requires a sharpness check because it is an older low-light interior image."
+        },
+        {
+          "filename": "File:Ellora - Cave 32 - Lord Mahavira Temple Carvings.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Ellora_-_Cave_32_-_Lord_Mahavira_Temple_Carvings.jpg",
+          "original_width": 6000,
+          "original_height": 3377,
+          "dimension_evidence": "Commons file description states original file 6000 × 3377 pixels.",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "author": "Shreyans69",
+          "identity_evidence": "Title and exact Cave 32 Ellora category identify Jain-cave temple carvings.",
+          "intended_category": "Details",
+          "review_status": "metadata_verified_visual_review_pending",
+          "review_note": "Source description contains potentially confused cave terminology; use only established visual identity, not its historical narration."
+        },
+        {
+          "filename": "File:Ellora Cave - 32 (55).jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Ellora_Cave_-_32_(55).jpg",
+          "original_width": 3849,
+          "original_height": 2592,
+          "dimension_evidence": "Commons file description states original file 3849 × 2592 pixels.",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "author": "Pratyk321",
+          "identity_evidence": "File summary explicitly states Cave 32, Ellora; direct category confirms the Jain cave.",
+          "intended_category": "Different_Views",
+          "review_status": "metadata_verified_visual_review_pending",
+          "review_note": "Original dimensions and free media license verified on the Commons file page. Requires subject, sharpness, color and watermark review before download approval."
+        }
+      ],
+      "excluded_sources": [
+        {
+          "filename": "File:Ellora vishwakarma Cave-10.jpg",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Ellora_vishwakarma_Cave-10.jpg",
+          "reason": "Filename says Ellora, but depicted Wikidata and GPS metadata point to Ajanta. Identity conflict requires visual resolution; exclude from this verified rescue plan."
+        }
+      ],
+      "coverage_note": "Nine metadata-verified Ellora candidates provide Kailasa wide/exterior/corridor/detail, Buddhist Cave 10 and Jain Cave 32 coverage. Actual visual approval and final diversity selection remain pending.",
+      "search_aliases": [
+        "Kailasa Temple Ellora Cave 16",
+        "Vishwakarma Cave 10 Ellora",
+        "Indra Sabha Cave 32 Ellora"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+VIRASATAI — BASIC INFORMATION
+Name: Nithyakalyana Perumal Temple
+Entry ID: mahabalipuram__nithyakalyana_perumal_temple
+Location: Thiruvidanthai, Chengalpattu district, Tamil Nadu
+Type: Living Vaishnava temple
+Identity note: HRCE temple TM001839. The user's separate Sri Thiruvidandhai entry refers to this same village/temple setting; it must not be presented as a second unrelated monument.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. HRCE identifies Arulmigu Nithya Kalyana Perumal Temple at Thiruvidanthai, Chengalpattu, as TM001839. [1]
+2. The temple's deity is associated with Lakshmi Varaha Perumal and its goddess with Komalavalli Thayar. [1]
+3. It is recognised in the temple record as one of the Vaishnava Divya Desams. [1]
+4. Sri Thiruvidandhai is a spelling/label overlap with this temple's locality, not evidence of a second monument. [1,2]
+
+Sources: See nithyakalyana_perumal_temple_sources.txt. The parent association is the user's selection, not a verified proximity claim.

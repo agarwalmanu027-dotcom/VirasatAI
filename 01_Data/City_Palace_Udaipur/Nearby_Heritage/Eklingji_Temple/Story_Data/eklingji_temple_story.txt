@@ -1,0 +1,14 @@
+VIRASATAI — STORY DATA
+Entry ID: city_palace_udaipur__eklingji_temple
+Name: Eklingji Temple
+Narrative focus: Religious devotion closely connected with Mewar's royal identity.
+Language files: Separate English and Devanagari Hindi master scripts in 03_Scripts.
+Status: Written narration ready for TTS input; pronunciation and generated audio still need listening QA.
+
+Eklingji connects the history of Mewar with a continuing tradition of worship. This temple near Udaipur is dedicated to Shiva and has a close relationship with the region's royal identity. Mewar's rulers have revered Shri Eklingji as their personal deity.
+
+The four-faced black stone image is a central feature of the temple's identity. Yet understanding a sacred place involves more than identifying its best-known object. The surrounding spaces, acts of worship and care given to the shrine also matter.
+
+For a visitor, respectful attention is the right approach. Follow the temple's current rules and allow religious activity to guide how you move through the complex.
+
+Eklingji adds context to Udaipur's palaces and royal memorials. It shows how political history and devotion could be closely connected, while reminding us that a historic temple remains meaningful to the people who worship there today.

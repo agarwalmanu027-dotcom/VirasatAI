@@ -1,0 +1,180 @@
+{
+  "parent_monument_id": "badami_cave_temples",
+  "parent_monument_name": "Badami Cave Temples, Karnataka",
+  "selection_source": "User-supplied table",
+  "nearby_entry_count": 10,
+  "places": [
+    {
+      "id": "badami_cave_temples__bhutanatha_group_of_temples",
+      "order": 1,
+      "display_name": "Bhutanatha Group of Temples",
+      "folder_name": "Bhutanatha_Group_of_Temples",
+      "parent_monument_id": "badami_cave_temples",
+      "paths": {
+        "data": "01_Data/Badami_Cave_Temples/Nearby_Heritage/Bhutanatha_Group_of_Temples",
+        "images": "02_Images/Badami_Cave_Temples/Nearby_Heritage/Bhutanatha_Group_of_Temples",
+        "scripts": "03_Scripts/Badami_Cave_Temples/Nearby_Heritage/Bhutanatha_Group_of_Temples",
+        "audio": "04_Audio/Badami_Cave_Temples/Nearby_Heritage/Bhutanatha_Group_of_Temples"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "badami_cave_temples__agastya_lake",
+      "order": 2,
+      "display_name": "Agastya Lake",
+      "folder_name": "Agastya_Lake",
+      "parent_monument_id": "badami_cave_temples",
+      "paths": {
+        "data": "01_Data/Badami_Cave_Temples/Nearby_Heritage/Agastya_Lake",
+        "images": "02_Images/Badami_Cave_Temples/Nearby_Heritage/Agastya_Lake",
+        "scripts": "03_Scripts/Badami_Cave_Temples/Nearby_Heritage/Agastya_Lake",
+        "audio": "04_Audio/Badami_Cave_Temples/Nearby_Heritage/Agastya_Lake"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "badami_cave_temples__badami_fort",
+      "order": 3,
+      "display_name": "Badami Fort",
+      "folder_name": "Badami_Fort",
+      "parent_monument_id": "badami_cave_temples",
+      "paths": {
+        "data": "01_Data/Badami_Cave_Temples/Nearby_Heritage/Badami_Fort",
+        "images": "02_Images/Badami_Cave_Temples/Nearby_Heritage/Badami_Fort",
+        "scripts": "03_Scripts/Badami_Cave_Temples/Nearby_Heritage/Badami_Fort",
+        "audio": "04_Audio/Badami_Cave_Temples/Nearby_Heritage/Badami_Fort"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "badami_cave_temples__mahakuta_group_of_temples",
+      "order": 4,
+      "display_name": "Mahakuta Group of Temples",
+      "folder_name": "Mahakuta_Group_of_Temples",
+      "parent_monument_id": "badami_cave_temples",
+      "paths": {
+        "data": "01_Data/Badami_Cave_Temples/Nearby_Heritage/Mahakuta_Group_of_Temples",
+        "images": "02_Images/Badami_Cave_Temples/Nearby_Heritage/Mahakuta_Group_of_Temples",
+        "scripts": "03_Scripts/Badami_Cave_Temples/Nearby_Heritage/Mahakuta_Group_of_Temples",
+        "audio": "04_Audio/Badami_Cave_Temples/Nearby_Heritage/Mahakuta_Group_of_Temples"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "badami_cave_temples__pattadakal_monuments",
+      "order": 5,
+      "display_name": "Pattadakal Monuments",
+      "folder_name": "Pattadakal_Monuments",
+      "parent_monument_id": "badami_cave_temples",
+      "paths": {
+        "data": "01_Data/Badami_Cave_Temples/Nearby_Heritage/Pattadakal_Monuments",
+        "images": "02_Images/Badami_Cave_Temples/Nearby_Heritage/Pattadakal_Monuments",
+        "scripts": "03_Scripts/Badami_Cave_Temples/Nearby_Heritage/Pattadakal_Monuments",
+        "audio": "04_Audio/Badami_Cave_Temples/Nearby_Heritage/Pattadakal_Monuments"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "badami_cave_temples__aihole_durga_temple",
+      "order": 6,
+      "display_name": "Aihole (Durga Temple)",
+      "folder_name": "Aihole_Durga_Temple",
+      "parent_monument_id": "badami_cave_temples",
+      "paths": {
+        "data": "01_Data/Badami_Cave_Temples/Nearby_Heritage/Aihole_Durga_Temple",
+        "images": "02_Images/Badami_Cave_Temples/Nearby_Heritage/Aihole_Durga_Temple",
+        "scripts": "03_Scripts/Badami_Cave_Temples/Nearby_Heritage/Aihole_Durga_Temple",
+        "audio": "04_Audio/Badami_Cave_Temples/Nearby_Heritage/Aihole_Durga_Temple"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "badami_cave_temples__banashankari_amma_temple",
+      "order": 7,
+      "display_name": "Banashankari Amma Temple",
+      "folder_name": "Banashankari_Amma_Temple",
+      "parent_monument_id": "badami_cave_temples",
+      "paths": {
+        "data": "01_Data/Badami_Cave_Temples/Nearby_Heritage/Banashankari_Amma_Temple",
+        "images": "02_Images/Badami_Cave_Temples/Nearby_Heritage/Banashankari_Amma_Temple",
+        "scripts": "03_Scripts/Badami_Cave_Temples/Nearby_Heritage/Banashankari_Amma_Temple",
+        "audio": "04_Audio/Badami_Cave_Temples/Nearby_Heritage/Banashankari_Amma_Temple"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "badami_cave_temples__ravan_phadi_cave",
+      "order": 8,
+      "display_name": "Ravan Phadi Cave",
+      "folder_name": "Ravan_Phadi_Cave",
+      "parent_monument_id": "badami_cave_temples",
+      "paths": {
+        "data": "01_Data/Badami_Cave_Temples/Nearby_Heritage/Ravan_Phadi_Cave",
+        "images": "02_Images/Badami_Cave_Temples/Nearby_Heritage/Ravan_Phadi_Cave",
+        "scripts": "03_Scripts/Badami_Cave_Temples/Nearby_Heritage/Ravan_Phadi_Cave",
+        "audio": "04_Audio/Badami_Cave_Temples/Nearby_Heritage/Ravan_Phadi_Cave"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "badami_cave_temples__lad_khan_temple",
+      "order": 9,
+      "display_name": "Lad Khan Temple",
+      "folder_name": "Lad_Khan_Temple",
+      "parent_monument_id": "badami_cave_temples",
+      "paths": {
+        "data": "01_Data/Badami_Cave_Temples/Nearby_Heritage/Lad_Khan_Temple",
+        "images": "02_Images/Badami_Cave_Temples/Nearby_Heritage/Lad_Khan_Temple",
+        "scripts": "03_Scripts/Badami_Cave_Temples/Nearby_Heritage/Lad_Khan_Temple",
+        "audio": "04_Audio/Badami_Cave_Temples/Nearby_Heritage/Lad_Khan_Temple"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "badami_cave_temples__galaganatha_temples",
+      "order": 10,
+      "display_name": "Galaganatha Temples",
+      "folder_name": "Galaganatha_Temples",
+      "parent_monument_id": "badami_cave_temples",
+      "paths": {
+        "data": "01_Data/Badami_Cave_Temples/Nearby_Heritage/Galaganatha_Temples",
+        "images": "02_Images/Badami_Cave_Temples/Nearby_Heritage/Galaganatha_Temples",
+        "scripts": "03_Scripts/Badami_Cave_Temples/Nearby_Heritage/Galaganatha_Temples",
+        "audio": "04_Audio/Badami_Cave_Temples/Nearby_Heritage/Galaganatha_Temples"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": [
+        "Verify which temple/site the user label denotes in the Badami group."
+      ]
+    }
+  ]
+}

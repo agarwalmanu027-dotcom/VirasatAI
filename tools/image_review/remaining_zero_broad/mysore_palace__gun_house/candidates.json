@@ -1,0 +1,20 @@
+{
+  "placeId": "mysore_palace__gun_house",
+  "queries": [
+    "Gun House Mysore",
+    "Gun House Mysuru"
+  ],
+  "candidates": [
+    {
+      "candidateId": 1,
+      "title": "File:Coorg tiger wedding.jpg",
+      "query": "Gun House Mysore",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Coorg_tiger_wedding.jpg",
+      "previewUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Coorg_tiger_wedding.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "The Illustrated London News",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "previewPath": "tools/image_review/remaining_zero_broad/mysore_palace__gun_house/candidate_01.jpg"
+    }
+  ]
+}

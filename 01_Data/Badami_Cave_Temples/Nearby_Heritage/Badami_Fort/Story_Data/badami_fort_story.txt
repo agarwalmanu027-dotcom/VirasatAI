@@ -1,0 +1,12 @@
+VIRASATAI — STORY DATA
+Entry ID: badami_cave_temples__badami_fort
+Name: Badami Fort
+Narrative focus: Topography, defence and a wider view of the town
+Language files: Separate English and Devanagari Hindi master scripts in 03_Scripts.
+Status: Written narration ready for TTS input; pronunciation and generated audio still need listening QA.
+
+Badami Fort makes the shape of the land part of its story. Set on the northern hill above the town, the fortification landscape offers a different perspective from the cave temples. Height, rock and controlled approaches all help explain why a hill could become a defensive position.
+
+Look at the surviving gateways, water-storage features and other remains where the route permits. A fortified place needed resources and ways to manage movement, not only high walls. Later rulers also changed the site, so everything visible should not be assigned automatically to one ancient building campaign.
+
+From an authorised viewpoint, the wider relationship between the town, lake and monuments becomes easier to appreciate. The route can involve uneven ground and steps, so take care and follow current access guidance. Avoid exposed edges and unstable structures. Badami Fort encourages you to read architecture together with topography, seeing how a strategic landscape could be adapted over time.

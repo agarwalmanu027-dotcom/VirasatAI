@@ -1,0 +1,14 @@
+{
+  "place_id": "mahabalipuram__dakshinachitra",
+  "display_name": "DakshinaChitra",
+  "parent_id": "mahabalipuram",
+  "main_order": 17,
+  "is_main": false,
+  "candidates": [],
+  "errors": [
+    "HTTP Error 429: Too Many Requests",
+    "HTTP Error 429: Too Many Requests"
+  ],
+  "visual_review_status": "pending",
+  "status": "no_qualifying_candidates"
+}

@@ -1,0 +1,13 @@
+VIRASATAI — BASIC INFORMATION
+Name: Saheliyon Ki Bari
+Entry ID: city_palace_udaipur__saheliyon_ki_bari
+Location: Udaipur, Rajasthan, India
+Type: Historic royal garden
+Identity note: User-selected site identity verified against the sources below.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. Saheliyon Ki Bari is known as the Garden of the Maidens. [1]
+2. The historic garden contains fountains and marble features, including elephant forms. [1,2]
+3. It represents Udaipur's royal garden heritage. [1]
+
+Sources: See saheliyon_ki_bari_sources.txt. The parent association is the user's selection, not a verified proximity claim.

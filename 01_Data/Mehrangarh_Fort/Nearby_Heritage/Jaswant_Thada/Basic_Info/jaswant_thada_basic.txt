@@ -1,0 +1,14 @@
+VIRASATAI — BASIC INFORMATION
+Name: Jaswant Thada
+Entry ID: mehrangarh_fort__jaswant_thada
+Location: Jodhpur, Rajasthan
+Type: Marble royal memorial
+Identity note: User-selected site identity verified against the sources below.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. The Mehrangarh Museum Trust identifies Jaswant Thada as a marble memorial to Maharaja Jaswant Singh II. [1]
+2. It was commissioned by his son Maharaja Sardar Singh; the trust records completion in 1906. [1]
+3. The principal hall has a temple-like form and a continuing ancestor-remembrance context. [1]
+4. The narration describes a memorial, without asserting a burial beneath it.
+
+Sources: See jaswant_thada_sources.txt. The parent association is the user's selection, not a verified proximity claim.

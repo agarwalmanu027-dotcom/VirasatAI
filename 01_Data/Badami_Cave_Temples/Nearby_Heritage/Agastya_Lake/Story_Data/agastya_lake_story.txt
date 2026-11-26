@@ -1,0 +1,12 @@
+VIRASATAI — STORY DATA
+Entry ID: badami_cave_temples__agastya_lake
+Name: Agastya Lake
+Narrative focus: Water linking cliffs, caves and temples
+Language files: Separate English and Devanagari Hindi master scripts in 03_Scripts.
+Status: Written narration ready for TTS input; pronunciation and generated audio still need listening QA.
+
+Agastya Lake helps you understand Badami as a connected landscape. The historic artificial tank sits among sandstone hills and temple sites, bringing water into a setting otherwise dominated by rock. The district administration also calls it Agastya Tirtha.
+
+From a permitted shore position, look at how the cliffs, caves and structural temples relate to one another. The view turns separate landmarks into parts of a larger place. Reflections can make the relationship especially clear, doubling a roofline or changing the colour of a cliff as light moves across the water.
+
+The lake has religious associations, but stories about sacred or healing water should not become medical promises. Appreciate the setting without entering the water or assuming boating and bathing are always permitted. Keep the shore clean and avoid unsafe edges. Agastya Lake adds an essential perspective to the architecture around it, reminding us that settlement, worship and water have long been closely connected.

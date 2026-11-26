@@ -1,0 +1,14 @@
+VIRASATAI — BASIC INFORMATION
+Name: Alamparai Fort
+Entry ID: mahabalipuram__alamparai_fort
+Location: Near Kadapakkam, Chengalpattu district, Tamil Nadu
+Type: Coastal fort ruins and archaeological site
+Identity note: User-selected site identity verified against the sources below.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. Tamil Nadu Archaeology identifies Alambarai/Alamparai Fort near Kadapakkam on the Bay of Bengal. [1]
+2. The department places the brick fort's development in the late seventeenth-century Mughal-period context. [1]
+3. Its history includes Carnatic rulers, a transfer to French authority in 1750 and British destruction in 1760. [1]
+4. Excavations recorded pottery, metal objects and other evidence of activity and exchange. [2]
+
+Sources: See alamparai_fort_sources.txt. The parent association is the user's selection, not a verified proximity claim.

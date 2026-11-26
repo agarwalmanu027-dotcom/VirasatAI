@@ -1,0 +1,14 @@
+{
+  "place_id": "jaisalmer_fort__nathmal_ji_ki_haveli",
+  "display_name": "Nathmal Ji Ki Haveli",
+  "parent_id": "jaisalmer_fort",
+  "main_order": 18,
+  "is_main": false,
+  "candidates": [],
+  "errors": [
+    "HTTP Error 429: Too Many Requests",
+    "HTTP Error 429: Too Many Requests"
+  ],
+  "visual_review_status": "pending",
+  "status": "no_qualifying_candidates"
+}

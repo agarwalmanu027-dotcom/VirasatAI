@@ -1,0 +1,1765 @@
+{
+  "target": "minimum 7 photos per entry; 8 for main monuments",
+  "entries": [
+    {
+      "id": "taj_mahal",
+      "name": "Taj Mahal, Agra",
+      "groupId": "taj_mahal",
+      "isMain": true,
+      "photoCount": 8,
+      "neededForMinimumSeven": 0
+    },
+    {
+      "id": "taj_mahal__mehtab_bagh",
+      "name": "Mehtab Bagh",
+      "groupId": "taj_mahal",
+      "isMain": false,
+      "photoCount": 6,
+      "neededForMinimumSeven": 1
+    },
+    {
+      "id": "taj_mahal__chini_ka_rauza",
+      "name": "Chini Ka Rauza",
+      "groupId": "taj_mahal",
+      "isMain": false,
+      "photoCount": 6,
+      "neededForMinimumSeven": 1
+    },
+    {
+      "id": "taj_mahal__the_red_taj_hessings_tomb",
+      "name": "The Red Taj (Hessing's Tomb)",
+      "groupId": "taj_mahal",
+      "isMain": false,
+      "photoCount": 6,
+      "neededForMinimumSeven": 1
+    },
+    {
+      "id": "taj_mahal__taj_nature_walk",
+      "name": "Taj Nature Walk",
+      "groupId": "taj_mahal",
+      "isMain": false,
+      "photoCount": 4,
+      "neededForMinimumSeven": 3
+    },
+    {
+      "id": "taj_mahal__mariam_uz_zamani_tomb",
+      "name": "Mariam-uz-Zamani Tomb",
+      "groupId": "taj_mahal",
+      "isMain": false,
+      "photoCount": 5,
+      "neededForMinimumSeven": 2
+    },
+    {
+      "id": "taj_mahal__ram_bagh",
+      "name": "Ram Bagh",
+      "groupId": "taj_mahal",
+      "isMain": false,
+      "photoCount": 7,
+      "neededForMinimumSeven": 0
+    },
+    {
+      "id": "taj_mahal__kanch_mahal",
+      "name": "Kanch Mahal",
+      "groupId": "taj_mahal",
+      "isMain": false,
+      "photoCount": 6,
+      "neededForMinimumSeven": 1
+    },
+    {
+      "id": "taj_mahal__bateshwar_temples",
+      "name": "Bateshwar Temples",
+      "groupId": "taj_mahal",
+      "isMain": false,
+      "photoCount": 8,
+      "neededForMinimumSeven": 0
+    },
+    {
+      "id": "taj_mahal__jaswant_singh_ki_chhatri",
+      "name": "Jaswant Singh Ki Chhatri",
+      "groupId": "taj_mahal",
+      "isMain": false,
+      "photoCount": 2,
+      "neededForMinimumSeven": 5
+    },
+    {
+      "id": "taj_mahal__gurudwara_guru_ka_taal",
+      "name": "Gurudwara Guru Ka Taal",
+      "groupId": "taj_mahal",
+      "isMain": false,
+      "photoCount": 5,
+      "neededForMinimumSeven": 2
+    },
+    {
+      "id": "qutub_minar",
+      "name": "Qutub Minar, Delhi",
+      "groupId": "qutub_minar",
+      "isMain": true,
+      "photoCount": 8,
+      "neededForMinimumSeven": 0
+    },
+    {
+      "id": "qutub_minar__jamali_kamali_mosque",
+      "name": "Jamali Kamali Mosque",
+      "groupId": "qutub_minar",
+      "isMain": false,
+      "photoCount": 7,
+      "neededForMinimumSeven": 0
+    },
+    {
+      "id": "qutub_minar__rajon_ki_baoli",
+      "name": "Rajon Ki Baoli",
+      "groupId": "qutub_minar",
+      "isMain": false,
+      "photoCount": 5,
+      "neededForMinimumSeven": 2
+    },
+    {
+      "id": "qutub_minar__balbans_tomb",
+      "name": "Balban's Tomb",
+      "groupId": "qutub_minar",
+      "isMain": false,
+      "photoCount": 6,
+      "neededForMinimumSeven": 1
+    },
+    {
+      "id": "qutub_minar__zafar_mahal",
+      "name": "Zafar Mahal",
+      "groupId": "qutub_minar",
+      "isMain": false,
+      "photoCount": 7,
+      "neededForMinimumSeven": 0
+    },
+    {
+      "id": "qutub_minar__adham_khans_tomb",
+      "name": "Adham Khan's Tomb",
+      "groupId": "qutub_minar",
+      "isMain": false,
+      "photoCount": 7,
+      "neededForMinimumSeven": 0
+    },
+    {
+      "id": "qutub_minar__gandhak_ki_baoli",
+      "name": "Gandhak Ki Baoli",
+      "groupId": "qutub_minar",
+      "isMain": false,
+      "photoCount": 5,
+      "neededForMinimumSeven": 2
+    },
+    {
+      "id": "qutub_minar__hijron_ka_khanqah",
+      "name": "Hijron Ka Khanqah",
+      "groupId": "qutub_minar",
+      "isMain": false,
+      "photoCount": 6,
+      "neededForMinimumSeven": 1
+    },
+    {
+      "id": "qutub_minar__jahaz_mahal",
+      "name": "Jahaz Mahal",
+      "groupId": "qutub_minar",
+      "isMain": false,
+      "photoCount": 6,
+      "neededForMinimumSeven": 1
+    },
+    {
+      "id": "qutub_minar__quli_khans_tomb",
+      "name": "Quli Khan's Tomb",
+      "groupId": "qutub_minar",
+      "isMain": false,
+      "photoCount": 6,
+      "neededForMinimumSeven": 1
+    },
+    {
+      "id": "qutub_minar__hauz_i_shamsi",
+      "name": "Hauz-i-Shamsi",
+      "groupId": "qutub_minar",
+      "isMain": false,
+      "photoCount": 6,
+      "neededForMinimumSeven": 1
+    },
+    {
+      "id": "amer_fort",
+      "name": "Amer Fort, Jaipur",
+      "groupId": "amer_fort",
+      "isMain": true,
+      "photoCount": 8,
+      "neededForMinimumSeven": 0
+    },
+    {
+      "id": "amer_fort__panna_meena_ka_kund",
+      "name": "Panna Meena Ka Kund",
+      "groupId": "amer_fort",
+      "isMain": false,
+      "photoCount": 6,
+      "neededForMinimumSeven": 1
+    },
+    {
+      "id": "amer_fort__jagat_shiromani_temple",
+      "name": "Jagat Shiromani Temple",
+      "groupId": "amer_fort",
+      "isMain": false,
+      "photoCount": 6,
+      "neededForMinimumSeven": 1
+    },
+    {
+      "id": "amer_fort__gaitore_ki_chhatriyan",
+      "name": "Gaitore Ki Chhatriyan",
+      "groupId": "amer_fort",
+      "isMain": false,
+      "photoCount": 7,
+      "neededForMinimumSeven": 0
+    },
+    {
+      "id": "amer_fort__anokhi_museum",
+      "name": "Anokhi Museum",
+      "groupId": "amer_fort",
+      "isMain": false,
+      "photoCount": 4,
+      "neededForMinimumSeven": 3
+    },
+    {
+      "id": "amer_fort__galtaji_temple",
+      "name": "Galtaji Temple",
+      "groupId": "amer_fort",
+      "isMain": false,
+      "photoCount": 7,
+      "neededForMinimumSeven": 0
+    },
+    {
+      "id": "amer_fort__garh_ganesh_temple",
+      "name": "Garh Ganesh Temple",
+      "groupId": "amer_fort",
+      "isMain": false,
+      "photoCount": 2,
+      "neededForMinimumSeven": 5
+    },
+    {
+      "id": "amer_fort__vidyadhar_garden",
+      "name": "Vidyadhar Garden",
+      "groupId": "amer_fort",
+      "isMain": false,
+      "photoCount": 1,
+      "neededForMinimumSeven": 6
+    },
+    {
+      "id": "amer_fort__sagar_lake",
+      "name": "Sagar Lake",
+      "groupId": "amer_fort",
+      "isMain": false,
+      "photoCount": 2,
+      "neededForMinimumSeven": 5
+    },
+    {
+      "id": "amer_fort__sisodia_rani_ka_bagh",
+      "name": "Sisodia Rani Ka Bagh",
+      "groupId": "amer_fort",
+      "isMain": false,
+      "photoCount": 7,
+      "neededForMinimumSeven": 0
+    },
+    {
+      "id": "amer_fort__hathni_kund",
+      "name": "Hathni Kund",
+      "groupId": "amer_fort",
+      "isMain": false,
+      "photoCount": 1,
+      "neededForMinimumSeven": 6
+    },
+    {
+      "id": "red_fort",
+      "name": "Red Fort, Delhi",
+      "groupId": "red_fort",
+      "isMain": true,
+      "photoCount": 8,
+      "neededForMinimumSeven": 0
+    },
+    {
+      "id": "red_fort__sunehri_masjid",
+      "name": "Sunehri Masjid",
+      "groupId": "red_fort",
+      "isMain": false,
+      "photoCount": 4,
+      "neededForMinimumSeven": 3
+    },
+    {
+      "id": "red_fort__zeenat_ul_masajid",
+      "name": "Zeenat-ul-Masajid",
+      "groupId": "red_fort",
+      "isMain": false,
+      "photoCount": 2,
+      "neededForMinimumSeven": 5
+    },
+    {
+      "id": "red_fort__mirza_ghalib_ki_haveli",
+      "name": "Mirza Ghalib Ki Haveli",
+      "groupId": "red_fort",
+      "isMain": false,
+      "photoCount": 5,
+      "neededForMinimumSeven": 2
+    },
+    {
+      "id": "red_fort__chunnamal_haveli",
+      "name": "Chunnamal Haveli",
+      "groupId": "red_fort",
+      "isMain": false,
+      "photoCount": 2,
+      "neededForMinimumSeven": 5
+    },
+    {
+      "id": "red_fort__digambar_jain_bird_hospital",
+      "name": "Digambar Jain Bird Hospital",
+      "groupId": "red_fort",
+      "isMain": false,
+      "photoCount": 4,
+      "neededForMinimumSeven": 3
+    },
+    {
+      "id": "red_fort__st_james_church",
+      "name": "St. James' Church",
+      "groupId": "red_fort",
+      "isMain": false,
+      "photoCount": 4,
+      "neededForMinimumSeven": 3
+    },
+    {
+      "id": "red_fort__khooni_darwaza",
+      "name": "Khooni Darwaza",
+      "groupId": "red_fort",
+      "isMain": false,
+      "photoCount": 6,
+      "neededForMinimumSeven": 1
+    },
+    {
+      "id": "red_fort__fatehpuri_masjid",
+      "name": "Fatehpuri Masjid",
+      "groupId": "red_fort",
+      "isMain": false,
+      "photoCount": 6,
+      "neededForMinimumSeven": 1
+    },
+    {
+      "id": "red_fort__salimgarh_fort",
+      "name": "Salimgarh Fort",
+      "groupId": "red_fort",
+      "isMain": false,
+      "photoCount": 5,
+      "neededForMinimumSeven": 2
+    },
+    {
+      "id": "red_fort__naughara_kinari_bazaar",
+      "name": "Naughara (Kinari Bazaar)",
+      "groupId": "red_fort",
+      "isMain": false,
+      "photoCount": 3,
+      "neededForMinimumSeven": 4
+    },
+    {
+      "id": "gateway_of_india",
+      "name": "Gateway of India, Mumbai",
+      "groupId": "gateway_of_india",
+      "isMain": true,
+      "photoCount": 8,
+      "neededForMinimumSeven": 0
+    },
+    {
+      "id": "gateway_of_india__keneseth_eliyahoo_synagogue",
+      "name": "Keneseth Eliyahoo Synagogue",
+      "groupId": "gateway_of_india",
+      "isMain": false,
+      "photoCount": 6,
+      "neededForMinimumSeven": 1
+    },
+    {
+      "id": "gateway_of_india__afghan_church",
+      "name": "Afghan Church",
+      "groupId": "gateway_of_india",
+      "isMain": false,
+      "photoCount": 6,
+      "neededForMinimumSeven": 1
+    },
+    {
+      "id": "gateway_of_india__ballard_bunder_gatehouse",
+      "name": "Ballard Bunder Gatehouse",
+      "groupId": "gateway_of_india",
+      "isMain": false,
+      "photoCount": 2,
+      "neededForMinimumSeven": 5
+    },
+    {
+      "id": "gateway_of_india__horniman_circle_gardens",
+      "name": "Horniman Circle Gardens",
+      "groupId": "gateway_of_india",
+      "isMain": false,
+      "photoCount": 6,
+      "neededForMinimumSeven": 1
+    },
+    {
+      "id": "gateway_of_india__david_sassoon_library",
+      "name": "David Sassoon Library",
+      "groupId": "gateway_of_india",
+      "isMain": false,
+      "photoCount": 7,
+      "neededForMinimumSeven": 0
+    },
+    {
+      "id": "gateway_of_india__banganga_tank",
+      "name": "Banganga Tank",
+      "groupId": "gateway_of_india",
+      "isMain": false,
+      "photoCount": 6,
+      "neededForMinimumSeven": 1
+    },
+    {
+      "id": "gateway_of_india__khotachiwadi_village",
+      "name": "Khotachiwadi Village",
+      "groupId": "gateway_of_india",
+      "isMain": false,
+      "photoCount": 7,
+      "neededForMinimumSeven": 0
+    },
+    {
+      "id": "gateway_of_india__rbi_monetary_museum",
+      "name": "RBI Monetary Museum",
+      "groupId": "gateway_of_india",
+      "isMain": false,
+      "photoCount": 5,
+      "neededForMinimumSeven": 2
+    },
+    {
+      "id": "gateway_of_india__sewri_fort",
+      "name": "Sewri Fort",
+      "groupId": "gateway_of_india",
+      "isMain": false,
+      "photoCount": 6,
+      "neededForMinimumSeven": 1
+    },
+    {
+      "id": "gateway_of_india__bhau_daji_lad_museum",
+      "name": "Bhau Daji Lad Museum",
+      "groupId": "gateway_of_india",
+      "isMain": false,
+      "photoCount": 6,
+      "neededForMinimumSeven": 1
+    },
+    {
+      "id": "charminar",
+      "name": "Charminar, Hyderabad",
+      "groupId": "charminar",
+      "isMain": true,
+      "photoCount": 8,
+      "neededForMinimumSeven": 0
+    },
+    {
+      "id": "charminar__badshahi_ashurkhana",
+      "name": "Badshahi Ashurkhana",
+      "groupId": "charminar",
+      "isMain": false,
+      "photoCount": 6,
+      "neededForMinimumSeven": 1
+    },
+    {
+      "id": "charminar__purani_haveli",
+      "name": "Purani Haveli",
+      "groupId": "charminar",
+      "isMain": false,
+      "photoCount": 6,
+      "neededForMinimumSeven": 1
+    },
+    {
+      "id": "charminar__paigah_tombs",
+      "name": "Paigah Tombs",
+      "groupId": "charminar",
+      "isMain": false,
+      "photoCount": 7,
+      "neededForMinimumSeven": 0
+    },
+    {
+      "id": "charminar__toli_masjid",
+      "name": "Toli Masjid",
+      "groupId": "charminar",
+      "isMain": false,
+      "photoCount": 7,
+      "neededForMinimumSeven": 0
+    },
+    {
+      "id": "charminar__raymonds_tomb",
+      "name": "Raymond's Tomb",
+      "groupId": "charminar",
+      "isMain": false,
+      "photoCount": 7,
+      "neededForMinimumSeven": 0
+    },
+    {
+      "id": "charminar__hayat_bakshi_mosque",
+      "name": "Hayat Bakshi Mosque",
+      "groupId": "charminar",
+      "isMain": false,
+      "photoCount": 4,
+      "neededForMinimumSeven": 3
+    },
+    {
+      "id": "charminar__spanish_mosque",
+      "name": "Spanish Mosque",
+      "groupId": "charminar",
+      "isMain": false,
+      "photoCount": 2,
+      "neededForMinimumSeven": 5
+    },
+    {
+      "id": "charminar__nizams_museum",
+      "name": "Nizam's Museum",
+      "groupId": "charminar",
+      "isMain": false,
+      "photoCount": 2,
+      "neededForMinimumSeven": 5
+    },
+    {
+      "id": "charminar__khursheed_jah_devdi",
+      "name": "Khursheed Jah Devdi",
+      "groupId": "charminar",
+      "isMain": false,
+      "photoCount": 6,
+      "neededForMinimumSeven": 1
+    },
+    {
+      "id": "charminar__qutb_shahi_tombs",
+      "name": "Qutb Shahi Tombs",
+      "groupId": "charminar",
+      "isMain": false,
+      "photoCount": 7,
+      "neededForMinimumSeven": 0
+    },
+    {
+      "id": "victoria_memorial",
+      "name": "Victoria Memorial, Kolkata",
+      "groupId": "victoria_memorial",
+      "isMain": true,
+      "photoCount": 8,
+      "neededForMinimumSeven": 0
+    },
+    {
+      "id": "victoria_memorial__south_park_street_cemetery",
+      "name": "South Park Street Cemetery",
+      "groupId": "victoria_memorial",
+      "isMain": false,
+      "photoCount": 7,
+      "neededForMinimumSeven": 0
+    },
+    {
+      "id": "victoria_memorial__lascar_war_memorial",
+      "name": "Lascar War Memorial",
+      "groupId": "victoria_memorial",
+      "isMain": false,
+      "photoCount": 7,
+      "neededForMinimumSeven": 0
+    },
+    {
+      "id": "victoria_memorial__marble_palace",
+      "name": "Marble Palace",
+      "groupId": "victoria_memorial",
+      "isMain": false,
+      "photoCount": 3,
+      "neededForMinimumSeven": 4
+    },
+    {
+      "id": "victoria_memorial__nipponzan_myohoji_temple",
+      "name": "Nipponzan Myohoji Temple",
+      "groupId": "victoria_memorial",
+      "isMain": false,
+      "photoCount": 6,
+      "neededForMinimumSeven": 1
+    },
+    {
+      "id": "victoria_memorial__st_johns_church",
+      "name": "St. John's Church",
+      "groupId": "victoria_memorial",
+      "isMain": false,
+      "photoCount": 5,
+      "neededForMinimumSeven": 2
+    },
+    {
+      "id": "victoria_memorial__mullick_ghat_flower_market",
+      "name": "Mullick Ghat Flower Market",
+      "groupId": "victoria_memorial",
+      "isMain": false,
+      "photoCount": 6,
+      "neededForMinimumSeven": 1
+    },
+    {
+      "id": "victoria_memorial__prinsep_ghat",
+      "name": "Prinsep Ghat",
+      "groupId": "victoria_memorial",
+      "isMain": false,
+      "photoCount": 7,
+      "neededForMinimumSeven": 0
+    },
+    {
+      "id": "victoria_memorial__jorasanko_thakur_bari",
+      "name": "Jorasanko Thakur Bari",
+      "groupId": "victoria_memorial",
+      "isMain": false,
+      "photoCount": 6,
+      "neededForMinimumSeven": 1
+    },
+    {
+      "id": "victoria_memorial__armenian_church",
+      "name": "Armenian Church",
+      "groupId": "victoria_memorial",
+      "isMain": false,
+      "photoCount": 5,
+      "neededForMinimumSeven": 2
+    },
+    {
+      "id": "victoria_memorial__magen_david_synagogue",
+      "name": "Magen David Synagogue",
+      "groupId": "victoria_memorial",
+      "isMain": false,
+      "photoCount": 7,
+      "neededForMinimumSeven": 0
+    },
+    {
+      "id": "mysore_palace",
+      "name": "Mysore Palace, Mysuru",
+      "groupId": "mysore_palace",
+      "isMain": true,
+      "photoCount": 8,
+      "neededForMinimumSeven": 0
+    },
+    {
+      "id": "mysore_palace__jaganmohan_palace",
+      "name": "Jaganmohan Palace",
+      "groupId": "mysore_palace",
+      "isMain": false,
+      "photoCount": 3,
+      "neededForMinimumSeven": 4
+    },
+    {
+      "id": "mysore_palace__railway_museum_mysore",
+      "name": "Railway Museum Mysore",
+      "groupId": "mysore_palace",
+      "isMain": false,
+      "photoCount": 4,
+      "neededForMinimumSeven": 3
+    },
+    {
+      "id": "mysore_palace__kukkarahalli_lake",
+      "name": "Kukkarahalli Lake",
+      "groupId": "mysore_palace",
+      "isMain": false,
+      "photoCount": 1,
+      "neededForMinimumSeven": 6
+    },
+    {
+      "id": "mysore_palace__melody_world_wax_museum",
+      "name": "Melody World Wax Museum",
+      "groupId": "mysore_palace",
+      "isMain": false,
+      "photoCount": 4,
+      "neededForMinimumSeven": 3
+    },
+    {
+      "id": "mysore_palace__kishkindha_moolika_bonsai_garden",
+      "name": "Kishkindha Moolika Bonsai Garden",
+      "groupId": "mysore_palace",
+      "isMain": false,
+      "photoCount": 4,
+      "neededForMinimumSeven": 3
+    },
+    {
+      "id": "mysore_palace__st_philomenas_church_crypt",
+      "name": "St. Philomena's Church Crypt",
+      "groupId": "mysore_palace",
+      "isMain": false,
+      "photoCount": 8,
+      "neededForMinimumSeven": 0
+    },
+    {
+      "id": "mysore_palace__gun_house",
+      "name": "Gun House",
+      "groupId": "mysore_palace",
+      "isMain": false,
+      "photoCount": 1,
+      "neededForMinimumSeven": 6
+    },
+    {
+      "id": "mysore_palace__karanji_lake_aviary",
+      "name": "Karanji Lake Aviary",
+      "groupId": "mysore_palace",
+      "isMain": false,
+      "photoCount": 8,
+      "neededForMinimumSeven": 0
+    },
+    {
+      "id": "mysore_palace__wellington_lodge",
+      "name": "Wellington Lodge",
+      "groupId": "mysore_palace",
+      "isMain": false,
+      "photoCount": 4,
+      "neededForMinimumSeven": 3
+    },
+    {
+      "id": "mysore_palace__jayalakshmi_vilas_mansion",
+      "name": "Jayalakshmi Vilas Mansion",
+      "groupId": "mysore_palace",
+      "isMain": false,
+      "photoCount": 4,
+      "neededForMinimumSeven": 3
+    },
+    {
+      "id": "hampi_monuments",
+      "name": "Hampi Monuments, Karnataka",
+      "groupId": "hampi_monuments",
+      "isMain": true,
+      "photoCount": 8,
+      "neededForMinimumSeven": 0
+    },
+    {
+      "id": "hampi_monuments__hemakuta_hill_temples",
+      "name": "Hemakuta Hill Temples",
+      "groupId": "hampi_monuments",
+      "isMain": false,
+      "photoCount": 4,
+      "neededForMinimumSeven": 3
+    },
+    {
+      "id": "hampi_monuments__matanga_hill",
+      "name": "Matanga Hill",
+      "groupId": "hampi_monuments",
+      "isMain": false,
+      "photoCount": 4,
+      "neededForMinimumSeven": 3
+    },
+    {
+      "id": "hampi_monuments__achyutaraya_temple",
+      "name": "Achyutaraya Temple",
+      "groupId": "hampi_monuments",
+      "isMain": false,
+      "photoCount": 4,
+      "neededForMinimumSeven": 3
+    },
+    {
+      "id": "hampi_monuments__sugrivas_cave",
+      "name": "Sugriva's Cave",
+      "groupId": "hampi_monuments",
+      "isMain": false,
+      "photoCount": 2,
+      "neededForMinimumSeven": 5
+    },
+    {
+      "id": "hampi_monuments__zenana_enclosure",
+      "name": "Zenana Enclosure",
+      "groupId": "hampi_monuments",
+      "isMain": false,
+      "photoCount": 3,
+      "neededForMinimumSeven": 4
+    },
+    {
+      "id": "hampi_monuments__badavilinga_temple",
+      "name": "Badavilinga Temple",
+      "groupId": "hampi_monuments",
+      "isMain": false,
+      "photoCount": 4,
+      "neededForMinimumSeven": 3
+    },
+    {
+      "id": "hampi_monuments__sasivekalu_ganesha",
+      "name": "Sasivekalu Ganesha",
+      "groupId": "hampi_monuments",
+      "isMain": false,
+      "photoCount": 3,
+      "neededForMinimumSeven": 4
+    },
+    {
+      "id": "hampi_monuments__anegundi_village",
+      "name": "Anegundi Village",
+      "groupId": "hampi_monuments",
+      "isMain": false,
+      "photoCount": 3,
+      "neededForMinimumSeven": 4
+    },
+    {
+      "id": "hampi_monuments__sanapur_lake",
+      "name": "Sanapur Lake",
+      "groupId": "hampi_monuments",
+      "isMain": false,
+      "photoCount": 3,
+      "neededForMinimumSeven": 4
+    },
+    {
+      "id": "hampi_monuments__pampa_sarovar",
+      "name": "Pampa Sarovar",
+      "groupId": "hampi_monuments",
+      "isMain": false,
+      "photoCount": 4,
+      "neededForMinimumSeven": 3
+    },
+    {
+      "id": "meenakshi_temple",
+      "name": "Meenakshi Temple, Madurai",
+      "groupId": "meenakshi_temple",
+      "isMain": true,
+      "photoCount": 8,
+      "neededForMinimumSeven": 0
+    },
+    {
+      "id": "meenakshi_temple__thirumalai_nayakkar_mahal",
+      "name": "Thirumalai Nayakkar Mahal",
+      "groupId": "meenakshi_temple",
+      "isMain": false,
+      "photoCount": 3,
+      "neededForMinimumSeven": 4
+    },
+    {
+      "id": "meenakshi_temple__gandhi_memorial_museum",
+      "name": "Gandhi Memorial Museum",
+      "groupId": "meenakshi_temple",
+      "isMain": false,
+      "photoCount": 2,
+      "neededForMinimumSeven": 5
+    },
+    {
+      "id": "meenakshi_temple__vandiyur_mariamman_teppakulam",
+      "name": "Vandiyur Mariamman Teppakulam",
+      "groupId": "meenakshi_temple",
+      "isMain": false,
+      "photoCount": 3,
+      "neededForMinimumSeven": 4
+    },
+    {
+      "id": "meenakshi_temple__vilachery_pottery_village",
+      "name": "Vilachery Pottery Village",
+      "groupId": "meenakshi_temple",
+      "isMain": false,
+      "photoCount": 1,
+      "neededForMinimumSeven": 6
+    },
+    {
+      "id": "meenakshi_temple__goripalayam_dargah",
+      "name": "Goripalayam Dargah",
+      "groupId": "meenakshi_temple",
+      "isMain": false,
+      "photoCount": 3,
+      "neededForMinimumSeven": 4
+    },
+    {
+      "id": "meenakshi_temple__koodal_azhagar_temple",
+      "name": "Koodal Azhagar Temple",
+      "groupId": "meenakshi_temple",
+      "isMain": false,
+      "photoCount": 4,
+      "neededForMinimumSeven": 3
+    },
+    {
+      "id": "meenakshi_temple__palamuthirsolai_murugan_temple",
+      "name": "Palamuthirsolai Murugan Temple",
+      "groupId": "meenakshi_temple",
+      "isMain": false,
+      "photoCount": 3,
+      "neededForMinimumSeven": 4
+    },
+    {
+      "id": "meenakshi_temple__kazimar_big_mosque",
+      "name": "Kazimar Big Mosque",
+      "groupId": "meenakshi_temple",
+      "isMain": false,
+      "photoCount": 3,
+      "neededForMinimumSeven": 4
+    },
+    {
+      "id": "meenakshi_temple__yanaimalai",
+      "name": "Yanaimalai",
+      "groupId": "meenakshi_temple",
+      "isMain": false,
+      "photoCount": 5,
+      "neededForMinimumSeven": 2
+    },
+    {
+      "id": "meenakshi_temple__samanar_hills",
+      "name": "Samanar Hills",
+      "groupId": "meenakshi_temple",
+      "isMain": false,
+      "photoCount": 4,
+      "neededForMinimumSeven": 3
+    },
+    {
+      "id": "golden_temple",
+      "name": "Golden Temple, Amritsar",
+      "groupId": "golden_temple",
+      "isMain": true,
+      "photoCount": 8,
+      "neededForMinimumSeven": 0
+    },
+    {
+      "id": "golden_temple__pul_kanjri",
+      "name": "Pul Kanjri",
+      "groupId": "golden_temple",
+      "isMain": false,
+      "photoCount": 1,
+      "neededForMinimumSeven": 6
+    },
+    {
+      "id": "golden_temple__gurdwara_baba_atal_rai",
+      "name": "Gurdwara Baba Atal Rai",
+      "groupId": "golden_temple",
+      "isMain": false,
+      "photoCount": 3,
+      "neededForMinimumSeven": 4
+    },
+    {
+      "id": "golden_temple__khalsa_college",
+      "name": "Khalsa College",
+      "groupId": "golden_temple",
+      "isMain": false,
+      "photoCount": 3,
+      "neededForMinimumSeven": 4
+    },
+    {
+      "id": "golden_temple__ram_bagh_palace",
+      "name": "Ram Bagh Palace",
+      "groupId": "golden_temple",
+      "isMain": false,
+      "photoCount": 3,
+      "neededForMinimumSeven": 4
+    },
+    {
+      "id": "golden_temple__gobindgarh_fort",
+      "name": "Gobindgarh Fort",
+      "groupId": "golden_temple",
+      "isMain": false,
+      "photoCount": 5,
+      "neededForMinimumSeven": 2
+    },
+    {
+      "id": "golden_temple__partition_museum",
+      "name": "Partition Museum",
+      "groupId": "golden_temple",
+      "isMain": false,
+      "photoCount": 3,
+      "neededForMinimumSeven": 4
+    },
+    {
+      "id": "golden_temple__gurdwara_mata_kaulan",
+      "name": "Gurdwara Mata Kaulan",
+      "groupId": "golden_temple",
+      "isMain": false,
+      "photoCount": 3,
+      "neededForMinimumSeven": 4
+    },
+    {
+      "id": "golden_temple__durgiana_temple",
+      "name": "Durgiana Temple",
+      "groupId": "golden_temple",
+      "isMain": false,
+      "photoCount": 5,
+      "neededForMinimumSeven": 2
+    },
+    {
+      "id": "golden_temple__harike_wetland",
+      "name": "Harike Wetland",
+      "groupId": "golden_temple",
+      "isMain": false,
+      "photoCount": 1,
+      "neededForMinimumSeven": 6
+    },
+    {
+      "id": "golden_temple__saragarhi_memorial",
+      "name": "Saragarhi Memorial",
+      "groupId": "golden_temple",
+      "isMain": false,
+      "photoCount": 5,
+      "neededForMinimumSeven": 2
+    },
+    {
+      "id": "khajuraho_monuments",
+      "name": "Khajuraho Monuments, Madhya Pradesh",
+      "groupId": "khajuraho_monuments",
+      "isMain": true,
+      "photoCount": 8,
+      "neededForMinimumSeven": 0
+    },
+    {
+      "id": "khajuraho_monuments__raneh_falls",
+      "name": "Raneh Falls",
+      "groupId": "khajuraho_monuments",
+      "isMain": false,
+      "photoCount": 3,
+      "neededForMinimumSeven": 4
+    },
+    {
+      "id": "khajuraho_monuments__pandav_falls",
+      "name": "Pandav Falls",
+      "groupId": "khajuraho_monuments",
+      "isMain": false,
+      "photoCount": 3,
+      "neededForMinimumSeven": 4
+    },
+    {
+      "id": "khajuraho_monuments__ken_gharial_sanctuary",
+      "name": "Ken Gharial Sanctuary",
+      "groupId": "khajuraho_monuments",
+      "isMain": false,
+      "photoCount": 2,
+      "neededForMinimumSeven": 5
+    },
+    {
+      "id": "khajuraho_monuments__matangeshwar_temple",
+      "name": "Matangeshwar Temple",
+      "groupId": "khajuraho_monuments",
+      "isMain": false,
+      "photoCount": 1,
+      "neededForMinimumSeven": 6
+    },
+    {
+      "id": "khajuraho_monuments__ajaigarh_fort",
+      "name": "Ajaigarh Fort",
+      "groupId": "khajuraho_monuments",
+      "isMain": false,
+      "photoCount": 4,
+      "neededForMinimumSeven": 3
+    },
+    {
+      "id": "khajuraho_monuments__kalinjar_fort",
+      "name": "Kalinjar Fort",
+      "groupId": "khajuraho_monuments",
+      "isMain": false,
+      "photoCount": 5,
+      "neededForMinimumSeven": 2
+    },
+    {
+      "id": "khajuraho_monuments__jain_museum",
+      "name": "Jain Museum",
+      "groupId": "khajuraho_monuments",
+      "isMain": false,
+      "photoCount": 1,
+      "neededForMinimumSeven": 6
+    },
+    {
+      "id": "khajuraho_monuments__duladeo_temple",
+      "name": "Duladeo Temple",
+      "groupId": "khajuraho_monuments",
+      "isMain": false,
+      "photoCount": 4,
+      "neededForMinimumSeven": 3
+    },
+    {
+      "id": "khajuraho_monuments__chaturbhuj_temple",
+      "name": "Chaturbhuj Temple",
+      "groupId": "khajuraho_monuments",
+      "isMain": false,
+      "photoCount": 4,
+      "neededForMinimumSeven": 3
+    },
+    {
+      "id": "khajuraho_monuments__beni_sagar_dam",
+      "name": "Beni Sagar Dam",
+      "groupId": "khajuraho_monuments",
+      "isMain": false,
+      "photoCount": 1,
+      "neededForMinimumSeven": 6
+    },
+    {
+      "id": "ajanta_ellora_caves",
+      "name": "Ajanta & Ellora Caves, Maharashtra",
+      "groupId": "ajanta_ellora_caves",
+      "isMain": true,
+      "photoCount": 8,
+      "neededForMinimumSeven": 0
+    },
+    {
+      "id": "ajanta_ellora_caves__daulatabad_fort",
+      "name": "Daulatabad Fort",
+      "groupId": "ajanta_ellora_caves",
+      "isMain": false,
+      "photoCount": 5,
+      "neededForMinimumSeven": 2
+    },
+    {
+      "id": "ajanta_ellora_caves__bibi_ka_maqbara",
+      "name": "Bibi Ka Maqbara",
+      "groupId": "ajanta_ellora_caves",
+      "isMain": false,
+      "photoCount": 5,
+      "neededForMinimumSeven": 2
+    },
+    {
+      "id": "ajanta_ellora_caves__khuldabad",
+      "name": "Khuldabad",
+      "groupId": "ajanta_ellora_caves",
+      "isMain": false,
+      "photoCount": 5,
+      "neededForMinimumSeven": 2
+    },
+    {
+      "id": "ajanta_ellora_caves__grishneshwar_jyotirlinga",
+      "name": "Grishneshwar Jyotirlinga",
+      "groupId": "ajanta_ellora_caves",
+      "isMain": false,
+      "photoCount": 4,
+      "neededForMinimumSeven": 3
+    },
+    {
+      "id": "ajanta_ellora_caves__siddharth_garden",
+      "name": "Siddharth Garden",
+      "groupId": "ajanta_ellora_caves",
+      "isMain": false,
+      "photoCount": 2,
+      "neededForMinimumSeven": 5
+    },
+    {
+      "id": "ajanta_ellora_caves__salim_ali_lake",
+      "name": "Salim Ali Lake",
+      "groupId": "ajanta_ellora_caves",
+      "isMain": false,
+      "photoCount": 1,
+      "neededForMinimumSeven": 6
+    },
+    {
+      "id": "ajanta_ellora_caves__panchakki",
+      "name": "Panchakki",
+      "groupId": "ajanta_ellora_caves",
+      "isMain": false,
+      "photoCount": 3,
+      "neededForMinimumSeven": 4
+    },
+    {
+      "id": "ajanta_ellora_caves__jama_masjid_aurangabad",
+      "name": "Jama Masjid Aurangabad",
+      "groupId": "ajanta_ellora_caves",
+      "isMain": false,
+      "photoCount": 1,
+      "neededForMinimumSeven": 6
+    },
+    {
+      "id": "ajanta_ellora_caves__soneri_mahal",
+      "name": "Soneri Mahal",
+      "groupId": "ajanta_ellora_caves",
+      "isMain": false,
+      "photoCount": 4,
+      "neededForMinimumSeven": 3
+    },
+    {
+      "id": "ajanta_ellora_caves__bhadra_maruti_temple",
+      "name": "Bhadra Maruti Temple",
+      "groupId": "ajanta_ellora_caves",
+      "isMain": false,
+      "photoCount": 2,
+      "neededForMinimumSeven": 5
+    },
+    {
+      "id": "konark_sun_temple",
+      "name": "Konark Sun Temple, Odisha",
+      "groupId": "konark_sun_temple",
+      "isMain": true,
+      "photoCount": 8,
+      "neededForMinimumSeven": 0
+    },
+    {
+      "id": "konark_sun_temple__kuruma_buddhist_site",
+      "name": "Kuruma Buddhist Site",
+      "groupId": "konark_sun_temple",
+      "isMain": false,
+      "photoCount": 1,
+      "neededForMinimumSeven": 6
+    },
+    {
+      "id": "konark_sun_temple__ramachandi_temple",
+      "name": "Ramachandi Temple",
+      "groupId": "konark_sun_temple",
+      "isMain": false,
+      "photoCount": 4,
+      "neededForMinimumSeven": 3
+    },
+    {
+      "id": "konark_sun_temple__chandrabhaga_beach",
+      "name": "Chandrabhaga Beach",
+      "groupId": "konark_sun_temple",
+      "isMain": false,
+      "photoCount": 3,
+      "neededForMinimumSeven": 4
+    },
+    {
+      "id": "konark_sun_temple__astaranga_beach",
+      "name": "Astaranga Beach",
+      "groupId": "konark_sun_temple",
+      "isMain": false,
+      "photoCount": 1,
+      "neededForMinimumSeven": 6
+    },
+    {
+      "id": "konark_sun_temple__barahi_temple_chaurasi",
+      "name": "Barahi Temple (Chaurasi)",
+      "groupId": "konark_sun_temple",
+      "isMain": false,
+      "photoCount": 1,
+      "neededForMinimumSeven": 6
+    },
+    {
+      "id": "konark_sun_temple__pipili_village",
+      "name": "Pipili Village",
+      "groupId": "konark_sun_temple",
+      "isMain": false,
+      "photoCount": 3,
+      "neededForMinimumSeven": 4
+    },
+    {
+      "id": "konark_sun_temple__dhauli_shanti_stupa",
+      "name": "Dhauli Shanti Stupa",
+      "groupId": "konark_sun_temple",
+      "isMain": false,
+      "photoCount": 4,
+      "neededForMinimumSeven": 3
+    },
+    {
+      "id": "konark_sun_temple__chausathi_yogini_temple",
+      "name": "Chausathi Yogini Temple",
+      "groupId": "konark_sun_temple",
+      "isMain": false,
+      "photoCount": 4,
+      "neededForMinimumSeven": 3
+    },
+    {
+      "id": "konark_sun_temple__mangalajodi_chilika",
+      "name": "Mangalajodi (Chilika)",
+      "groupId": "konark_sun_temple",
+      "isMain": false,
+      "photoCount": 4,
+      "neededForMinimumSeven": 3
+    },
+    {
+      "id": "konark_sun_temple__raghurajpur_artist_village",
+      "name": "Raghurajpur Artist Village",
+      "groupId": "konark_sun_temple",
+      "isMain": false,
+      "photoCount": 5,
+      "neededForMinimumSeven": 2
+    },
+    {
+      "id": "sanchi_stupa",
+      "name": "Sanchi Stupa, Madhya Pradesh",
+      "groupId": "sanchi_stupa",
+      "isMain": true,
+      "photoCount": 8,
+      "neededForMinimumSeven": 0
+    },
+    {
+      "id": "sanchi_stupa__udayagiri_caves",
+      "name": "Udayagiri Caves",
+      "groupId": "sanchi_stupa",
+      "isMain": false,
+      "photoCount": 5,
+      "neededForMinimumSeven": 2
+    },
+    {
+      "id": "sanchi_stupa__heliodorus_pillar",
+      "name": "Heliodorus Pillar",
+      "groupId": "sanchi_stupa",
+      "isMain": false,
+      "photoCount": 3,
+      "neededForMinimumSeven": 4
+    },
+    {
+      "id": "sanchi_stupa__bijamandal",
+      "name": "Bijamandal",
+      "groupId": "sanchi_stupa",
+      "isMain": false,
+      "photoCount": 5,
+      "neededForMinimumSeven": 2
+    },
+    {
+      "id": "sanchi_stupa__raisen_fort",
+      "name": "Raisen Fort",
+      "groupId": "sanchi_stupa",
+      "isMain": false,
+      "photoCount": 5,
+      "neededForMinimumSeven": 2
+    },
+    {
+      "id": "sanchi_stupa__sonari_stupas",
+      "name": "Sonari Stupas",
+      "groupId": "sanchi_stupa",
+      "isMain": false,
+      "photoCount": 4,
+      "neededForMinimumSeven": 3
+    },
+    {
+      "id": "sanchi_stupa__satdhara_stupas",
+      "name": "Satdhara Stupas",
+      "groupId": "sanchi_stupa",
+      "isMain": false,
+      "photoCount": 2,
+      "neededForMinimumSeven": 5
+    },
+    {
+      "id": "sanchi_stupa__bhojpur_temple",
+      "name": "Bhojpur Temple",
+      "groupId": "sanchi_stupa",
+      "isMain": false,
+      "photoCount": 5,
+      "neededForMinimumSeven": 2
+    },
+    {
+      "id": "sanchi_stupa__andher_stupas",
+      "name": "Andher Stupas",
+      "groupId": "sanchi_stupa",
+      "isMain": false,
+      "photoCount": 1,
+      "neededForMinimumSeven": 6
+    },
+    {
+      "id": "sanchi_stupa__halali_dam",
+      "name": "Halali Dam",
+      "groupId": "sanchi_stupa",
+      "isMain": false,
+      "photoCount": 2,
+      "neededForMinimumSeven": 5
+    },
+    {
+      "id": "sanchi_stupa__neelkantheshwar_temple",
+      "name": "Neelkantheshwar Temple",
+      "groupId": "sanchi_stupa",
+      "isMain": false,
+      "photoCount": 1,
+      "neededForMinimumSeven": 6
+    },
+    {
+      "id": "city_palace_udaipur",
+      "name": "City Palace, Udaipur",
+      "groupId": "city_palace_udaipur",
+      "isMain": true,
+      "photoCount": 8,
+      "neededForMinimumSeven": 0
+    },
+    {
+      "id": "city_palace_udaipur__ahar_cenotaphs",
+      "name": "Ahar Cenotaphs",
+      "groupId": "city_palace_udaipur",
+      "isMain": false,
+      "photoCount": 6,
+      "neededForMinimumSeven": 1
+    },
+    {
+      "id": "city_palace_udaipur__sajjangarh_monsoon_palace",
+      "name": "Sajjangarh (Monsoon Palace)",
+      "groupId": "city_palace_udaipur",
+      "isMain": false,
+      "photoCount": 4,
+      "neededForMinimumSeven": 3
+    },
+    {
+      "id": "city_palace_udaipur__badi_lake",
+      "name": "Badi Lake",
+      "groupId": "city_palace_udaipur",
+      "isMain": false,
+      "photoCount": 1,
+      "neededForMinimumSeven": 6
+    },
+    {
+      "id": "city_palace_udaipur__saheliyon_ki_bari",
+      "name": "Saheliyon Ki Bari",
+      "groupId": "city_palace_udaipur",
+      "isMain": false,
+      "photoCount": 5,
+      "neededForMinimumSeven": 2
+    },
+    {
+      "id": "city_palace_udaipur__bagore_ki_haveli",
+      "name": "Bagore Ki Haveli",
+      "groupId": "city_palace_udaipur",
+      "isMain": false,
+      "photoCount": 5,
+      "neededForMinimumSeven": 2
+    },
+    {
+      "id": "city_palace_udaipur__shilpgram",
+      "name": "Shilpgram",
+      "groupId": "city_palace_udaipur",
+      "isMain": false,
+      "photoCount": 5,
+      "neededForMinimumSeven": 2
+    },
+    {
+      "id": "city_palace_udaipur__karni_mata_temple",
+      "name": "Karni Mata Temple",
+      "groupId": "city_palace_udaipur",
+      "isMain": false,
+      "photoCount": 3,
+      "neededForMinimumSeven": 4
+    },
+    {
+      "id": "city_palace_udaipur__ambrai_ghat",
+      "name": "Ambrai Ghat",
+      "groupId": "city_palace_udaipur",
+      "isMain": false,
+      "photoCount": 3,
+      "neededForMinimumSeven": 4
+    },
+    {
+      "id": "city_palace_udaipur__vintage_car_museum",
+      "name": "Vintage Car Museum",
+      "groupId": "city_palace_udaipur",
+      "isMain": false,
+      "photoCount": 3,
+      "neededForMinimumSeven": 4
+    },
+    {
+      "id": "city_palace_udaipur__eklingji_temple",
+      "name": "Eklingji Temple",
+      "groupId": "city_palace_udaipur",
+      "isMain": false,
+      "photoCount": 1,
+      "neededForMinimumSeven": 6
+    },
+    {
+      "id": "mahabalipuram",
+      "name": "Mahabalipuram, Tamil Nadu",
+      "groupId": "mahabalipuram",
+      "isMain": true,
+      "photoCount": 8,
+      "neededForMinimumSeven": 0
+    },
+    {
+      "id": "mahabalipuram__tiger_cave",
+      "name": "Tiger Cave",
+      "groupId": "mahabalipuram",
+      "isMain": false,
+      "photoCount": 3,
+      "neededForMinimumSeven": 4
+    },
+    {
+      "id": "mahabalipuram__sadras_dutch_fort",
+      "name": "Sadras Dutch Fort",
+      "groupId": "mahabalipuram",
+      "isMain": false,
+      "photoCount": 2,
+      "neededForMinimumSeven": 5
+    },
+    {
+      "id": "mahabalipuram__nithyakalyana_perumal_temple",
+      "name": "Nithyakalyana Perumal Temple",
+      "groupId": "mahabalipuram",
+      "isMain": false,
+      "photoCount": 2,
+      "neededForMinimumSeven": 5
+    },
+    {
+      "id": "mahabalipuram__alamparai_fort",
+      "name": "Alamparai Fort",
+      "groupId": "mahabalipuram",
+      "isMain": false,
+      "photoCount": 4,
+      "neededForMinimumSeven": 3
+    },
+    {
+      "id": "mahabalipuram__cholamandal_artists_village",
+      "name": "Cholamandal Artists' Village",
+      "groupId": "mahabalipuram",
+      "isMain": false,
+      "photoCount": 6,
+      "neededForMinimumSeven": 1
+    },
+    {
+      "id": "mahabalipuram__dakshinachitra",
+      "name": "DakshinaChitra",
+      "groupId": "mahabalipuram",
+      "isMain": false,
+      "photoCount": 6,
+      "neededForMinimumSeven": 1
+    },
+    {
+      "id": "mahabalipuram__muttukadu_backwaters",
+      "name": "Muttukadu Backwaters",
+      "groupId": "mahabalipuram",
+      "isMain": false,
+      "photoCount": 6,
+      "neededForMinimumSeven": 1
+    },
+    {
+      "id": "mahabalipuram__vedanthangal_bird_sanctuary",
+      "name": "Vedanthangal Bird Sanctuary",
+      "groupId": "mahabalipuram",
+      "isMain": false,
+      "photoCount": 6,
+      "neededForMinimumSeven": 1
+    },
+    {
+      "id": "mahabalipuram__sri_thiruvidandhai",
+      "name": "Sri Thiruvidandhai",
+      "groupId": "mahabalipuram",
+      "isMain": false,
+      "photoCount": 1,
+      "neededForMinimumSeven": 6
+    },
+    {
+      "id": "mahabalipuram__poonjeri_village",
+      "name": "Poonjeri Village",
+      "groupId": "mahabalipuram",
+      "isMain": false,
+      "photoCount": 8,
+      "neededForMinimumSeven": 0
+    },
+    {
+      "id": "jaisalmer_fort",
+      "name": "Jaisalmer Fort, Rajasthan",
+      "groupId": "jaisalmer_fort",
+      "isMain": true,
+      "photoCount": 8,
+      "neededForMinimumSeven": 0
+    },
+    {
+      "id": "jaisalmer_fort__kuldhara_village",
+      "name": "Kuldhara Village",
+      "groupId": "jaisalmer_fort",
+      "isMain": false,
+      "photoCount": 3,
+      "neededForMinimumSeven": 4
+    },
+    {
+      "id": "jaisalmer_fort__bada_bagh",
+      "name": "Bada Bagh",
+      "groupId": "jaisalmer_fort",
+      "isMain": false,
+      "photoCount": 4,
+      "neededForMinimumSeven": 3
+    },
+    {
+      "id": "jaisalmer_fort__khaba_fort",
+      "name": "Khaba Fort",
+      "groupId": "jaisalmer_fort",
+      "isMain": false,
+      "photoCount": 2,
+      "neededForMinimumSeven": 5
+    },
+    {
+      "id": "jaisalmer_fort__lodhruva_jain_temples",
+      "name": "Lodhruva Jain Temples",
+      "groupId": "jaisalmer_fort",
+      "isMain": false,
+      "photoCount": 6,
+      "neededForMinimumSeven": 1
+    },
+    {
+      "id": "jaisalmer_fort__vyas_chhatri",
+      "name": "Vyas Chhatri",
+      "groupId": "jaisalmer_fort",
+      "isMain": false,
+      "photoCount": 2,
+      "neededForMinimumSeven": 5
+    },
+    {
+      "id": "jaisalmer_fort__desert_national_park",
+      "name": "Desert National Park",
+      "groupId": "jaisalmer_fort",
+      "isMain": false,
+      "photoCount": 4,
+      "neededForMinimumSeven": 3
+    },
+    {
+      "id": "jaisalmer_fort__tanot_mata_temple",
+      "name": "Tanot Mata Temple",
+      "groupId": "jaisalmer_fort",
+      "isMain": false,
+      "photoCount": 1,
+      "neededForMinimumSeven": 6
+    },
+    {
+      "id": "jaisalmer_fort__akal_wood_fossil_park",
+      "name": "Akal Wood Fossil Park",
+      "groupId": "jaisalmer_fort",
+      "isMain": false,
+      "photoCount": 1,
+      "neededForMinimumSeven": 6
+    },
+    {
+      "id": "jaisalmer_fort__amar_sagar_jain_temple",
+      "name": "Amar Sagar Jain Temple",
+      "groupId": "jaisalmer_fort",
+      "isMain": false,
+      "photoCount": 5,
+      "neededForMinimumSeven": 2
+    },
+    {
+      "id": "jaisalmer_fort__nathmal_ji_ki_haveli",
+      "name": "Nathmal Ji Ki Haveli",
+      "groupId": "jaisalmer_fort",
+      "isMain": false,
+      "photoCount": 6,
+      "neededForMinimumSeven": 1
+    },
+    {
+      "id": "mehrangarh_fort",
+      "name": "Mehrangarh Fort, Jodhpur",
+      "groupId": "mehrangarh_fort",
+      "isMain": true,
+      "photoCount": 8,
+      "neededForMinimumSeven": 0
+    },
+    {
+      "id": "mehrangarh_fort__rao_jodha_desert_rock_park",
+      "name": "Rao Jodha Desert Rock Park",
+      "groupId": "mehrangarh_fort",
+      "isMain": false,
+      "photoCount": 6,
+      "neededForMinimumSeven": 1
+    },
+    {
+      "id": "mehrangarh_fort__jaswant_thada",
+      "name": "Jaswant Thada",
+      "groupId": "mehrangarh_fort",
+      "isMain": false,
+      "photoCount": 6,
+      "neededForMinimumSeven": 1
+    },
+    {
+      "id": "mehrangarh_fort__toorji_ka_jhalra",
+      "name": "Toorji Ka Jhalra",
+      "groupId": "mehrangarh_fort",
+      "isMain": false,
+      "photoCount": 6,
+      "neededForMinimumSeven": 1
+    },
+    {
+      "id": "mehrangarh_fort__mandore_gardens",
+      "name": "Mandore Gardens",
+      "groupId": "mehrangarh_fort",
+      "isMain": false,
+      "photoCount": 4,
+      "neededForMinimumSeven": 3
+    },
+    {
+      "id": "mehrangarh_fort__balsamand_lake",
+      "name": "Balsamand Lake",
+      "groupId": "mehrangarh_fort",
+      "isMain": false,
+      "photoCount": 1,
+      "neededForMinimumSeven": 6
+    },
+    {
+      "id": "mehrangarh_fort__mahamandir_temple",
+      "name": "Mahamandir Temple",
+      "groupId": "mehrangarh_fort",
+      "isMain": false,
+      "photoCount": 2,
+      "neededForMinimumSeven": 5
+    },
+    {
+      "id": "mehrangarh_fort__osian_temples",
+      "name": "Osian Temples",
+      "groupId": "mehrangarh_fort",
+      "isMain": false,
+      "photoCount": 6,
+      "neededForMinimumSeven": 1
+    },
+    {
+      "id": "mehrangarh_fort__machia_biological_park",
+      "name": "Machia Biological Park",
+      "groupId": "mehrangarh_fort",
+      "isMain": false,
+      "photoCount": 1,
+      "neededForMinimumSeven": 6
+    },
+    {
+      "id": "mehrangarh_fort__singhasni_village",
+      "name": "Singhasni Village",
+      "groupId": "mehrangarh_fort",
+      "isMain": false,
+      "photoCount": 2,
+      "neededForMinimumSeven": 5
+    },
+    {
+      "id": "mehrangarh_fort__navchowkiya",
+      "name": "Navchowkiya",
+      "groupId": "mehrangarh_fort",
+      "isMain": false,
+      "photoCount": 8,
+      "neededForMinimumSeven": 0
+    },
+    {
+      "id": "badami_cave_temples",
+      "name": "Badami Cave Temples, Karnataka",
+      "groupId": "badami_cave_temples",
+      "isMain": true,
+      "photoCount": 8,
+      "neededForMinimumSeven": 0
+    },
+    {
+      "id": "badami_cave_temples__bhutanatha_group_of_temples",
+      "name": "Bhutanatha Group of Temples",
+      "groupId": "badami_cave_temples",
+      "isMain": false,
+      "photoCount": 6,
+      "neededForMinimumSeven": 1
+    },
+    {
+      "id": "badami_cave_temples__agastya_lake",
+      "name": "Agastya Lake",
+      "groupId": "badami_cave_temples",
+      "isMain": false,
+      "photoCount": 5,
+      "neededForMinimumSeven": 2
+    },
+    {
+      "id": "badami_cave_temples__badami_fort",
+      "name": "Badami Fort",
+      "groupId": "badami_cave_temples",
+      "isMain": false,
+      "photoCount": 5,
+      "neededForMinimumSeven": 2
+    },
+    {
+      "id": "badami_cave_temples__mahakuta_group_of_temples",
+      "name": "Mahakuta Group of Temples",
+      "groupId": "badami_cave_temples",
+      "isMain": false,
+      "photoCount": 5,
+      "neededForMinimumSeven": 2
+    },
+    {
+      "id": "badami_cave_temples__pattadakal_monuments",
+      "name": "Pattadakal Monuments",
+      "groupId": "badami_cave_temples",
+      "isMain": false,
+      "photoCount": 5,
+      "neededForMinimumSeven": 2
+    },
+    {
+      "id": "badami_cave_temples__aihole_durga_temple",
+      "name": "Aihole (Durga Temple)",
+      "groupId": "badami_cave_temples",
+      "isMain": false,
+      "photoCount": 4,
+      "neededForMinimumSeven": 3
+    },
+    {
+      "id": "badami_cave_temples__banashankari_amma_temple",
+      "name": "Banashankari Amma Temple",
+      "groupId": "badami_cave_temples",
+      "isMain": false,
+      "photoCount": 8,
+      "neededForMinimumSeven": 0
+    },
+    {
+      "id": "badami_cave_temples__ravan_phadi_cave",
+      "name": "Ravan Phadi Cave",
+      "groupId": "badami_cave_temples",
+      "isMain": false,
+      "photoCount": 4,
+      "neededForMinimumSeven": 3
+    },
+    {
+      "id": "badami_cave_temples__lad_khan_temple",
+      "name": "Lad Khan Temple",
+      "groupId": "badami_cave_temples",
+      "isMain": false,
+      "photoCount": 4,
+      "neededForMinimumSeven": 3
+    },
+    {
+      "id": "badami_cave_temples__galaganatha_temples",
+      "name": "Galaganatha Temples",
+      "groupId": "badami_cave_temples",
+      "isMain": false,
+      "photoCount": 8,
+      "neededForMinimumSeven": 0
+    }
+  ]
+}

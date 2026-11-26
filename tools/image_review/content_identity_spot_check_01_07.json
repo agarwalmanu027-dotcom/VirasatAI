@@ -1,0 +1,29 @@
+{
+  "checked_date": "2026-10-08",
+  "scope": "Independent online spot checks for three commonly confused place identities. Existing narrative files were left unchanged because the checked claims agree with the official sources.",
+  "checks": [
+    {
+      "place_id": "taj_mahal__bateshwar_temples",
+      "result": "pass",
+      "source_url": "https://agra.nic.in/festivals/",
+      "confirmed": "The Agra District Administration describes Bateshwar as a Yamuna pilgrimage town with an annual religious and livestock fair. The script correctly uses Agra/Yamuna, not Morena. Exact temple count remains omitted because official pages differ."
+    },
+    {
+      "place_id": "red_fort__sunehri_masjid",
+      "result": "pass",
+      "source_url": "https://censusindia.gov.in/nada/index.php/catalog/912/download/36516/DH_2011_0700_PART_A_DCHB_NCT_OF_DELHI.pdf",
+      "source_locator": "District Census Handbook historical-place description, printed page 274; retrieved through indexed source text because direct PDF extraction failed.",
+      "confirmed": "The census handbook identifies this mosque outside the Red Fort Delhi Gate, dates it to 1751, associates it with Qudsia Begum, and describes three domes and two minarets. The script agrees."
+    },
+    {
+      "place_id": "amer_fort__sagar_lake",
+      "result": "pass",
+      "source_urls": [
+        "https://utsav.gov.in/view-event/world-tourism-day-2024-cleanliness-drive",
+        "https://forest.rajasthan.gov.in/content/dam/raj/forest/ForestDepartment/PDFs/Department%20Wing/Wildlife/Sanction-Zonal-Master-Plan/Zonal%20Master%20Plan%20for%20Eco-Sensitive%20Zone%20of%20Nahargarh%20WLS.pdf"
+      ],
+      "source_locator": "Ministry of Tourism event identity; Nahargarh Eco-sensitive Zone master plan section 2.5.1, printed page 39, retrieved through indexed source text.",
+      "confirmed": "The tourism event places Sagar Kund behind Amer Fort. The Rajasthan government plan separately identifies Sagar, Maota and Man Sagar, and describes Sagar's historic water-supply role for Amer and adjoining forts. The script keeps these identities separate and avoids claiming current operation."
+    }
+  ]
+}

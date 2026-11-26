@@ -1,0 +1,14 @@
+VIRASATAI — BASIC INFORMATION
+Name: City Palace, Udaipur
+Entry ID: city_palace_udaipur
+Location: Udaipur, Rajasthan, India, beside Lake Pichola
+Type: Historic palace complex and museum
+Identity note: User-selected site identity verified against the sources below.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. The palace complex developed under successive rulers of Mewar. [1]
+2. The City Palace Museum opened to the public in 1969. [1]
+3. The museum includes the Mardana Mahal and Zenana Mahal. [1]
+4. Collections include paintings, sculpture and silver. [2]
+
+Sources: See city_palace_udaipur_sources.txt. The parent association is the user's selection, not a verified proximity claim.

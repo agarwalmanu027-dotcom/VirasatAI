@@ -1,0 +1,41 @@
+{
+  "place_id": "red_fort__zeenat_ul_masajid",
+  "display_name": "Zeenat-ul-Masajid",
+  "checked_on": "2026-10-07",
+  "source": "Wikimedia Commons",
+  "images": [
+    {
+      "title": "File:Zeenat ul Masjid, Darya Ganj.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Zeenat_ul_Masjid,_Darya_Ganj.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Zeenat_ul_Masjid%2C_Darya_Ganj.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_width": 3024,
+      "original_height": 4032,
+      "mime": "image/jpeg",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Zuck28",
+      "credit": "Own work",
+      "attribution": "",
+      "description": "Entry Gate of Ghata Masjid, Darya Ganj",
+      "date_time_original": "2024-02-11",
+      "sha1": "de67c2d706d1eebd9ed762d586d48cfa47c43615",
+      "commons_assessment": "",
+      "copyrighted": "True",
+      "usage_terms": "Creative Commons Zero, Public Domain Dedication",
+      "color_score": 22.2,
+      "sharpness_score": 1903.97,
+      "dhash": "e0dec627077962e6",
+      "candidate_id": 1,
+      "local_path": "02_Images/Red_Fort/Nearby_Heritage/Zeenat_ul_Masajid/Details/zeenat_ul_masajid_details_01.jpg",
+      "sha256": "b39099643059b5b76a8f796ef5185bcde4801db95446161f4b7d993ccd2f4736",
+      "visual_review_status": "visually_reviewed",
+      "downloaded_width": 1920,
+      "downloaded_height": 2560,
+      "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Zeenat_ul_Masjid%2C_Darya_Ganj.jpg/1920px-Zeenat_ul_Masjid%2C_Darya_Ganj.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "download_kind": "commons_standard_high_resolution",
+      "review_note": "Relevant subject and acceptable clarity checked in contact sheet; original resolution verified."
+    }
+  ],
+  "download_errors": [],
+  "coverage_note": "Correct Delhi mosque entrance and minaret view only; full facade coverage limited."
+}

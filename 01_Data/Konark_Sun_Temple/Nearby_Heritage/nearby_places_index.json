@@ -1,0 +1,180 @@
+{
+  "parent_monument_id": "konark_sun_temple",
+  "parent_monument_name": "Konark Sun Temple, Odisha",
+  "selection_source": "User-supplied table",
+  "nearby_entry_count": 10,
+  "places": [
+    {
+      "id": "konark_sun_temple__kuruma_buddhist_site",
+      "order": 1,
+      "display_name": "Kuruma Buddhist Site",
+      "folder_name": "Kuruma_Buddhist_Site",
+      "parent_monument_id": "konark_sun_temple",
+      "paths": {
+        "data": "01_Data/Konark_Sun_Temple/Nearby_Heritage/Kuruma_Buddhist_Site",
+        "images": "02_Images/Konark_Sun_Temple/Nearby_Heritage/Kuruma_Buddhist_Site",
+        "scripts": "03_Scripts/Konark_Sun_Temple/Nearby_Heritage/Kuruma_Buddhist_Site",
+        "audio": "04_Audio/Konark_Sun_Temple/Nearby_Heritage/Kuruma_Buddhist_Site"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "konark_sun_temple__ramachandi_temple",
+      "order": 2,
+      "display_name": "Ramachandi Temple",
+      "folder_name": "Ramachandi_Temple",
+      "parent_monument_id": "konark_sun_temple",
+      "paths": {
+        "data": "01_Data/Konark_Sun_Temple/Nearby_Heritage/Ramachandi_Temple",
+        "images": "02_Images/Konark_Sun_Temple/Nearby_Heritage/Ramachandi_Temple",
+        "scripts": "03_Scripts/Konark_Sun_Temple/Nearby_Heritage/Ramachandi_Temple",
+        "audio": "04_Audio/Konark_Sun_Temple/Nearby_Heritage/Ramachandi_Temple"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "konark_sun_temple__chandrabhaga_beach",
+      "order": 3,
+      "display_name": "Chandrabhaga Beach",
+      "folder_name": "Chandrabhaga_Beach",
+      "parent_monument_id": "konark_sun_temple",
+      "paths": {
+        "data": "01_Data/Konark_Sun_Temple/Nearby_Heritage/Chandrabhaga_Beach",
+        "images": "02_Images/Konark_Sun_Temple/Nearby_Heritage/Chandrabhaga_Beach",
+        "scripts": "03_Scripts/Konark_Sun_Temple/Nearby_Heritage/Chandrabhaga_Beach",
+        "audio": "04_Audio/Konark_Sun_Temple/Nearby_Heritage/Chandrabhaga_Beach"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "konark_sun_temple__astaranga_beach",
+      "order": 4,
+      "display_name": "Astaranga Beach",
+      "folder_name": "Astaranga_Beach",
+      "parent_monument_id": "konark_sun_temple",
+      "paths": {
+        "data": "01_Data/Konark_Sun_Temple/Nearby_Heritage/Astaranga_Beach",
+        "images": "02_Images/Konark_Sun_Temple/Nearby_Heritage/Astaranga_Beach",
+        "scripts": "03_Scripts/Konark_Sun_Temple/Nearby_Heritage/Astaranga_Beach",
+        "audio": "04_Audio/Konark_Sun_Temple/Nearby_Heritage/Astaranga_Beach"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "konark_sun_temple__barahi_temple_chaurasi",
+      "order": 5,
+      "display_name": "Barahi Temple (Chaurasi)",
+      "folder_name": "Barahi_Temple_Chaurasi",
+      "parent_monument_id": "konark_sun_temple",
+      "paths": {
+        "data": "01_Data/Konark_Sun_Temple/Nearby_Heritage/Barahi_Temple_Chaurasi",
+        "images": "02_Images/Konark_Sun_Temple/Nearby_Heritage/Barahi_Temple_Chaurasi",
+        "scripts": "03_Scripts/Konark_Sun_Temple/Nearby_Heritage/Barahi_Temple_Chaurasi",
+        "audio": "04_Audio/Konark_Sun_Temple/Nearby_Heritage/Barahi_Temple_Chaurasi"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "konark_sun_temple__pipili_village",
+      "order": 6,
+      "display_name": "Pipili Village",
+      "folder_name": "Pipili_Village",
+      "parent_monument_id": "konark_sun_temple",
+      "paths": {
+        "data": "01_Data/Konark_Sun_Temple/Nearby_Heritage/Pipili_Village",
+        "images": "02_Images/Konark_Sun_Temple/Nearby_Heritage/Pipili_Village",
+        "scripts": "03_Scripts/Konark_Sun_Temple/Nearby_Heritage/Pipili_Village",
+        "audio": "04_Audio/Konark_Sun_Temple/Nearby_Heritage/Pipili_Village"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "konark_sun_temple__dhauli_shanti_stupa",
+      "order": 7,
+      "display_name": "Dhauli Shanti Stupa",
+      "folder_name": "Dhauli_Shanti_Stupa",
+      "parent_monument_id": "konark_sun_temple",
+      "paths": {
+        "data": "01_Data/Konark_Sun_Temple/Nearby_Heritage/Dhauli_Shanti_Stupa",
+        "images": "02_Images/Konark_Sun_Temple/Nearby_Heritage/Dhauli_Shanti_Stupa",
+        "scripts": "03_Scripts/Konark_Sun_Temple/Nearby_Heritage/Dhauli_Shanti_Stupa",
+        "audio": "04_Audio/Konark_Sun_Temple/Nearby_Heritage/Dhauli_Shanti_Stupa"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "konark_sun_temple__chausathi_yogini_temple",
+      "order": 8,
+      "display_name": "Chausathi Yogini Temple",
+      "folder_name": "Chausathi_Yogini_Temple",
+      "parent_monument_id": "konark_sun_temple",
+      "paths": {
+        "data": "01_Data/Konark_Sun_Temple/Nearby_Heritage/Chausathi_Yogini_Temple",
+        "images": "02_Images/Konark_Sun_Temple/Nearby_Heritage/Chausathi_Yogini_Temple",
+        "scripts": "03_Scripts/Konark_Sun_Temple/Nearby_Heritage/Chausathi_Yogini_Temple",
+        "audio": "04_Audio/Konark_Sun_Temple/Nearby_Heritage/Chausathi_Yogini_Temple"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": [
+        "Verify the specific Odisha site before collecting content."
+      ]
+    },
+    {
+      "id": "konark_sun_temple__mangalajodi_chilika",
+      "order": 9,
+      "display_name": "Mangalajodi (Chilika)",
+      "folder_name": "Mangalajodi_Chilika",
+      "parent_monument_id": "konark_sun_temple",
+      "paths": {
+        "data": "01_Data/Konark_Sun_Temple/Nearby_Heritage/Mangalajodi_Chilika",
+        "images": "02_Images/Konark_Sun_Temple/Nearby_Heritage/Mangalajodi_Chilika",
+        "scripts": "03_Scripts/Konark_Sun_Temple/Nearby_Heritage/Mangalajodi_Chilika",
+        "audio": "04_Audio/Konark_Sun_Temple/Nearby_Heritage/Mangalajodi_Chilika"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "konark_sun_temple__raghurajpur_artist_village",
+      "order": 10,
+      "display_name": "Raghurajpur Artist Village",
+      "folder_name": "Raghurajpur_Artist_Village",
+      "parent_monument_id": "konark_sun_temple",
+      "paths": {
+        "data": "01_Data/Konark_Sun_Temple/Nearby_Heritage/Raghurajpur_Artist_Village",
+        "images": "02_Images/Konark_Sun_Temple/Nearby_Heritage/Raghurajpur_Artist_Village",
+        "scripts": "03_Scripts/Konark_Sun_Temple/Nearby_Heritage/Raghurajpur_Artist_Village",
+        "audio": "04_Audio/Konark_Sun_Temple/Nearby_Heritage/Raghurajpur_Artist_Village"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    }
+  ]
+}

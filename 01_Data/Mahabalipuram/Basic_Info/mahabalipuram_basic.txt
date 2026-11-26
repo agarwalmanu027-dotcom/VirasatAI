@@ -1,0 +1,14 @@
+VIRASATAI — BASIC INFORMATION
+Name: Mahabalipuram, Tamil Nadu
+Entry ID: mahabalipuram
+Location: Mamallapuram, Chengalpattu district, Tamil Nadu
+Type: Pallava-period archaeological monument group
+Identity note: User-selected site identity verified against the sources below.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. Mahabalipuram and Mamallapuram refer to the same coastal town. The UNESCO property is the Group of Monuments at Mahabalipuram. [1]
+2. Pallava patrons created the principal monuments in the seventh and eighth centuries. [1]
+3. The group includes cave sanctuaries, monolithic rathas, sculpted reliefs and structural temples. [1]
+4. The property was inscribed on the World Heritage List in 1984. [1]
+
+Sources: See mahabalipuram_sources.txt. The parent association is the user's selection, not a verified proximity claim.

@@ -1,0 +1,11 @@
+{
+  "place_id": "badami_cave_temples__galaganatha_temples",
+  "display_name": "Galaganatha Temples",
+  "parent_id": "badami_cave_temples",
+  "main_order": 20,
+  "is_main": false,
+  "candidates": [],
+  "errors": [],
+  "visual_review_status": "pending",
+  "status": "identity_confirmation_required"
+}

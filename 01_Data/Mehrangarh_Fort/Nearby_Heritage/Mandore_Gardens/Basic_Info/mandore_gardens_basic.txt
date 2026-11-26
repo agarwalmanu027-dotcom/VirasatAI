@@ -1,0 +1,13 @@
+VIRASATAI — BASIC INFORMATION
+Name: Mandore Gardens
+Entry ID: mehrangarh_fort__mandore_gardens
+Location: Mandore, Jodhpur, Rajasthan
+Type: Historic garden and memorial complex
+Identity note: User-selected site identity verified against the sources below.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. Mandore was a former capital of Marwar before Jodhpur. [1]
+2. Mandore's garden setting contains royal memorials with distinctive temple-like architectural forms. [1]
+3. The site also contains the Hall of Heroes with sculptural figures. [1]
+
+Sources: See mandore_gardens_sources.txt. The parent association is the user's selection, not a verified proximity claim.

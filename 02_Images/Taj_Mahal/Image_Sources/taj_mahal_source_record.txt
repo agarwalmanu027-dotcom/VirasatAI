@@ -1,0 +1,542 @@
+VIRASATAI
+TAJ MAHAL — IMAGE SOURCE RECORD
+================================
+
+Purpose:
+This file records the Wikimedia Commons sources for the Taj Mahal
+images used in the VirasatAI project.
+
+IMPORTANT:
+- Source: Wikimedia Commons
+- Direct image URLs were collected from Wikimedia Commons.
+- Author/license information marked VERIFY must be checked on the
+  individual Wikimedia Commons file page before final publication.
+- Duplicate image URLs have been removed.
+- Total unique image URLs recorded: 43
+
+
+01. FRONT
+--------------------------------
+Image: Taj_Mahal_frontal.jpg
+Author: Marsmux
+License: CC BY-SA 4.0
+Source: Wikimedia Commons
+Source Page:
+https://commons.wikimedia.org/wiki/File:Taj_Mahal_frontal.jpg
+Direct Image:
+https://upload.wikimedia.org/wikipedia/commons/2/24/Taj_Mahal_frontal.jpg
+
+
+02. FRONT
+--------------------------------
+Image: Taj_Mahal_Front_face.jpg
+Author: Abhishekmalviya99
+License: CC BY-SA 4.0
+Source: Wikimedia Commons
+Source Page:
+https://commons.wikimedia.org/wiki/File:Taj_Mahal_Front_face.jpg
+Direct Image:
+https://upload.wikimedia.org/wikipedia/commons/4/49/Taj_Mahal_Front_face.jpg
+
+
+03. FRONT
+--------------------------------
+Image: Taj_Mahal_front_scene.jpg
+Author: Travledge
+License: CC BY-SA 4.0
+Source: Wikimedia Commons
+Source Page:
+https://commons.wikimedia.org/wiki/File:Taj_Mahal_front_scene.jpg
+Direct Image:
+https://upload.wikimedia.org/wikipedia/commons/8/84/Taj_Mahal_front_scene.jpg
+
+
+04. FRONT
+--------------------------------
+Image: The_symmetrical_front_view_of_Taj_Mahal.jpg
+Author: Chandrasen31
+License: CC BY-SA 4.0
+Source: Wikimedia Commons
+Source Page:
+https://commons.wikimedia.org/wiki/File:The_symmetrical_front_view_of_Taj_Mahal.jpg
+Direct Image:
+https://upload.wikimedia.org/wikipedia/commons/c/c6/The_symmetrical_front_view_of_Taj_Mahal.jpg
+
+
+05. FRONT
+--------------------------------
+Image: Taj_Mahal_frontal_with_garden.jpg
+Author: Marsmux
+License: CC BY-SA 4.0
+Source: Wikimedia Commons
+Source Page:
+https://commons.wikimedia.org/wiki/File:Taj_Mahal_frontal_with_garden.jpg
+Direct Image:
+https://upload.wikimedia.org/wikipedia/commons/1/12/Taj_Mahal_frontal_with_garden.jpg
+
+
+06. BACK_YAMUNA
+--------------------------------
+Image: 20191204_Taj_Mahal_Agra_0658_6566.jpg
+Author: VERIFY
+License: VERIFY
+Source: Wikimedia Commons
+Source Page:
+https://commons.wikimedia.org/wiki/File:20191204_Taj_Mahal_Agra_0658_6566.jpg
+Direct Image:
+https://upload.wikimedia.org/wikipedia/commons/c/cf/20191204_Taj_Mahal_Agra_0658_6566.jpg
+
+
+07. BACK_YAMUNA
+--------------------------------
+Image: 20191204_Taj_Mahal_Agra_0721_6575_DxO.jpg
+Author: Jakub Hałun
+License: CC BY-SA 4.0
+Source: Wikimedia Commons
+Source Page:
+https://commons.wikimedia.org/wiki/File:20191204_Taj_Mahal_Agra_0721_6575_DxO.jpg
+Direct Image:
+https://upload.wikimedia.org/wikipedia/commons/a/af/20191204_Taj_Mahal_Agra_0721_6575_DxO.jpg
+
+
+08. BACK_YAMUNA
+--------------------------------
+Image: 20191204_Taj_Mahal_viewed_from_Agra_Fort_0952_6653.jpg
+Author: Jakub Hałun
+License: CC BY-SA 4.0
+Source: Wikimedia Commons
+Source Page:
+https://commons.wikimedia.org/wiki/File:20191204_Taj_Mahal_viewed_from_Agra_Fort_0952_6653.jpg
+Direct Image:
+https://upload.wikimedia.org/wikipedia/commons/0/0f/20191204_Taj_Mahal_viewed_from_Agra_Fort_0952_6653.jpg
+
+
+09. NORTH
+--------------------------------
+Image: Taj_Mahal_North_Face.jpg
+Author: Vasishtha Avadhani Upadrasta
+License: CC BY-SA 4.0
+Source: Wikimedia Commons
+Source Page:
+https://commons.wikimedia.org/wiki/File:Taj_Mahal_North_Face.jpg
+Direct Image:
+https://upload.wikimedia.org/wikipedia/commons/d/db/Taj_Mahal_North_Face.jpg
+
+
+10. EAST
+--------------------------------
+Image: Taj_Mahal_East_Side.JPG
+Author: Bjørn Christian Tørrissen
+License: CC BY-SA 3.0 / GFDL 1.2
+Source: Wikimedia Commons
+Source Page:
+https://commons.wikimedia.org/wiki/File:Taj_Mahal_East_Side.JPG
+Direct Image:
+https://upload.wikimedia.org/wikipedia/commons/a/aa/Taj_Mahal_East_Side.JPG
+
+
+11. EAST
+--------------------------------
+Image: The_Taj_Mahal..jpg
+Author: VERIFY
+License: VERIFY
+Source: Wikimedia Commons
+Source Page:
+https://commons.wikimedia.org/wiki/File:The_Taj_Mahal..jpg
+Direct Image:
+https://upload.wikimedia.org/wikipedia/commons/3/36/The_Taj_Mahal..jpg
+
+
+12. WEST
+--------------------------------
+Image: Taj_Mahal_(4).jpg
+Author: Tulaui
+License: CC BY-SA 3.0
+Source: Wikimedia Commons
+Source Page:
+https://commons.wikimedia.org/wiki/File:Taj_Mahal_(4).jpg
+Direct Image:
+https://upload.wikimedia.org/wikipedia/commons/7/7a/Taj_Mahal_%284%29.jpg
+
+
+13. WEST
+--------------------------------
+Image: Taj_Mahal,_Agra_views_from_around_(93).JPG
+Author: VERIFY
+License: VERIFY
+Source: Wikimedia Commons
+Source Page:
+https://commons.wikimedia.org/wiki/File:Taj_Mahal,_Agra_views_from_around_(93).JPG
+Direct Image:
+https://upload.wikimedia.org/wikipedia/commons/c/c8/Taj_Mahal%2C_Agra_views_from_around_%2893%29.JPG
+
+
+14. NORTH
+--------------------------------
+Image: Taj_alongside_the_river_Yamuna.jpg
+Author: VERIFY
+License: VERIFY
+Source: Wikimedia Commons
+Source Page:
+https://commons.wikimedia.org/wiki/File:Taj_alongside_the_river_Yamuna.jpg
+Direct Image:
+https://upload.wikimedia.org/wikipedia/commons/3/3d/Taj_alongside_the_river_Yamuna.jpg
+
+
+15. SOUTH
+--------------------------------
+Image: Taj_Mahal,_Agra,_India.jpg
+Author: VERIFY
+License: VERIFY
+Source: Wikimedia Commons
+Source Page:
+https://commons.wikimedia.org/wiki/File:Taj_Mahal,_Agra,_India.jpg
+Direct Image:
+https://upload.wikimedia.org/wikipedia/commons/6/68/Taj_Mahal%2C_Agra%2C_India.jpg
+
+
+16. SOUTH
+--------------------------------
+Image: The_Taj_Mahal_(seen_from_south_entrance).JPG
+Author: Teufel1987
+License: CC BY-SA 3.0
+Source: Wikimedia Commons
+Source Page:
+https://commons.wikimedia.org/wiki/File:The_Taj_Mahal_(seen_from_south_entrance).JPG
+Direct Image:
+https://upload.wikimedia.org/wikipedia/commons/5/5f/The_Taj_Mahal_%28seen_from_south_entrance%29.JPG
+
+
+17. AERIAL / OVERVIEW
+--------------------------------
+Image: Agra_03-2016_04_Taj_Mahal_from_Mehtab_Bagh.jpg
+Author: A.Savin
+License: Free Art License
+Source: Wikimedia Commons
+Source Page:
+https://commons.wikimedia.org/wiki/File:Agra_03-2016_04_Taj_Mahal_from_Mehtab_Bagh.jpg
+Direct Image:
+https://upload.wikimedia.org/wikipedia/commons/d/d4/Agra_03-2016_04_Taj_Mahal_from_Mehtab_Bagh.jpg
+
+
+18. AERIAL / OVERVIEW
+--------------------------------
+Image: Agra_03-2016_05_Taj_Mahal_complex.jpg
+Author: VERIFY
+License: VERIFY
+Source: Wikimedia Commons
+Source Page:
+https://commons.wikimedia.org/wiki/File:Agra_03-2016_05_Taj_Mahal_complex.jpg
+Direct Image:
+https://upload.wikimedia.org/wikipedia/commons/8/89/Agra_03-2016_05_Taj_Mahal_complex.jpg
+
+
+19. DOME
+--------------------------------
+Image: Taj_Mahal,_Dome,_Agra,_India.jpg
+Author: Vyacheslav Argenberg
+License: CC BY 4.0
+Source: Wikimedia Commons
+Source Page:
+https://commons.wikimedia.org/wiki/File:Taj_Mahal,_Dome,_Agra,_India.jpg
+Direct Image:
+https://upload.wikimedia.org/wikipedia/commons/a/a2/Taj_Mahal%2C_Dome%2C_Agra%2C_India.jpg
+
+
+20. DOME
+--------------------------------
+Image: The_main_Dome_of_Taj_Mahal..jpg
+Author: Herojit Waikhom
+License: CC BY-SA 3.0
+Source: Wikimedia Commons
+Source Page:
+https://commons.wikimedia.org/wiki/File:The_main_Dome_of_Taj_Mahal..jpg
+Direct Image:
+https://upload.wikimedia.org/wikipedia/commons/d/d3/The_main_Dome_of_Taj_Mahal..jpg
+
+
+21. DOME
+--------------------------------
+Image: Taj_Mahal_Dome_&_Finial_(22924891250).jpg
+Author: VERIFY
+License: VERIFY
+Source: Wikimedia Commons
+Source Page:
+https://commons.wikimedia.org/wiki/File:Taj_Mahal_Dome_%26_Finial_(22924891250).jpg
+Direct Image:
+https://upload.wikimedia.org/wikipedia/commons/4/4c/Taj_Mahal_Dome_%26_Finial_%2822924891250%29.jpg
+
+
+22. GARDEN
+--------------------------------
+Image: Taj_Mahal_with_garden_1.jpg
+Author: VERIFY
+License: VERIFY
+Source: Wikimedia Commons
+Source Page:
+https://commons.wikimedia.org/wiki/File:Taj_Mahal_with_garden_1.jpg
+Direct Image:
+https://upload.wikimedia.org/wikipedia/commons/e/ef/Taj_Mahal_with_garden_1.jpg
+
+
+23. GARDEN
+--------------------------------
+Image: Garden_of_Taj_Mahal.jpg
+Author: Marsmux
+License: CC BY-SA 4.0
+Source: Wikimedia Commons
+Source Page:
+https://commons.wikimedia.org/wiki/File:Garden_of_Taj_Mahal.jpg
+Direct Image:
+https://upload.wikimedia.org/wikipedia/commons/7/76/Garden_of_Taj_Mahal.jpg
+
+
+24. JAWAB
+--------------------------------
+Image: Taj_Mahal_Jawab.jpg
+Author: VERIFY
+License: VERIFY
+Source: Wikimedia Commons
+Source Page:
+https://commons.wikimedia.org/wiki/File:Taj_Mahal_Jawab.jpg
+Direct Image:
+https://upload.wikimedia.org/wikipedia/commons/e/e9/Taj_Mahal_Jawab.jpg
+
+
+25. JAWAB
+--------------------------------
+Image: Taj_Mahal_Jawab_at_Agra.jpg
+Author: VERIFY
+License: VERIFY
+Source: Wikimedia Commons
+Source Page:
+https://commons.wikimedia.org/wiki/File:Taj_Mahal_Jawab_at_Agra.jpg
+Direct Image:
+https://upload.wikimedia.org/wikipedia/commons/a/a0/Taj_Mahal_Jawab_at_Agra.jpg
+
+
+26. MOSQUE
+--------------------------------
+Image: West_Side_Masjid_-_Taj_Mahal.jpg
+Author: VERIFY
+License: VERIFY
+Source: Wikimedia Commons
+Source Page:
+https://commons.wikimedia.org/wiki/File:West_Side_Masjid_-_Taj_Mahal.jpg
+Direct Image:
+https://upload.wikimedia.org/wikipedia/commons/2/24/West_Side_Masjid_-_Taj_Mahal.jpg
+
+
+27. CALLIGRAPHY
+--------------------------------
+Image: Taj_Mahal_Calligraphy_Work_Agra_City_Uttar_Pradesh_India.jpg
+Author: VERIFY
+License: VERIFY
+Source: Wikimedia Commons
+Source Page:
+https://commons.wikimedia.org/wiki/File:Taj_Mahal_Calligraphy_Work_Agra_City_Uttar_Pradesh_India.jpg
+Direct Image:
+https://upload.wikimedia.org/wikipedia/commons/e/e5/Taj_Mahal_Calligraphy_Work_Agra_City_Uttar_Pradesh_India.jpg
+
+
+28. CALLIGRAPHY
+--------------------------------
+Image: Taj_Mahal_Calligraphy_Example.jpg
+Author: VERIFY
+License: VERIFY
+Source: Wikimedia Commons
+Source Page:
+https://commons.wikimedia.org/wiki/File:Taj_Mahal_Calligraphy_Example.jpg
+Direct Image:
+https://upload.wikimedia.org/wikipedia/commons/2/28/Taj_Mahal_Calligraphy_Example.jpg
+
+
+29. PIETRA_DURA
+--------------------------------
+Image: Taj_Mahal_Agra_India_2025_08.jpg
+Author: Philip Nalangan
+License: CC BY 4.0
+Source: Wikimedia Commons
+Source Page:
+https://commons.wikimedia.org/wiki/File:Taj_Mahal_Agra_India_2025_08.jpg
+Direct Image:
+https://upload.wikimedia.org/wikipedia/commons/5/5e/Taj_Mahal_Agra_India_2025_08.jpg
+
+
+30. PIETRA_DURA
+--------------------------------
+Image: Detail_of_Marble_Carving_and_Inlay_-_Mausoleum_-_Taj_Mahal_-_Agra_-_Uttar_Pradesh_-_India_(12650273685).jpg
+Author: Adam Jones
+License: CC BY-SA 2.0
+Source: Wikimedia Commons
+Source Page:
+https://commons.wikimedia.org/wiki/File:Detail_of_Marble_Carving_and_Inlay_-_Mausoleum_-_Taj_Mahal_-_Agra_-_Uttar_Pradesh_-_India_(12650273685).jpg
+Direct Image:
+https://upload.wikimedia.org/wikipedia/commons/0/01/Detail_of_Marble_Carving_and_Inlay_-_Mausoleum_-_Taj_Mahal_-_Agra_-_Uttar_Pradesh_-_India_%2812650273685%29.jpg
+
+
+31. PIETRA_DURA
+--------------------------------
+Image: Taj_ni12-13.jpg
+Author: VERIFY
+License: VERIFY
+Source: Wikimedia Commons
+Source Page:
+https://commons.wikimedia.org/wiki/File:Taj_ni12-13.jpg
+Direct Image:
+https://upload.wikimedia.org/wikipedia/commons/3/36/Taj_ni12-13.jpg
+
+
+32. JALI
+--------------------------------
+Image: Taj_Mahal_Jali_01.jpg
+Author: VERIFY
+License: VERIFY
+Source: Wikimedia Commons
+Source Page:
+https://commons.wikimedia.org/wiki/File:Taj_Mahal_Jali_01.jpg
+Direct Image:
+https://upload.wikimedia.org/wikipedia/commons/1/11/Taj_Mahal_Jali_01.jpg
+
+
+33. JALI
+--------------------------------
+Image: Taj_Mahal_Jali_screen.jpg
+Author: VERIFY
+License: VERIFY
+Source: Wikimedia Commons
+Source Page:
+https://commons.wikimedia.org/wiki/File:Taj_Mahal_Jali_screen.jpg
+Direct Image:
+https://upload.wikimedia.org/wikipedia/commons/e/e6/Taj_Mahal_Jali_screen.jpg
+
+
+34. MINARETS
+--------------------------------
+Image: Taj_Mahal,_Minaret,_Agra,_India.jpg
+Author: Vyacheslav Argenberg
+License: CC BY 4.0
+Source: Wikimedia Commons
+Source Page:
+https://commons.wikimedia.org/wiki/File:Taj_Mahal,_Minaret,_Agra,_India.jpg
+Direct Image:
+https://upload.wikimedia.org/wikipedia/commons/3/38/Taj_Mahal%2C_Minaret%2C_Agra%2C_India.jpg
+
+
+35. MINARETS
+--------------------------------
+Image: Taj_Mahal_Minaret_(22850458759).jpg
+Author: VERIFY
+License: VERIFY
+Source: Wikimedia Commons
+Source Page:
+https://commons.wikimedia.org/wiki/File:Taj_Mahal_Minaret_(22850458759).jpg
+Direct Image:
+https://upload.wikimedia.org/wikipedia/commons/6/6a/Taj_Mahal_Minaret_%2822850458759%29.jpg
+
+
+36. MINARETS
+--------------------------------
+Image: A_minaret_of_Taj_Mahal,_Agra.jpg
+Author: VERIFY
+License: VERIFY
+Source: Wikimedia Commons
+Source Page:
+https://commons.wikimedia.org/wiki/File:A_minaret_of_Taj_Mahal,_Agra.jpg
+Direct Image:
+https://upload.wikimedia.org/wikipedia/commons/c/c5/A_minaret_of_Taj_Mahal%2C_Agra.jpg
+
+
+37. BACK_YAMUNA
+--------------------------------
+Image: Back_end_of_the_Taj_Mahal.jpg
+Author: VERIFY
+License: VERIFY
+Source: Wikimedia Commons
+Source Page:
+https://commons.wikimedia.org/wiki/File:Back_end_of_the_Taj_Mahal.jpg
+Direct Image:
+https://upload.wikimedia.org/wikipedia/commons/e/eb/Back_end_of_the_Taj_Mahal.jpg
+
+
+38. BACK_YAMUNA
+--------------------------------
+Image: The_Taj_Mahal_&_TheYamuna_flowing-view_from_Agra_Fort.JPG
+Author: VERIFY
+License: VERIFY
+Source: Wikimedia Commons
+Source Page:
+https://commons.wikimedia.org/wiki/File:The_Taj_Mahal_%26_TheYamuna_flowing-view_from_Agra_Fort.JPG
+Direct Image:
+https://upload.wikimedia.org/wikipedia/commons/7/7d/The_Taj_Mahal_%26_TheYamuna_flowing-view_from_Agra_Fort.JPG
+
+
+39. INTERIOR
+--------------------------------
+Image: Inside_Taj.jpg
+Author: VERIFY
+License: VERIFY
+Source: Wikimedia Commons
+Source Page:
+https://commons.wikimedia.org/wiki/File:Inside_Taj.jpg
+Direct Image:
+https://upload.wikimedia.org/wikipedia/commons/1/16/Inside_Taj.jpg
+
+
+40. INTERIOR
+--------------------------------
+Image: Tajmahal_inside_view_Mausoleum_in_Agra.jpg
+Author: VERIFY
+License: VERIFY
+Source: Wikimedia Commons
+Source Page:
+https://commons.wikimedia.org/wiki/File:Tajmahal_inside_view_Mausoleum_in_Agra.jpg
+Direct Image:
+https://upload.wikimedia.org/wikipedia/commons/1/13/Tajmahal_inside_view_Mausoleum_in_Agra.jpg
+
+
+41. INTERIOR
+--------------------------------
+Image: Taj_Mahal_IMG_20190916_141155.jpg
+Author: VERIFY
+License: VERIFY
+Source: Wikimedia Commons
+Source Page:
+https://commons.wikimedia.org/wiki/File:Taj_Mahal_IMG_20190916_141155.jpg
+Direct Image:
+https://upload.wikimedia.org/wikipedia/commons/1/12/Taj_Mahal_IMG_20190916_141155.jpg
+
+
+42. AERIAL
+--------------------------------
+Image: Taj_Mahal_from_Plane_(Top_View)_in_2017.jpg
+Author: VERIFY
+License: VERIFY
+Source: Wikimedia Commons
+Source Page:
+https://commons.wikimedia.org/wiki/File:Taj_Mahal_from_Plane_(Top_View)_in_2017.jpg
+Direct Image:
+https://upload.wikimedia.org/wikipedia/commons/d/de/Taj_Mahal_from_Plane_%28Top_View%29_in_2017.jpg
+
+
+43. AERIAL
+--------------------------------
+Image: Aerial_View_of_Taj_Mahal_by_Helicopter.png
+Author: Architguptaaviatorflight
+License: CC BY-SA 4.0
+Source: Wikimedia Commons
+Source Page:
+https://commons.wikimedia.org/wiki/File:Aerial_View_of_Taj_Mahal_by_Helicopter.png
+Direct Image:
+https://upload.wikimedia.org/wikipedia/commons/5/5d/Aerial_View_of_Taj_Mahal_by_Helicopter.png
+
+
+END OF RECORD
+================================
+
+For final project release:
+1. Verify every AUTHOR and LICENSE marked VERIFY.
+2. Keep this file inside Image_Sources.
+3. Keep the original image files inside their respective image folders.
+4. Do not remove attribution information for CC-licensed images.
+5. If an image is replaced, update this record.

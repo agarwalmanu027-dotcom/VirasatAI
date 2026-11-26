@@ -1,0 +1,14 @@
+VIRASATAI — STORY DATA
+Entry ID: sanchi_stupa__bijamandal
+Name: Bijamandal
+Narrative focus: Reading surviving architectural evidence without reducing complex history to a slogan.
+Language files: Separate English and Devanagari Hindi master scripts in 03_Scripts.
+Status: Written narration ready for TTS input; pronunciation and generated audio still need listening QA.
+
+Bijamandal in Vidisha asks us to read history in layers. The surviving monument and its architectural material hold evidence of more than one stage of use. Madhya Pradesh's tourism account describes temple and mosque remains, while the protected monument is officially recorded as Bijamandal Mosque.
+
+The most useful starting point is what the stone can show. Architectural fragments, carved surfaces and surviving arrangements offer clues about craftsmanship and change. They remind us that the life of a building may be longer and more complicated than a single name suggests.
+
+Take time to distinguish an intact structure from a fragment and a documented fact from an interpretation. That careful way of looking helps protect both the place and its story.
+
+This is Bijamandal in Vidisha city. Seen alongside Sanchi and Udayagiri, it adds a later architectural chapter to the region's heritage and invites curiosity grounded in evidence.

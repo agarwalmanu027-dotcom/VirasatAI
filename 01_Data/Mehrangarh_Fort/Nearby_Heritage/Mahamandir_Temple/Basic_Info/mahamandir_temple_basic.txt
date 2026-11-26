@@ -1,0 +1,13 @@
+VIRASATAI — BASIC INFORMATION
+Name: Mahamandir Temple
+Entry ID: mehrangarh_fort__mahamandir_temple
+Location: Jodhpur, Rajasthan
+Type: Nineteenth-century Shiva temple
+Identity note: User-selected site identity verified against the sources below.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. Official tourism material identifies Mahamandir as a nineteenth-century temple dedicated to Shiva. [1]
+2. The temple is known for eighty-four carved pillars and imagery of yoga postures. [1,2]
+3. Conflicting patron names in promotional accounts are not repeated in the narration.
+
+Sources: See mahamandir_temple_sources.txt. The parent association is the user's selection, not a verified proximity claim.

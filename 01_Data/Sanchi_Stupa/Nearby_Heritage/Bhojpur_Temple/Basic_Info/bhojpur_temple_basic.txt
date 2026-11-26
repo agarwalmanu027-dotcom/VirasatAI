@@ -1,0 +1,14 @@
+VIRASATAI — BASIC INFORMATION
+Name: Bhojpur Temple
+Entry ID: sanchi_stupa__bhojpur_temple
+Location: Bhojpur, Raisen district, Madhya Pradesh, India
+Type: Unfinished medieval Shiva temple
+Identity note: User-selected site identity verified against the sources below.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. Bhojeshwar Temple at Bhojpur is dedicated to Shiva. [1]
+2. The unfinished temple is associated with the eleventh-century ruler Raja Bhoj. [1]
+3. Its large Shiva lingam is carved from a single stone. [1]
+4. ASI lists the temple and ancient remains at Bhojpur as protected. [2]
+
+Sources: See bhojpur_temple_sources.txt. The parent association is the user's selection, not a verified proximity claim.

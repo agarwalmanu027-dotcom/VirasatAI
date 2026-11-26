@@ -1,0 +1,14 @@
+VIRASATAI — BASIC INFORMATION
+Name: Desert National Park
+Entry ID: jaisalmer_fort__desert_national_park
+Location: Jaisalmer and Barmer region, Rajasthan
+Type: Protected Thar desert landscape
+Identity note: User label Desert National Park retained; the state biodiversity board also lists the protected area under sanctuary terminology. No unverified legal designation date is claimed.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. The Rajasthan State Biodiversity Board identifies Desert National Park in the Jaisalmer–Barmer region. [1]
+2. The area supports desert wildlife including chinkara, foxes and the Great Indian Bustard. [1,2]
+3. Its habitat includes rocky, sandy and other arid landforms. [2]
+4. Wildlife sightings and current permissions are not guaranteed.
+
+Sources: See desert_national_park_sources.txt. The parent association is the user's selection, not a verified proximity claim.

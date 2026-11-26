@@ -1,0 +1,30 @@
+{
+  "placeId": "mehrangarh_fort__mahamandir_temple",
+  "displayName": "Mahamandir Temple",
+  "candidates": [
+    {
+      "candidateId": 1,
+      "title": "File:MahamandirJodhpurPrd.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:MahamandirJodhpurPrd.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/MahamandirJodhpurPrd.jpg/1280px-MahamandirJodhpurPrd.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalWidth": 4608,
+      "originalHeight": 2592,
+      "author": "Pradeep717",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/exact_zero_candidates/mehrangarh_fort__mahamandir_temple/candidate_01.jpg"
+    },
+    {
+      "candidateId": 2,
+      "title": "File:Maha mandir.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Maha_mandir.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Maha_mandir.jpg/1280px-Maha_mandir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalWidth": 5477,
+      "originalHeight": 3651,
+      "author": "Naman gulechha",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/exact_zero_candidates/mehrangarh_fort__mahamandir_temple/candidate_02.jpg"
+    }
+  ]
+}

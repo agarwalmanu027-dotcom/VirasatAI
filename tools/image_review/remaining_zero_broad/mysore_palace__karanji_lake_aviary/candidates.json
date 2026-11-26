@@ -1,0 +1,372 @@
+{
+  "placeId": "mysore_palace__karanji_lake_aviary",
+  "queries": [
+    "Karanji Lake aviary",
+    "Karanji Lake Mysore"
+  ],
+  "candidates": [
+    {
+      "candidateId": 1,
+      "title": "File:Graceful Peacock.jpg",
+      "query": "Karanji Lake aviary",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Graceful_Peacock.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Graceful_Peacock.jpg/1280px-Graceful_Peacock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Bhavanagb",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/remaining_zero_broad/mysore_palace__karanji_lake_aviary/candidate_01.jpg"
+    },
+    {
+      "candidateId": 2,
+      "title": "File:Walkingwithpeacepeacock.jpg",
+      "query": "Karanji Lake aviary",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Walkingwithpeacepeacock.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Walkingwithpeacepeacock.jpg/1280px-Walkingwithpeacepeacock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Bhavanagb",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/remaining_zero_broad/mysore_palace__karanji_lake_aviary/candidate_02.jpg"
+    },
+    {
+      "candidateId": 3,
+      "title": "File:The White Peacock.jpg",
+      "query": "Karanji Lake aviary",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_White_Peacock.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/The_White_Peacock.jpg/1280px-The_White_Peacock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Architectmeamith",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/remaining_zero_broad/mysore_palace__karanji_lake_aviary/candidate_03.jpg"
+    },
+    {
+      "candidateId": 4,
+      "title": "File:Karanji lake pic.jpg",
+      "query": "Karanji Lake Mysore",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Karanji_lake_pic.jpg",
+      "previewUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Karanji_lake_pic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "Nagesh Kamath from Bangalore, India",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "previewPath": "tools/image_review/remaining_zero_broad/mysore_palace__karanji_lake_aviary/candidate_04.jpg"
+    },
+    {
+      "candidateId": 5,
+      "title": "File:Karanji Lake, Mysore. (5287204825).jpg",
+      "query": "Karanji Lake Mysore",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Karanji_Lake,_Mysore._(5287204825).jpg",
+      "previewUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Karanji_Lake%2C_Mysore._%285287204825%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "Shareef Taliparamba",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "previewPath": "tools/image_review/remaining_zero_broad/mysore_palace__karanji_lake_aviary/candidate_05.jpg"
+    },
+    {
+      "candidateId": 6,
+      "title": "File:Karanji Lake, Mysore. (5285038901).jpg",
+      "query": "Karanji Lake Mysore",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Karanji_Lake,_Mysore._(5285038901).jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Karanji_Lake%2C_Mysore._%285285038901%29.jpg/1280px-Karanji_Lake%2C_Mysore._%285285038901%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Shareef Taliparamba",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "previewPath": "tools/image_review/remaining_zero_broad/mysore_palace__karanji_lake_aviary/candidate_06.jpg"
+    },
+    {
+      "candidateId": 7,
+      "title": "File:Karanji Lake (5285032849).jpg",
+      "query": "Karanji Lake Mysore",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Karanji_Lake_(5285032849).jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Karanji_Lake_%285285032849%29.jpg/1280px-Karanji_Lake_%285285032849%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Shareef Taliparamba",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "previewPath": "tools/image_review/remaining_zero_broad/mysore_palace__karanji_lake_aviary/candidate_07.jpg"
+    },
+    {
+      "candidateId": 8,
+      "title": "File:Peacock in Karanji Lake Mysore.jpg",
+      "query": "Karanji Lake Mysore",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Peacock_in_Karanji_Lake_Mysore.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Peacock_in_Karanji_Lake_Mysore.jpg/1280px-Peacock_in_Karanji_Lake_Mysore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "స్వరలాసిక",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/remaining_zero_broad/mysore_palace__karanji_lake_aviary/candidate_08.jpg"
+    },
+    {
+      "candidateId": 9,
+      "title": "File:Karanji Lake, Mysore(Karnataka).jpg",
+      "query": "Karanji Lake Mysore",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Karanji_Lake,_Mysore(Karnataka).jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Karanji_Lake%2C_Mysore%28Karnataka%29.jpg/1280px-Karanji_Lake%2C_Mysore%28Karnataka%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "FrictioNN",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/remaining_zero_broad/mysore_palace__karanji_lake_aviary/candidate_09.jpg"
+    },
+    {
+      "candidateId": 10,
+      "title": "File:Blue tiger Male from Karanji lake Mysore IMG 7824.jpg",
+      "query": "Karanji Lake Mysore",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Blue_tiger_Male_from_Karanji_lake_Mysore_IMG_7824.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Blue_tiger_Male_from_Karanji_lake_Mysore_IMG_7824.jpg/1280px-Blue_tiger_Male_from_Karanji_lake_Mysore_IMG_7824.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Firos AK",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/remaining_zero_broad/mysore_palace__karanji_lake_aviary/candidate_10.jpg"
+    },
+    {
+      "candidateId": 11,
+      "title": "File:Common crow from Karanji lake Mysore IMG 7957.jpg",
+      "query": "Karanji Lake Mysore",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Common_crow_from_Karanji_lake_Mysore_IMG_7957.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Common_crow_from_Karanji_lake_Mysore_IMG_7957.jpg/1280px-Common_crow_from_Karanji_lake_Mysore_IMG_7957.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Firos AK",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/remaining_zero_broad/mysore_palace__karanji_lake_aviary/candidate_11.jpg"
+    },
+    {
+      "candidateId": 12,
+      "title": "File:Danaus genutia at Karanji lake.jpg",
+      "query": "Karanji Lake Mysore",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Danaus_genutia_at_Karanji_lake.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Danaus_genutia_at_Karanji_lake.jpg/1280px-Danaus_genutia_at_Karanji_lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Rohini Lakshané",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "previewPath": "tools/image_review/remaining_zero_broad/mysore_palace__karanji_lake_aviary/candidate_12.jpg"
+    },
+    {
+      "candidateId": 13,
+      "title": "File:Birds Island Karanji Mysore Nov23 A7C 08156.jpg",
+      "query": "Karanji Lake Mysore",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Birds_Island_Karanji_Mysore_Nov23_A7C_08156.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Birds_Island_Karanji_Mysore_Nov23_A7C_08156.jpg/1280px-Birds_Island_Karanji_Mysore_Nov23_A7C_08156.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information.  Please contact me before commercial use.\n\n\n\nPlease do not upload an edited image here without consulting me.  I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract.",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/remaining_zero_broad/mysore_palace__karanji_lake_aviary/candidate_13.jpg"
+    },
+    {
+      "candidateId": 14,
+      "title": "File:East Karanji Lake Mysore Nov23 A7C 08141.jpg",
+      "query": "Karanji Lake Mysore",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:East_Karanji_Lake_Mysore_Nov23_A7C_08141.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/East_Karanji_Lake_Mysore_Nov23_A7C_08141.jpg/1280px-East_Karanji_Lake_Mysore_Nov23_A7C_08141.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information.  Please contact me before commercial use.\n\n\n\nPlease do not upload an edited image here without consulting me.  I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract.",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/remaining_zero_broad/mysore_palace__karanji_lake_aviary/candidate_14.jpg"
+    },
+    {
+      "candidateId": 15,
+      "title": "File:Fountain Karanji Mysore Nov23 A7C 08190.jpg",
+      "query": "Karanji Lake Mysore",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Fountain_Karanji_Mysore_Nov23_A7C_08190.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Fountain_Karanji_Mysore_Nov23_A7C_08190.jpg/1280px-Fountain_Karanji_Mysore_Nov23_A7C_08190.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information.  Please contact me before commercial use.\n\n\n\nPlease do not upload an edited image here without consulting me.  I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract.",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/remaining_zero_broad/mysore_palace__karanji_lake_aviary/candidate_15.jpg"
+    },
+    {
+      "candidateId": 16,
+      "title": "File:Fountain Karanji Mysore Nov23 A7C 08195.jpg",
+      "query": "Karanji Lake Mysore",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Fountain_Karanji_Mysore_Nov23_A7C_08195.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Fountain_Karanji_Mysore_Nov23_A7C_08195.jpg/1280px-Fountain_Karanji_Mysore_Nov23_A7C_08195.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information.  Please contact me before commercial use.\n\n\n\nPlease do not upload an edited image here without consulting me.  I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract.",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/remaining_zero_broad/mysore_palace__karanji_lake_aviary/candidate_16.jpg"
+    },
+    {
+      "candidateId": 17,
+      "title": "File:Fountain Pedal Boat Karanji Mysore Nov23 A7C 08184.jpg",
+      "query": "Karanji Lake Mysore",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Fountain_Pedal_Boat_Karanji_Mysore_Nov23_A7C_08184.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Fountain_Pedal_Boat_Karanji_Mysore_Nov23_A7C_08184.jpg/1280px-Fountain_Pedal_Boat_Karanji_Mysore_Nov23_A7C_08184.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information.  Please contact me before commercial use.\n\n\n\nPlease do not upload an edited image here without consulting me.  I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract.",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/remaining_zero_broad/mysore_palace__karanji_lake_aviary/candidate_17.jpg"
+    },
+    {
+      "candidateId": 18,
+      "title": "File:Island Karanji Lake Mysore Nov23 A7C 08143.jpg",
+      "query": "Karanji Lake Mysore",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Island_Karanji_Lake_Mysore_Nov23_A7C_08143.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Island_Karanji_Lake_Mysore_Nov23_A7C_08143.jpg/1280px-Island_Karanji_Lake_Mysore_Nov23_A7C_08143.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information.  Please contact me before commercial use.\n\n\n\nPlease do not upload an edited image here without consulting me.  I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract.",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/remaining_zero_broad/mysore_palace__karanji_lake_aviary/candidate_18.jpg"
+    },
+    {
+      "candidateId": 19,
+      "title": "File:NE Karanji Lake Mysore Nov23 A7C 08145.jpg",
+      "query": "Karanji Lake Mysore",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:NE_Karanji_Lake_Mysore_Nov23_A7C_08145.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/NE_Karanji_Lake_Mysore_Nov23_A7C_08145.jpg/1280px-NE_Karanji_Lake_Mysore_Nov23_A7C_08145.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information.  Please contact me before commercial use.\n\n\n\nPlease do not upload an edited image here without consulting me.  I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract.",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/remaining_zero_broad/mysore_palace__karanji_lake_aviary/candidate_19.jpg"
+    },
+    {
+      "candidateId": 20,
+      "title": "File:North View Karanji Lake Mysore Nov23 A7C 08174.jpg",
+      "query": "Karanji Lake Mysore",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:North_View_Karanji_Lake_Mysore_Nov23_A7C_08174.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/North_View_Karanji_Lake_Mysore_Nov23_A7C_08174.jpg/1280px-North_View_Karanji_Lake_Mysore_Nov23_A7C_08174.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information.  Please contact me before commercial use.\n\n\n\nPlease do not upload an edited image here without consulting me.  I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract.",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/remaining_zero_broad/mysore_palace__karanji_lake_aviary/candidate_20.jpg"
+    },
+    {
+      "candidateId": 21,
+      "title": "File:Rain Tree Canopy Karanji Mysore Nov23 A7C 08169.jpg",
+      "query": "Karanji Lake Mysore",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Rain_Tree_Canopy_Karanji_Mysore_Nov23_A7C_08169.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Rain_Tree_Canopy_Karanji_Mysore_Nov23_A7C_08169.jpg/1280px-Rain_Tree_Canopy_Karanji_Mysore_Nov23_A7C_08169.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information.  Please contact me before commercial use.\n\n\n\nPlease do not upload an edited image here without consulting me.  I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract.",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/remaining_zero_broad/mysore_palace__karanji_lake_aviary/candidate_21.jpg"
+    },
+    {
+      "candidateId": 22,
+      "title": "File:Rain Trees West Bund Karanji Mysore Nov23 A7C 08168.jpg",
+      "query": "Karanji Lake Mysore",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Rain_Trees_West_Bund_Karanji_Mysore_Nov23_A7C_08168.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Rain_Trees_West_Bund_Karanji_Mysore_Nov23_A7C_08168.jpg/1280px-Rain_Trees_West_Bund_Karanji_Mysore_Nov23_A7C_08168.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information.  Please contact me before commercial use.\n\n\n\nPlease do not upload an edited image here without consulting me.  I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract.",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/remaining_zero_broad/mysore_palace__karanji_lake_aviary/candidate_22.jpg"
+    },
+    {
+      "candidateId": 23,
+      "title": "File:Rain Trees West Karanji Lake Mysore Nov23 A7C 08180.jpg",
+      "query": "Karanji Lake Mysore",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Rain_Trees_West_Karanji_Lake_Mysore_Nov23_A7C_08180.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Rain_Trees_West_Karanji_Lake_Mysore_Nov23_A7C_08180.jpg/1280px-Rain_Trees_West_Karanji_Lake_Mysore_Nov23_A7C_08180.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information.  Please contact me before commercial use.\n\n\n\nPlease do not upload an edited image here without consulting me.  I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract.",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/remaining_zero_broad/mysore_palace__karanji_lake_aviary/candidate_23.jpg"
+    },
+    {
+      "candidateId": 24,
+      "title": "File:Rowboat Karanji Mysore Nov23 A7C 08158.jpg",
+      "query": "Karanji Lake Mysore",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Rowboat_Karanji_Mysore_Nov23_A7C_08158.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Rowboat_Karanji_Mysore_Nov23_A7C_08158.jpg/1280px-Rowboat_Karanji_Mysore_Nov23_A7C_08158.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information.  Please contact me before commercial use.\n\n\n\nPlease do not upload an edited image here without consulting me.  I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract.",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/remaining_zero_broad/mysore_palace__karanji_lake_aviary/candidate_24.jpg"
+    },
+    {
+      "candidateId": 25,
+      "title": "File:Royal Palm Crown Karanji Mysore Nov23 A7C 08203.jpg",
+      "query": "Karanji Lake Mysore",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Royal_Palm_Crown_Karanji_Mysore_Nov23_A7C_08203.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Royal_Palm_Crown_Karanji_Mysore_Nov23_A7C_08203.jpg/1280px-Royal_Palm_Crown_Karanji_Mysore_Nov23_A7C_08203.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information.  Please contact me before commercial use.\n\n\n\nPlease do not upload an edited image here without consulting me.  I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract.",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/remaining_zero_broad/mysore_palace__karanji_lake_aviary/candidate_25.jpg"
+    },
+    {
+      "candidateId": 26,
+      "title": "File:Weeds North Karanji Lake Mysore Nov23 A7C 08167.jpg",
+      "query": "Karanji Lake Mysore",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Weeds_North_Karanji_Lake_Mysore_Nov23_A7C_08167.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Weeds_North_Karanji_Lake_Mysore_Nov23_A7C_08167.jpg/1280px-Weeds_North_Karanji_Lake_Mysore_Nov23_A7C_08167.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information.  Please contact me before commercial use.\n\n\n\nPlease do not upload an edited image here without consulting me.  I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract.",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/remaining_zero_broad/mysore_palace__karanji_lake_aviary/candidate_26.jpg"
+    },
+    {
+      "candidateId": 27,
+      "title": "File:Darter Drying Wings Karanji Mysore Dec23 A7C 08335.jpg",
+      "query": "Karanji Lake Mysore",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Darter_Drying_Wings_Karanji_Mysore_Dec23_A7C_08335.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Darter_Drying_Wings_Karanji_Mysore_Dec23_A7C_08335.jpg/1280px-Darter_Drying_Wings_Karanji_Mysore_Dec23_A7C_08335.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information.  Please contact me before commercial use.\n\n\n\nPlease do not upload an edited image here without consulting me.  I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract.",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/remaining_zero_broad/mysore_palace__karanji_lake_aviary/candidate_27.jpg"
+    },
+    {
+      "candidateId": 28,
+      "title": "File:Indian Pond Heron Lily Leaf Karanji Mysore Dec23 A7C 08355.jpg",
+      "query": "Karanji Lake Mysore",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Indian_Pond_Heron_Lily_Leaf_Karanji_Mysore_Dec23_A7C_08355.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Indian_Pond_Heron_Lily_Leaf_Karanji_Mysore_Dec23_A7C_08355.jpg/1280px-Indian_Pond_Heron_Lily_Leaf_Karanji_Mysore_Dec23_A7C_08355.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information.  Please contact me before commercial use.\n\n\n\nPlease do not upload an edited image here without consulting me.  I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract.",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/remaining_zero_broad/mysore_palace__karanji_lake_aviary/candidate_28.jpg"
+    },
+    {
+      "candidateId": 29,
+      "title": "File:Indian Spot-billed Duck Karanji Mysore Dec23 A7C 08345.jpg",
+      "query": "Karanji Lake Mysore",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Indian_Spot-billed_Duck_Karanji_Mysore_Dec23_A7C_08345.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Indian_Spot-billed_Duck_Karanji_Mysore_Dec23_A7C_08345.jpg/1280px-Indian_Spot-billed_Duck_Karanji_Mysore_Dec23_A7C_08345.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information.  Please contact me before commercial use.\n\n\n\nPlease do not upload an edited image here without consulting me.  I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract.",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/remaining_zero_broad/mysore_palace__karanji_lake_aviary/candidate_29.jpg"
+    },
+    {
+      "candidateId": 30,
+      "title": "File:Indian Spot-billed Duck Swimming Karanji Mysore Dec23 A7C 08354.jpg",
+      "query": "Karanji Lake Mysore",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Indian_Spot-billed_Duck_Swimming_Karanji_Mysore_Dec23_A7C_08354.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Indian_Spot-billed_Duck_Swimming_Karanji_Mysore_Dec23_A7C_08354.jpg/1280px-Indian_Spot-billed_Duck_Swimming_Karanji_Mysore_Dec23_A7C_08354.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information.  Please contact me before commercial use.\n\n\n\nPlease do not upload an edited image here without consulting me.  I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract.",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/remaining_zero_broad/mysore_palace__karanji_lake_aviary/candidate_30.jpg"
+    },
+    {
+      "candidateId": 31,
+      "title": "File:Pair Indian Spot-billed Duck Karanji Mysore Dec23 A7C 08342.jpg",
+      "query": "Karanji Lake Mysore",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Pair_Indian_Spot-billed_Duck_Karanji_Mysore_Dec23_A7C_08342.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Pair_Indian_Spot-billed_Duck_Karanji_Mysore_Dec23_A7C_08342.jpg/1280px-Pair_Indian_Spot-billed_Duck_Karanji_Mysore_Dec23_A7C_08342.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information.  Please contact me before commercial use.\n\n\n\nPlease do not upload an edited image here without consulting me.  I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract.",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/remaining_zero_broad/mysore_palace__karanji_lake_aviary/candidate_31.jpg"
+    },
+    {
+      "candidateId": 32,
+      "title": "File:Rear Indian Spot-billed Duck Karanji Mysore Dec23 A7C 08340.jpg",
+      "query": "Karanji Lake Mysore",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Rear_Indian_Spot-billed_Duck_Karanji_Mysore_Dec23_A7C_08340.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Rear_Indian_Spot-billed_Duck_Karanji_Mysore_Dec23_A7C_08340.jpg/1280px-Rear_Indian_Spot-billed_Duck_Karanji_Mysore_Dec23_A7C_08340.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information.  Please contact me before commercial use.\n\n\n\nPlease do not upload an edited image here without consulting me.  I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract.",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/remaining_zero_broad/mysore_palace__karanji_lake_aviary/candidate_32.jpg"
+    },
+    {
+      "candidateId": 33,
+      "title": "File:White Peacock Head Neck Karanji Mysore Dec23 A7C 08377.jpg",
+      "query": "Karanji Lake Mysore",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:White_Peacock_Head_Neck_Karanji_Mysore_Dec23_A7C_08377.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/White_Peacock_Head_Neck_Karanji_Mysore_Dec23_A7C_08377.jpg/1280px-White_Peacock_Head_Neck_Karanji_Mysore_Dec23_A7C_08377.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information.  Please contact me before commercial use.\n\n\n\nPlease do not upload an edited image here without consulting me.  I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract.",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/remaining_zero_broad/mysore_palace__karanji_lake_aviary/candidate_33.jpg"
+    }
+  ]
+}

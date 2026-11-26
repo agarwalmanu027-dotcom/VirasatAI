@@ -1,0 +1,28 @@
+* text=auto eol=lf
+*.dart text eol=lf
+*.mjs text eol=lf
+*.js text eol=lf
+*.json text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.sql text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.toml text eol=lf
+*.sh text eol=lf
+*.cmd text eol=crlf
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+/frontend_recovered/android/gradlew text eol=lf
+*.onnx binary
+*.tflite binary
+*.f32 binary
+*.u8 binary
+*.npz binary
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.webp binary
+*.pdf binary
+*.docx binary
+*.pptx binary

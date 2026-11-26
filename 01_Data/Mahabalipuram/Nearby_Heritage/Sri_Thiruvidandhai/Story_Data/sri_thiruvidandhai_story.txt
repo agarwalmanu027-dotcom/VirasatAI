@@ -1,0 +1,12 @@
+VIRASATAI — STORY DATA
+Entry ID: mahabalipuram__sri_thiruvidandhai
+Name: Sri Thiruvidandhai
+Narrative focus: Village life and a living Vaishnava temple setting
+Language files: Separate English and Devanagari Hindi master scripts in 03_Scripts.
+Status: Written narration ready for TTS input; pronunciation and generated audio still need listening QA.
+
+Sri Thiruvidandhai, also written as Thiruvidanthai, is the village setting of Nithyakalyana Perumal Temple in Tamil Nadu. The shrine is associated with Lakshmi Varaha Perumal and remains a place of living Vaishnava worship.
+
+As you explore the setting, consider the connection between a temple and the community around it. A sacred place is part of everyday life: people come to pray, follow their traditions and share a space that carries meaning across generations. This relationship gives the village a cultural character as well as a religious one.
+
+Take your time around the shrine and respect the instructions given there. Be considerate near homes and ask before photographing people. Thiruvidandhai helps us understand how a village and its temple belong to a shared landscape of faith and community.

@@ -1,0 +1,39 @@
+{
+  "place_id": "amer_fort__garh_ganesh_temple",
+  "display_name": "Garh Ganesh Temple",
+  "parent_id": "amer_fort",
+  "main_order": 3,
+  "is_main": false,
+  "candidates": [
+    {
+      "title": "File:Staircase to Garh Ganesh Temple.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Staircase_to_Garh_Ganesh_Temple.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Staircase_to_Garh_Ganesh_Temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "preview_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Staircase_to_Garh_Ganesh_Temple.jpg/1280px-Staircase_to_Garh_Ganesh_Temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_width": 1600,
+      "original_height": 1067,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Sandhya0singh0",
+      "credit": "Own work",
+      "attribution": "",
+      "description": "Doors of bliss.",
+      "date_time_original": "2018-06-29 22:02:10",
+      "sha1": "6b51e5cd80b89505721d33614b5ea37c579b0aaa",
+      "commons_assessment": "",
+      "copyrighted": "True",
+      "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+      "color_score": 40.39,
+      "sharpness_score": 2329.22,
+      "dhash": "1133137369e43050",
+      "candidate_id": 1,
+      "preview_path": "tools/image_review/candidates/amer_fort__garh_ganesh_temple/candidate_01.jpg"
+    }
+  ],
+  "errors": [
+    "File:Staircase leading to Garh Ganesh Temple, Jaipur.jpg: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+  ],
+  "visual_review_status": "pending",
+  "status": "candidates_collected"
+}

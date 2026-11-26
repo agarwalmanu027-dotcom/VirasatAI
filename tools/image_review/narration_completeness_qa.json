@@ -1,0 +1,5051 @@
+{
+  "checked_date": "2026-10-08",
+  "scope": "All 220 catalog entries checked for written narration availability, spoken-body formatting, target English lengths, Hindi encoding, Story_Data synchronisation and voice word counts. Existing Taj master files are preserved; clean Taj copies are preferred when available. This does not claim audio generation, audition or a fresh fact verification of every source.",
+  "catalog_entries": 220,
+  "complete_written_packs": 218,
+  "documented_pending_packs": 2,
+  "packs_needing_attention": 0,
+  "available_language_scripts": 436,
+  "selected_spoken_bodies_without_format_issues": 436,
+  "preserved_original_pilot_bodies_with_format_notes": 0,
+  "pending_ids": [
+    "amer_fort__hathni_kund",
+    "badami_cave_temples__galaganatha_temples"
+  ],
+  "rows": [
+    {
+      "place_id": "taj_mahal",
+      "is_main": true,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Taj_Mahal/English/taj_mahal_tts_body_english.txt",
+          "word_count": 438,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": true
+        },
+        "Hindi": {
+          "path": "03_Scripts/Taj_Mahal/Hindi/taj_mahal_tts_body_hindi.txt",
+          "word_count": 549,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": true
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "taj_mahal__mehtab_bagh",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Taj_Mahal/Nearby_Heritage/Mehtab_Bagh/English/mehtab_bagh_master_story_English.txt",
+          "word_count": 128,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Taj_Mahal/Nearby_Heritage/Mehtab_Bagh/Hindi/mehtab_bagh_master_story_Hindi.txt",
+          "word_count": 131,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "taj_mahal__chini_ka_rauza",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Taj_Mahal/Nearby_Heritage/Chini_Ka_Rauza/English/chini_ka_rauza_master_story_English.txt",
+          "word_count": 127,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Taj_Mahal/Nearby_Heritage/Chini_Ka_Rauza/Hindi/chini_ka_rauza_master_story_Hindi.txt",
+          "word_count": 137,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "taj_mahal__the_red_taj_hessings_tomb",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Taj_Mahal/Nearby_Heritage/The_Red_Taj_Hessings_Tomb/English/the_red_taj_hessings_tomb_master_story_English.txt",
+          "word_count": 132,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Taj_Mahal/Nearby_Heritage/The_Red_Taj_Hessings_Tomb/Hindi/the_red_taj_hessings_tomb_master_story_Hindi.txt",
+          "word_count": 142,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "taj_mahal__taj_nature_walk",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Taj_Mahal/Nearby_Heritage/Taj_Nature_Walk/English/taj_nature_walk_master_story_English.txt",
+          "word_count": 132,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Taj_Mahal/Nearby_Heritage/Taj_Nature_Walk/Hindi/taj_nature_walk_master_story_Hindi.txt",
+          "word_count": 138,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "taj_mahal__mariam_uz_zamani_tomb",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Taj_Mahal/Nearby_Heritage/Mariam_uz_Zamani_Tomb/English/mariam_uz_zamani_tomb_master_story_English.txt",
+          "word_count": 125,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Taj_Mahal/Nearby_Heritage/Mariam_uz_Zamani_Tomb/Hindi/mariam_uz_zamani_tomb_master_story_Hindi.txt",
+          "word_count": 134,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "taj_mahal__ram_bagh",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Taj_Mahal/Nearby_Heritage/Ram_Bagh/English/ram_bagh_master_story_English.txt",
+          "word_count": 133,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Taj_Mahal/Nearby_Heritage/Ram_Bagh/Hindi/ram_bagh_master_story_Hindi.txt",
+          "word_count": 139,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "taj_mahal__kanch_mahal",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Taj_Mahal/Nearby_Heritage/Kanch_Mahal/English/kanch_mahal_master_story_English.txt",
+          "word_count": 128,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Taj_Mahal/Nearby_Heritage/Kanch_Mahal/Hindi/kanch_mahal_master_story_Hindi.txt",
+          "word_count": 132,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "taj_mahal__bateshwar_temples",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Taj_Mahal/Nearby_Heritage/Bateshwar_Temples/English/bateshwar_temples_master_story_English.txt",
+          "word_count": 129,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Taj_Mahal/Nearby_Heritage/Bateshwar_Temples/Hindi/bateshwar_temples_master_story_Hindi.txt",
+          "word_count": 138,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "taj_mahal__jaswant_singh_ki_chhatri",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Taj_Mahal/Nearby_Heritage/Jaswant_Singh_Ki_Chhatri/English/jaswant_singh_ki_chhatri_master_story_English.txt",
+          "word_count": 127,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Taj_Mahal/Nearby_Heritage/Jaswant_Singh_Ki_Chhatri/Hindi/jaswant_singh_ki_chhatri_master_story_Hindi.txt",
+          "word_count": 130,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "taj_mahal__gurudwara_guru_ka_taal",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Taj_Mahal/Nearby_Heritage/Gurudwara_Guru_Ka_Taal/English/gurudwara_guru_ka_taal_master_story_English.txt",
+          "word_count": 126,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Taj_Mahal/Nearby_Heritage/Gurudwara_Guru_Ka_Taal/Hindi/gurudwara_guru_ka_taal_master_story_Hindi.txt",
+          "word_count": 136,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "qutub_minar",
+      "is_main": true,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Qutub_Minar/English/qutub_minar_master_story_English.txt",
+          "word_count": 193,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Qutub_Minar/Hindi/qutub_minar_master_story_Hindi.txt",
+          "word_count": 202,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "qutub_minar__jamali_kamali_mosque",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Qutub_Minar/Nearby_Heritage/Jamali_Kamali_Mosque/English/jamali_kamali_mosque_master_story_English.txt",
+          "word_count": 128,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Qutub_Minar/Nearby_Heritage/Jamali_Kamali_Mosque/Hindi/jamali_kamali_mosque_master_story_Hindi.txt",
+          "word_count": 137,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "qutub_minar__rajon_ki_baoli",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Qutub_Minar/Nearby_Heritage/Rajon_Ki_Baoli/English/rajon_ki_baoli_master_story_English.txt",
+          "word_count": 126,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Qutub_Minar/Nearby_Heritage/Rajon_Ki_Baoli/Hindi/rajon_ki_baoli_master_story_Hindi.txt",
+          "word_count": 134,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "qutub_minar__balbans_tomb",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Qutub_Minar/Nearby_Heritage/Balbans_Tomb/English/balbans_tomb_master_story_English.txt",
+          "word_count": 126,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Qutub_Minar/Nearby_Heritage/Balbans_Tomb/Hindi/balbans_tomb_master_story_Hindi.txt",
+          "word_count": 137,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "qutub_minar__zafar_mahal",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Qutub_Minar/Nearby_Heritage/Zafar_Mahal/English/zafar_mahal_master_story_English.txt",
+          "word_count": 128,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Qutub_Minar/Nearby_Heritage/Zafar_Mahal/Hindi/zafar_mahal_master_story_Hindi.txt",
+          "word_count": 139,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "qutub_minar__adham_khans_tomb",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Qutub_Minar/Nearby_Heritage/Adham_Khans_Tomb/English/adham_khans_tomb_master_story_English.txt",
+          "word_count": 124,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Qutub_Minar/Nearby_Heritage/Adham_Khans_Tomb/Hindi/adham_khans_tomb_master_story_Hindi.txt",
+          "word_count": 130,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "qutub_minar__gandhak_ki_baoli",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Qutub_Minar/Nearby_Heritage/Gandhak_Ki_Baoli/English/gandhak_ki_baoli_master_story_English.txt",
+          "word_count": 127,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Qutub_Minar/Nearby_Heritage/Gandhak_Ki_Baoli/Hindi/gandhak_ki_baoli_master_story_Hindi.txt",
+          "word_count": 134,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "qutub_minar__hijron_ka_khanqah",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Qutub_Minar/Nearby_Heritage/Hijron_Ka_Khanqah/English/hijron_ka_khanqah_master_story_English.txt",
+          "word_count": 125,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Qutub_Minar/Nearby_Heritage/Hijron_Ka_Khanqah/Hindi/hijron_ka_khanqah_master_story_Hindi.txt",
+          "word_count": 139,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "qutub_minar__jahaz_mahal",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Qutub_Minar/Nearby_Heritage/Jahaz_Mahal/English/jahaz_mahal_master_story_English.txt",
+          "word_count": 125,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Qutub_Minar/Nearby_Heritage/Jahaz_Mahal/Hindi/jahaz_mahal_master_story_Hindi.txt",
+          "word_count": 131,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "qutub_minar__quli_khans_tomb",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Qutub_Minar/Nearby_Heritage/Quli_Khans_Tomb/English/quli_khans_tomb_master_story_English.txt",
+          "word_count": 126,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Qutub_Minar/Nearby_Heritage/Quli_Khans_Tomb/Hindi/quli_khans_tomb_master_story_Hindi.txt",
+          "word_count": 140,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "qutub_minar__hauz_i_shamsi",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Qutub_Minar/Nearby_Heritage/Hauz_i_Shamsi/English/hauz_i_shamsi_master_story_English.txt",
+          "word_count": 127,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Qutub_Minar/Nearby_Heritage/Hauz_i_Shamsi/Hindi/hauz_i_shamsi_master_story_Hindi.txt",
+          "word_count": 137,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "amer_fort",
+      "is_main": true,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Amer_Fort/English/amer_fort_master_story_English.txt",
+          "word_count": 200,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Amer_Fort/Hindi/amer_fort_master_story_Hindi.txt",
+          "word_count": 201,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "amer_fort__panna_meena_ka_kund",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Amer_Fort/Nearby_Heritage/Panna_Meena_Ka_Kund/English/panna_meena_ka_kund_master_story_English.txt",
+          "word_count": 136,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Amer_Fort/Nearby_Heritage/Panna_Meena_Ka_Kund/Hindi/panna_meena_ka_kund_master_story_Hindi.txt",
+          "word_count": 128,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "amer_fort__jagat_shiromani_temple",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Amer_Fort/Nearby_Heritage/Jagat_Shiromani_Temple/English/jagat_shiromani_temple_master_story_English.txt",
+          "word_count": 131,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Amer_Fort/Nearby_Heritage/Jagat_Shiromani_Temple/Hindi/jagat_shiromani_temple_master_story_Hindi.txt",
+          "word_count": 124,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "amer_fort__gaitore_ki_chhatriyan",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Amer_Fort/Nearby_Heritage/Gaitore_Ki_Chhatriyan/English/gaitore_ki_chhatriyan_master_story_English.txt",
+          "word_count": 126,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Amer_Fort/Nearby_Heritage/Gaitore_Ki_Chhatriyan/Hindi/gaitore_ki_chhatriyan_master_story_Hindi.txt",
+          "word_count": 132,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "amer_fort__anokhi_museum",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Amer_Fort/Nearby_Heritage/Anokhi_Museum/English/anokhi_museum_master_story_English.txt",
+          "word_count": 126,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Amer_Fort/Nearby_Heritage/Anokhi_Museum/Hindi/anokhi_museum_master_story_Hindi.txt",
+          "word_count": 136,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "amer_fort__galtaji_temple",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Amer_Fort/Nearby_Heritage/Galtaji_Temple/English/galtaji_temple_master_story_English.txt",
+          "word_count": 129,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Amer_Fort/Nearby_Heritage/Galtaji_Temple/Hindi/galtaji_temple_master_story_Hindi.txt",
+          "word_count": 137,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "amer_fort__garh_ganesh_temple",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Amer_Fort/Nearby_Heritage/Garh_Ganesh_Temple/English/garh_ganesh_temple_master_story_English.txt",
+          "word_count": 131,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Amer_Fort/Nearby_Heritage/Garh_Ganesh_Temple/Hindi/garh_ganesh_temple_master_story_Hindi.txt",
+          "word_count": 139,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "amer_fort__vidyadhar_garden",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Amer_Fort/Nearby_Heritage/Vidyadhar_Garden/English/vidyadhar_garden_master_story_English.txt",
+          "word_count": 126,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Amer_Fort/Nearby_Heritage/Vidyadhar_Garden/Hindi/vidyadhar_garden_master_story_Hindi.txt",
+          "word_count": 137,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "amer_fort__sagar_lake",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Amer_Fort/Nearby_Heritage/Sagar_Lake/English/sagar_lake_master_story_English.txt",
+          "word_count": 132,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Amer_Fort/Nearby_Heritage/Sagar_Lake/Hindi/sagar_lake_master_story_Hindi.txt",
+          "word_count": 136,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "amer_fort__sisodia_rani_ka_bagh",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Amer_Fort/Nearby_Heritage/Sisodia_Rani_Ka_Bagh/English/sisodia_rani_ka_bagh_master_story_English.txt",
+          "word_count": 132,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Amer_Fort/Nearby_Heritage/Sisodia_Rani_Ka_Bagh/Hindi/sisodia_rani_ka_bagh_master_story_Hindi.txt",
+          "word_count": 145,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "amer_fort__hathni_kund",
+      "is_main": false,
+      "languages": {},
+      "issues": [
+        "missing_English_script",
+        "missing_Hindi_script"
+      ],
+      "voice_direction_file_count": 0,
+      "status": "documented_pending"
+    },
+    {
+      "place_id": "red_fort",
+      "is_main": true,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Red_Fort/English/red_fort_master_story_English.txt",
+          "word_count": 208,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Red_Fort/Hindi/red_fort_master_story_Hindi.txt",
+          "word_count": 208,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "red_fort__sunehri_masjid",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Red_Fort/Nearby_Heritage/Sunehri_Masjid/English/sunehri_masjid_master_story_English.txt",
+          "word_count": 128,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Red_Fort/Nearby_Heritage/Sunehri_Masjid/Hindi/sunehri_masjid_master_story_Hindi.txt",
+          "word_count": 139,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "red_fort__zeenat_ul_masajid",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Red_Fort/Nearby_Heritage/Zeenat_ul_Masajid/English/zeenat_ul_masajid_master_story_English.txt",
+          "word_count": 128,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Red_Fort/Nearby_Heritage/Zeenat_ul_Masajid/Hindi/zeenat_ul_masajid_master_story_Hindi.txt",
+          "word_count": 136,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "red_fort__mirza_ghalib_ki_haveli",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Red_Fort/Nearby_Heritage/Mirza_Ghalib_Ki_Haveli/English/mirza_ghalib_ki_haveli_master_story_English.txt",
+          "word_count": 135,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Red_Fort/Nearby_Heritage/Mirza_Ghalib_Ki_Haveli/Hindi/mirza_ghalib_ki_haveli_master_story_Hindi.txt",
+          "word_count": 129,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "red_fort__chunnamal_haveli",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Red_Fort/Nearby_Heritage/Chunnamal_Haveli/English/chunnamal_haveli_master_story_English.txt",
+          "word_count": 129,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Red_Fort/Nearby_Heritage/Chunnamal_Haveli/Hindi/chunnamal_haveli_master_story_Hindi.txt",
+          "word_count": 136,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "red_fort__digambar_jain_bird_hospital",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Red_Fort/Nearby_Heritage/Digambar_Jain_Bird_Hospital/English/digambar_jain_bird_hospital_master_story_English.txt",
+          "word_count": 132,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Red_Fort/Nearby_Heritage/Digambar_Jain_Bird_Hospital/Hindi/digambar_jain_bird_hospital_master_story_Hindi.txt",
+          "word_count": 138,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "red_fort__st_james_church",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Red_Fort/Nearby_Heritage/St_James_Church/English/st_james_church_master_story_English.txt",
+          "word_count": 130,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Red_Fort/Nearby_Heritage/St_James_Church/Hindi/st_james_church_master_story_Hindi.txt",
+          "word_count": 139,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "red_fort__khooni_darwaza",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Red_Fort/Nearby_Heritage/Khooni_Darwaza/English/khooni_darwaza_master_story_English.txt",
+          "word_count": 128,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Red_Fort/Nearby_Heritage/Khooni_Darwaza/Hindi/khooni_darwaza_master_story_Hindi.txt",
+          "word_count": 136,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "red_fort__fatehpuri_masjid",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Red_Fort/Nearby_Heritage/Fatehpuri_Masjid/English/fatehpuri_masjid_master_story_English.txt",
+          "word_count": 129,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Red_Fort/Nearby_Heritage/Fatehpuri_Masjid/Hindi/fatehpuri_masjid_master_story_Hindi.txt",
+          "word_count": 136,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "red_fort__salimgarh_fort",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Red_Fort/Nearby_Heritage/Salimgarh_Fort/English/salimgarh_fort_master_story_English.txt",
+          "word_count": 128,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Red_Fort/Nearby_Heritage/Salimgarh_Fort/Hindi/salimgarh_fort_master_story_Hindi.txt",
+          "word_count": 139,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "red_fort__naughara_kinari_bazaar",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Red_Fort/Nearby_Heritage/Naughara_Kinari_Bazaar/English/naughara_kinari_bazaar_master_story_English.txt",
+          "word_count": 123,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Red_Fort/Nearby_Heritage/Naughara_Kinari_Bazaar/Hindi/naughara_kinari_bazaar_master_story_Hindi.txt",
+          "word_count": 140,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "gateway_of_india",
+      "is_main": true,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Gateway_of_India/English/gateway_of_india_master_story_English.txt",
+          "word_count": 206,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Gateway_of_India/Hindi/gateway_of_india_master_story_Hindi.txt",
+          "word_count": 218,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "gateway_of_india__keneseth_eliyahoo_synagogue",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Gateway_of_India/Nearby_Heritage/Keneseth_Eliyahoo_Synagogue/English/keneseth_eliyahoo_synagogue_master_story_English.txt",
+          "word_count": 144,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Gateway_of_India/Nearby_Heritage/Keneseth_Eliyahoo_Synagogue/Hindi/keneseth_eliyahoo_synagogue_master_story_Hindi.txt",
+          "word_count": 173,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "gateway_of_india__afghan_church",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Gateway_of_India/Nearby_Heritage/Afghan_Church/English/afghan_church_master_story_English.txt",
+          "word_count": 148,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Gateway_of_India/Nearby_Heritage/Afghan_Church/Hindi/afghan_church_master_story_Hindi.txt",
+          "word_count": 161,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "gateway_of_india__ballard_bunder_gatehouse",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Gateway_of_India/Nearby_Heritage/Ballard_Bunder_Gatehouse/English/ballard_bunder_gatehouse_master_story_English.txt",
+          "word_count": 146,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Gateway_of_India/Nearby_Heritage/Ballard_Bunder_Gatehouse/Hindi/ballard_bunder_gatehouse_master_story_Hindi.txt",
+          "word_count": 162,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "gateway_of_india__horniman_circle_gardens",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Gateway_of_India/Nearby_Heritage/Horniman_Circle_Gardens/English/horniman_circle_gardens_master_story_English.txt",
+          "word_count": 143,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Gateway_of_India/Nearby_Heritage/Horniman_Circle_Gardens/Hindi/horniman_circle_gardens_master_story_Hindi.txt",
+          "word_count": 153,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "gateway_of_india__david_sassoon_library",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Gateway_of_India/Nearby_Heritage/David_Sassoon_Library/English/david_sassoon_library_master_story_English.txt",
+          "word_count": 143,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Gateway_of_India/Nearby_Heritage/David_Sassoon_Library/Hindi/david_sassoon_library_master_story_Hindi.txt",
+          "word_count": 158,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "gateway_of_india__banganga_tank",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Gateway_of_India/Nearby_Heritage/Banganga_Tank/English/banganga_tank_master_story_English.txt",
+          "word_count": 137,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Gateway_of_India/Nearby_Heritage/Banganga_Tank/Hindi/banganga_tank_master_story_Hindi.txt",
+          "word_count": 148,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "gateway_of_india__khotachiwadi_village",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Gateway_of_India/Nearby_Heritage/Khotachiwadi_Village/English/khotachiwadi_village_master_story_English.txt",
+          "word_count": 140,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Gateway_of_India/Nearby_Heritage/Khotachiwadi_Village/Hindi/khotachiwadi_village_master_story_Hindi.txt",
+          "word_count": 148,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "gateway_of_india__rbi_monetary_museum",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Gateway_of_India/Nearby_Heritage/RBI_Monetary_Museum/English/rbi_monetary_museum_master_story_English.txt",
+          "word_count": 145,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Gateway_of_India/Nearby_Heritage/RBI_Monetary_Museum/Hindi/rbi_monetary_museum_master_story_Hindi.txt",
+          "word_count": 168,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "gateway_of_india__sewri_fort",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Gateway_of_India/Nearby_Heritage/Sewri_Fort/English/sewri_fort_master_story_English.txt",
+          "word_count": 144,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Gateway_of_India/Nearby_Heritage/Sewri_Fort/Hindi/sewri_fort_master_story_Hindi.txt",
+          "word_count": 161,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "gateway_of_india__bhau_daji_lad_museum",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Gateway_of_India/Nearby_Heritage/Bhau_Daji_Lad_Museum/English/bhau_daji_lad_museum_master_story_English.txt",
+          "word_count": 142,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Gateway_of_India/Nearby_Heritage/Bhau_Daji_Lad_Museum/Hindi/bhau_daji_lad_museum_master_story_Hindi.txt",
+          "word_count": 155,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "charminar",
+      "is_main": true,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Charminar/English/charminar_master_story_English.txt",
+          "word_count": 207,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Charminar/Hindi/charminar_master_story_Hindi.txt",
+          "word_count": 206,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "charminar__badshahi_ashurkhana",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Charminar/Nearby_Heritage/Badshahi_Ashurkhana/English/badshahi_ashurkhana_master_story_English.txt",
+          "word_count": 139,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Charminar/Nearby_Heritage/Badshahi_Ashurkhana/Hindi/badshahi_ashurkhana_master_story_Hindi.txt",
+          "word_count": 153,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "charminar__purani_haveli",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Charminar/Nearby_Heritage/Purani_Haveli/English/purani_haveli_master_story_English.txt",
+          "word_count": 146,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Charminar/Nearby_Heritage/Purani_Haveli/Hindi/purani_haveli_master_story_Hindi.txt",
+          "word_count": 158,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "charminar__paigah_tombs",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Charminar/Nearby_Heritage/Paigah_Tombs/English/paigah_tombs_master_story_English.txt",
+          "word_count": 138,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Charminar/Nearby_Heritage/Paigah_Tombs/Hindi/paigah_tombs_master_story_Hindi.txt",
+          "word_count": 158,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "charminar__toli_masjid",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Charminar/Nearby_Heritage/Toli_Masjid/English/toli_masjid_master_story_English.txt",
+          "word_count": 137,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Charminar/Nearby_Heritage/Toli_Masjid/Hindi/toli_masjid_master_story_Hindi.txt",
+          "word_count": 149,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "charminar__raymonds_tomb",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Charminar/Nearby_Heritage/Raymonds_Tomb/English/raymonds_tomb_master_story_English.txt",
+          "word_count": 135,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Charminar/Nearby_Heritage/Raymonds_Tomb/Hindi/raymonds_tomb_master_story_Hindi.txt",
+          "word_count": 153,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "charminar__hayat_bakshi_mosque",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Charminar/Nearby_Heritage/Hayat_Bakshi_Mosque/English/hayat_bakshi_mosque_master_story_English.txt",
+          "word_count": 140,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Charminar/Nearby_Heritage/Hayat_Bakshi_Mosque/Hindi/hayat_bakshi_mosque_master_story_Hindi.txt",
+          "word_count": 155,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "charminar__spanish_mosque",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Charminar/Nearby_Heritage/Spanish_Mosque/English/spanish_mosque_master_story_English.txt",
+          "word_count": 139,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Charminar/Nearby_Heritage/Spanish_Mosque/Hindi/spanish_mosque_master_story_Hindi.txt",
+          "word_count": 146,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "charminar__nizams_museum",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Charminar/Nearby_Heritage/Nizams_Museum/English/nizams_museum_master_story_English.txt",
+          "word_count": 139,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Charminar/Nearby_Heritage/Nizams_Museum/Hindi/nizams_museum_master_story_Hindi.txt",
+          "word_count": 162,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "charminar__khursheed_jah_devdi",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Charminar/Nearby_Heritage/Khursheed_Jah_Devdi/English/khursheed_jah_devdi_master_story_English.txt",
+          "word_count": 144,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Charminar/Nearby_Heritage/Khursheed_Jah_Devdi/Hindi/khursheed_jah_devdi_master_story_Hindi.txt",
+          "word_count": 157,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "charminar__qutb_shahi_tombs",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Charminar/Nearby_Heritage/Qutb_Shahi_Tombs/English/qutb_shahi_tombs_master_story_English.txt",
+          "word_count": 138,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Charminar/Nearby_Heritage/Qutb_Shahi_Tombs/Hindi/qutb_shahi_tombs_master_story_Hindi.txt",
+          "word_count": 150,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "victoria_memorial",
+      "is_main": true,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Victoria_Memorial/English/victoria_memorial_master_story_English.txt",
+          "word_count": 210,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Victoria_Memorial/Hindi/victoria_memorial_master_story_Hindi.txt",
+          "word_count": 227,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "victoria_memorial__south_park_street_cemetery",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Victoria_Memorial/Nearby_Heritage/South_Park_Street_Cemetery/English/south_park_street_cemetery_master_story_English.txt",
+          "word_count": 141,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Victoria_Memorial/Nearby_Heritage/South_Park_Street_Cemetery/Hindi/south_park_street_cemetery_master_story_Hindi.txt",
+          "word_count": 156,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "victoria_memorial__lascar_war_memorial",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Victoria_Memorial/Nearby_Heritage/Lascar_War_Memorial/English/lascar_war_memorial_master_story_English.txt",
+          "word_count": 142,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Victoria_Memorial/Nearby_Heritage/Lascar_War_Memorial/Hindi/lascar_war_memorial_master_story_Hindi.txt",
+          "word_count": 165,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "victoria_memorial__marble_palace",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Victoria_Memorial/Nearby_Heritage/Marble_Palace/English/marble_palace_master_story_English.txt",
+          "word_count": 141,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Victoria_Memorial/Nearby_Heritage/Marble_Palace/Hindi/marble_palace_master_story_Hindi.txt",
+          "word_count": 155,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "victoria_memorial__nipponzan_myohoji_temple",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Victoria_Memorial/Nearby_Heritage/Nipponzan_Myohoji_Temple/English/nipponzan_myohoji_temple_master_story_English.txt",
+          "word_count": 140,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Victoria_Memorial/Nearby_Heritage/Nipponzan_Myohoji_Temple/Hindi/nipponzan_myohoji_temple_master_story_Hindi.txt",
+          "word_count": 154,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "victoria_memorial__st_johns_church",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Victoria_Memorial/Nearby_Heritage/St_Johns_Church/English/st_johns_church_master_story_English.txt",
+          "word_count": 137,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Victoria_Memorial/Nearby_Heritage/St_Johns_Church/Hindi/st_johns_church_master_story_Hindi.txt",
+          "word_count": 155,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "victoria_memorial__mullick_ghat_flower_market",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Victoria_Memorial/Nearby_Heritage/Mullick_Ghat_Flower_Market/English/mullick_ghat_flower_market_master_story_English.txt",
+          "word_count": 138,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Victoria_Memorial/Nearby_Heritage/Mullick_Ghat_Flower_Market/Hindi/mullick_ghat_flower_market_master_story_Hindi.txt",
+          "word_count": 148,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "victoria_memorial__prinsep_ghat",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Victoria_Memorial/Nearby_Heritage/Prinsep_Ghat/English/prinsep_ghat_master_story_English.txt",
+          "word_count": 137,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Victoria_Memorial/Nearby_Heritage/Prinsep_Ghat/Hindi/prinsep_ghat_master_story_Hindi.txt",
+          "word_count": 146,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "victoria_memorial__jorasanko_thakur_bari",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Victoria_Memorial/Nearby_Heritage/Jorasanko_Thakur_Bari/English/jorasanko_thakur_bari_master_story_English.txt",
+          "word_count": 140,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Victoria_Memorial/Nearby_Heritage/Jorasanko_Thakur_Bari/Hindi/jorasanko_thakur_bari_master_story_Hindi.txt",
+          "word_count": 154,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "victoria_memorial__armenian_church",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Victoria_Memorial/Nearby_Heritage/Armenian_Church/English/armenian_church_master_story_English.txt",
+          "word_count": 145,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Victoria_Memorial/Nearby_Heritage/Armenian_Church/Hindi/armenian_church_master_story_Hindi.txt",
+          "word_count": 157,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "victoria_memorial__magen_david_synagogue",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Victoria_Memorial/Nearby_Heritage/Magen_David_Synagogue/English/magen_david_synagogue_master_story_English.txt",
+          "word_count": 141,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Victoria_Memorial/Nearby_Heritage/Magen_David_Synagogue/Hindi/magen_david_synagogue_master_story_Hindi.txt",
+          "word_count": 161,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "mysore_palace",
+      "is_main": true,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Mysore_Palace/English/mysore_palace_master_story_English.txt",
+          "word_count": 205,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Mysore_Palace/Hindi/mysore_palace_master_story_Hindi.txt",
+          "word_count": 219,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "mysore_palace__jaganmohan_palace",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Mysore_Palace/Nearby_Heritage/Jaganmohan_Palace/English/jaganmohan_palace_master_story_English.txt",
+          "word_count": 146,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Mysore_Palace/Nearby_Heritage/Jaganmohan_Palace/Hindi/jaganmohan_palace_master_story_Hindi.txt",
+          "word_count": 156,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "mysore_palace__railway_museum_mysore",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Mysore_Palace/Nearby_Heritage/Railway_Museum_Mysore/English/railway_museum_mysore_master_story_English.txt",
+          "word_count": 146,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Mysore_Palace/Nearby_Heritage/Railway_Museum_Mysore/Hindi/railway_museum_mysore_master_story_Hindi.txt",
+          "word_count": 154,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "mysore_palace__kukkarahalli_lake",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Mysore_Palace/Nearby_Heritage/Kukkarahalli_Lake/English/kukkarahalli_lake_master_story_English.txt",
+          "word_count": 141,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Mysore_Palace/Nearby_Heritage/Kukkarahalli_Lake/Hindi/kukkarahalli_lake_master_story_Hindi.txt",
+          "word_count": 156,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "mysore_palace__melody_world_wax_museum",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Mysore_Palace/Nearby_Heritage/Melody_World_Wax_Museum/English/melody_world_wax_museum_master_story_English.txt",
+          "word_count": 145,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Mysore_Palace/Nearby_Heritage/Melody_World_Wax_Museum/Hindi/melody_world_wax_museum_master_story_Hindi.txt",
+          "word_count": 141,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "mysore_palace__kishkindha_moolika_bonsai_garden",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Mysore_Palace/Nearby_Heritage/Kishkindha_Moolika_Bonsai_Garden/English/kishkindha_moolika_bonsai_garden_master_story_English.txt",
+          "word_count": 143,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Mysore_Palace/Nearby_Heritage/Kishkindha_Moolika_Bonsai_Garden/Hindi/kishkindha_moolika_bonsai_garden_master_story_Hindi.txt",
+          "word_count": 149,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "mysore_palace__st_philomenas_church_crypt",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Mysore_Palace/Nearby_Heritage/St_Philomenas_Church_Crypt/English/st_philomenas_church_crypt_master_story_English.txt",
+          "word_count": 141,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Mysore_Palace/Nearby_Heritage/St_Philomenas_Church_Crypt/Hindi/st_philomenas_church_crypt_master_story_Hindi.txt",
+          "word_count": 153,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "mysore_palace__gun_house",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Mysore_Palace/Nearby_Heritage/Gun_House/English/gun_house_master_story_English.txt",
+          "word_count": 138,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Mysore_Palace/Nearby_Heritage/Gun_House/Hindi/gun_house_master_story_Hindi.txt",
+          "word_count": 151,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "mysore_palace__karanji_lake_aviary",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Mysore_Palace/Nearby_Heritage/Karanji_Lake_Aviary/English/karanji_lake_aviary_master_story_English.txt",
+          "word_count": 143,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Mysore_Palace/Nearby_Heritage/Karanji_Lake_Aviary/Hindi/karanji_lake_aviary_master_story_Hindi.txt",
+          "word_count": 153,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "mysore_palace__wellington_lodge",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Mysore_Palace/Nearby_Heritage/Wellington_Lodge/English/wellington_lodge_master_story_English.txt",
+          "word_count": 143,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Mysore_Palace/Nearby_Heritage/Wellington_Lodge/Hindi/wellington_lodge_master_story_Hindi.txt",
+          "word_count": 149,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "mysore_palace__jayalakshmi_vilas_mansion",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Mysore_Palace/Nearby_Heritage/Jayalakshmi_Vilas_Mansion/English/jayalakshmi_vilas_mansion_master_story_English.txt",
+          "word_count": 145,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Mysore_Palace/Nearby_Heritage/Jayalakshmi_Vilas_Mansion/Hindi/jayalakshmi_vilas_mansion_master_story_Hindi.txt",
+          "word_count": 153,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "hampi_monuments",
+      "is_main": true,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Hampi_Monuments/English/hampi_monuments_master_story_English.txt",
+          "word_count": 198,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Hampi_Monuments/Hindi/hampi_monuments_master_story_Hindi.txt",
+          "word_count": 212,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "hampi_monuments__hemakuta_hill_temples",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Hampi_Monuments/Nearby_Heritage/Hemakuta_Hill_Temples/English/hemakuta_hill_temples_master_story_English.txt",
+          "word_count": 141,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Hampi_Monuments/Nearby_Heritage/Hemakuta_Hill_Temples/Hindi/hemakuta_hill_temples_master_story_Hindi.txt",
+          "word_count": 143,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "hampi_monuments__matanga_hill",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Hampi_Monuments/Nearby_Heritage/Matanga_Hill/English/matanga_hill_master_story_English.txt",
+          "word_count": 138,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Hampi_Monuments/Nearby_Heritage/Matanga_Hill/Hindi/matanga_hill_master_story_Hindi.txt",
+          "word_count": 140,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "hampi_monuments__achyutaraya_temple",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Hampi_Monuments/Nearby_Heritage/Achyutaraya_Temple/English/achyutaraya_temple_master_story_English.txt",
+          "word_count": 138,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Hampi_Monuments/Nearby_Heritage/Achyutaraya_Temple/Hindi/achyutaraya_temple_master_story_Hindi.txt",
+          "word_count": 152,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "hampi_monuments__sugrivas_cave",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Hampi_Monuments/Nearby_Heritage/Sugrivas_Cave/English/sugrivas_cave_master_story_English.txt",
+          "word_count": 141,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Hampi_Monuments/Nearby_Heritage/Sugrivas_Cave/Hindi/sugrivas_cave_master_story_Hindi.txt",
+          "word_count": 143,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "hampi_monuments__zenana_enclosure",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Hampi_Monuments/Nearby_Heritage/Zenana_Enclosure/English/zenana_enclosure_master_story_English.txt",
+          "word_count": 136,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Hampi_Monuments/Nearby_Heritage/Zenana_Enclosure/Hindi/zenana_enclosure_master_story_Hindi.txt",
+          "word_count": 142,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "hampi_monuments__badavilinga_temple",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Hampi_Monuments/Nearby_Heritage/Badavilinga_Temple/English/badavilinga_temple_master_story_English.txt",
+          "word_count": 132,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Hampi_Monuments/Nearby_Heritage/Badavilinga_Temple/Hindi/badavilinga_temple_master_story_Hindi.txt",
+          "word_count": 138,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "hampi_monuments__sasivekalu_ganesha",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Hampi_Monuments/Nearby_Heritage/Sasivekalu_Ganesha/English/sasivekalu_ganesha_master_story_English.txt",
+          "word_count": 134,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Hampi_Monuments/Nearby_Heritage/Sasivekalu_Ganesha/Hindi/sasivekalu_ganesha_master_story_Hindi.txt",
+          "word_count": 138,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "hampi_monuments__anegundi_village",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Hampi_Monuments/Nearby_Heritage/Anegundi_Village/English/anegundi_village_master_story_English.txt",
+          "word_count": 131,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Hampi_Monuments/Nearby_Heritage/Anegundi_Village/Hindi/anegundi_village_master_story_Hindi.txt",
+          "word_count": 137,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "hampi_monuments__sanapur_lake",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Hampi_Monuments/Nearby_Heritage/Sanapur_Lake/English/sanapur_lake_master_story_English.txt",
+          "word_count": 137,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Hampi_Monuments/Nearby_Heritage/Sanapur_Lake/Hindi/sanapur_lake_master_story_Hindi.txt",
+          "word_count": 150,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "hampi_monuments__pampa_sarovar",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Hampi_Monuments/Nearby_Heritage/Pampa_Sarovar/English/pampa_sarovar_master_story_English.txt",
+          "word_count": 137,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Hampi_Monuments/Nearby_Heritage/Pampa_Sarovar/Hindi/pampa_sarovar_master_story_Hindi.txt",
+          "word_count": 150,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "meenakshi_temple",
+      "is_main": true,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Meenakshi_Temple/English/meenakshi_temple_master_story_English.txt",
+          "word_count": 203,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Meenakshi_Temple/Hindi/meenakshi_temple_master_story_Hindi.txt",
+          "word_count": 221,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "meenakshi_temple__thirumalai_nayakkar_mahal",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Meenakshi_Temple/Nearby_Heritage/Thirumalai_Nayakkar_Mahal/English/thirumalai_nayakkar_mahal_master_story_English.txt",
+          "word_count": 137,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Meenakshi_Temple/Nearby_Heritage/Thirumalai_Nayakkar_Mahal/Hindi/thirumalai_nayakkar_mahal_master_story_Hindi.txt",
+          "word_count": 149,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "meenakshi_temple__gandhi_memorial_museum",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Meenakshi_Temple/Nearby_Heritage/Gandhi_Memorial_Museum/English/gandhi_memorial_museum_master_story_English.txt",
+          "word_count": 138,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Meenakshi_Temple/Nearby_Heritage/Gandhi_Memorial_Museum/Hindi/gandhi_memorial_museum_master_story_Hindi.txt",
+          "word_count": 154,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "meenakshi_temple__vandiyur_mariamman_teppakulam",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Meenakshi_Temple/Nearby_Heritage/Vandiyur_Mariamman_Teppakulam/English/vandiyur_mariamman_teppakulam_master_story_English.txt",
+          "word_count": 137,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Meenakshi_Temple/Nearby_Heritage/Vandiyur_Mariamman_Teppakulam/Hindi/vandiyur_mariamman_teppakulam_master_story_Hindi.txt",
+          "word_count": 141,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "meenakshi_temple__vilachery_pottery_village",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Meenakshi_Temple/Nearby_Heritage/Vilachery_Pottery_Village/English/vilachery_pottery_village_master_story_English.txt",
+          "word_count": 140,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Meenakshi_Temple/Nearby_Heritage/Vilachery_Pottery_Village/Hindi/vilachery_pottery_village_master_story_Hindi.txt",
+          "word_count": 154,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "meenakshi_temple__goripalayam_dargah",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Meenakshi_Temple/Nearby_Heritage/Goripalayam_Dargah/English/goripalayam_dargah_master_story_English.txt",
+          "word_count": 136,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Meenakshi_Temple/Nearby_Heritage/Goripalayam_Dargah/Hindi/goripalayam_dargah_master_story_Hindi.txt",
+          "word_count": 145,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "meenakshi_temple__koodal_azhagar_temple",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Meenakshi_Temple/Nearby_Heritage/Koodal_Azhagar_Temple/English/koodal_azhagar_temple_master_story_English.txt",
+          "word_count": 133,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Meenakshi_Temple/Nearby_Heritage/Koodal_Azhagar_Temple/Hindi/koodal_azhagar_temple_master_story_Hindi.txt",
+          "word_count": 140,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "meenakshi_temple__palamuthirsolai_murugan_temple",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Meenakshi_Temple/Nearby_Heritage/Palamuthirsolai_Murugan_Temple/English/palamuthirsolai_murugan_temple_master_story_English.txt",
+          "word_count": 130,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Meenakshi_Temple/Nearby_Heritage/Palamuthirsolai_Murugan_Temple/Hindi/palamuthirsolai_murugan_temple_master_story_Hindi.txt",
+          "word_count": 143,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "meenakshi_temple__kazimar_big_mosque",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Meenakshi_Temple/Nearby_Heritage/Kazimar_Big_Mosque/English/kazimar_big_mosque_master_story_English.txt",
+          "word_count": 141,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Meenakshi_Temple/Nearby_Heritage/Kazimar_Big_Mosque/Hindi/kazimar_big_mosque_master_story_Hindi.txt",
+          "word_count": 143,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "meenakshi_temple__yanaimalai",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Meenakshi_Temple/Nearby_Heritage/Yanaimalai/English/yanaimalai_master_story_English.txt",
+          "word_count": 135,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Meenakshi_Temple/Nearby_Heritage/Yanaimalai/Hindi/yanaimalai_master_story_Hindi.txt",
+          "word_count": 141,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "meenakshi_temple__samanar_hills",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Meenakshi_Temple/Nearby_Heritage/Samanar_Hills/English/samanar_hills_master_story_English.txt",
+          "word_count": 134,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Meenakshi_Temple/Nearby_Heritage/Samanar_Hills/Hindi/samanar_hills_master_story_Hindi.txt",
+          "word_count": 139,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "golden_temple",
+      "is_main": true,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Golden_Temple/English/golden_temple_master_story_English.txt",
+          "word_count": 197,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Golden_Temple/Hindi/golden_temple_master_story_Hindi.txt",
+          "word_count": 207,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "golden_temple__pul_kanjri",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Golden_Temple/Nearby_Heritage/Pul_Kanjri/English/pul_kanjri_master_story_English.txt",
+          "word_count": 141,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Golden_Temple/Nearby_Heritage/Pul_Kanjri/Hindi/pul_kanjri_master_story_Hindi.txt",
+          "word_count": 147,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "golden_temple__gurdwara_baba_atal_rai",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Golden_Temple/Nearby_Heritage/Gurdwara_Baba_Atal_Rai/English/gurdwara_baba_atal_rai_master_story_English.txt",
+          "word_count": 139,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Golden_Temple/Nearby_Heritage/Gurdwara_Baba_Atal_Rai/Hindi/gurdwara_baba_atal_rai_master_story_Hindi.txt",
+          "word_count": 149,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "golden_temple__khalsa_college",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Golden_Temple/Nearby_Heritage/Khalsa_College/English/khalsa_college_master_story_English.txt",
+          "word_count": 139,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Golden_Temple/Nearby_Heritage/Khalsa_College/Hindi/khalsa_college_master_story_Hindi.txt",
+          "word_count": 146,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "golden_temple__ram_bagh_palace",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Golden_Temple/Nearby_Heritage/Ram_Bagh_Palace/English/ram_bagh_palace_master_story_English.txt",
+          "word_count": 146,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Golden_Temple/Nearby_Heritage/Ram_Bagh_Palace/Hindi/ram_bagh_palace_master_story_Hindi.txt",
+          "word_count": 146,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "golden_temple__gobindgarh_fort",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Golden_Temple/Nearby_Heritage/Gobindgarh_Fort/English/gobindgarh_fort_master_story_English.txt",
+          "word_count": 148,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Golden_Temple/Nearby_Heritage/Gobindgarh_Fort/Hindi/gobindgarh_fort_master_story_Hindi.txt",
+          "word_count": 150,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "golden_temple__partition_museum",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Golden_Temple/Nearby_Heritage/Partition_Museum/English/partition_museum_master_story_English.txt",
+          "word_count": 141,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Golden_Temple/Nearby_Heritage/Partition_Museum/Hindi/partition_museum_master_story_Hindi.txt",
+          "word_count": 146,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "golden_temple__gurdwara_mata_kaulan",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Golden_Temple/Nearby_Heritage/Gurdwara_Mata_Kaulan/English/gurdwara_mata_kaulan_master_story_English.txt",
+          "word_count": 137,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Golden_Temple/Nearby_Heritage/Gurdwara_Mata_Kaulan/Hindi/gurdwara_mata_kaulan_master_story_Hindi.txt",
+          "word_count": 141,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "golden_temple__durgiana_temple",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Golden_Temple/Nearby_Heritage/Durgiana_Temple/English/durgiana_temple_master_story_English.txt",
+          "word_count": 134,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Golden_Temple/Nearby_Heritage/Durgiana_Temple/Hindi/durgiana_temple_master_story_Hindi.txt",
+          "word_count": 146,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "golden_temple__harike_wetland",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Golden_Temple/Nearby_Heritage/Harike_Wetland/English/harike_wetland_master_story_English.txt",
+          "word_count": 132,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Golden_Temple/Nearby_Heritage/Harike_Wetland/Hindi/harike_wetland_master_story_Hindi.txt",
+          "word_count": 139,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "golden_temple__saragarhi_memorial",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Golden_Temple/Nearby_Heritage/Saragarhi_Memorial/English/saragarhi_memorial_master_story_English.txt",
+          "word_count": 132,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Golden_Temple/Nearby_Heritage/Saragarhi_Memorial/Hindi/saragarhi_memorial_master_story_Hindi.txt",
+          "word_count": 138,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "khajuraho_monuments",
+      "is_main": true,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Khajuraho_Monuments/English/khajuraho_monuments_master_story_English.txt",
+          "word_count": 202,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Khajuraho_Monuments/Hindi/khajuraho_monuments_master_story_Hindi.txt",
+          "word_count": 202,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "khajuraho_monuments__raneh_falls",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Khajuraho_Monuments/Nearby_Heritage/Raneh_Falls/English/raneh_falls_master_story_English.txt",
+          "word_count": 140,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Khajuraho_Monuments/Nearby_Heritage/Raneh_Falls/Hindi/raneh_falls_master_story_Hindi.txt",
+          "word_count": 145,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "khajuraho_monuments__pandav_falls",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Khajuraho_Monuments/Nearby_Heritage/Pandav_Falls/English/pandav_falls_master_story_English.txt",
+          "word_count": 138,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Khajuraho_Monuments/Nearby_Heritage/Pandav_Falls/Hindi/pandav_falls_master_story_Hindi.txt",
+          "word_count": 144,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "khajuraho_monuments__ken_gharial_sanctuary",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Khajuraho_Monuments/Nearby_Heritage/Ken_Gharial_Sanctuary/English/ken_gharial_sanctuary_master_story_English.txt",
+          "word_count": 143,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Khajuraho_Monuments/Nearby_Heritage/Ken_Gharial_Sanctuary/Hindi/ken_gharial_sanctuary_master_story_Hindi.txt",
+          "word_count": 146,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "khajuraho_monuments__matangeshwar_temple",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Khajuraho_Monuments/Nearby_Heritage/Matangeshwar_Temple/English/matangeshwar_temple_master_story_English.txt",
+          "word_count": 136,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Khajuraho_Monuments/Nearby_Heritage/Matangeshwar_Temple/Hindi/matangeshwar_temple_master_story_Hindi.txt",
+          "word_count": 142,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "khajuraho_monuments__ajaigarh_fort",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Khajuraho_Monuments/Nearby_Heritage/Ajaigarh_Fort/English/ajaigarh_fort_master_story_English.txt",
+          "word_count": 135,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Khajuraho_Monuments/Nearby_Heritage/Ajaigarh_Fort/Hindi/ajaigarh_fort_master_story_Hindi.txt",
+          "word_count": 145,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "khajuraho_monuments__kalinjar_fort",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Khajuraho_Monuments/Nearby_Heritage/Kalinjar_Fort/English/kalinjar_fort_master_story_English.txt",
+          "word_count": 134,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Khajuraho_Monuments/Nearby_Heritage/Kalinjar_Fort/Hindi/kalinjar_fort_master_story_Hindi.txt",
+          "word_count": 138,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "khajuraho_monuments__jain_museum",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Khajuraho_Monuments/Nearby_Heritage/Jain_Museum/English/jain_museum_master_story_English.txt",
+          "word_count": 135,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Khajuraho_Monuments/Nearby_Heritage/Jain_Museum/Hindi/jain_museum_master_story_Hindi.txt",
+          "word_count": 139,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "khajuraho_monuments__duladeo_temple",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Khajuraho_Monuments/Nearby_Heritage/Duladeo_Temple/English/duladeo_temple_master_story_English.txt",
+          "word_count": 142,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Khajuraho_Monuments/Nearby_Heritage/Duladeo_Temple/Hindi/duladeo_temple_master_story_Hindi.txt",
+          "word_count": 148,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "khajuraho_monuments__chaturbhuj_temple",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Khajuraho_Monuments/Nearby_Heritage/Chaturbhuj_Temple/English/chaturbhuj_temple_master_story_English.txt",
+          "word_count": 139,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Khajuraho_Monuments/Nearby_Heritage/Chaturbhuj_Temple/Hindi/chaturbhuj_temple_master_story_Hindi.txt",
+          "word_count": 138,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "khajuraho_monuments__beni_sagar_dam",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Khajuraho_Monuments/Nearby_Heritage/Beni_Sagar_Dam/English/beni_sagar_dam_master_story_English.txt",
+          "word_count": 141,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Khajuraho_Monuments/Nearby_Heritage/Beni_Sagar_Dam/Hindi/beni_sagar_dam_master_story_Hindi.txt",
+          "word_count": 142,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "ajanta_ellora_caves",
+      "is_main": true,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Ajanta_Ellora_Caves/English/ajanta_ellora_caves_master_story_English.txt",
+          "word_count": 207,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Ajanta_Ellora_Caves/Hindi/ajanta_ellora_caves_master_story_Hindi.txt",
+          "word_count": 217,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "ajanta_ellora_caves__daulatabad_fort",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Ajanta_Ellora_Caves/Nearby_Heritage/Daulatabad_Fort/English/daulatabad_fort_master_story_English.txt",
+          "word_count": 137,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Ajanta_Ellora_Caves/Nearby_Heritage/Daulatabad_Fort/Hindi/daulatabad_fort_master_story_Hindi.txt",
+          "word_count": 143,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "ajanta_ellora_caves__bibi_ka_maqbara",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Ajanta_Ellora_Caves/Nearby_Heritage/Bibi_Ka_Maqbara/English/bibi_ka_maqbara_master_story_English.txt",
+          "word_count": 142,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Ajanta_Ellora_Caves/Nearby_Heritage/Bibi_Ka_Maqbara/Hindi/bibi_ka_maqbara_master_story_Hindi.txt",
+          "word_count": 146,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "ajanta_ellora_caves__khuldabad",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Ajanta_Ellora_Caves/Nearby_Heritage/Khuldabad/English/khuldabad_master_story_English.txt",
+          "word_count": 143,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Ajanta_Ellora_Caves/Nearby_Heritage/Khuldabad/Hindi/khuldabad_master_story_Hindi.txt",
+          "word_count": 147,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "ajanta_ellora_caves__grishneshwar_jyotirlinga",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Ajanta_Ellora_Caves/Nearby_Heritage/Grishneshwar_Jyotirlinga/English/grishneshwar_jyotirlinga_master_story_English.txt",
+          "word_count": 135,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Ajanta_Ellora_Caves/Nearby_Heritage/Grishneshwar_Jyotirlinga/Hindi/grishneshwar_jyotirlinga_master_story_Hindi.txt",
+          "word_count": 146,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "ajanta_ellora_caves__siddharth_garden",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Ajanta_Ellora_Caves/Nearby_Heritage/Siddharth_Garden/English/siddharth_garden_master_story_English.txt",
+          "word_count": 138,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Ajanta_Ellora_Caves/Nearby_Heritage/Siddharth_Garden/Hindi/siddharth_garden_master_story_Hindi.txt",
+          "word_count": 149,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "ajanta_ellora_caves__salim_ali_lake",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Ajanta_Ellora_Caves/Nearby_Heritage/Salim_Ali_Lake/English/salim_ali_lake_master_story_English.txt",
+          "word_count": 136,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Ajanta_Ellora_Caves/Nearby_Heritage/Salim_Ali_Lake/Hindi/salim_ali_lake_master_story_Hindi.txt",
+          "word_count": 144,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "ajanta_ellora_caves__panchakki",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Ajanta_Ellora_Caves/Nearby_Heritage/Panchakki/English/panchakki_master_story_English.txt",
+          "word_count": 138,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Ajanta_Ellora_Caves/Nearby_Heritage/Panchakki/Hindi/panchakki_master_story_Hindi.txt",
+          "word_count": 149,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "ajanta_ellora_caves__jama_masjid_aurangabad",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Ajanta_Ellora_Caves/Nearby_Heritage/Jama_Masjid_Aurangabad/English/jama_masjid_aurangabad_master_story_English.txt",
+          "word_count": 140,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Ajanta_Ellora_Caves/Nearby_Heritage/Jama_Masjid_Aurangabad/Hindi/jama_masjid_aurangabad_master_story_Hindi.txt",
+          "word_count": 139,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "ajanta_ellora_caves__soneri_mahal",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Ajanta_Ellora_Caves/Nearby_Heritage/Soneri_Mahal/English/soneri_mahal_master_story_English.txt",
+          "word_count": 138,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Ajanta_Ellora_Caves/Nearby_Heritage/Soneri_Mahal/Hindi/soneri_mahal_master_story_Hindi.txt",
+          "word_count": 148,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "ajanta_ellora_caves__bhadra_maruti_temple",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Ajanta_Ellora_Caves/Nearby_Heritage/Bhadra_Maruti_Temple/English/bhadra_maruti_temple_master_story_English.txt",
+          "word_count": 137,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Ajanta_Ellora_Caves/Nearby_Heritage/Bhadra_Maruti_Temple/Hindi/bhadra_maruti_temple_master_story_Hindi.txt",
+          "word_count": 138,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "konark_sun_temple",
+      "is_main": true,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Konark_Sun_Temple/English/konark_sun_temple_master_story_English.txt",
+          "word_count": 209,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Konark_Sun_Temple/Hindi/konark_sun_temple_master_story_Hindi.txt",
+          "word_count": 215,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "konark_sun_temple__kuruma_buddhist_site",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Konark_Sun_Temple/Nearby_Heritage/Kuruma_Buddhist_Site/English/kuruma_buddhist_site_master_story_English.txt",
+          "word_count": 150,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Konark_Sun_Temple/Nearby_Heritage/Kuruma_Buddhist_Site/Hindi/kuruma_buddhist_site_master_story_Hindi.txt",
+          "word_count": 163,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "konark_sun_temple__ramachandi_temple",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Konark_Sun_Temple/Nearby_Heritage/Ramachandi_Temple/English/ramachandi_temple_master_story_English.txt",
+          "word_count": 150,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Konark_Sun_Temple/Nearby_Heritage/Ramachandi_Temple/Hindi/ramachandi_temple_master_story_Hindi.txt",
+          "word_count": 154,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "konark_sun_temple__chandrabhaga_beach",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Konark_Sun_Temple/Nearby_Heritage/Chandrabhaga_Beach/English/chandrabhaga_beach_master_story_English.txt",
+          "word_count": 149,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Konark_Sun_Temple/Nearby_Heritage/Chandrabhaga_Beach/Hindi/chandrabhaga_beach_master_story_Hindi.txt",
+          "word_count": 155,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "konark_sun_temple__astaranga_beach",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Konark_Sun_Temple/Nearby_Heritage/Astaranga_Beach/English/astaranga_beach_master_story_English.txt",
+          "word_count": 147,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Konark_Sun_Temple/Nearby_Heritage/Astaranga_Beach/Hindi/astaranga_beach_master_story_Hindi.txt",
+          "word_count": 162,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "konark_sun_temple__barahi_temple_chaurasi",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Konark_Sun_Temple/Nearby_Heritage/Barahi_Temple_Chaurasi/English/barahi_temple_chaurasi_master_story_English.txt",
+          "word_count": 147,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Konark_Sun_Temple/Nearby_Heritage/Barahi_Temple_Chaurasi/Hindi/barahi_temple_chaurasi_master_story_Hindi.txt",
+          "word_count": 164,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "konark_sun_temple__pipili_village",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Konark_Sun_Temple/Nearby_Heritage/Pipili_Village/English/pipili_village_master_story_English.txt",
+          "word_count": 147,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Konark_Sun_Temple/Nearby_Heritage/Pipili_Village/Hindi/pipili_village_master_story_Hindi.txt",
+          "word_count": 159,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "konark_sun_temple__dhauli_shanti_stupa",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Konark_Sun_Temple/Nearby_Heritage/Dhauli_Shanti_Stupa/English/dhauli_shanti_stupa_master_story_English.txt",
+          "word_count": 145,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Konark_Sun_Temple/Nearby_Heritage/Dhauli_Shanti_Stupa/Hindi/dhauli_shanti_stupa_master_story_Hindi.txt",
+          "word_count": 152,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "konark_sun_temple__chausathi_yogini_temple",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Konark_Sun_Temple/Nearby_Heritage/Chausathi_Yogini_Temple/English/chausathi_yogini_temple_master_story_English.txt",
+          "word_count": 150,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Konark_Sun_Temple/Nearby_Heritage/Chausathi_Yogini_Temple/Hindi/chausathi_yogini_temple_master_story_Hindi.txt",
+          "word_count": 155,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "konark_sun_temple__mangalajodi_chilika",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Konark_Sun_Temple/Nearby_Heritage/Mangalajodi_Chilika/English/mangalajodi_chilika_master_story_English.txt",
+          "word_count": 144,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Konark_Sun_Temple/Nearby_Heritage/Mangalajodi_Chilika/Hindi/mangalajodi_chilika_master_story_Hindi.txt",
+          "word_count": 170,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "konark_sun_temple__raghurajpur_artist_village",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Konark_Sun_Temple/Nearby_Heritage/Raghurajpur_Artist_Village/English/raghurajpur_artist_village_master_story_English.txt",
+          "word_count": 149,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Konark_Sun_Temple/Nearby_Heritage/Raghurajpur_Artist_Village/Hindi/raghurajpur_artist_village_master_story_Hindi.txt",
+          "word_count": 158,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "sanchi_stupa",
+      "is_main": true,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Sanchi_Stupa/English/sanchi_stupa_master_story_English.txt",
+          "word_count": 214,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Sanchi_Stupa/Hindi/sanchi_stupa_master_story_Hindi.txt",
+          "word_count": 229,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "sanchi_stupa__udayagiri_caves",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Sanchi_Stupa/Nearby_Heritage/Udayagiri_Caves/English/udayagiri_caves_master_story_English.txt",
+          "word_count": 148,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Sanchi_Stupa/Nearby_Heritage/Udayagiri_Caves/Hindi/udayagiri_caves_master_story_Hindi.txt",
+          "word_count": 157,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "sanchi_stupa__heliodorus_pillar",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Sanchi_Stupa/Nearby_Heritage/Heliodorus_Pillar/English/heliodorus_pillar_master_story_English.txt",
+          "word_count": 148,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Sanchi_Stupa/Nearby_Heritage/Heliodorus_Pillar/Hindi/heliodorus_pillar_master_story_Hindi.txt",
+          "word_count": 160,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "sanchi_stupa__bijamandal",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Sanchi_Stupa/Nearby_Heritage/Bijamandal/English/bijamandal_master_story_English.txt",
+          "word_count": 146,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Sanchi_Stupa/Nearby_Heritage/Bijamandal/Hindi/bijamandal_master_story_Hindi.txt",
+          "word_count": 164,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "sanchi_stupa__raisen_fort",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Sanchi_Stupa/Nearby_Heritage/Raisen_Fort/English/raisen_fort_master_story_English.txt",
+          "word_count": 149,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Sanchi_Stupa/Nearby_Heritage/Raisen_Fort/Hindi/raisen_fort_master_story_Hindi.txt",
+          "word_count": 156,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "sanchi_stupa__sonari_stupas",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Sanchi_Stupa/Nearby_Heritage/Sonari_Stupas/English/sonari_stupas_master_story_English.txt",
+          "word_count": 143,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Sanchi_Stupa/Nearby_Heritage/Sonari_Stupas/Hindi/sonari_stupas_master_story_Hindi.txt",
+          "word_count": 155,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "sanchi_stupa__satdhara_stupas",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Sanchi_Stupa/Nearby_Heritage/Satdhara_Stupas/English/satdhara_stupas_master_story_English.txt",
+          "word_count": 142,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Sanchi_Stupa/Nearby_Heritage/Satdhara_Stupas/Hindi/satdhara_stupas_master_story_Hindi.txt",
+          "word_count": 156,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "sanchi_stupa__bhojpur_temple",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Sanchi_Stupa/Nearby_Heritage/Bhojpur_Temple/English/bhojpur_temple_master_story_English.txt",
+          "word_count": 139,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Sanchi_Stupa/Nearby_Heritage/Bhojpur_Temple/Hindi/bhojpur_temple_master_story_Hindi.txt",
+          "word_count": 152,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "sanchi_stupa__andher_stupas",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Sanchi_Stupa/Nearby_Heritage/Andher_Stupas/English/andher_stupas_master_story_English.txt",
+          "word_count": 138,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Sanchi_Stupa/Nearby_Heritage/Andher_Stupas/Hindi/andher_stupas_master_story_Hindi.txt",
+          "word_count": 146,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "sanchi_stupa__halali_dam",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Sanchi_Stupa/Nearby_Heritage/Halali_Dam/English/halali_dam_master_story_English.txt",
+          "word_count": 145,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Sanchi_Stupa/Nearby_Heritage/Halali_Dam/Hindi/halali_dam_master_story_Hindi.txt",
+          "word_count": 157,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "sanchi_stupa__neelkantheshwar_temple",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Sanchi_Stupa/Nearby_Heritage/Neelkantheshwar_Temple/English/neelkantheshwar_temple_master_story_English.txt",
+          "word_count": 142,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Sanchi_Stupa/Nearby_Heritage/Neelkantheshwar_Temple/Hindi/neelkantheshwar_temple_master_story_Hindi.txt",
+          "word_count": 156,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "city_palace_udaipur",
+      "is_main": true,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/City_Palace_Udaipur/English/city_palace_udaipur_master_story_English.txt",
+          "word_count": 208,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/City_Palace_Udaipur/Hindi/city_palace_udaipur_master_story_Hindi.txt",
+          "word_count": 214,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "city_palace_udaipur__ahar_cenotaphs",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/City_Palace_Udaipur/Nearby_Heritage/Ahar_Cenotaphs/English/ahar_cenotaphs_master_story_English.txt",
+          "word_count": 144,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/City_Palace_Udaipur/Nearby_Heritage/Ahar_Cenotaphs/Hindi/ahar_cenotaphs_master_story_Hindi.txt",
+          "word_count": 151,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "city_palace_udaipur__sajjangarh_monsoon_palace",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/City_Palace_Udaipur/Nearby_Heritage/Sajjangarh_Monsoon_Palace/English/sajjangarh_monsoon_palace_master_story_English.txt",
+          "word_count": 141,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/City_Palace_Udaipur/Nearby_Heritage/Sajjangarh_Monsoon_Palace/Hindi/sajjangarh_monsoon_palace_master_story_Hindi.txt",
+          "word_count": 145,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "city_palace_udaipur__badi_lake",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/City_Palace_Udaipur/Nearby_Heritage/Badi_Lake/English/badi_lake_master_story_English.txt",
+          "word_count": 146,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/City_Palace_Udaipur/Nearby_Heritage/Badi_Lake/Hindi/badi_lake_master_story_Hindi.txt",
+          "word_count": 159,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "city_palace_udaipur__saheliyon_ki_bari",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/City_Palace_Udaipur/Nearby_Heritage/Saheliyon_Ki_Bari/English/saheliyon_ki_bari_master_story_English.txt",
+          "word_count": 143,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/City_Palace_Udaipur/Nearby_Heritage/Saheliyon_Ki_Bari/Hindi/saheliyon_ki_bari_master_story_Hindi.txt",
+          "word_count": 149,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "city_palace_udaipur__bagore_ki_haveli",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/City_Palace_Udaipur/Nearby_Heritage/Bagore_Ki_Haveli/English/bagore_ki_haveli_master_story_English.txt",
+          "word_count": 143,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/City_Palace_Udaipur/Nearby_Heritage/Bagore_Ki_Haveli/Hindi/bagore_ki_haveli_master_story_Hindi.txt",
+          "word_count": 155,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "city_palace_udaipur__shilpgram",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/City_Palace_Udaipur/Nearby_Heritage/Shilpgram/English/shilpgram_master_story_English.txt",
+          "word_count": 142,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/City_Palace_Udaipur/Nearby_Heritage/Shilpgram/Hindi/shilpgram_master_story_Hindi.txt",
+          "word_count": 148,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "city_palace_udaipur__karni_mata_temple",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/City_Palace_Udaipur/Nearby_Heritage/Karni_Mata_Temple/English/karni_mata_temple_master_story_English.txt",
+          "word_count": 138,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/City_Palace_Udaipur/Nearby_Heritage/Karni_Mata_Temple/Hindi/karni_mata_temple_master_story_Hindi.txt",
+          "word_count": 149,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "city_palace_udaipur__ambrai_ghat",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/City_Palace_Udaipur/Nearby_Heritage/Ambrai_Ghat/English/ambrai_ghat_master_story_English.txt",
+          "word_count": 139,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/City_Palace_Udaipur/Nearby_Heritage/Ambrai_Ghat/Hindi/ambrai_ghat_master_story_Hindi.txt",
+          "word_count": 143,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "city_palace_udaipur__vintage_car_museum",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/City_Palace_Udaipur/Nearby_Heritage/Vintage_Car_Museum/English/vintage_car_museum_master_story_English.txt",
+          "word_count": 146,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/City_Palace_Udaipur/Nearby_Heritage/Vintage_Car_Museum/Hindi/vintage_car_museum_master_story_Hindi.txt",
+          "word_count": 148,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "city_palace_udaipur__eklingji_temple",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/City_Palace_Udaipur/Nearby_Heritage/Eklingji_Temple/English/eklingji_temple_master_story_English.txt",
+          "word_count": 141,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/City_Palace_Udaipur/Nearby_Heritage/Eklingji_Temple/Hindi/eklingji_temple_master_story_Hindi.txt",
+          "word_count": 146,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "mahabalipuram",
+      "is_main": true,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Mahabalipuram/English/mahabalipuram_master_story_English.txt",
+          "word_count": 217,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Mahabalipuram/Hindi/mahabalipuram_master_story_Hindi.txt",
+          "word_count": 229,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "mahabalipuram__tiger_cave",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Mahabalipuram/Nearby_Heritage/Tiger_Cave/English/tiger_cave_master_story_English.txt",
+          "word_count": 152,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Mahabalipuram/Nearby_Heritage/Tiger_Cave/Hindi/tiger_cave_master_story_Hindi.txt",
+          "word_count": 166,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "mahabalipuram__sadras_dutch_fort",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Mahabalipuram/Nearby_Heritage/Sadras_Dutch_Fort/English/sadras_dutch_fort_master_story_English.txt",
+          "word_count": 151,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Mahabalipuram/Nearby_Heritage/Sadras_Dutch_Fort/Hindi/sadras_dutch_fort_master_story_Hindi.txt",
+          "word_count": 172,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "mahabalipuram__nithyakalyana_perumal_temple",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Mahabalipuram/Nearby_Heritage/Nithyakalyana_Perumal_Temple/English/nithyakalyana_perumal_temple_master_story_English.txt",
+          "word_count": 154,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Mahabalipuram/Nearby_Heritage/Nithyakalyana_Perumal_Temple/Hindi/nithyakalyana_perumal_temple_master_story_Hindi.txt",
+          "word_count": 165,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "mahabalipuram__alamparai_fort",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Mahabalipuram/Nearby_Heritage/Alamparai_Fort/English/alamparai_fort_master_story_English.txt",
+          "word_count": 168,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Mahabalipuram/Nearby_Heritage/Alamparai_Fort/Hindi/alamparai_fort_master_story_Hindi.txt",
+          "word_count": 176,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "mahabalipuram__cholamandal_artists_village",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Mahabalipuram/Nearby_Heritage/Cholamandal_Artists_Village/English/cholamandal_artists_village_master_story_English.txt",
+          "word_count": 160,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Mahabalipuram/Nearby_Heritage/Cholamandal_Artists_Village/Hindi/cholamandal_artists_village_master_story_Hindi.txt",
+          "word_count": 172,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "mahabalipuram__dakshinachitra",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Mahabalipuram/Nearby_Heritage/DakshinaChitra/English/dakshinachitra_master_story_English.txt",
+          "word_count": 163,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Mahabalipuram/Nearby_Heritage/DakshinaChitra/Hindi/dakshinachitra_master_story_Hindi.txt",
+          "word_count": 170,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "mahabalipuram__muttukadu_backwaters",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Mahabalipuram/Nearby_Heritage/Muttukadu_Backwaters/English/muttukadu_backwaters_master_story_English.txt",
+          "word_count": 154,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Mahabalipuram/Nearby_Heritage/Muttukadu_Backwaters/Hindi/muttukadu_backwaters_master_story_Hindi.txt",
+          "word_count": 166,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "mahabalipuram__vedanthangal_bird_sanctuary",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Mahabalipuram/Nearby_Heritage/Vedanthangal_Bird_Sanctuary/English/vedanthangal_bird_sanctuary_master_story_English.txt",
+          "word_count": 157,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Mahabalipuram/Nearby_Heritage/Vedanthangal_Bird_Sanctuary/Hindi/vedanthangal_bird_sanctuary_master_story_Hindi.txt",
+          "word_count": 165,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "mahabalipuram__sri_thiruvidandhai",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Mahabalipuram/Nearby_Heritage/Sri_Thiruvidandhai/English/sri_thiruvidandhai_master_story_English.txt",
+          "word_count": 127,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Mahabalipuram/Nearby_Heritage/Sri_Thiruvidandhai/Hindi/sri_thiruvidandhai_master_story_Hindi.txt",
+          "word_count": 148,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "mahabalipuram__poonjeri_village",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Mahabalipuram/Nearby_Heritage/Poonjeri_Village/English/poonjeri_village_master_story_English.txt",
+          "word_count": 149,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Mahabalipuram/Nearby_Heritage/Poonjeri_Village/Hindi/poonjeri_village_master_story_Hindi.txt",
+          "word_count": 180,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "jaisalmer_fort",
+      "is_main": true,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Jaisalmer_Fort/English/jaisalmer_fort_master_story_English.txt",
+          "word_count": 214,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Jaisalmer_Fort/Hindi/jaisalmer_fort_master_story_Hindi.txt",
+          "word_count": 215,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "jaisalmer_fort__kuldhara_village",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Kuldhara_Village/English/kuldhara_village_master_story_English.txt",
+          "word_count": 152,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Kuldhara_Village/Hindi/kuldhara_village_master_story_Hindi.txt",
+          "word_count": 167,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "jaisalmer_fort__bada_bagh",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Bada_Bagh/English/bada_bagh_master_story_English.txt",
+          "word_count": 158,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Bada_Bagh/Hindi/bada_bagh_master_story_Hindi.txt",
+          "word_count": 165,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "jaisalmer_fort__khaba_fort",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Khaba_Fort/English/khaba_fort_master_story_English.txt",
+          "word_count": 155,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Khaba_Fort/Hindi/khaba_fort_master_story_Hindi.txt",
+          "word_count": 166,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "jaisalmer_fort__lodhruva_jain_temples",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Lodhruva_Jain_Temples/English/lodhruva_jain_temples_master_story_English.txt",
+          "word_count": 158,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Lodhruva_Jain_Temples/Hindi/lodhruva_jain_temples_master_story_Hindi.txt",
+          "word_count": 155,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "jaisalmer_fort__vyas_chhatri",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Vyas_Chhatri/English/vyas_chhatri_master_story_English.txt",
+          "word_count": 155,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Vyas_Chhatri/Hindi/vyas_chhatri_master_story_Hindi.txt",
+          "word_count": 166,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "jaisalmer_fort__desert_national_park",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Desert_National_Park/English/desert_national_park_master_story_English.txt",
+          "word_count": 160,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Desert_National_Park/Hindi/desert_national_park_master_story_Hindi.txt",
+          "word_count": 171,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "jaisalmer_fort__tanot_mata_temple",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Tanot_Mata_Temple/English/tanot_mata_temple_master_story_English.txt",
+          "word_count": 154,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Tanot_Mata_Temple/Hindi/tanot_mata_temple_master_story_Hindi.txt",
+          "word_count": 171,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "jaisalmer_fort__akal_wood_fossil_park",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Akal_Wood_Fossil_Park/English/akal_wood_fossil_park_master_story_English.txt",
+          "word_count": 158,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Akal_Wood_Fossil_Park/Hindi/akal_wood_fossil_park_master_story_Hindi.txt",
+          "word_count": 164,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "jaisalmer_fort__amar_sagar_jain_temple",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Amar_Sagar_Jain_Temple/English/amar_sagar_jain_temple_master_story_English.txt",
+          "word_count": 153,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Amar_Sagar_Jain_Temple/Hindi/amar_sagar_jain_temple_master_story_Hindi.txt",
+          "word_count": 154,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "jaisalmer_fort__nathmal_ji_ki_haveli",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Nathmal_Ji_Ki_Haveli/English/nathmal_ji_ki_haveli_master_story_English.txt",
+          "word_count": 157,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Nathmal_Ji_Ki_Haveli/Hindi/nathmal_ji_ki_haveli_master_story_Hindi.txt",
+          "word_count": 172,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "mehrangarh_fort",
+      "is_main": true,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Mehrangarh_Fort/English/mehrangarh_fort_master_story_English.txt",
+          "word_count": 213,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Mehrangarh_Fort/Hindi/mehrangarh_fort_master_story_Hindi.txt",
+          "word_count": 218,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "mehrangarh_fort__rao_jodha_desert_rock_park",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Rao_Jodha_Desert_Rock_Park/English/rao_jodha_desert_rock_park_master_story_English.txt",
+          "word_count": 159,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Rao_Jodha_Desert_Rock_Park/Hindi/rao_jodha_desert_rock_park_master_story_Hindi.txt",
+          "word_count": 164,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "mehrangarh_fort__jaswant_thada",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Jaswant_Thada/English/jaswant_thada_master_story_English.txt",
+          "word_count": 162,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Jaswant_Thada/Hindi/jaswant_thada_master_story_Hindi.txt",
+          "word_count": 160,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "mehrangarh_fort__toorji_ka_jhalra",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Toorji_Ka_Jhalra/English/toorji_ka_jhalra_master_story_English.txt",
+          "word_count": 151,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Toorji_Ka_Jhalra/Hindi/toorji_ka_jhalra_master_story_Hindi.txt",
+          "word_count": 159,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "mehrangarh_fort__mandore_gardens",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Mandore_Gardens/English/mandore_gardens_master_story_English.txt",
+          "word_count": 156,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Mandore_Gardens/Hindi/mandore_gardens_master_story_Hindi.txt",
+          "word_count": 169,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "mehrangarh_fort__balsamand_lake",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Balsamand_Lake/English/balsamand_lake_master_story_English.txt",
+          "word_count": 161,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Balsamand_Lake/Hindi/balsamand_lake_master_story_Hindi.txt",
+          "word_count": 169,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "mehrangarh_fort__mahamandir_temple",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Mahamandir_Temple/English/mahamandir_temple_master_story_English.txt",
+          "word_count": 156,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Mahamandir_Temple/Hindi/mahamandir_temple_master_story_Hindi.txt",
+          "word_count": 165,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "mehrangarh_fort__osian_temples",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Osian_Temples/English/osian_temples_master_story_English.txt",
+          "word_count": 164,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Osian_Temples/Hindi/osian_temples_master_story_Hindi.txt",
+          "word_count": 169,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "mehrangarh_fort__machia_biological_park",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Machia_Biological_Park/English/machia_biological_park_master_story_English.txt",
+          "word_count": 139,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Machia_Biological_Park/Hindi/machia_biological_park_master_story_Hindi.txt",
+          "word_count": 157,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "mehrangarh_fort__singhasni_village",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Singhasni_Village/English/singhasni_village_master_story_English.txt",
+          "word_count": 142,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Singhasni_Village/Hindi/singhasni_village_master_story_Hindi.txt",
+          "word_count": 163,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "mehrangarh_fort__navchowkiya",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Navchowkiya/English/navchowkiya_master_story_English.txt",
+          "word_count": 154,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Mehrangarh_Fort/Nearby_Heritage/Navchowkiya/Hindi/navchowkiya_master_story_Hindi.txt",
+          "word_count": 158,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "badami_cave_temples",
+      "is_main": true,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Badami_Cave_Temples/English/badami_cave_temples_master_story_English.txt",
+          "word_count": 220,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Badami_Cave_Temples/Hindi/badami_cave_temples_master_story_Hindi.txt",
+          "word_count": 220,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "badami_cave_temples__bhutanatha_group_of_temples",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Badami_Cave_Temples/Nearby_Heritage/Bhutanatha_Group_of_Temples/English/bhutanatha_group_of_temples_master_story_English.txt",
+          "word_count": 159,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Badami_Cave_Temples/Nearby_Heritage/Bhutanatha_Group_of_Temples/Hindi/bhutanatha_group_of_temples_master_story_Hindi.txt",
+          "word_count": 166,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "badami_cave_temples__agastya_lake",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Badami_Cave_Temples/Nearby_Heritage/Agastya_Lake/English/agastya_lake_master_story_English.txt",
+          "word_count": 153,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Badami_Cave_Temples/Nearby_Heritage/Agastya_Lake/Hindi/agastya_lake_master_story_Hindi.txt",
+          "word_count": 166,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "badami_cave_temples__badami_fort",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Badami_Cave_Temples/Nearby_Heritage/Badami_Fort/English/badami_fort_master_story_English.txt",
+          "word_count": 153,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Badami_Cave_Temples/Nearby_Heritage/Badami_Fort/Hindi/badami_fort_master_story_Hindi.txt",
+          "word_count": 163,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "badami_cave_temples__mahakuta_group_of_temples",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Badami_Cave_Temples/Nearby_Heritage/Mahakuta_Group_of_Temples/English/mahakuta_group_of_temples_master_story_English.txt",
+          "word_count": 156,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Badami_Cave_Temples/Nearby_Heritage/Mahakuta_Group_of_Temples/Hindi/mahakuta_group_of_temples_master_story_Hindi.txt",
+          "word_count": 155,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "badami_cave_temples__pattadakal_monuments",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Badami_Cave_Temples/Nearby_Heritage/Pattadakal_Monuments/English/pattadakal_monuments_master_story_English.txt",
+          "word_count": 161,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Badami_Cave_Temples/Nearby_Heritage/Pattadakal_Monuments/Hindi/pattadakal_monuments_master_story_Hindi.txt",
+          "word_count": 174,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "badami_cave_temples__aihole_durga_temple",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Badami_Cave_Temples/Nearby_Heritage/Aihole_Durga_Temple/English/aihole_durga_temple_master_story_English.txt",
+          "word_count": 157,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Badami_Cave_Temples/Nearby_Heritage/Aihole_Durga_Temple/Hindi/aihole_durga_temple_master_story_Hindi.txt",
+          "word_count": 161,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "badami_cave_temples__banashankari_amma_temple",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Badami_Cave_Temples/Nearby_Heritage/Banashankari_Amma_Temple/English/banashankari_amma_temple_master_story_English.txt",
+          "word_count": 155,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Badami_Cave_Temples/Nearby_Heritage/Banashankari_Amma_Temple/Hindi/banashankari_amma_temple_master_story_Hindi.txt",
+          "word_count": 155,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "badami_cave_temples__ravan_phadi_cave",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Badami_Cave_Temples/Nearby_Heritage/Ravan_Phadi_Cave/English/ravan_phadi_cave_master_story_English.txt",
+          "word_count": 154,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Badami_Cave_Temples/Nearby_Heritage/Ravan_Phadi_Cave/Hindi/ravan_phadi_cave_master_story_Hindi.txt",
+          "word_count": 158,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "badami_cave_temples__lad_khan_temple",
+      "is_main": false,
+      "languages": {
+        "English": {
+          "path": "03_Scripts/Badami_Cave_Temples/Nearby_Heritage/Lad_Khan_Temple/English/lad_khan_temple_master_story_English.txt",
+          "word_count": 160,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        },
+        "Hindi": {
+          "path": "03_Scripts/Badami_Cave_Temples/Nearby_Heritage/Lad_Khan_Temple/Hindi/lad_khan_temple_master_story_Hindi.txt",
+          "word_count": 167,
+          "body_format_issues": [],
+          "uses_clean_pilot_copy": false
+        }
+      },
+      "issues": [],
+      "voice_direction_file_count": 1,
+      "voice_word_count_matches": true,
+      "story_data_synced": true,
+      "status": "complete_written_pack"
+    },
+    {
+      "place_id": "badami_cave_temples__galaganatha_temples",
+      "is_main": false,
+      "languages": {},
+      "issues": [
+        "missing_English_script",
+        "missing_Hindi_script"
+      ],
+      "voice_direction_file_count": 0,
+      "status": "documented_pending"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "place_id": "badami_cave_temples__banashankari_amma_temple",
+  "display_name": "Banashankari Amma Temple",
+  "parent_id": "badami_cave_temples",
+  "main_order": 20,
+  "is_main": false,
+  "candidates": [],
+  "errors": [],
+  "visual_review_status": "pending",
+  "status": "no_qualifying_candidates"
+}

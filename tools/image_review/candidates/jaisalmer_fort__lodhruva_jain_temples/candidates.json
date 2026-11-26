@@ -1,0 +1,14 @@
+{
+  "place_id": "jaisalmer_fort__lodhruva_jain_temples",
+  "display_name": "Lodhruva Jain Temples",
+  "parent_id": "jaisalmer_fort",
+  "main_order": 18,
+  "is_main": false,
+  "candidates": [],
+  "errors": [
+    "HTTP Error 429: Too Many Requests",
+    "HTTP Error 429: Too Many Requests"
+  ],
+  "visual_review_status": "pending",
+  "status": "no_qualifying_candidates"
+}

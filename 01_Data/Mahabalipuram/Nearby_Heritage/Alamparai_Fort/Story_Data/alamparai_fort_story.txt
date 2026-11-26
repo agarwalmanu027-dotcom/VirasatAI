@@ -1,0 +1,12 @@
+VIRASATAI — STORY DATA
+Entry ID: mahabalipuram__alamparai_fort
+Name: Alamparai Fort
+Narrative focus: A fragile coastal fort shaped by conflict and maritime exchange
+Language files: Separate English and Devanagari Hindi master scripts in 03_Scripts.
+Status: Written narration ready for TTS input; pronunciation and generated audio still need listening QA.
+
+Alamparai Fort stands where coastal history meets a vulnerable shoreline. Near Kadapakkam, its surviving brick walls recall a fortified settlement on the Bay of Bengal. Tamil Nadu's archaeology department traces the fort to the late seventeenth-century political world of the region. Its later story includes Carnatic rulers, French involvement and destruction by British forces in seventeen sixty.
+
+The ruins are only one source of information. Excavations have recovered pottery, metal objects, glass and other material traces of activity. These finds bring trade and everyday work into a history that might otherwise sound like a list of battles. A small object can sometimes tell us as much as a large wall.
+
+Look at the brickwork from a safe, permitted position. Sea exposure and the loss of parts of the structure make care especially important. There is no need to climb a damaged wall for a better photograph. Alamparai is a reminder that a coastline carries stories of exchange, conflict and change, and that their surviving evidence can be fragile.

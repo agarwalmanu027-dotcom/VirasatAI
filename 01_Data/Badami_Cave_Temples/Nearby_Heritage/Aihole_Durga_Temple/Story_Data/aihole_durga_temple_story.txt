@@ -1,0 +1,12 @@
+VIRASATAI — STORY DATA
+Entry ID: badami_cave_temples__aihole_durga_temple
+Name: Aihole (Durga Temple)
+Narrative focus: The curved end and passage around a distinctive temple plan
+Language files: Separate English and Devanagari Hindi master scripts in 03_Scripts.
+Status: Written narration ready for TTS input; pronunciation and generated audio still need listening QA.
+
+The Durga Temple at Aihole is memorable for its rounded end. This apsidal plan sets it apart from the more familiar rectangular outline of many temples. An elevated platform and a gallery around the shrine give you several ways to appreciate the design.
+
+Begin with the overall shape before looking at sculpture. Moving your eyes along the line of the gallery helps you understand how circulation is part of architecture. The curved end changes the building's outline, while pillars create a repeated rhythm around it. These are practical choices as well as visual ones.
+
+Aihole's temples are important to the story of Early Chalukya architectural experimentation. Their broader UNESCO proposal appears on the Tentative List, which is different from an inscribed World Heritage property. Follow the site's rules and stay clear of fragile carving. The Durga Temple offers an approachable lesson in design: one change in plan can alter how a whole building is seen and experienced.

@@ -1,0 +1,78 @@
+{
+  "placeId": "mehrangarh_fort__osian_temples",
+  "displayName": "Osian Temples",
+  "candidates": [
+    {
+      "candidateId": 1,
+      "title": "File:Osian Monuments.JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Osian_Monuments.JPG",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Osian_Monuments.JPG/1280px-Osian_Monuments.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalWidth": 2592,
+      "originalHeight": 1944,
+      "author": "L T Gandhi",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "previewPath": "tools/image_review/exact_zero_candidates/mehrangarh_fort__osian_temples/candidate_01.jpg"
+    },
+    {
+      "candidateId": 2,
+      "title": "File:Osiya-temple and Architecture 14.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Osiya-temple_and_Architecture_14.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Osiya-temple_and_Architecture_14.jpg/1280px-Osiya-temple_and_Architecture_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalWidth": 3872,
+      "originalHeight": 2592,
+      "author": "Schwiki",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "previewPath": "tools/image_review/exact_zero_candidates/mehrangarh_fort__osian_temples/candidate_02.jpg"
+    },
+    {
+      "candidateId": 3,
+      "title": "File:Osiya-temple & architecture 06.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Osiya-temple_%26_architecture_06.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Osiya-temple_%26_architecture_06.jpg/1280px-Osiya-temple_%26_architecture_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalWidth": 2435,
+      "originalHeight": 3637,
+      "author": "Schwiki",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "previewPath": "tools/image_review/exact_zero_candidates/mehrangarh_fort__osian_temples/candidate_03.jpg"
+    },
+    {
+      "candidateId": 4,
+      "title": "File:Osiya-temple & architecture 34.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Osiya-temple_%26_architecture_34.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Osiya-temple_%26_architecture_34.jpg/1280px-Osiya-temple_%26_architecture_34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalWidth": 3872,
+      "originalHeight": 2592,
+      "author": "Schwiki",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "previewPath": "tools/image_review/exact_zero_candidates/mehrangarh_fort__osian_temples/candidate_04.jpg"
+    },
+    {
+      "candidateId": 5,
+      "title": "File:Osiya-temple & architecture 35.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Osiya-temple_%26_architecture_35.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Osiya-temple_%26_architecture_35.jpg/1280px-Osiya-temple_%26_architecture_35.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalWidth": 3710,
+      "originalHeight": 2418,
+      "author": "Schwiki",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "previewPath": "tools/image_review/exact_zero_candidates/mehrangarh_fort__osian_temples/candidate_05.jpg"
+    },
+    {
+      "candidateId": 6,
+      "title": "File:Osiyan Mata Temple, Osiyan, Jodhpur 01.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Osiyan_Mata_Temple,_Osiyan,_Jodhpur_01.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Osiyan_Mata_Temple%2C_Osiyan%2C_Jodhpur_01.jpg/1280px-Osiyan_Mata_Temple%2C_Osiyan%2C_Jodhpur_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalWidth": 4032,
+      "originalHeight": 3024,
+      "author": "Rajsethi13",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/exact_zero_candidates/mehrangarh_fort__osian_temples/candidate_06.jpg"
+    }
+  ]
+}

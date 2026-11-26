@@ -1,0 +1,70 @@
+[
+  {
+    "place_id": "amer_fort",
+    "display_name": "Amer Fort, Jaipur",
+    "exact_files": [
+      "File:Sheesh Mahal at Amer Fort.jpg",
+      "File:Amer Fort - Ganesh Pol (2022) - img 01.jpg"
+    ],
+    "evidence_urls": [
+      "https://commons.wikimedia.org/wiki/File:Sheesh_Mahal_at_Amer_Fort.jpg",
+      "https://commons.wikimedia.org/wiki/File:Amer_Fort_-_Ganesh_Pol_(2022)_-_img_01.jpg"
+    ]
+  },
+  {
+    "place_id": "red_fort",
+    "display_name": "Red Fort, Delhi",
+    "exact_files": [
+      "File:Diwan-i-Aam Red Fort Delhi.jpg",
+      "File:Diwan i khas(Interior) New Delhi.jpg",
+      "File:Inside view of Moti Masjid-Red Fort.jpg"
+    ],
+    "evidence_urls": [
+      "https://commons.wikimedia.org/wiki/File:Diwan-i-Aam_Red_Fort_Delhi.jpg",
+      "https://commons.wikimedia.org/wiki/File:Diwan_i_khas(Interior)_New_Delhi.jpg",
+      "https://commons.wikimedia.org/wiki/File:Inside_view_of_Moti_Masjid-Red_Fort.jpg"
+    ]
+  },
+  {
+    "place_id": "mysore_palace",
+    "display_name": "Mysore Palace, Mysuru",
+    "exact_files": [
+      "File:Mysuru Palace - Public Durbar Hall.jpg",
+      "File:Mysuru Palace - Private Durbar Hall.jpg",
+      "File:Stained Glass Window Mysore Palace Dec23 A7C 08291.jpg"
+    ],
+    "evidence_urls": [
+      "https://commons.wikimedia.org/wiki/File:Mysuru_Palace_-_Public_Durbar_Hall.jpg",
+      "https://commons.wikimedia.org/wiki/File:Mysuru_Palace_-_Private_Durbar_Hall.jpg",
+      "https://commons.wikimedia.org/wiki/File:Stained_Glass_Window_Mysore_Palace_Dec23_A7C_08291.jpg"
+    ]
+  },
+  {
+    "place_id": "hampi_monuments",
+    "display_name": "Hampi Monuments, Karnataka",
+    "exact_files": [
+      "File:Hampi chariot.jpg",
+      "File:Hampi - Vittala Temple - Entrance Gopuram.jpg",
+      "File:Hampi - Lotus Mahal.jpg"
+    ],
+    "evidence_urls": [
+      "https://commons.wikimedia.org/wiki/File:Hampi_chariot.jpg",
+      "https://commons.wikimedia.org/wiki/File:Hampi_-_Vittala_Temple_-_Entrance_Gopuram.jpg",
+      "https://commons.wikimedia.org/wiki/File:Hampi_-_Lotus_Mahal.jpg"
+    ]
+  },
+  {
+    "place_id": "mahabalipuram",
+    "display_name": "Mahabalipuram, Tamil Nadu",
+    "exact_files": [
+      "File:Nakula Sahadeva Ratha NW Side Mahabalipuram Sep22 A7C 02553.jpg",
+      "File:Arjuna's penance mahabs 3.jpg",
+      "File:Butter Ball, Mahabalipuram.jpg"
+    ],
+    "evidence_urls": [
+      "https://commons.wikimedia.org/wiki/File:Nakula_Sahadeva_Ratha_NW_Side_Mahabalipuram_Sep22_A7C_02553.jpg",
+      "https://commons.wikimedia.org/wiki/File:Arjuna%27s_penance_mahabs_3.jpg",
+      "https://commons.wikimedia.org/wiki/File:Butter_Ball,_Mahabalipuram.jpg"
+    ]
+  }
+]

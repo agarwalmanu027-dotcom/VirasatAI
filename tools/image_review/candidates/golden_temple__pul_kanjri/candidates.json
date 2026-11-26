@@ -1,0 +1,37 @@
+{
+  "place_id": "golden_temple__pul_kanjri",
+  "display_name": "Pul Kanjri",
+  "parent_id": "golden_temple",
+  "main_order": 11,
+  "is_main": false,
+  "candidates": [
+    {
+      "title": "File:Fresco artwork from Pul Kanjri, Amritsar 05.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Fresco_artwork_from_Pul_Kanjri,_Amritsar_05.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Fresco_artwork_from_Pul_Kanjri%2C_Amritsar_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "preview_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Fresco_artwork_from_Pul_Kanjri%2C_Amritsar_05.jpg/1280px-Fresco_artwork_from_Pul_Kanjri%2C_Amritsar_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_width": 2769,
+      "original_height": 1508,
+      "mime": "image/jpeg",
+      "license": "Public domain",
+      "license_url": "",
+      "author": "Unknown author Unknown author",
+      "credit": "https://www.sikhsangat.com/index.php?/topic/83145-gurdwara-designs/&do=findComment&comment=706394",
+      "attribution": "",
+      "description": "Fresco artwork from Pul Kanjri, Amritsar.",
+      "date_time_original": "18 th century or 19 th century",
+      "sha1": "0eafc8d93a340aba0e84f7595af9cad3b13f743c",
+      "commons_assessment": "",
+      "copyrighted": "False",
+      "usage_terms": "Public domain",
+      "color_score": 15.01,
+      "sharpness_score": 1947.6,
+      "dhash": "61302060706064f4",
+      "candidate_id": 1,
+      "preview_path": "tools/image_review/candidates/golden_temple__pul_kanjri/candidate_01.jpg"
+    }
+  ],
+  "errors": [],
+  "visual_review_status": "pending",
+  "status": "candidates_collected"
+}

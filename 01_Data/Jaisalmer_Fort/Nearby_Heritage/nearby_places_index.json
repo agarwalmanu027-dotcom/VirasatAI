@@ -1,0 +1,178 @@
+{
+  "parent_monument_id": "jaisalmer_fort",
+  "parent_monument_name": "Jaisalmer Fort, Rajasthan",
+  "selection_source": "User-supplied table",
+  "nearby_entry_count": 10,
+  "places": [
+    {
+      "id": "jaisalmer_fort__kuldhara_village",
+      "order": 1,
+      "display_name": "Kuldhara Village",
+      "folder_name": "Kuldhara_Village",
+      "parent_monument_id": "jaisalmer_fort",
+      "paths": {
+        "data": "01_Data/Jaisalmer_Fort/Nearby_Heritage/Kuldhara_Village",
+        "images": "02_Images/Jaisalmer_Fort/Nearby_Heritage/Kuldhara_Village",
+        "scripts": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Kuldhara_Village",
+        "audio": "04_Audio/Jaisalmer_Fort/Nearby_Heritage/Kuldhara_Village"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "jaisalmer_fort__bada_bagh",
+      "order": 2,
+      "display_name": "Bada Bagh",
+      "folder_name": "Bada_Bagh",
+      "parent_monument_id": "jaisalmer_fort",
+      "paths": {
+        "data": "01_Data/Jaisalmer_Fort/Nearby_Heritage/Bada_Bagh",
+        "images": "02_Images/Jaisalmer_Fort/Nearby_Heritage/Bada_Bagh",
+        "scripts": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Bada_Bagh",
+        "audio": "04_Audio/Jaisalmer_Fort/Nearby_Heritage/Bada_Bagh"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "jaisalmer_fort__khaba_fort",
+      "order": 3,
+      "display_name": "Khaba Fort",
+      "folder_name": "Khaba_Fort",
+      "parent_monument_id": "jaisalmer_fort",
+      "paths": {
+        "data": "01_Data/Jaisalmer_Fort/Nearby_Heritage/Khaba_Fort",
+        "images": "02_Images/Jaisalmer_Fort/Nearby_Heritage/Khaba_Fort",
+        "scripts": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Khaba_Fort",
+        "audio": "04_Audio/Jaisalmer_Fort/Nearby_Heritage/Khaba_Fort"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "jaisalmer_fort__lodhruva_jain_temples",
+      "order": 4,
+      "display_name": "Lodhruva Jain Temples",
+      "folder_name": "Lodhruva_Jain_Temples",
+      "parent_monument_id": "jaisalmer_fort",
+      "paths": {
+        "data": "01_Data/Jaisalmer_Fort/Nearby_Heritage/Lodhruva_Jain_Temples",
+        "images": "02_Images/Jaisalmer_Fort/Nearby_Heritage/Lodhruva_Jain_Temples",
+        "scripts": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Lodhruva_Jain_Temples",
+        "audio": "04_Audio/Jaisalmer_Fort/Nearby_Heritage/Lodhruva_Jain_Temples"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "jaisalmer_fort__vyas_chhatri",
+      "order": 5,
+      "display_name": "Vyas Chhatri",
+      "folder_name": "Vyas_Chhatri",
+      "parent_monument_id": "jaisalmer_fort",
+      "paths": {
+        "data": "01_Data/Jaisalmer_Fort/Nearby_Heritage/Vyas_Chhatri",
+        "images": "02_Images/Jaisalmer_Fort/Nearby_Heritage/Vyas_Chhatri",
+        "scripts": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Vyas_Chhatri",
+        "audio": "04_Audio/Jaisalmer_Fort/Nearby_Heritage/Vyas_Chhatri"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "jaisalmer_fort__desert_national_park",
+      "order": 6,
+      "display_name": "Desert National Park",
+      "folder_name": "Desert_National_Park",
+      "parent_monument_id": "jaisalmer_fort",
+      "paths": {
+        "data": "01_Data/Jaisalmer_Fort/Nearby_Heritage/Desert_National_Park",
+        "images": "02_Images/Jaisalmer_Fort/Nearby_Heritage/Desert_National_Park",
+        "scripts": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Desert_National_Park",
+        "audio": "04_Audio/Jaisalmer_Fort/Nearby_Heritage/Desert_National_Park"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "jaisalmer_fort__tanot_mata_temple",
+      "order": 7,
+      "display_name": "Tanot Mata Temple",
+      "folder_name": "Tanot_Mata_Temple",
+      "parent_monument_id": "jaisalmer_fort",
+      "paths": {
+        "data": "01_Data/Jaisalmer_Fort/Nearby_Heritage/Tanot_Mata_Temple",
+        "images": "02_Images/Jaisalmer_Fort/Nearby_Heritage/Tanot_Mata_Temple",
+        "scripts": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Tanot_Mata_Temple",
+        "audio": "04_Audio/Jaisalmer_Fort/Nearby_Heritage/Tanot_Mata_Temple"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "jaisalmer_fort__akal_wood_fossil_park",
+      "order": 8,
+      "display_name": "Akal Wood Fossil Park",
+      "folder_name": "Akal_Wood_Fossil_Park",
+      "parent_monument_id": "jaisalmer_fort",
+      "paths": {
+        "data": "01_Data/Jaisalmer_Fort/Nearby_Heritage/Akal_Wood_Fossil_Park",
+        "images": "02_Images/Jaisalmer_Fort/Nearby_Heritage/Akal_Wood_Fossil_Park",
+        "scripts": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Akal_Wood_Fossil_Park",
+        "audio": "04_Audio/Jaisalmer_Fort/Nearby_Heritage/Akal_Wood_Fossil_Park"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "jaisalmer_fort__amar_sagar_jain_temple",
+      "order": 9,
+      "display_name": "Amar Sagar Jain Temple",
+      "folder_name": "Amar_Sagar_Jain_Temple",
+      "parent_monument_id": "jaisalmer_fort",
+      "paths": {
+        "data": "01_Data/Jaisalmer_Fort/Nearby_Heritage/Amar_Sagar_Jain_Temple",
+        "images": "02_Images/Jaisalmer_Fort/Nearby_Heritage/Amar_Sagar_Jain_Temple",
+        "scripts": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Amar_Sagar_Jain_Temple",
+        "audio": "04_Audio/Jaisalmer_Fort/Nearby_Heritage/Amar_Sagar_Jain_Temple"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "jaisalmer_fort__nathmal_ji_ki_haveli",
+      "order": 10,
+      "display_name": "Nathmal Ji Ki Haveli",
+      "folder_name": "Nathmal_Ji_Ki_Haveli",
+      "parent_monument_id": "jaisalmer_fort",
+      "paths": {
+        "data": "01_Data/Jaisalmer_Fort/Nearby_Heritage/Nathmal_Ji_Ki_Haveli",
+        "images": "02_Images/Jaisalmer_Fort/Nearby_Heritage/Nathmal_Ji_Ki_Haveli",
+        "scripts": "03_Scripts/Jaisalmer_Fort/Nearby_Heritage/Nathmal_Ji_Ki_Haveli",
+        "audio": "04_Audio/Jaisalmer_Fort/Nearby_Heritage/Nathmal_Ji_Ki_Haveli"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    }
+  ]
+}

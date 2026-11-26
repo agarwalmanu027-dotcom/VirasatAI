@@ -1,0 +1,14 @@
+VIRASATAI — STORY DATA
+Entry ID: sanchi_stupa__neelkantheshwar_temple
+Name: Neelkantheshwar Temple
+Narrative focus: Inscriptions that anchor temple architecture to a documented building period.
+Language files: Separate English and Devanagari Hindi master scripts in 03_Scripts.
+Status: Written narration ready for TTS input; pronunciation and generated audio still need listening QA.
+
+The Neelkantheshwar Temple in Udaipur village belongs to Madhya Pradesh's Vidisha district. Also known as Udayeshwar, it should not be confused with places in the Rajasthan city of Udaipur.
+
+This Shiva temple is associated with the Paramara ruler Udayaditya. Its inscriptions place construction between ten fifty-nine and ten eighty. Such records are valuable because they connect the surviving architecture with a documented period.
+
+The shrine, hall and entrance porches give the building a sequence of spaces. Notice how movement through those spaces changes your view of the temple. The stonework is both a religious setting and evidence of medieval design.
+
+A date carved into a monument can seem small beside its architecture, but it helps the whole story become clearer. Here, writing and building work together. This temple adds a carefully documented medieval chapter to the wider heritage landscape associated with Sanchi.

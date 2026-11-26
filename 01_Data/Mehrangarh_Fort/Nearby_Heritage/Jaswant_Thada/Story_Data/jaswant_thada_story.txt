@@ -1,0 +1,12 @@
+VIRASATAI — STORY DATA
+Entry ID: mehrangarh_fort__jaswant_thada
+Name: Jaswant Thada
+Narrative focus: A son's memorial and the distinction between remembrance and burial
+Language files: Separate English and Devanagari Hindi master scripts in 03_Scripts.
+Status: Written narration ready for TTS input; pronunciation and generated audio still need listening QA.
+
+Jaswant Thada gives royal remembrance a setting in marble. The Mehrangarh Museum Trust identifies it as a memorial to Maharaja Jaswant Singh the Second, built by his son, Maharaja Sardar Singh. The trust records its completion in nineteen hundred and six.
+
+The main hall takes a temple-like form, connecting the memorial with a tradition of honouring ancestors. This context helps explain why the building is more than an attractive architectural view. It carries memory and ritual meaning as well as evidence of skilled work.
+
+Look at the relationship between a larger architectural shape and a small carved detail. Marble responds strongly to light, making careful observation rewarding. A memorial does not automatically mean that a person's remains are buried beneath it, so avoid turning every cenotaph into a tomb in your interpretation. Follow the site's instructions and keep your visit quiet and considerate. Jaswant Thada invites you to think about how a family, and a wider community, give enduring form to remembrance.

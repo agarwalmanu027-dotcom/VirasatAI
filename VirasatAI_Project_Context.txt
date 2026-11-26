@@ -1,0 +1,2058 @@
+SYSTEM CONTEXT PROFILE — VIRASATAI PROJECT
+
+==================================================
+1. USER CONTEXT
+==================================================
+
+The user is a BCA student specializing in Artificial Intelligence and Data Science at Graphic Era (Deemed to be University), Dehradun, India.
+
+Current academic level:
+- BCA AI & Data Science
+- Around 3rd semester / second year
+- Expected graduation: May 2028
+
+The user is still learning AI/ML and software development, so all project guidance should be realistic for a BCA-level student.
+
+Communication preference:
+- Explain concepts in Hinglish.
+- Hinglish means Hindi written in English/Roman letters.
+- Do not use Devanagari Hindi unless explicitly requested.
+
+For college documents:
+- Use very simple English.
+- Keep language natural and student-friendly.
+- Avoid unnecessary difficult words.
+- Avoid overly research-heavy language.
+- The user should be able to understand and explain everything in viva.
+
+The user does not want a project that only looks impressive on paper. The project should actually be understandable, implementable and demonstrable.
+
+==================================================
+2. PROJECT NAME
+==================================================
+
+Main project name:
+
+VirasatAI
+
+Full working title:
+
+“VirasatAI – AI-Powered Indian Heritage & Cultural Preservation Platform”
+
+For normal headings, synopsis and UI, “VirasatAI” can be used unless the full project name is specifically required.
+
+==================================================
+3. PROJECT ORIGIN
+==================================================
+
+VirasatAI was originally developed as a Smart India Hackathon-related project idea.
+
+The user participated in the Smart India Hackathon internal selection and cleared the internal round.
+
+The project is now also being developed/documented as a college mini-project/synopsis project.
+
+The project should therefore remain:
+- practical
+- student-level
+- AI-based
+- socially useful
+- suitable for a college demonstration
+- expandable in the future
+
+==================================================
+4. MAIN PROJECT IDEA
+==================================================
+
+VirasatAI is an AI-based mobile application designed to help users explore Indian heritage places.
+
+A user can capture or upload an image of a supported Indian monument.
+
+The application will process the image using an Artificial Intelligence model and identify the monument.
+
+After identification, the application will provide useful information about the monument.
+
+The project is not only a monument classifier. It combines several heritage-related features inside one mobile application.
+
+==================================================
+5. MAIN FEATURES OF VIRASATAI
+==================================================
+
+The main planned features are:
+
+1. Monument Identification
+
+The user can:
+- capture a monument using the mobile camera
+OR
+- upload an existing image
+
+The AI model will analyze the image and identify the monument.
+
+The first version will support selected Indian monuments rather than claiming to recognize every monument in India.
+
+--------------------------------------------------
+
+2. Monument Information
+
+After successful identification, the application will show information such as:
+
+- Monument name
+- History
+- Architecture
+- Important facts
+- Related images
+
+Information should be written in simple language.
+
+--------------------------------------------------
+
+3. Nearby Heritage Places
+
+The application will show other heritage or historical places located near the identified monument.
+
+Example:
+
+If the user identifies the Taj Mahal, the application may also suggest nearby historical places in Agra.
+
+This feature is intended to help users explore more heritage locations rather than only one monument.
+
+--------------------------------------------------
+
+4. Multilingual Information
+
+Heritage information should be available in multiple languages.
+
+The purpose is to make heritage information easier for different types of users.
+
+The exact languages can be finalized later depending on implementation.
+
+--------------------------------------------------
+
+5. Audio Storytelling
+
+Users should have an option to listen to the history/story of a monument.
+
+The audio feature does not need to be synchronized with every image.
+
+The application can simply have:
+
+Image Gallery
+
+and a separate:
+
+“Play Story” / “Listen” option.
+
+Scripts may be created in:
+- English
+- Hindi
+- other supported languages later
+
+Typical monument audio/story length discussed:
+approximately 1–2 minutes.
+
+--------------------------------------------------
+
+6. Litter / Waste Detection
+
+VirasatAI will also include a cleanliness-related AI feature.
+
+The user can capture or upload an image of an area around a heritage location.
+
+The application can analyze the image and detect visible litter or waste.
+
+The exact AI technique may be:
+- image classification
+OR
+- object detection
+
+The final approach should be selected according to:
+- available dataset
+- training results
+- project complexity
+
+Do not make this feature unnecessarily complicated.
+
+--------------------------------------------------
+
+7. Cleanliness Reporting
+
+If the user notices or detects litter, the application can provide a reporting option.
+
+The report may contain:
+
+- Photograph
+- Location details
+- Basic issue information
+
+IMPORTANT:
+
+Do NOT claim that VirasatAI automatically sends complaints directly to ASI, government departments or municipal authorities unless such an integration is actually implemented.
+
+For the college prototype, it is enough to demonstrate a user reporting facility and store/report details inside the application/database.
+
+==================================================
+6. MAIN PROJECT GOAL
+==================================================
+
+The main purpose of VirasatAI is to bring different heritage-related features together in one simple mobile application.
+
+The application combines:
+
+AI-based monument identification
++
+heritage information
++
+related images
++
+nearby heritage places
++
+multilingual information
++
+audio storytelling
++
+litter detection
++
+cleanliness reporting
+
+The project should make heritage exploration easier, more interactive and more accessible.
+
+==================================================
+7. PROJECT SCOPE
+==================================================
+
+Initial project scope:
+
+Start with selected monuments rather than trying to identify every heritage place in India.
+
+Pilot monument:
+
+TAJ MAHAL
+
+The Taj Mahal is currently the main monument being used to develop:
+- heritage data
+- images
+- scripts
+- source records
+- AI dataset planning
+- nearby heritage information
+
+Future expansion target discussed:
+
+Approximately 20 major Indian monuments.
+
+Nearby heritage/location database:
+
+Approximately 200 related or nearby places may eventually be included.
+
+These are future-scale targets, not necessarily the first working prototype.
+
+==================================================
+8. TAJ MAHAL — PILOT MONUMENT
+==================================================
+
+The Taj Mahal is the first monument being prepared in detail.
+
+For the Taj Mahal, the project has worked on:
+
+- factual information
+- source records
+- image collection
+- image categories
+- scripts
+- audio planning
+- nearby heritage locations
+- AI dataset organization
+
+The Taj Mahal content should be used as the basic template for adding future monuments.
+
+==================================================
+9. TAJ MAHAL IMAGE PLAN
+==================================================
+
+IMPORTANT FINAL DECISION:
+
+Approximately 40 curated Taj Mahal images TOTAL are enough for the application/gallery.
+
+It is NOT 40 images per folder.
+
+These are display/content images.
+
+AI model training images should be maintained separately.
+
+The display image collection should contain different views and important architectural elements.
+
+Main categories discussed:
+
+Front
+Back_Yamuna
+East
+West
+North
+South
+Aerial
+Dome
+Minarets
+Interior
+Jali
+Pietra_Dura
+Calligraphy
+Mosque
+Jawab
+Garden
+
+A working distribution discussed was approximately:
+
+Front — 5
+Back_Yamuna — 3
+East — 2
+West — 2
+North — 2
+South — 2
+Aerial — 3
+Dome — 3
+Minarets — 3
+Interior — 2
+Jali — 2
+Calligraphy — 2
+Mosque — 2
+Jawab — 2
+Garden — 2
+
+The exact final distribution can be adjusted slightly as long as the total remains around 40 useful images.
+
+==================================================
+10. IMAGE PREFERENCES
+==================================================
+
+Important user preferences for VirasatAI images:
+
+- Use color images.
+- Avoid black-and-white images.
+- Prefer high-quality / high-resolution images.
+- Avoid duplicate-looking images.
+- Different angles should be included.
+- Aerial images should preferably clearly show the monument from above.
+- Drone/helicopter-like views were preferred where suitable.
+- Interior images should not look excessively yellow/cream if better alternatives exist.
+- Images should be useful for actual application presentation.
+
+==================================================
+11. DISPLAY IMAGES VS AI DATASET
+==================================================
+
+This distinction is very important.
+
+DISPLAY IMAGES:
+
+Used in the application to show monument photos to users.
+
+Approximately:
+40 Taj Mahal images.
+
+AI TRAINING DATASET:
+
+Used for training monument-recognition models.
+
+The AI dataset can contain many more images.
+
+Do NOT mix the two concepts.
+
+A display gallery image does not automatically mean it should be part of the AI training dataset.
+
+==================================================
+12. VIRASATAI PROJECT DIRECTORY
+==================================================
+
+The main project location previously mentioned by the user is:
+
+C:\college virasat_ai\VirasatAI
+
+Prefer this path if scripts or instructions require the current project folder.
+
+Do not randomly change the project location unless the user provides a new one.
+
+==================================================
+13. RECOMMENDED PROJECT FOLDER STRUCTURE
+==================================================
+
+A structure previously planned is similar to:
+
+VirasatAI/
+
+01_Data/
+    Taj_Mahal/
+        Facts/
+        Sources/
+        Nearby_Heritage/
+
+02_Images/
+    Taj_Mahal/
+        Front/
+        Back_Yamuna/
+        East/
+        West/
+        North/
+        South/
+        Aerial/
+        Dome/
+        Minarets/
+        Interior/
+        Jali/
+        Pietra_Dura/
+        Calligraphy/
+        Mosque/
+        Jawab/
+        Garden/
+
+03_Scripts/
+    Taj_Mahal/
+        Hindi/
+        English/
+        Voice_Directions/
+
+04_Audio/
+    Taj_Mahal/
+        Hindi/
+        English/
+
+05_AI_Dataset/
+    Monument_Recognition/
+
+    Possible cleanliness/damage categories may be stored separately if required.
+
+06_Database/
+    JSON/
+    SQL/
+
+Folder structure may evolve during implementation, but the separation between data, images, audio, scripts, AI dataset and database should remain clear.
+
+==================================================
+14. IMAGE FILE NAMING
+==================================================
+
+A clean image naming pattern is preferred.
+
+Example:
+
+taj_front_01.jpg
+taj_front_02.jpg
+
+taj_aerial_01.jpg
+taj_aerial_02.jpg
+
+taj_dome_01.jpg
+
+taj_interior_01.jpg
+
+Suggested general structure:
+
+taj_<category>_<number>.jpg
+
+This makes image management easier.
+
+==================================================
+15. SOURCE RECORDS
+==================================================
+
+The user has already spent significant effort collecting Taj Mahal image/source URLs.
+
+Approximately:
+43 unique URLs were included in one cleaned source-record version.
+
+Before deduplication, around 46 URLs had been discussed.
+
+A source file concept was created:
+
+Taj_Mahal_Source_Record.txt
+
+The source record should be preserved.
+
+Do not ask the user to collect all Taj Mahal sources again unless necessary.
+
+==================================================
+16. IMAGE SOURCE PRIORITY
+==================================================
+
+Preferred source hierarchy:
+
+1. Official government sources
+2. Archaeological Survey of India / Ministry resources
+3. UNESCO
+4. Official tourism sources
+5. Trusted museums/cultural institutions
+6. Wikimedia Commons
+7. Wikipedia only for supporting/background information
+
+For image collection, Wikimedia Commons is particularly useful because source and licensing information can be recorded.
+
+==================================================
+17. IMAGE METADATA
+==================================================
+
+Ideally each stored display image should have metadata such as:
+
+- Image filename
+- Category
+- Source URL
+- Source name
+- Attribution
+- License
+- Local path
+- Monument ID
+
+This will help maintain proper documentation and citations.
+
+==================================================
+18. MONUMENT DATA STRUCTURE
+==================================================
+
+For each monument, data may include:
+
+- Monument ID
+- Monument name
+- Location
+- State
+- Short history
+- Architecture
+- Important facts
+- Related images
+- Nearby heritage places
+- Audio/story script
+- Supported languages
+- Source references
+
+Possible formats previously discussed include:
+
+JSON
+SQLite database
+Firebase depending on the final app design
+
+Example conceptual file names:
+
+monuments_master.json
+
+data.json
+
+script.json
+
+The final implementation can use a cleaner structure if needed.
+
+==================================================
+19. AI MONUMENT IDENTIFICATION
+==================================================
+
+The main AI approach currently planned is:
+
+CNN — Convolutional Neural Network
+
+CNN is the main algorithm to mention in the synopsis.
+
+The model will learn visual characteristics of monuments from images.
+
+The AI system should identify selected monument classes.
+
+Conceptual pipeline:
+
+User Image
+→ Image Preprocessing
+→ CNN Model
+→ Feature Extraction
+→ Classification
+→ Monument Class
+→ Database Lookup
+→ Monument Information
+
+==================================================
+20. TRANSFER LEARNING
+==================================================
+
+Transfer Learning may be used.
+
+Instead of training a complete deep-learning model from zero, a pre-trained image-classification model can be adapted to the monument dataset.
+
+Advantages for this project:
+
+- less training time
+- smaller dataset requirement
+- suitable for student projects
+- can provide good performance
+- easier to implement than building a deep CNN completely from scratch
+
+Do not finalize a specific pretrained model unless testing is performed or the user decides one.
+
+Possible models could be evaluated later.
+
+==================================================
+21. IMAGE PREPROCESSING
+==================================================
+
+Before training or prediction, images may be prepared using simple preprocessing.
+
+Possible steps:
+
+- Resize image
+- Convert to required format
+- Normalize pixel values if required
+- Crop where needed
+
+Data augmentation may include:
+
+- Rotation
+- Flipping
+- Brightness changes
+- Slight zoom
+- Slight crop
+
+The purpose is to help the AI model learn monuments under different conditions.
+
+==================================================
+22. MONUMENT DATASET REQUIREMENTS
+==================================================
+
+For AI monument recognition, collect images with:
+
+- different angles
+- different distances
+- different lighting
+- different backgrounds
+- different seasons/weather where possible
+- different camera devices where possible
+
+Avoid relying only on perfect front-view images.
+
+Otherwise, the model may learn only one specific appearance.
+
+==================================================
+23. MODEL TRAINING
+==================================================
+
+Basic training process:
+
+Collect images
+
+→ Organize monument classes
+
+→ Preprocess images
+
+→ Split dataset
+
+→ Train model
+
+→ Validate model
+
+→ Test on unseen images
+
+→ Save trained model
+
+→ Connect model to mobile application/backend
+
+Do not claim model performance until the model has actually been trained and tested.
+
+==================================================
+24. LITTER DETECTION MODEL
+==================================================
+
+Litter detection is separate from monument identification.
+
+Possible approaches:
+
+Option 1:
+Image classification
+
+Example:
+Clean
+vs
+Litter Present
+
+Option 2:
+Object detection
+
+Detect:
+- bottles
+- plastic
+- wrappers
+- waste
+etc.
+
+For the first student-level prototype, use whichever approach is simpler and produces acceptable results.
+
+The synopsis currently keeps this flexible.
+
+==================================================
+25. POSSIBLE FUTURE CLEANLINESS / DAMAGE CLASSES
+==================================================
+
+Some broader dataset ideas previously discussed included:
+
+Crack
+Stain
+Litter
+Vegetation
+Surface_Damage
+Graffiti
+Normal
+
+However:
+
+Do not automatically claim that all of these are implemented.
+
+Current confirmed focus is mainly:
+
+VISIBLE LITTER / WASTE DETECTION.
+
+Other heritage-damage detection ideas should be treated as future possibilities unless implemented.
+
+==================================================
+26. MOBILE APPLICATION TECHNOLOGY
+==================================================
+
+Current planned mobile stack:
+
+Flutter
+
+Programming language:
+
+Dart
+
+Purpose:
+
+Develop the Android mobile application.
+
+Reasons this is suitable:
+- cross-platform capability
+- modern mobile UI
+- suitable for college mobile projects
+- can connect with backend/API/database
+
+The current primary target is Android.
+
+==================================================
+27. AI DEVELOPMENT STACK
+==================================================
+
+Main AI tools:
+
+Python
+
+TensorFlow / Keras
+
+OpenCV
+
+Possible responsibilities:
+
+Python:
+AI model development and data processing
+
+TensorFlow / Keras:
+CNN / transfer-learning model training
+
+OpenCV:
+image loading, resizing, processing and related image operations
+
+==================================================
+28. DEVELOPMENT TOOLS
+==================================================
+
+Current planned tools:
+
+VS Code
+Android Studio
+Git
+GitHub
+
+VS Code:
+main code editor
+
+Android Studio:
+Android SDK, emulator and application testing
+
+Git/GitHub:
+version control and project backup
+
+==================================================
+29. DATABASE
+==================================================
+
+Possible database technologies:
+
+SQLite
+OR
+Firebase
+
+Final database choice is not completely fixed.
+
+Use wording such as:
+
+“SQLite / Firebase may be used depending on the final implementation.”
+
+The database may store:
+
+- monument data
+- nearby heritage places
+- image metadata
+- language information
+- user report information
+
+==================================================
+30. SYSTEM ARCHITECTURE
+==================================================
+
+The project can be explained using three main components.
+
+1. Mobile Application
+
+Handles:
+- user interface
+- image upload/capture
+- heritage information
+- nearby places
+- language options
+- audio
+- cleanliness-report feature
+
+2. AI Model
+
+Handles:
+- monument identification
+- litter detection
+
+3. Database
+
+Stores:
+- monument details
+- images/paths
+- nearby places
+- related content
+- user report data where required
+
+==================================================
+31. MAIN MONUMENT WORKFLOW
+==================================================
+
+Simplified workflow:
+
+User
+→ Capture / Upload Image
+→ Image Preprocessing
+→ AI Model
+→ Monument Identification
+→ Database Lookup
+→ Monument Information
+→ Nearby Heritage Places / Audio / Other Features
+
+Keep this workflow simple for diagrams and synopsis.
+
+==================================================
+32. LITTER DETECTION WORKFLOW
+==================================================
+
+Simplified workflow:
+
+User
+→ Capture / Upload Image
+→ Image Processing
+→ Litter Detection
+→ Result
+→ Report Option
+
+Report:
+
+Photograph
++
+Location Details
++
+Issue Information
+
+==================================================
+33. MAIN ALGORITHM STEPS
+==================================================
+
+A simple monument-identification algorithm previously prepared is:
+
+1. Take or upload an image from the user.
+
+2. Check and prepare the input image.
+
+3. Resize and preprocess the image.
+
+4. Send the processed image to the trained CNN model.
+
+5. Extract important visual features from the image.
+
+6. Predict the monument class.
+
+7. Identify the monument name.
+
+8. Search for related information in the database.
+
+9. Display monument information and images.
+
+10. Display nearby heritage places and other available features.
+
+==================================================
+34. MAIN PSEUDOCODE
+==================================================
+
+IMPORTANT:
+
+The user wants only ONE main pseudocode in Chapter 5.
+
+Use a simple version like:
+
+START
+
+Take image from user
+
+Preprocess the image
+
+Load trained CNN model
+
+Give image to CNN model
+
+Predict monument class
+
+IF monument is identified THEN
+
+    Get monument name
+
+    Get monument information from database
+
+    Display monument name
+
+    Display history, facts and images
+
+    Display nearby heritage places
+
+ELSE
+
+    Display "Monument not identified"
+
+END IF
+
+STOP
+
+Do not unnecessarily create separate pseudocode for every feature.
+
+==================================================
+35. VIRASATAI SYNOPSIS
+==================================================
+
+The user is currently preparing the college synopsis for VirasatAI.
+
+Main structure:
+
+Chapter 1
+Introduction and Problem Statement
+
+1.1 Introduction
+
+1.2 Problem Statement
+
+
+Chapter 2
+Background / Literature Survey
+
+
+Chapter 3
+Objectives
+
+
+Chapter 4
+Hardware and Software Requirements
+
+4.1 Hardware Requirements
+
+4.2 Software Requirements
+
+
+Chapter 5
+Possible Approach / Algorithms
+
+
+References
+
+==================================================
+36. SYNOPSIS WRITING STYLE
+==================================================
+
+This is extremely important.
+
+The user wants the synopsis to look like it was written by a normal BCA student.
+
+Use:
+
+- simple sentences
+- easy vocabulary
+- normal academic English
+- clear paragraphs
+- realistic claims
+
+Avoid:
+
+- unnecessary research terminology
+- very complicated sentences
+- exaggerated claims
+- highly technical mathematics
+- unnecessary buzzwords
+
+Every section should be understandable to the user so they can explain it during viva.
+
+==================================================
+37. CHAPTER 1 — INTRODUCTION AND PROBLEM STATEMENT
+==================================================
+
+Sections:
+
+1.1 Introduction
+
+1.2 Problem Statement
+
+Latest length preference:
+
+Approximately 1.5 Word pages.
+
+The user does NOT want it extremely short.
+
+The user also does NOT want 2.5–3 pages of unnecessary content.
+
+The latest balanced version was expanded with approximately another 110-word paragraph.
+
+That additional paragraph should be placed:
+
+AT THE END OF 1.1 INTRODUCTION
+
+and
+
+JUST BEFORE
+
+1.2 Problem Statement.
+
+Introduction should discuss:
+
+- India's heritage
+- importance of monuments
+- use of digital technology
+- VirasatAI concept
+- monument image identification
+- monument information
+- nearby places
+- multilingual content
+- audio storytelling
+- litter detection
+- heritage awareness
+- project expansion possibility
+
+==================================================
+38. CHAPTER 1 — PROBLEM STATEMENT
+==================================================
+
+Main problem:
+
+Users may see a monument but not know its name.
+
+They may need to separately search for:
+
+- name
+- history
+- architecture
+- facts
+- images
+- nearby heritage places
+
+Different users may also prefer:
+
+- different languages
+- audio instead of long text
+
+Heritage sites may also have cleanliness problems such as litter.
+
+VirasatAI attempts to combine these needs inside one application.
+
+Useful problem points:
+
+- Identifying selected Indian heritage monuments from an uploaded or captured image.
+
+- Providing simple information about the identified monument, including history, architecture, facts and images.
+
+- Providing multilingual information and audio-based storytelling.
+
+- Helping users discover nearby heritage places.
+
+- Detecting visible litter or waste from user-provided images.
+
+- Allowing users to report cleanliness issues using a photograph and location details.
+
+==================================================
+39. CHAPTER 2 — BACKGROUND / LITERATURE SURVEY
+==================================================
+
+IMPORTANT FORMAT DECISION:
+
+Chapter 2 should be written as CONTINUOUS PARAGRAPHS.
+
+Do NOT divide it into:
+
+2.1
+2.2
+2.3
+
+unless the user later changes this decision.
+
+Do not use lots of bullet points.
+
+The user wants Chapter 2:
+- bigger than the initial draft
+- very easy English
+- approximately suitable for around 2 Word pages depending on formatting
+
+Main flow:
+
+Indian Heritage
+
+→ Digital Heritage Technology
+
+→ Existing Heritage Platforms
+
+→ Incredible India
+
+→ Google Arts & Culture
+
+→ Indian Culture Portal
+
+→ Need for interactive monument identification
+
+→ Artificial Intelligence
+
+→ Image Classification
+
+→ Image Processing
+
+→ Multilingual Information
+
+→ Audio Storytelling
+
+→ Nearby Heritage Places
+
+→ Litter Detection
+
+→ VirasatAI approach
+
+==================================================
+40. CHAPTER 2 — EXISTING PLATFORMS
+==================================================
+
+Existing platforms discussed include:
+
+Incredible India
+
+Google Arts & Culture
+
+Indian Culture Portal
+
+These platforms should be discussed respectfully.
+
+Do NOT write:
+
+“Existing systems are bad.”
+
+Instead use wording such as:
+
+“Existing platforms provide useful heritage information, but there is still scope for combining image-based identification and other useful features in one simple application.”
+
+This keeps the literature survey reasonable and professional.
+
+==================================================
+41. CHAPTER 2 — PROJECT GAP
+==================================================
+
+One of the main gaps VirasatAI addresses:
+
+A user may only have a photograph of a monument and may not know its name.
+
+Existing information platforms often work best when the user already knows what they want to search for.
+
+VirasatAI adds:
+
+Image
+→ Automatic Monument Identification
+→ Related Heritage Information
+
+This should be one of the important connections between the literature survey and the proposed project.
+
+==================================================
+42. CHAPTER 3 — OBJECTIVES
+==================================================
+
+The user decided to keep exactly SIX objectives.
+
+Each should remain short.
+
+Current objectives:
+
+1. To identify selected Indian heritage monuments using Artificial Intelligence.
+
+The application will allow users to capture or upload an image and identify the monument using an AI model.
+
+
+2. To provide useful information about the identified monument.
+
+The application will provide simple information about its history, architecture, important facts and related images.
+
+
+3. To provide multilingual information and audio-based storytelling.
+
+Users will be able to access heritage information in different languages and listen to important stories and information through audio.
+
+
+4. To help users discover nearby heritage places.
+
+The application will provide information about nearby historical and cultural places so that users can explore more heritage locations.
+
+
+5. To detect visible litter or waste and provide a reporting facility.
+
+The application will detect visible litter from user-provided images and allow users to report the issue with a photograph and location details.
+
+
+6. To develop a simple and user-friendly application for heritage awareness and protection.
+
+The application will bring its main features into one platform and encourage users to learn about and help protect Indian heritage.
+
+Do not unnecessarily expand these objectives unless requested.
+
+==================================================
+43. CHAPTER 4 — HARDWARE REQUIREMENTS
+==================================================
+
+IMPORTANT:
+
+These requirements mainly represent:
+
+DEVELOPMENT AND TESTING REQUIREMENTS
+
+rather than only end-user phone requirements.
+
+Current hardware table concept:
+
+Laptop / Computer
+Intel Core i5 or equivalent processor
+
+RAM
+8 GB or above
+
+Storage
+At least 20 GB free storage
+
+Mobile Device
+Android smartphone for application testing
+
+Camera
+Mobile camera for capturing monument and litter images
+
+Internet Connection
+Required for datasets, libraries and application resources
+
+==================================================
+44. CHAPTER 4 — SOFTWARE REQUIREMENTS
+==================================================
+
+Current software requirements:
+
+Windows 10/11
+Development environment
+
+Python 3.x
+AI/ML model development and data processing
+
+VS Code
+Code development and editing
+
+Flutter
+Mobile application development
+
+Dart
+Programming language used with Flutter
+
+Android Studio
+Android SDK, emulator and application testing
+
+TensorFlow / Keras
+Image classification model training/testing
+
+OpenCV
+Image processing
+
+SQLite / Firebase
+Application data and user reports depending on final implementation
+
+Git / GitHub
+Project source-code management
+
+==================================================
+45. CHAPTER 5 — POSSIBLE APPROACH / ALGORITHMS
+==================================================
+
+The user provided another college synopsis as a style reference and wanted Chapter 5 to be similar in simplicity.
+
+Current preferred Chapter 5 structure:
+
+5.1 System Approach
+
+5.2 Data Collection
+
+5.3 Image Preprocessing
+
+5.4 Main Algorithm – CNN Based Monument Identification
+
+5.5 Transfer Learning
+
+5.6 Litter Detection
+
+5.7 Monument Information and Nearby Places
+
+5.8 Algorithm Steps
+
+5.9 Pseudocode – Monument Identification
+
+5.10 Overall Workflow
+
+Chapter 5 should be detailed enough for the synopsis but still easy.
+
+==================================================
+46. CHAPTER 5 — SYSTEM APPROACH
+==================================================
+
+Explain three major components:
+
+Mobile Application
+
+AI Model
+
+Database
+
+Do not create overly complicated architecture.
+
+==================================================
+47. CHAPTER 5 — DATA COLLECTION
+==================================================
+
+Explain:
+
+Images of selected heritage monuments will be collected.
+
+Different:
+
+- angles
+- views
+- lighting
+- distances
+
+should be included.
+
+Images will be organized according to monument class.
+
+Data will be divided for training and testing.
+
+==================================================
+48. CHAPTER 5 — IMAGE PREPROCESSING
+==================================================
+
+Explain very simply:
+
+Images need to be prepared before training.
+
+Possible steps:
+
+- Resize
+- Format preparation
+- Rotation
+- Brightness adjustment
+- Crop
+- Flip
+
+Do not make this section mathematically complicated.
+
+==================================================
+49. CHAPTER 5 — CNN
+==================================================
+
+CNN is the main monument-identification algorithm.
+
+Explain CNN simply:
+
+CNN can learn useful visual features from images such as:
+
+- edges
+- shapes
+- patterns
+- structures
+- architectural features
+
+Then it classifies the image into one of the supported monument classes.
+
+Basic process:
+
+Input Image
+→ Preprocessing
+→ CNN Model
+→ Feature Extraction
+→ Classification
+→ Monument Name
+
+==================================================
+50. CHAPTER 5 — TRANSFER LEARNING
+==================================================
+
+Transfer learning may be used.
+
+Write it as:
+
+A pre-trained model may be used as a starting point and further trained using monument images.
+
+Benefits:
+- saves time
+- reduces training requirements
+- useful when dataset is limited
+
+Keep the specific model open until implementation/testing.
+
+==================================================
+51. CHAPTER 5 — LITTER DETECTION
+==================================================
+
+Describe it as a separate feature.
+
+User provides image.
+
+Model checks for visible litter.
+
+If litter is detected:
+
+show result
+
+and
+
+provide reporting option.
+
+Do not overcomplicate this part.
+
+==================================================
+52. REFERENCES
+==================================================
+
+Preferred citation style:
+
+[1]
+[2]
+[3]
+
+Numbered references are suitable for the synopsis.
+
+Previously considered useful references include:
+
+- Research papers on deep-learning-based Indian heritage monument classification
+
+- TensorFlow documentation for transfer learning
+
+- TensorFlow / TensorFlow Hub image-classification documentation
+
+- Flutter documentation
+
+- Government / tourism sources related to digital tourism and cleanliness reporting
+
+Source claims should actually match the referenced source.
+
+==================================================
+53. SOURCE QUALITY RULE
+==================================================
+
+For factual heritage content, prefer:
+
+Official government
+UNESCO
+ASI
+Ministry
+Official tourism
+Trusted cultural institutions
+
+Research/AI methodology:
+
+Peer-reviewed research
+TensorFlow documentation
+Official Flutter documentation
+other reliable technical documentation
+
+Avoid relying mainly on random blogs.
+
+==================================================
+54. FUTURE SCOPE
+==================================================
+
+Possible future expansion:
+
+- More Indian monuments
+- More nearby heritage places
+- More supported languages
+- Better audio storytelling
+- Improved monument-identification model
+- Improved cleanliness detection
+- Larger datasets
+- Better location features
+
+Do NOT write future features as if they are already implemented.
+
+Clearly separate:
+
+CURRENT PROJECT
+
+from
+
+FUTURE SCOPE.
+
+==================================================
+55. FEATURES THAT SHOULD NOT BE ADDED RANDOMLY
+==================================================
+
+Do not automatically add technologies/features such as:
+
+- Blockchain
+- AR/VR
+- IoT sensors
+- Drone integration
+- 3D reconstruction
+- facial recognition
+- chatbot
+- live government API
+- advanced recommendation engine
+
+unless the user explicitly decides to add them.
+
+The project already has enough features.
+
+Too many additional features would make it unrealistic.
+
+==================================================
+56. IMPORTANT CLAIM LIMITATIONS
+==================================================
+
+Do NOT claim:
+
+“VirasatAI can identify every monument in India.”
+
+Use:
+
+“selected Indian heritage monuments.”
+
+Do NOT claim:
+
+“AI provides 100% accurate identification.”
+
+Do NOT claim:
+
+“VirasatAI automatically reports issues directly to ASI.”
+
+Do NOT claim:
+
+“VirasatAI automatically preserves monuments.”
+
+Do NOT claim advanced damage detection unless actually implemented.
+
+Use realistic student-project wording.
+
+==================================================
+57. APPLICATION DESIGN PRINCIPLE
+==================================================
+
+The mobile application should be:
+
+- simple
+- clean
+- easy to understand
+- easy to demonstrate
+- suitable for tourists/students/general users
+
+Possible basic screens:
+
+Splash / Home
+
+Capture or Upload Monument
+
+Identification Result
+
+Monument Information
+
+Image Gallery
+
+Nearby Heritage Places
+
+Listen to Story
+
+Language Selection
+
+Litter Detection
+
+Report Issue
+
+The exact UI can change later.
+
+==================================================
+58. LOW-END DEVICE CONSIDERATION
+==================================================
+
+The user wants the project to remain practical.
+
+If possible:
+
+- keep the app reasonably lightweight
+- avoid unnecessary heavy assets
+- optimize image size
+- avoid loading all high-resolution images at once
+- consider server-side or optimized model use if on-device model becomes too heavy
+
+The final design should consider normal Android phones rather than only high-end devices.
+
+==================================================
+59. VIVA PREPARATION PRINCIPLE
+==================================================
+
+Every technical choice should be explainable in easy language.
+
+For example:
+
+CNN:
+Used because it is suitable for image classification.
+
+Transfer Learning:
+Used because training a deep model from zero requires more data and computing power.
+
+Flutter:
+Used for mobile application development.
+
+OpenCV:
+Used for image processing.
+
+Database:
+Used to store monument information and user-related project data.
+
+Do not use tools/technologies in documentation that the user cannot reasonably explain.
+
+==================================================
+60. CURRENT PROJECT STATUS
+==================================================
+
+The project is currently mainly in:
+
+- planning
+- data preparation
+- synopsis/documentation
+- Taj Mahal content preparation
+- AI dataset planning
+- architecture planning
+
+Taj Mahal is the most developed monument data example.
+
+The final full mobile application and AI model implementation are still part of the development work.
+
+Do not assume everything described in the synopsis has already been fully implemented.
+
+==================================================
+61. CURRENT SYNOPSIS STATUS
+==================================================
+
+Chapter 1:
+Drafted.
+Length adjusted multiple times.
+Target approximately 1.5 Word pages.
+Contains Introduction + Problem Statement.
+
+Chapter 2:
+Currently being expanded.
+User wants it very simple.
+Continuous paragraph format.
+Approximately around 2 pages depending on Word formatting.
+
+Chapter 3:
+Six objectives finalized.
+
+Chapter 4:
+Hardware and Software Requirements finalized in basic form.
+
+Chapter 5:
+CNN-based approach prepared.
+One main pseudocode only.
+Basic workflow finalized.
+
+References:
+Numbered reference style planned.
+
+==================================================
+62. CONTINUITY INSTRUCTIONS FOR A NEW AI
+==================================================
+
+DO NOT restart VirasatAI planning from zero.
+
+Assume these decisions are already made:
+
+Project name:
+VirasatAI
+
+Project type:
+AI-based mobile heritage application
+
+Pilot monument:
+Taj Mahal
+
+Frontend/mobile:
+Flutter + Dart
+
+AI:
+Python + TensorFlow/Keras + OpenCV
+
+Main algorithm:
+CNN-based monument identification
+
+Transfer learning:
+Possible / likely
+
+Database:
+SQLite or Firebase depending on final implementation
+
+Core features:
+Monument identification
+Monument information
+Nearby heritage places
+Multilingual information
+Audio storytelling
+Litter detection
+Cleanliness reporting
+
+Taj Mahal display images:
+Around 40 total
+
+Image preference:
+Color, high quality, no black-and-white
+
+Future project scope:
+Around 20 monuments and approximately 200 nearby heritage places
+
+Synopsis:
+Simple English
+Student-friendly
+Easy to explain in viva
+
+Chapter 2:
+No 2.1 / 2.2 style subdivisions unless user changes this decision
+
+Chapter 3:
+Six objectives
+
+Chapter 5:
+Only one main pseudocode
+
+==================================================
+63. CONFLICT RESOLUTION
+==================================================
+
+If old and new project decisions conflict:
+
+ALWAYS USE THE LATEST EXPLICIT USER DECISION.
+
+Examples:
+
+If an older message implies many more Taj Mahal images:
+
+Latest decision:
+around 40 curated display images total.
+
+If old paths differ:
+
+Prefer:
+C:\college virasat_ai\VirasatAI
+
+unless the user provides a newer path.
+
+If original synopsis format says Chapter 1 should be 2–3 pages:
+
+Latest user preference:
+approximately 1.5 Word pages.
+
+If the project scope sounds too large:
+
+Keep the first version limited to selected monuments and explain larger coverage as future expansion.
+
+==================================================
+64. FINAL VIRASATAI MASTER SUMMARY
+==================================================
+
+VirasatAI is an AI-based mobile application for exploring and supporting Indian heritage.
+
+The user can capture or upload an image of a supported monument.
+
+A CNN-based AI model identifies the monument.
+
+The application then provides:
+
+- monument name
+- history
+- architecture
+- important facts
+- related images
+- nearby heritage places
+- multilingual information
+- audio storytelling
+
+A separate cleanliness feature allows users to provide an image and detect visible litter/waste.
+
+Users can then use a reporting facility with a photograph and location details.
+
+The Taj Mahal is the pilot monument.
+
+Approximately 40 curated Taj Mahal display images are being used/planned for application content.
+
+The longer-term project can expand to approximately 20 Indian monuments and around 200 nearby heritage places.
+
+Main technology:
+
+Flutter
+Dart
+Python
+TensorFlow/Keras
+OpenCV
+Android Studio
+VS Code
+SQLite/Firebase
+Git/GitHub
+
+The project must always remain:
+
+simple
+realistic
+student-friendly
+implementable
+easy to explain
+and suitable for a BCA AI & Data Science mini-project / SIH-based project.
+
+==================================================
+65. APPROVED CONTENT COLLECTION LIST - 7 OCTOBER 2026
+==================================================
+
+The user supplied an exact list of 20 main monument groups, each with 10 nearby / less-famous entries, and requested their folders first, followed by the Taj Mahal-style details, scripts and Wikimedia display images.
+
+The authoritative selected names, order and parent associations are saved in:
+06_Database/JSON/monuments_places_catalog.json
+
+Read that catalog for content preparation. Do not replace the user's selected places with a newly suggested list.
+
+Approved main groups:
+1. Taj Mahal, Agra
+2. Qutub Minar, Delhi
+3. Amer Fort, Jaipur
+4. Red Fort, Delhi
+5. Gateway of India, Mumbai
+6. Charminar, Hyderabad
+7. Victoria Memorial, Kolkata
+8. Mysore Palace, Mysuru
+9. Hampi Monuments, Karnataka
+10. Meenakshi Temple, Madurai
+11. Golden Temple, Amritsar
+12. Khajuraho Monuments, Madhya Pradesh
+13. Ajanta & Ellora Caves, Maharashtra
+14. Konark Sun Temple, Odisha
+15. Sanchi Stupa, Madhya Pradesh
+16. City Palace, Udaipur
+17. Mahabalipuram, Tamil Nadu
+18. Jaisalmer Fort, Rajasthan
+19. Mehrangarh Fort, Jodhpur
+20. Badami Cave Temples, Karnataka
+
+Folder guide:
+VirasatAI_Places_Folder_Guide.md
+
+Nearby entries are organized under each main monument's Nearby_Heritage folder in 01_Data, 02_Images, 03_Scripts and 04_Audio.
+
+Current content stage:
+Folders prepared for the 20 main groups and 200 nearby entries. Existing Taj Mahal files are preserved. New entries still need verified facts, master scripts, voice directions and images.
+
+Important:
+- This is the approved content-collection list, not a claim that the model recognizes all these monuments.
+- Ajanta & Ellora remain one main group as supplied by the user.
+- Preserve both entries when labels may overlap; verify actual site identities before duplicating facts or images.
+- The user's nearby association does not establish distance or travel time.
+- Keep this display-content work separate from 05_AI_Dataset.
+==================================================
+66. CONTENT LIBRARY STATUS - 8 OCTOBER 2026
+==================================================
+
+Current workspace: C:\Desktop\VirasatAI. Older project paths above are historical.
+
+The latest collection scope is the exact approved 20 main groups and 200 nearby entries. The selected names, order and parent associations remain unchanged.
+
+Written content:
+- 218 of 220 entries have Basic_Info, Facts, Story_Data, Sources, English and Hindi narration, and Voice_Directions.
+- 218 English and 218 Hindi spoken bodies are available. Hindi uses Devanagari. The original Taj stories are preserved; heading-free TTS copies are added separately.
+- Hathni Kund needs exact Jaipur site verification before a factual story or gallery is prepared.
+- Galaganatha Temples remains identity pending by the user's explicit answer. Do not silently choose Aihole or Pattadakal.
+- Sources are separate from spoken text. Dates, access, prices and distances must not be invented.
+
+Display photographs recorded in the current library:
+- 342 saved images across 68 entries, including the original 40 Taj photographs.
+- 152 entries currently have no suitable saved photograph. Read content_library_audit.json and the library guide for the actual gaps; do not treat rejected or unreviewed cached candidates as application assets.
+- New photos are visually reviewed for correct-site identity and clarity. Original and downloaded dimensions, source page, photographer, license and hash are recorded.
+- Wikimedia limited original-file downloads. Supported high-resolution image sizes are used without enlarging images. Existing downloaded originals remain preserved.
+- All 49 originally protected pilot files pass their saved SHA-256 checks. Legacy Taj source-record VERIFY fields remain a publication check.
+
+Useful outputs:
+VirasatAI_Content_Library.html — local searchable photo/story browser.
+VirasatAI_Content_Library_Guide.md — simple English usage and gap guide.
+06_Database/JSON/content_library_index.json — actual content paths, narration, image metadata and status.
+06_Database/JSON/content_library_audit.json — integrity checks, gaps and sparse-gallery notes.
+tools/image_review/narration_completeness_qa.json — narration completeness and formatting checks.
+
+Important identities:
+- Bateshwar is the Agra/Yamuna Uttar Pradesh site, not Morena Madhya Pradesh.
+- Sagar Lake is the reservoir behind Amer, not Man Sagar/Jal Mahal.
+- Sunehri Masjid is the 1751 Qudsia Begum mosque near Red Fort, not the other Delhi mosques with similar names.
+- Hayat Bakshi Mosque means Hayathnagar, not the funerary mosque at Qutb Shahi Tombs.
+- Neelkantheshwar is Udayesvara/Nilkanthesvara at Udaipur village, Vidisha, Madhya Pradesh.
+- Karni Mata Temple and Vintage Car Museum in this list mean Udaipur, Rajasthan.
+- Nithyakalyana Perumal Temple and Sri Thiruvidandhai refer to the same temple/locality. Both supplied labels are retained; this is not an extra distinct model class.
+- Chausathi Yogini means Hirapur, Odisha. Ajanta and Ellora retain one approved main-group label.
+
+Project implementation boundary:
+This work prepares application display content. It does not establish trained-model support for 20 groups or 200 nearby entries. 05_AI_Dataset is separate and was not changed. Audio has not been generated or auditioned. The Flutter app, CNN training, cleanliness detection, authority integration and problem-report workflow still require their own implementation and testing. Continue those steps only under the user's subsequent instructions.
+
+==================================================
+67. RAW IMAGE DATASET TARGET - 14 OCTOBER 2026
+==================================================
+
+Latest explicit user decision: curate approximately 300 correct, relevant and distinct images for EACH of the 20 main monuments, and approximately 100 correct, relevant and distinct images for EACH nearby place. These are collection targets, not achieved counts or verified model requirements. Never pad a class with incorrect or duplicate photos just to reach the number.
+
+Working source: Ayushman's shared Google Drive raw folder, https://drive.google.com/drive/folders/1Yv06Qg3Pnw94NUkek_oWKxlz83bt87oq . The user explicitly authorized editing this original folder. Keep the approved 20 main monument and 200 nearby-place associations from 06_Database/JSON/monuments_places_catalog.json. On 14 October, the missing Badami main folder, nine missing sub_places folders and 100 nearby-place subfolders were created in the shared Drive. This is folder preparation only, not image curation.
+
+Review every existing image for correct place identity, visual usefulness, duplicates, corrupt files and licensing/source information. Remove verified irrelevant or duplicate images that would contaminate training; add new verified images where needed. Keep an audit record of decisions and provenance. Use this same reviewed source collection to derive a SEPARATE monument-recognition training dataset and a much smaller, curated app gallery. Do not train on nearby-place images under the main monument's label merely because they are in a nearby folder. Do not treat a target count as proof of model accuracy; training and held-out testing are still required. Google Colab is the user's chosen training environment.
+
+Current audit boundary: the local partial download contains only six monument groups (2,801 image files); its first automated audit found 53 exact-duplicate groups and no unreadable images. The local audit is not a review of all Drive images. No image deletion or new image addition was completed on Drive at this point.
+
+14 October image-work update: the partial ZIP contains nearby-place photos only for its six groups; it does not contain their main-monument `images` folders. A visual check identified 12 byte-identical Jaipur street photos incorrectly placed under Vidyadhar Garden, plus the same unrelated map screenshot placed under Garh Ganesh Temple and Bateshwar Temples. These are recorded in tools/model_training/reviewed_rejections_partial.json. Attempts to permanently delete the 12 Drive street photos returned `insufficientFilePermissions` for every file, even though the connected account could create folders. No original Drive photo was deleted. Do not claim the original Drive has been cleaned. The owner may need to remove flagged files or create an owner-controlled copy before full cleanup.
+
+14 October owner-controlled copy update: The connected Google Drive account was verified as manuagarwal885@gmail.com. A private, user-owned `VirasatAI_Curated_Dataset` folder was created in My Drive at https://drive.google.com/drive/folders/1FL98KnE_e-BigfluYAGfFgLXdXtx9WWT . Inside it, `raw_copy` is https://drive.google.com/drive/folders/1oIFKrlUqwO5tMoHbrtNesmJ8ix5FcNFE . It has all 20 main-monument folders, each with `images` and `sub_places` subfolders. This is a raw-copy workspace, not a reviewed training dataset. A copied photo's metadata confirmed owner manuagarwal885@gmail.com and private access.
+
+Completed copy counts (Drive source and destination both checked): Taj Mahal main `images` 189/189, destination https://drive.google.com/drive/folders/1b8mWrdPgNZrFCvBYa8O-QW3qokx4i4oW ; Mehtab Bagh nearby `images` 155/155, destination https://drive.google.com/drive/folders/1tu3SjaL4H7mrI8be7Q83SqpIHPRwwOtd . Taj Mahal metadata.json was copied. All 12 Taj Mahal source nearby-place folders and their `images` subfolders were created in the new Drive; only Mehtab Bagh's nearby images have been copied so far. The other 19 main images folders and their nearby images remain empty. No new photos have yet been sourced or reviewed; no raw originals were changed or deleted. Continue copy by checking per-folder source/destination counts and ownership. Drive connector only exposes file-by-file copy, so the whole collection is a large staged job; never imply it is complete.
+
+Further copy update: Sanchi Stupa main `images` 67/67 copied to https://drive.google.com/drive/folders/1Nq1W1JRvvJ3fYxQuAoOwwARzVCtizhWJ . Two transient copy failures were retried successfully; destination was verified as 67 distinct names. Sanchi metadata.json was also copied; nearby images are still pending. Thus the new raw_copy currently has 411 photo files across Taj Mahal main (189), Mehtab Bagh nearby (155), and Sanchi Stupa main (67).
+
+Bulk-copy preparation: `tools/model_training/copy_raw_drive_dataset.gs` is a resume-safe Google Apps Script draft. Its JavaScript syntax was checked locally, but it has NOT been executed in Google Apps Script. The in-app Apps Script browser was signed in as agarwalmanu027@gmail.com, while the new private dataset belongs to manuagarwal885@gmail.com. Do not run the script under the wrong account or broaden destination sharing silently. A blank Apps Script project was accidentally created under agarwalmanu027@gmail.com; attempt to move that blank project to Bin was denied by automatic approval review, so it was left untouched. User must sign in to Apps Script with manuagarwal885@gmail.com for browser-based bulk copy, or copy can continue slowly through the connected Drive connector.
+
+14 October Apps Script update: The user created https://script.google.com/u/1/home/projects/11WZ0BbaBustyTksfyizmBbaWQIoBPvXCYSqdEw4WhwPKPKpkb1Mwj43C/edit while signed in as manuagarwal885@gmail.com. The agent renamed it `VirasatAI Raw Dataset Copy`, pasted the current `copy_raw_drive_dataset.gs` into Code.gs, and verified it saved with function `copyRawBatch` selected. The user explicitly approved the one-time Drive access request. Clicking Run showed `Authorisation required`; Review permissions opened no accessible permission window in the in-app browser. The run was cancelled, and the execution log explicitly says `Execution cancelled`. Thus the Apps Script has not copied files yet; the confirmed raw_copy count remains 411 images. Next: user opens the project in Chrome under the 885 account, runs `copyRawBatch`, completes Google's own permission flow, and checks the execution log. Do not assume permission has been granted or copy completed until verified. The accidental blank project in the 027 account remains untouched.
+
+15 October update: The user authorized Drive access and successfully ran copyRawBatch in Chrome. First observed completed batch copied 67 files and made 11 folders, status RUN AGAIN. Another observed completed batch copied 58 files and made 2 folders, status RUN AGAIN. These are run-log counts, not yet independently checked against destination contents. The user then asked to automate repeated batches. The local script and the 885 Apps Script editor were updated and saved with startAutomaticCopy, an hourly trigger installer that starts one immediate 2-minute batch, a lock against overlapping runs, and stopAutomaticCopy for automatic trigger cleanup on COMPLETE. The updated code has not yet been activated; action-time approval for unattended scheduled Drive access is pending. Do not claim auto-copy is active until the Triggers page shows the trigger and an execution succeeds.
+
+15 October later: The user explicitly approved hourly unattended Drive copy. The in-app Run of startAutomaticCopy opened another Google authorization window that the in-app browser could not access; it was cancelled. The Apps Script Triggers UI was then used to create a single time-based, Every hour trigger for copyRawBatch (Head deployment), owned by the 885 account. The Triggers page visibly showed `Showing 1 trigger` and row `Me - Head - time-based - copyRawBatch`; Last run and error rate were blank. Automatic schedule is created, but no scheduled execution has yet been observed, so do not claim successful automatic copying until Executions/Triggers confirms a run. On COMPLETE the script is intended to remove its own trigger. Local script syntax check passed before upload.
+
+==================================================
+68. FOCUSED MODEL IMAGE REVIEW - 15 OCTOBER 2026
+==================================================
+
+Later work superseded the old pending-copy status above. The Apps Script trigger was deleted. A Colab Drive copy scanned 411 folders and 20,178 source files; one observed run found 20,166 already present and copied 11 of 12 remaining, with one timeout. Do not infer that every last source file was copied without a fresh folder-count comparison.
+
+The 20-class MobileNetV2 experiment on 3,141 prepared images (2,201 train, 470 validation, 470 original test) achieved 78.5% test accuracy, versus 33.4% for the scratch CNN. It is a candidate model only, not Flutter-integrated. See tools/model_training/transfer_experiment_report_2026-10-15.md.
+
+The weakest four classes were reviewed using photo contact sheets and Wikimedia Commons candidates. Twenty-one licensed, visually relevant and near-duplicate-screened training images were added to the 885 account's private raw_copy: Badami 5, City Palace Udaipur 3, Jaisalmer Fort 6, Amer Fort 7. Eleven other photos were kept in a separate external holdout. Original raw photos were not deleted. Source and selection metadata was saved in the private curated dataset root. Wikimedia rate limits prevented some other candidates. These additions do not mean the full dataset has been manually verified or the 300-per-class target reached.
+
+The first MobileNetV2 candidate scored 8/11 on the new external photos. A second focused fine-tune on the 21 new plus 2,201 original training photos also scored 78.5% on the original 470-photo test and 8/11 on the external set. Jaisalmer improved from 11/21 to 14/21 original test, City Palace 13/27 to 14/27, Amer slipped from 15/26 to 14/26, and Badami stayed 2/8. Therefore the focused version does not replace the first candidate. It is saved privately at https://drive.google.com/drive/folders/13Z5sq6_XCWPY34HNgp_wii_FGcYlA-xp ; the original candidate is at https://drive.google.com/drive/folders/1QMtQcTDq4DFYru2uUYO2ei2WFU-BcKZ7 . Neither is integrated into the app. See tools/model_training/focus_review_report_2026-10-15.md.
+
+Before integration, test a larger independent set of real phone photographs, especially Amer and Badami, and continue identity/quality review of raw labels. The original test set influenced focus-class selection, so it should not serve as the only final unbiased test.
+
+16 October continuation: The user asked to continue without scheduling. The old paused `virasatai-drive-copy-monitor` automation was deleted; no new schedule was created. The user explicitly chose Colab-only model evaluation and declined downloading the trained model or test photos to the laptop. The existing Colab notebook at https://colab.research.google.com/drive/1mfwQrJM8lYUqTr8r3lfShLzTDCJ1H96-?authuser=1 currently shows a Monaco notebook-loading error in the in-app browser, so no new Colab test has run. A new local Colab cell source, tools/model_training/independent_online_test_colab.py, prepares independent Wikimedia Commons candidate contact sheets for the four weak classes, checks licenses and near-duplicates against original dataset hashes, excludes previously reviewed candidate titles, and uploads review artifacts to the private Drive only when run inside the authenticated Colab session. It has not yet been executed. Visual identity review and model scoring remain pending. Do not claim additional model accuracy or APK integration from this preparation.
+
+Later 16 October update supersedes the pending notebook status above: Colab loaded and the new candidate script executed. Four contact sheets (48 total online-photo candidates) and manifest were saved to https://drive.google.com/drive/folders/1HYRw4IoU2uF2nVaYnKLY-k6dBplddkVj . After visual review, 29 distinctive monument views were selected; ordinary streets, signs, a mural, a sculpture and ambiguous details were excluded. In a Colab-only diagnostic on 210x180 contact-sheet crops, the original MobileNetV2 got 18/29 (62.1%) and the focused version 17/29 (58.6%). Breakdown for original: Badami 2/8, City Palace Udaipur 11/11, Jaisalmer 1/2, Amer 4/8. The saved metrics are https://drive.google.com/file/d/1zLSPASCZZkftCbAZh_ZsKAUAjEH2v6Hv/view . This is only four classes, with too few usable Jaisalmer examples, and downsampled previews; it is NOT overall 20-class accuracy or a phone-camera test. Neither model is integrated into Flutter. Continue label review, improve Badami and Amer training diversity, and collect a larger full-resolution independent 20-class plus phone-camera test before considering integration. See tools/model_training/independent_preview_review_2026-10-16.md . The user's Colab-only constraint remains active; no laptop model/image download and no scheduled task.
+
+Further 16 October update: An additional 48 licensed, near-duplicate-screened Badami/Amer exterior candidates were assembled in Colab and reviewed visually. The contact sheets and source manifest are in the private Drive folder https://drive.google.com/drive/folders/1BW_MqBDNkgZs0g7EwEb7NzTWIwMYs_4A . Nineteen views (Badami 7, Amer 12) were accepted for train-only experiments and their 800px previews copied to its `visually_selected_train_only` folder https://drive.google.com/drive/folders/1ojMtNoslOfWcQvRdxiklKHmo4sKRMwmr . The visual decision and source-license manifest is https://drive.google.com/file/d/1YUh7lyn5q0Wn2EROdv83P24W59JEkbpz/view . Rejected candidates include distant rock-only/animal/ambiguous views. No photos were deleted. A follow-up fine-tune script was prepared, but the Colab runtime had reset and no longer held the original prepared dataset (`NameError: prepared is not defined`); therefore NO new model training or accuracy result occurred in this step. Do not rerun the dependent script until its dataset/model state is reconstructed in Colab. Preserve the independent 29-photo review set outside all future training. The user's Colab-only constraint remains active.
+
+Latest 16 October update supersedes that runtime-reset blocker: A self-contained Colab script restored the exact original 3,141-photo dataset and MobileNetV2 model, verified the restored image hashes, added the 19 selected exterior previews to training only, and trained a three-epoch candidate. The original 470-photo test remained 369/470 (78.5%) for both models; Badami remained 2/8 and Amer moved from 15/26 to 16/26. On the separate 29 visually reviewed contact-sheet tiles, both scored 18/29 overall; Badami moved 2/8 to 3/8 while Amer moved 4/8 to 3/8. Thus the candidate did not show a net improvement and is NOT approved for APK integration. It is saved privately at https://drive.google.com/drive/folders/1RiXIvTl-_0uokkPQ7J0oqGfaNaQ4vNuG ; the independent comparison is https://drive.google.com/file/d/1cT_Dz67RlCJpDoMS_LDdkiU0-eVfMkff/view . The local report is tools/model_training/exterior_candidate_report_2026-10-16.md . A larger, full-size, independent 20-class plus real-phone test and label review remain pending. The user's Colab-only constraint remains active; no model/photo was downloaded to this laptop and no schedule was created.
+
+Later 16 October preparation: The user asked to continue toward a separate 20-class test. `tools/model_training/independent_20class_review_colab.py` was created and passed local Python syntax checking. It is designed to find new licensed Commons candidates for the 16 classes absent from the prior 4-class review, screen against original split hashes and prior reviewed Commons sources, and save class contact sheets plus source manifests in the 885 account's private Drive. It requires visual monument identity review before test scoring. The attempted upload to the user's private Drive was blocked by automatic approval review because the account usage limit was reached; the upload did NOT execute. Do not bypass that review using browser upload or another route. Thus no 16-class sheets were generated and no new model result exists yet. Resume after the approval/usage issue is resolved; only then run the script in Colab. The user's Colab-only evaluation constraint remains active.
+
+Later 16 October result supersedes the blocked-upload status above: the usage issue cleared, the script uploaded and ran in the user's 885 Colab session. It produced 16 contact sheets with 128 candidate Commons photos in the private folder https://drive.google.com/drive/folders/1U5FuPI_0YiCIxUaWwZuWjNiMiDms3vO7 . All sheets were visually inspected. Red Fort's eight photos were all unsuitable (mostly plaques/signs), so no Red Fort sample was accepted. A separate Colab-only baseline diagnostic scored 41/61 (67.2%) accepted images across the other 15 classes. Commons rate-limited original-file downloads, so all 61 were the existing 800px previews. The detailed result is https://drive.google.com/file/d/1BNtU5MJ6rhLIoaVKUE2wNj-IVS5Isn65/view and local report tools/model_training/independent_15class_preview_report_2026-10-16.md . This is not overall 20-class accuracy or a real-phone test. It does not supersede the separate four-class 29-tile result. The model was not integrated into Flutter. Continue with missing Red Fort and balanced independent full-image/phone evaluation in Colab. No model/photos downloaded to the laptop and no schedule created.
+
+17 October implementation update: The approved 20-class candidate model was integrated into the Flutter app as `assets/models/monument_model.tflite` with a matching 20-label file. The app now preprocesses a selected photo locally, shows a model suggestion, applies a 0.90 confidence gate, and asks the user to confirm before opening a guide; manual guide selection remains available. `tflite_flutter` and `image` were added as Flutter dependencies, and the scan preview test passes. Full Dart analysis reports only existing informational lints. Android APK packaging is currently blocked in this managed environment by Gradle's Java loopback error (`Unable to establish loopback connection`); this is a build-environment issue, not evidence of a Dart/model compile error. Reviews, live backend deployment, maps, and Bhashini integration remain open work.
+
+18 October continuation: Home navigation into Explore, Profile, guide library and guide screens now pushes routes so Android system Back can return to the previous page. Explore and Profile also fall back to Home when opened as a root route. The "Next monument" button was removed from the heritage guide. Two visually reviewed, licensed local Hampi photos were added to the app gallery with source credits. The other 11 main monument groups still have empty gallery arrays and no local image files; do not claim their galleries are complete. Local backend tests pass (9/9), including auth, reports and reviews. The local Node/SQLite backend is not deployed to a public persistent HTTPS server, so real accounts/reviews/reports from a phone outside the local setup are not yet live. Model robustness improvements remain deferred at the user's request.
+
+Later 18 October gallery continuation supersedes the 11-empty-galleries count above: 16 previously visually reviewed, licensed candidate images were copied into the Flutter guide gallery for Meenakshi Temple, Golden Temple, Khajuraho, Ajanta/Ellora, Konark, Sanchi, Mahabalipuram and Jaisalmer Fort (two each). Sources and authors are recorded in `frontend_recovered/assets/images/guide_library/NEW_GALLERY_CREDITS.md`. All catalog photo paths resolve. Three main monuments remain without gallery photos: City Palace Udaipur, Mehrangarh Fort and Badami Cave Temples. Previous review records rejected or lacked available candidates for these; find exact, licensed photos and visually verify before adding. Current Dart analysis of catalog and guide library passes.
+
+18 October completion update: the remaining City Palace Udaipur, Mehrangarh Fort and Badami Cave Temples galleries now each have two visually checked Wikimedia Commons photos. Credits and licenses are recorded in `frontend_recovered/assets/images/guide_library/NEW_GALLERY_CREDITS.md`. All 20 main monuments now have at least one gallery image, and every catalog image path resolves. This completes minimum main-monument gallery coverage; it does not mean every nearby place has photos or that the larger training-image targets are complete.
+
+The report screen now lets a user preview/remove an attached photo, see/remove the captured GPS fix, identify whether each offline draft contains a photo and GPS, and delete an unwanted draft. The reviews panel now shows a useful empty state and confirms a successful submission. These are local app improvements; sending reports and storing shared reviews still require the existing Node/SQLite API to be deployed on a persistent HTTPS server and the APK to be built with its public API base URL.
+
+18 October backend deployment preparation: a Cloudflare Workers + D1 version of the account/report/review backend was added under `backend/cloudflare`. It includes a D1 schema, Worker implementation, Wrangler example and deployment notes. It preserves registration/login/session, user profile, offline-report sync with optional JPEG/GPS, report status history and reviews. Passwords use PBKDF2-SHA256 in the Worker; raw passwords and raw session tokens are not stored. Worker syntax checks pass, and the existing local Node/SQLite backend still passes 9/9 tests. This is deployment-ready source only: a D1 database and Worker have not yet been created in the user's Cloudflare account, so no public API URL exists yet. Do not claim the live database is connected until `/health` confirms `database: connected` and the APK is rebuilt with that HTTPS URL.
+
+A dependency-free Android Maps handoff was added to every guide page using the installed maps application and the monument/place name plus saved location. It does not require an API key or a new Flutter package. `tools/build_connected_apk.ps1` now verifies a future live API health endpoint before building an APK with `VIRASATAI_API_BASE_URL`.
+
+18 October live backend update supersedes the deployment-pending status above: the Cloudflare Worker is deployed at https://virasatai-api.agarwalmanu027.workers.dev and is connected to the `virasatai` D1 database in APAC. `/health` returned `status: ok` and `database: connected`. A full live verification passed registration, login, authenticated profile lookup, GPS report submission, review submission and public review retrieval; the temporary test account and its cascading test records were deleted afterward. Cloudflare limits Workers PBKDF2 to 100,000 iterations, so the live implementation uses PBKDF2-SHA256 with that supported limit, per-user random salts, and hashed session tokens. BHASHINI remains intentionally unconfigured. The managed Codex environment cannot finish Gradle because it blocks Gradle's loopback connection; therefore the source is connected but the newest live-connected APK still needs to be built from the user's normal PowerShell with `tools/build_connected_apk.ps1`. Do not claim the installed phone APK uses the live backend until that newly built APK is installed.
+
+18 October app-gallery expansion: the user's latest target is minimum 7–8 app-gallery photos for all 20 main monuments and all 200 nearby places. Existing visual-review records were reused; 619 reviewed candidates were initially added, then an exact candidate-ID cleanup removed 381 duplicate second-pass assets caused by optimized hashes differing from source hashes. New City Palace, Mehrangarh and Badami views were visually reviewed and added. Taj Mahal and Qutub Minar special screens were expanded to eight photos. Current verified state: all 20 main monuments have at least eight catalog photos, all catalog paths resolve, and the touched Dart files analyze cleanly. The catalog currently contains 811 photo references. Among nearby places, 17 have seven photos, 137 have one to six, and 46 still have zero; 749 more correct photos are needed to reach a minimum of seven for every nearby place. Do not claim nearby coverage is complete. The guide-library JPEG folder was reduced from about 237 MB to about 113 MB using mobile-size optimization. Continue with zero-photo nearby places first, visually verify identity and licensing, then fill sparse entries. `tools/image_review/app_gallery_coverage_audit.json` is the resumable gap list.
+
+18 October final zero-gallery pass: the remaining 23 zero-photo nearby-place galleries were populated after place-identity review. The verified catalog now has 220 entries, zero blank galleries and 1,001 total photo references; every referenced asset path exists. All 20 main monuments still have at least eight photos. Rare nearby places may contain fewer than the long-term seven-photo target where only limited clearly identifiable source photos were available. Source and review metadata is recorded in `frontend_recovered/assets/images/guide_library/REVIEWED_GALLERY_MANIFEST.json`. Drive synchronization remains postponed until the user reviews the app galleries.
+
+19 October app/report/review continuation: The user confirmed the connected phone APK signs in and works for all 20 main monuments, nearby galleries, Hindi/English offline content and Back navigation. New source changes add review/report actions to the separate Taj Mahal and Qutub Minar screens; remove the Taj pilot badge and redundant guide links from Profile/Qutub; add an Android-backed offline review queue with automatic sync while a signed-in app is active/resumed; request Android location permission once after real login and capture GPS automatically on report open/submit; replace separate report draft/sync buttons with one Submit button; and add Profile activity for local pending and online submitted reports/reviews. Submitted reports may be deleted by their owner only while in `submitted` status; pending drafts can be deleted on the phone. The Cloudflare Worker at the existing virasatai-api URL was deployed with `GET /reviews/mine` and owner-checked `DELETE /reports/:id`; `/health` returned database connected and unauthenticated checks returned 401. Local backend tests passed 8/8 and touched Dart files analyzed with informational lints only. The newest APK is NOT built: managed Gradle still fails `Unable to establish loopback connection`; user must run `powershell -ExecutionPolicy Bypass -File .\tools\build_connected_apk.ps1 -ApiUrl "https://virasatai-api.agarwalmanu027.workers.dev"` in normal PowerShell and install the resulting APK. Automatic sync after app termination and phone testing of the new UI/GPS/queue remain pending. BHASHINI remains later scope.
+
+21 October model-direction request: The user wants 90%+ accuracy on a proper unseen test set, with precision, recall, F1 and confusion matrix; first optimize the claimed existing MobileNetV4 with better augmentation, transfer learning, full low-LR fine-tuning, AdamW, scheduler, balanced classes and a fixed train/validation/test split, then compare EfficientNetV2-S, ConvNeXt-Tiny, MobileNetV4, and optionally DINOv2 similarity verification on the same dataset. The app should abstain on low confidence. This is a target and experiment plan, not an achieved result. In this local workspace, the documented 78.51%/470-photo result and bundled 160x160 TFLite model trace to MobileNetV2, while a separate MobileNetV3Small robustness candidate scored 60.85% clean and 62.13% synthetic hard test and was rejected. No MobileNetV4 training code, model artifact or verified V4 metric was found locally as of this audit. Before selecting an architecture, identify the exact V4 notebook/checkpoint and its split and evaluation evidence; do not relabel the V2 result as V4. The local 05_AI_Dataset/Monument_Recognition folder is empty except for a Taj_Mahal subfolder; the actual 3,141-image fixed split is in the user's private Drive/Colab workflow.
+
+22 October model audit continuation: All 79 same-class dHash<=8 candidate pairs were visually reviewed (67 grouped as same-source/session, 12 false positives). A reviewed but not frozen 3,141-photo source-grouped split is at tools/model_training/grouped_split_reviewed_2026-10-21/. The 67 pre-generated `aug_` files were excluded from candidate training because most lack parent provenance. On the same remaining 3,074 photos (2,155 train, 463 validation, 456 development test), the user's Colab T4 runs scored 68.86% accuracy / 66.50% macro F1 for optimized MobileNetV2 and 67.32% accuracy / 65.13% macro F1 for EfficientNetV2-S. Both are candidates and neither replaces the app model. The 456 development-test photos have now informed model decisions; a new independent real-phone holdout is necessary for the 90% target. EfficientNetV2-S made 149 errors, saved in private Drive folder https://drive.google.com/drive/folders/1a53qqqXSIxpG0EGC_DL31ZV4iFUJQsj4 . All ten contact sheets were visually inspected. Most mistakes involve generic partial carvings, corridors, arches, fort walls or distant views; four exact filenames needing source/scope review are in tools/model_training/efficientnet_error_review_2026-10-21.md. No images were deleted or relabeled. Prioritize label/source cleanup and diverse verified photos for weak classes before more model comparisons. An unidentifiable small fragment should trigger abstention or recapture, not a forced monument guess.
+
+22 October deadline steering: The user has no additional photos and must submit the project in three days. They authorized finding images from available sources and asked whether ~85% is possible. Do not promise 85%: current comparable candidates are 68.86% and 67.32% on a development set, and the historical 78.51% is from a different, leakage-affected split. Keep submission-critical app and honest evaluation documentation protected while attempting targeted dataset improvement. A standalone Colab candidate-sourcing script for seven weak classes was prepared at tools/model_training/source_priority_training_candidates_colab.py, syntax checked, and uploaded to the owner's private Drive as ID `1XndrxVuR3x6c_pkHzVo7kkUj7ZV5mXLA`. It finds licensed Wikimedia Commons candidates and generates private contact sheets; it does not add training photos, train, or alter existing datasets. It has not been run yet. Visual identity/source review and a clean holdout are required before any images can be used for training or an accuracy claim.
+
+22 October priority candidate continuation: The candidate-sourcing script did run and created seven source manifests/contact sheets in private Drive folder https://drive.google.com/drive/folders/1tYtgfjwCfcbz1ZtQgZRmlnJRyoQHU8zU . All seven contact sheets were visually inspected. Sixty potential training images were shortlisted across the seven weak classes; some obvious wrong-place, signboard, PDF cover, model and repeat-like images were excluded. The shortlist is in tools/model_training/priority_candidate_shortlist_2026-10-22.csv and uploaded in the same private Drive folder as ID `1QROT8lAPHnRXO2CACKx73Gs-TlzrK1If`. A MobileNetV2 Colab script at tools/model_training/train_reviewed_v2_with_priority_colab.py was built and uploaded as ID `14wY86_JIlX5Te2lrq7ik3B8SfpVRgKdb`. It rechecks Commons hash/license and dHash proximity, adds accepted photos only to train, retains validation and 456-photo development test, and saves source audit plus metrics. Local Python syntax checking passed. The script has NOT been run; no new accuracy or accepted-image count exists yet. See tools/model_training/priority_candidate_review_2026-10-22.md. The candidate sheets and titles do not prove that arbitrary tiny monument fragments are recognizable.
+
+Execution access note: The current in-app browser Colab session is signed in as agarwalmanu027@gmail.com, whereas the private dataset and candidate source files belong to manuagarwal885@gmail.com. The historical notebook link did not resolve in the in-app browser. Do not switch accounts or claim the training started; the user needs to execute the prepared single cell in their Colab session signed in as the 885 account, then return its result.
+
+22 October priority training result supersedes the pending-run sentence above: The user ran the script successfully under the 885 account. All 60 shortlisted Commons photos passed runtime checks and were added to train only (2,215 train, 463 val, 456 development test; 67 old augmented files excluded). MobileNetV2 completed 15 frozen + 15 fine-tuning epochs. The new candidate scored 313/456 = 68.64% accuracy, macro F1 66.56%, versus the prior same-split MobileNetV2 314/456 = 68.86%, macro F1 66.50%. Badami improved 3/8 to 5/8; Amer declined 15/26 to 13/26; several classes changed by one. New artifacts are saved privately at https://drive.google.com/drive/folders/1iAFklkBqVpNwRmFskqSpFjvx9wdmvPJE . This is not an overall improvement and does not replace the app model. The google_auth_httplib2 timeout lines were nonfatal warnings. See tools/model_training/priority_candidate_review_2026-10-22.md.
+
+22 October scan-result UI fix: The current Flutter scan screen previously printed a low-confidence monument name even though its open-guide button was hidden. The low-confidence and no-match states now show only "Monument could not be confidently recognized. Please capture another image or choose the monument manually." The existing 0.55 threshold and bundled MobileNetV2 model are unchanged; this is a user-facing safety/clarity fix, not an accuracy improvement. Updated widget assertions in frontend_recovered/test/scan_preview_test.dart. Direct Dart analysis of both changed files passed with no issues. `flutter test` through the managed shell stalled without output and was interrupted; widget tests and a new APK build remain unverified here. The user's normal PowerShell can run the connected APK build script. Do not claim the installed APK already contains this wording.
+
+22 October connected APK build update: The user ran tools/build_connected_apk.ps1 in normal PowerShell against the live Cloudflare API URL. Screenshot showed `Built build\\app\\outputs\\flutter-apk\\app-debug.apk` and `Connected APK ready`. Local filesystem verification found C:\\Desktop\\VirasatAI\\frontend_recovered\\build\\app\\outputs\\flutter-apk\\app-debug.apk, 422,880,078 bytes, modified 22 October 2026 19:21:12 local time. This build contains the low-confidence text change, but installation and phone behavior are not yet verified. Java native-access and Flutter Kotlin Gradle plugin messages were warnings; the build completed successfully.
+
+22 October DINOv2 retrieval follow-up: The user requested robust recognition from varied monument views and small parts. A candidate-only, single-cell Colab experiment was prepared at tools/model_training/evaluate_dinov2_retrieval_colab.py. It restores exactly the same 3,074 reviewed non-augmented source photos (2,155 train, 463 validation, 456 development test), checks source hashes and source-group split boundaries, extracts DINOv2 ViT-S/14 embeddings for full photos and deterministic 70% center crops, selects between per-class nearest-neighbor retrieval and a balanced linear classifier on validation, then reports test accuracy, macro precision/recall/F1, confusion matrices and validation-selected abstention coverage. It saves predictions and metrics in a private Drive folder when run by the user under the 885 account. Python syntax checking passed. The script has NOT been run and has no accuracy result. Crops of development-test source photos are a stress test, not an independent phone-photo holdout. The old phone model remains unchanged. A connector attempt to upload this script to the owner's private curated Drive folder was rejected by automatic approval review; do not claim it was uploaded. The local script can be opened or pasted in the user's Colab under the 885 account, or the user can explicitly authorize that specific upload.
+
+22 October DINOv2 run supersedes the pending-run sentence above: The user pasted and ran the script in their 885-account Colab on a Tesla T4. All 3,074 photos restored, feature extraction completed, and validation chose 3-nearest per-class retrieval. User output and private Drive metrics at https://drive.google.com/drive/folders/1WrALGn72fN1iGxRbeGCzM2fIJalrxxui confirm 427/456 = 93.64% full-image development-test accuracy, 92.54% deterministic 70% center-crop accuracy, 92.97% full-image macro F1, 93.92% macro precision and 92.76% macro recall. This is a promising candidate, NOT verified phone accuracy or an app model. The validation-selected similarity threshold is 0.0 and accepted coverage is 100%, so it does not yet reject unsupported/unrecognizable photos. Mysore Palace has only 6 non-augmented test photos and 4/6 were correct. An 11-photo older separate Commons holdout exists for four difficult classes; tools/model_training/check_dinov2_external_11_colab.py was prepared and syntax-checked to score it using the still-live Colab DINO runtime. This external set is small and previously inspected, so it is exploratory. Independent real-phone and unknown-place testing, threshold calibration, and a deployable mobile/server inference route still remain before any app replacement or 90% real-world claim.
+
+22 October external follow-up: The user ran the 11-photo check in the same Colab runtime. DINO retrieval scored 10/11 on full images and 10/11 on 70% center crops. Badami was 2/2 for both. Full-image Jaisalmer error predicted Mehrangarh at top-two similarity margin 0.001; a cropped Amer error predicted Mehrangarh at margin 0.018. A correctly identified full Amer image had margin 0.002, so a naïve margin cutoff would also reject some good matches. Eleven already-inspected Commons photos across four classes are too few to claim 90% on unseen phone captures. No app model was replaced. A candidate ONNX export and 12-test-photo parity checker was prepared at tools/model_training/export_dinov2_onnx_colab.py and passed Python syntax checking. It has NOT been run or integrated. If parity passes, it uploads the encoder and training-reference embeddings to a new folder inside the owner's existing private Drive root. Its purpose is to test if the public DINOv2 encoder plus private train-reference embeddings can be carried into the existing Flutter app; actual Android latency, size, and inference parity remain unverified.
+
+22 October ONNX export error: The user ran the candidate export in the same Colab runtime. The screenshot shows failure at the parity stage: `RuntimeError: Input type (torch.cuda.FloatTensor) and weight type (torch.FloatTensor) should be the same`. The script had moved DINOv2 to CPU for ONNX export, then called the original `embeddings()` helper, which sends inputs to CUDA. The export/checker and reference-file creation ran before this failure, but parity and Drive upload did not complete. The local original script now uses cached `features["test", "full"][:12]` instead of rerunning the GPU helper. A shorter same-runtime recovery cell is at tools/model_training/resume_dinov2_export_after_device_error_colab.py; both files passed Python syntax checking. The user should run the recovery cell while the Colab runtime and its variables remain live. Do not claim parity or saved artifacts until its `EXPORT_PARITY_OK` and `EXPORT_SAVED` output arrives.
+
+22 October second ONNX export error supersedes the recovery instruction above: The user ran the recovery cell, which stopped at ONNX Runtime inference with `ValueError: Required inputs (['masks']) are missing from input feed (['image'])`. The first export unintentionally exposed DINOv2's optional training mask as a required ONNX input. No parity or Drive save occurred. Official DINOv2 source shows `prepare_tokens_with_masks(x, masks=None)` and that `forward_features` returns `x_norm_clstoken`. The original export script was revised to export an explicit image-only wrapper around `forward_features(image, masks=None)` and assert ONNX input names equal `['image']`. A same-runtime repair cell is now at tools/model_training/repair_dinov2_onnx_masks_colab.py. It re-exports the existing CPU model through the wrapper, checks ONNX input signature and 12 held-out embedding/class parity, then uploads three artifacts to the owner's private Drive root only after parity. Both revised scripts passed local Python syntax checking. The repair cell has NOT been run; do not claim export success, saved artifacts or phone integration.
+
+22 October ONNX export and local candidate integration supersede the pending instruction above: The user reported EXPORT_PARITY_OK on 12 held-out photos, maximum embedding error 6.407499313354492e-07. The 88.4 MB encoder, 3.1 MB compressed training-reference bank, and labels were saved to the owner's private Drive folder https://drive.google.com/drive/folders/1JIhRX4d_CmUe4vSc4oD4FAKCRivEbiR4 . These artifacts were retrieved into the current workspace's frontend_recovered/assets/models. The reference NPZ was converted to little-endian Float32 embeddings and uint8 class IDs using tools/model_training/convert_dinov2_references.py. Flutter photo classification now points at a candidate DINOv2 ONNX retrieval implementation using flutter_onnxruntime 1.9.0, 224px padded ImageNet-normalized images, L2-normalized query embeddings, and the average of the three nearest training embeddings per class. A provisional top-two margin display cutoff (~0.0165) is not calibrated on independent unknown monuments and can reject correct examples. The previous TFLite classifier and assets remain for rollback. Targeted Flutter analysis, Flutter bundle compilation, and scan UI tests passed. Android APK build did not complete here because Gradle failed to establish a loopback connection in this execution environment, even with no-daemon retries; this environment failure does not establish that the Android plugin works. Local PowerShell Android build, on-device inference/latency/size test, and independent phone-photo/unknown-class checks are still required. The prior APK is stale and does not contain DINOv2.
+
+22 October Android build follow-up supersedes the APK-build failure status above: The user built the new debug APK successfully in their own PowerShell (lutter build apk --debug). Local inspection confirmed rontend_recovered/build/app/outputs/flutter-apk/app-debug.apk timestamp 22-10-2026 21:39:18, size 596,683,759 bytes, with the DINOv2 ONNX encoder, Float32 reference bank, class IDs, labels, and ONNX Runtime native libraries for arm64-v8a, armeabi-v7a, and x86_64 inside the APK. This confirms packaging/build, not on-device inference or accuracy. ADB was unavailable in this managed execution environment, so installation, scan latency, known/unknown photo behavior, and camera holdout testing are still pending. The APK is a debug candidate, not a verified final release.
+
+22 October general app-quality pass: The user reported that the newly installed DINOv2 candidate APK recognizes their tested photos well; this is a qualitative phone report, not measured phone holdout accuracy. The user asked for remaining bugs/glitches to be fixed and reported no specific screen issue. A full Flutter test run initially found two stale/flaky UI tests, which were repaired; all 21 tests now pass. The Profile My Activity widget now shows an error/retry card if local activity loading fails instead of an indefinite progress line. Scan root Back now goes Home, repeated camera/gallery picker launches are guarded, and image decoding/preprocessing moves to a background isolate to reduce UI jank without changing model scoring. The default app API endpoint is now the existing deployed VirasatAI Cloudflare Worker, so a plain local rebuild retains account/report/review connectivity; /health returned status ok and database connected. Simple Flutter deprecation/lint fixes were applied; full flutter analyze reports no issues, and flutter build bundle --no-pub passes. Android APK has NOT been rebuilt since these edits in this managed environment (Gradle loopback limitation); the user's currently installed APK is the earlier working DINOv2 candidate and does not include these quality fixes. A normal local PowerShell flutter build apk --debug followed by reinstall is needed to test the updated app.
+
+22 October login follow-up: User reported their existing email gets 'incorrect email or password' on sign-in. The Flutter login UI incorrectly applied the 10-character new-registration password rule to sign-in; this was restricted to registration. Password visibility was added to help catch typing mistakes, and login copy now distinguishes real server accounts from demo sessions. All 21 Flutter tests and focused Dart analysis passed. The user's account existence/password in the live Cloudflare D1 database was not verified: network/CLI access from this managed environment failed. No credentials or account record were changed. A new APK has not been built or installed after this change, and the user's actual sign-in remains to be verified on the phone. Do not assume the UI fix resolves a server-reported INVALID_CREDENTIALS response; a secure account recovery path or verified correct credentials may be required.
+23 October login diagnosis: An authenticated read-only Wrangler query against live D1 confirmed zero users for the exact email supplied by the user (agarwalmanu027@gmail.com). Existing-account login therefore cannot succeed for that address; user needs to register it. Minimum registration password length changed to 8 in Flutter, local backend and Cloudflare Worker; existing passwords are not truncated or reset. Five local backend tests passed including eight-character registration/login and rejection of seven characters. Worker deployed successfully, version b19b6525-8162-44a7-aa45-97190e9b5c4e. Updated Flutter APK still needs local rebuild/install before eight-character registration is available on phone.
+
+24 October unsupported-photo false recognition: A friend scanned a roadside local shrine in the latest installed APK; the app offered Red Fort. Code inspection confirmed the DINOv2 app treated only the best-vs-second class similarity margin as a confidence measure, without checking absolute similarity. A crop of the screenshot preview (not the original photo) scored Red Fort with top-three mean cosine 0.4183 and margin 0.0322, which the old margin-only threshold accepted. Flutter classifier now uses a separate tested retrieval matcher, requires provisional absolute cosine >=0.65 and margin >=0.03, and returns no named result otherwise; UI explains the 20 supported monument scope and preserves manual/retake actions. Exact app image preprocessing is shared with a diagnostic CLI. An exploratory local probe using 40 existing supported gallery images and 18 other-place gallery images found new acceptance 26/40 known and 4/18 unsupported vs old 36/40 and 14/18; screenshot crop was rejected. Gallery samples may overlap training provenance and this is not independent test accuracy. Similar Mughal tombs and Aihole Durga Temple still passed as false suggestions, so unknown rejection is incomplete; the stricter rule rejects some correct supported views. See tools/model_training/unknown_rejection_2026-10-24.md. Flutter full suite 35 tests passed, flutter analyze no issues, flutter build bundle --no-pub passed. New Android APK did NOT build in managed environment because Gradle again failed 'Unable to establish loopback connection', including an offline single-worker attempt; existing APK timestamp 23 October 22:21 is stale and does not include this fix. Pubspec app version advanced to 1.0.1+2 for the next installation. Next required action is normal PowerShell build via tools/build_connected_apk.ps1, install, and test the original phone photo. No new real-phone or independent unknown-set accuracy claim was made.
+
+25 October 2026 APK size work: Current app-debug.apk remains a pre-optimization ~594,291,027-byte debug build; it must not be presented as the new result. Packaged guide JPEGs were reduced from 208.1 to 104.2 MiB with 840px/quality-72 phone copies, and 988 prior versions were backed up outside Flutter assets at local_asset_backups/guide_library. tools/build_flutter_guide_assets.py now generates the same smaller copies; tools/optimize_flutter_guide_images.py handles the other existing guide assets. Added tools/build_small_connected_apk.ps1 to build --release --split-per-abi with connected API check; release currently uses project debug signing key for demo. All 1127 guide JPEGs verified, 35 Flutter tests passed, flutter analyze found no issues. Managed Gradle release build failed 'Unable to establish loopback connection'; actual new APK size is not yet measured. User must run the small build script in normal PowerShell and inspect app-arm64-v8a-release.apk. DINO ONNX and references unchanged.
+
+25 October scan crash follow-up: User reported app process closes completely during 'Analysing' after installing 260.7 MB arm64 release APK. Phone was not attached to ADB, so no native crash log/root cause confirmation. DINO ONNX asset and reference bank were present in release APK. Applied memory mitigations: image_picker camera/gallery max 1024x1024 quality 82 instead of width 1600 quality 85; ONNX CPU intra-op threads 2, inter-op 1, arena allocator disabled; pubspec version 1.0.1+3. Recognition model, preprocessing input side 224, and thresholds unchanged. 35 Flutter tests passed, analyze no issues, release bundle compiled. New APK not built/tested on phone in managed environment. Rebuild via tools/build_small_connected_apk.ps1 in normal PowerShell, install arm64 APK over current app, test scan. If still closing, capture adb logcat/native tombstone from affected phone before more changes.
+
+25 October launcher and exact scan-crash diagnosis: Generated a brown/cream/gold VirasatAI heritage-gateway icon and installed legacy density PNGs plus Android adaptive icon; master at frontend_recovered/assets/branding/virasatai_launcher_master.png, generator tools/generate_launcher_icons.py, old Flutter icons backed up outside assets. User connected Realme RMX3710 by USB. Installed release app versionCode 2003 (1.0.1+3), arm64. Reproduced 'Analysing' crash and read Android crash buffer: fatal SIGABRT in ai.onnxruntime.OrtSession.run JNI convertToTensorInfo, abort message 'JNI DETECTED ERROR IN APPLICATION: java_class == null in call to GetMethodID'. This disproves earlier memory-pressure hypothesis for this device and identifies release R8 shrinking of ONNX Java classes. Added android/app/proguard-rules.pro with -keep class ai.onnxruntime.** { *; } and configured it in release build.gradle.kts. Bumped pubspec to 1.0.1+4. New APK build still blocked in managed CLI by Gradle loopback error; Computer Use policy blocked opening PowerShell UI. Asked user to run tools/build_small_connected_apk.ps1 in normal PowerShell. Next: inspect new APK timestamp/versionCode 2004, install over old app via ADB (preserve data), reproduce scan and confirm no native crash. Do not claim fixed until phone test passes.
+
+25 October final phone verification: User built arm64 release APK at 16:51:37 with launcher icon and ONNX R8 keep rule, versionCode 2004 (pubspec 1.0.1+4). ADB installed it over versionCode 2003 on connected Realme RMX3710 with db install -r, preserving app data; install succeeded. User scanned a monument photo and reported 'Result aaya' after Analysing. App process PID 10462 remained alive and Android crash buffer showed no VirasatAI crash for that test. Thus the JNI release crash is verified fixed for that scan on that phone. Do not infer universal device compatibility or recognition accuracy from this single test. Icon PNGs and adaptive XML were checked for dimensions/XML; visual launcher appearance on phone has not yet been reported by user.
+
+25 October persistent login fix: User reported being logged out whenever the app closes. Root cause: AppSession held account token only in memory. Flutter now saves real-account email, display name, token, and backend 30-day expiry through a native Android Keystore AES-GCM encrypted session channel; main restores it before showing the router, and sign-out clears the saved record. Demo mode remains session-only. App version bumped to 1.0.1+5. Direct Dart analysis of lib passed. Managed Flutter test/build commands stalled without output, so Android APK build, installation, and phone restart verification remain pending. Existing users must sign in once with the updated APK; server token expires after 30 days or explicit logout. No backend deployment was needed.
+
+25 October scan entry UX update: User disliked tapping an unlabeled white shutter before the system camera opens. ScanScreen now opens the native camera automatically on entry in the real app; if canceled, the capture screen offers a clearly labeled Open camera button plus Choose from gallery. An injected-pickImage widget test was added for automatic camera launch, while existing picker-injection tests retain manual entry. Direct Dart analysis of the changed screen and test passed. Managed flutter test again stalled without output and was interrupted; updated APK and phone check remain pending. The previous login persistence change is still part of the same unbuilt version 1.0.1+5.
+
+25 October scan empty-state clarification: User said the blank camera-shaped box looked like broken camera access. Replaced the fake dark viewfinder/grid with a cream information card showing a camera icon, Ready to scan a monument heading, and explicit text that the camera opens separately and may be reopened or gallery chosen. Existing Open camera and gallery controls remain. Added a compact-phone widget assertion; direct Dart analysis of changed screen and test passed. Updated APK and phone check remain pending; same unbuilt 1.0.1+5 as login persistence/auto-camera work.
+
+25 October local file cleanup: User explicitly requested deleting duplicate/unneeded VirasatAI files. Audited workspace sizes. Copied latest 25 Oct 22:54 arm64 release APK to output/apk/VirasatAI-arm64-release-latest.apk, verified SHA-256 equal to source (072BFF1321DC4407AF47C4490CC203BCB2679E7817DC0614D482ABB81875D76A), then removed only regenerated frontend_recovered/build (7,993.3 MiB) and frontend_recovered/.dart_tool/flutter_build (554.5 MiB). Source code, models, dataset/raw images, review candidates, backups, package config, PDF, and latest preserved APK remain. Project total after cleanup 4,747.5 MiB. Next Flutter build will recreate build/cache and take longer. Old APK path under build no longer exists; use output/apk copy or rebuild.
+
+26 October gallery and Qutub nearby repair: The latest saved APK carried 1,127 guide-library JPEGs but its guide_catalog.json had 152 empty photo arrays after tools/build_flutter_guide_assets.py regenerated only base photos. Restored the reviewed 18 October coverage using REVIEWED_GALLERY_MANIFEST.json, reviewed_raw_zero_manifest.json, locally saved numbered gallery files, Taj pilot gallery, and the final app_gallery_coverage_audit.json. Updated the builder so regeneration preserves the exact audited 1,001 photo references for 220/220 entries; all 20 main monuments have at least 8. Rare nearby places still have fewer than 7, matching the earlier verified audit; do not claim universal 7–8 coverage. Verified all 1,001 referenced JPEGs exist and decode, and release Flutter bundle contains all 1,001 references with zero missing files. QutubMinarGuideScreen now loads its 10 nearby entries from GuideCatalog and displays thumbnail cards like HeritageGuideScreen, including Hindi names/routes. Added catalog regression assertions; guide_catalog_test and qutub_guide_test pass, direct Dart analysis found no issues. App version bumped to 1.0.1+6. APK build in managed CLI failed Gradle 'Unable to establish loopback connection'; Windows UI PowerShell launch was blocked by product policy. User must run the local build script in their own normal PowerShell to produce the installable APK; no updated APK has been produced or phone-tested yet.
+
+26 November 2026 guide consistency repair: The user reported that only Taj Mahal and Qutub Minar showed History/Architecture and other guide facts stayed English in Hindi mode. HeritageGuideScreen now renders localized History and Architecture expansion tiles. tools/guide_main_details.json contains explicit Hindi translations of existing sourced facts for the remaining 18 main monuments and history/architecture assignments. tools/build_guide_details.py prepares sections from those facts and existing approved bilingual narration; tools/build_flutter_guide_assets.py regenerates these fields without losing gallery coverage. For nearby places, existing Hindi narration provides a separately labelled source-based Hindi account; historical/architectural paragraphs are reused only when matching English/Hindi paragraphs align, with an explicit unavailable message for missing detail. This does not create new history for identity-pending sites. GuideEntry reads the added fields. Version bumped to 1.0.1+7. All 11 targeted guide/catalog/widget checks passed, including expansion and Hindi switch on the common Red Fort page; changed Dart files analyze cleanly. APK built successfully (arm64 versionCode 2007, 273752313 bytes), with all 220 entries and all 1001 photo references present. Latest distributable is output/apk/VirasatAI-arm64-release-latest.apk. Phone installation status is recorded separately below; no manual phone UI check claimed from automated tests.
+26 November installation result: adb install -r succeeded on connected Realme RMX3710, replacing versionCode 2006 with 2007 while preserving app data. am start launched MainActivity. Manual viewing of updated Hindi facts/history/architecture on the phone is awaiting user confirmation.
+26 November guide layout follow-up: User confirmed Hindi works but said facts/history/architecture differ from Taj/Qutub. Replaced separate implementations with shared GuideSectionCard, GuideFactLine/GuideFactsCard and GuideDetailCard in lib/screens/result/guide_sections.dart, used by Taj ResultScreen, QutubMinarGuideScreen and HeritageGuideScreen. All main guides now use compact label/value facts and matching expansion-card styling. For the other 18 main monuments, tools/guide_main_details.json retains original fact translations plus manually assigned bilingual quick fact labels/values and reviewed narration paragraph indices; history/architecture use explanatory narration instead of concatenating fact bullets. build_guide_details.py and the asset builder preserve these on regeneration. Existing bilingual story paragraphs are reused without new historical claims. Catalog/widget/Taj/Qutub checks: 11 passed, including common guide at 390x844 and Hindi switch; focused Dart analysis no issues. Final APK catalog byte-equal to source, all 220 entries and 1001 gallery references retained. VersionCode 2008 (1.0.1+8) built and installed successfully with adb install -r over 2007 on Realme RMX3710; MainActivity launched. Latest APK copied to output/apk/VirasatAI-arm64-release-latest.apk. Phone visual appearance of this newest revision awaits user confirmation.
+26 November 2026 GitHub repository setup: Owner explicitly requested a new GitHub repository and upload of the project. The verified connected owner is agarwalmanu027-dotcom. New private repository created at https://github.com/agarwalmanu027-dotcom/VirasatAI and configured as origin of C:/Desktop/VirasatAI. Repository includes the current Flutter/Android application, bundled runtime models and reviewed app images, local/Cloudflare backend source, D1 schema/example configuration, heritage text/narration and source/license records, training/content utilities, final report, presentation and viva PDF. Original large photo collection, raw datasets, local asset backups, downloaded demo/CLI utilities, APK/build caches, machine-specific Android paths, SQLite account database, private Wrangler state and secrets are excluded by the root .gitignore. 4,461 curated files total about 243 MiB before Git compression; all 1,001 packaged gallery references and required model assets are tracked. Added root README, current frontend README and refreshed outdated session/hosting paragraphs in backend README; source app behavior is unchanged by this publication work. GitHub CLI authentication completed through the owner's own browser, with credentials held in Windows keyring and not the repository. The private GitHub repo is the source backup target; APK stays locally at output/apk/VirasatAI-arm64-release-latest.apk. Do not change repository visibility without the owner's instruction.

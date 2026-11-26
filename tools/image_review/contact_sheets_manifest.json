@@ -1,0 +1,7708 @@
+[
+  {
+    "path": "tools/image_review/contact_sheets/group_01_nearby_01.jpg",
+    "order": 1,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "taj_mahal__bateshwar_temples",
+        "candidate": 1
+      },
+      {
+        "id": "taj_mahal__bateshwar_temples",
+        "candidate": 2
+      },
+      {
+        "id": "taj_mahal__chini_ka_rauza",
+        "candidate": 1
+      },
+      {
+        "id": "taj_mahal__chini_ka_rauza",
+        "candidate": 2
+      },
+      {
+        "id": "taj_mahal__chini_ka_rauza",
+        "candidate": 3
+      },
+      {
+        "id": "taj_mahal__chini_ka_rauza",
+        "candidate": 4
+      },
+      {
+        "id": "taj_mahal__chini_ka_rauza",
+        "candidate": 5
+      },
+      {
+        "id": "taj_mahal__chini_ka_rauza",
+        "candidate": 6
+      },
+      {
+        "id": "taj_mahal__chini_ka_rauza",
+        "candidate": 7
+      },
+      {
+        "id": "taj_mahal__chini_ka_rauza",
+        "candidate": 8
+      },
+      {
+        "id": "taj_mahal__chini_ka_rauza",
+        "candidate": 9
+      },
+      {
+        "id": "taj_mahal__chini_ka_rauza",
+        "candidate": 10
+      },
+      {
+        "id": "taj_mahal__gurudwara_guru_ka_taal",
+        "candidate": 1
+      },
+      {
+        "id": "taj_mahal__gurudwara_guru_ka_taal",
+        "candidate": 2
+      },
+      {
+        "id": "taj_mahal__gurudwara_guru_ka_taal",
+        "candidate": 3
+      },
+      {
+        "id": "taj_mahal__gurudwara_guru_ka_taal",
+        "candidate": 4
+      },
+      {
+        "id": "taj_mahal__gurudwara_guru_ka_taal",
+        "candidate": 5
+      },
+      {
+        "id": "taj_mahal__gurudwara_guru_ka_taal",
+        "candidate": 6
+      },
+      {
+        "id": "taj_mahal__gurudwara_guru_ka_taal",
+        "candidate": 7
+      },
+      {
+        "id": "taj_mahal__gurudwara_guru_ka_taal",
+        "candidate": 8
+      },
+      {
+        "id": "taj_mahal__gurudwara_guru_ka_taal",
+        "candidate": 9
+      },
+      {
+        "id": "taj_mahal__gurudwara_guru_ka_taal",
+        "candidate": 10
+      },
+      {
+        "id": "taj_mahal__jaswant_singh_ki_chhatri",
+        "candidate": 1
+      },
+      {
+        "id": "taj_mahal__kanch_mahal",
+        "candidate": 1
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_01_nearby_02.jpg",
+    "order": 1,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "taj_mahal__kanch_mahal",
+        "candidate": 2
+      },
+      {
+        "id": "taj_mahal__kanch_mahal",
+        "candidate": 3
+      },
+      {
+        "id": "taj_mahal__kanch_mahal",
+        "candidate": 4
+      },
+      {
+        "id": "taj_mahal__kanch_mahal",
+        "candidate": 5
+      },
+      {
+        "id": "taj_mahal__kanch_mahal",
+        "candidate": 6
+      },
+      {
+        "id": "taj_mahal__kanch_mahal",
+        "candidate": 7
+      },
+      {
+        "id": "taj_mahal__kanch_mahal",
+        "candidate": 8
+      },
+      {
+        "id": "taj_mahal__kanch_mahal",
+        "candidate": 9
+      },
+      {
+        "id": "taj_mahal__kanch_mahal",
+        "candidate": 10
+      },
+      {
+        "id": "taj_mahal__mariam_uz_zamani_tomb",
+        "candidate": 1
+      },
+      {
+        "id": "taj_mahal__mariam_uz_zamani_tomb",
+        "candidate": 2
+      },
+      {
+        "id": "taj_mahal__mariam_uz_zamani_tomb",
+        "candidate": 3
+      },
+      {
+        "id": "taj_mahal__mariam_uz_zamani_tomb",
+        "candidate": 4
+      },
+      {
+        "id": "taj_mahal__mariam_uz_zamani_tomb",
+        "candidate": 5
+      },
+      {
+        "id": "taj_mahal__mehtab_bagh",
+        "candidate": 1
+      },
+      {
+        "id": "taj_mahal__mehtab_bagh",
+        "candidate": 2
+      },
+      {
+        "id": "taj_mahal__mehtab_bagh",
+        "candidate": 3
+      },
+      {
+        "id": "taj_mahal__mehtab_bagh",
+        "candidate": 4
+      },
+      {
+        "id": "taj_mahal__mehtab_bagh",
+        "candidate": 5
+      },
+      {
+        "id": "taj_mahal__mehtab_bagh",
+        "candidate": 6
+      },
+      {
+        "id": "taj_mahal__mehtab_bagh",
+        "candidate": 7
+      },
+      {
+        "id": "taj_mahal__mehtab_bagh",
+        "candidate": 8
+      },
+      {
+        "id": "taj_mahal__mehtab_bagh",
+        "candidate": 9
+      },
+      {
+        "id": "taj_mahal__mehtab_bagh",
+        "candidate": 10
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_01_nearby_03.jpg",
+    "order": 1,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "taj_mahal__ram_bagh",
+        "candidate": 1
+      },
+      {
+        "id": "taj_mahal__ram_bagh",
+        "candidate": 2
+      },
+      {
+        "id": "taj_mahal__ram_bagh",
+        "candidate": 3
+      },
+      {
+        "id": "taj_mahal__ram_bagh",
+        "candidate": 4
+      },
+      {
+        "id": "taj_mahal__ram_bagh",
+        "candidate": 5
+      },
+      {
+        "id": "taj_mahal__ram_bagh",
+        "candidate": 6
+      },
+      {
+        "id": "taj_mahal__ram_bagh",
+        "candidate": 7
+      },
+      {
+        "id": "taj_mahal__ram_bagh",
+        "candidate": 8
+      },
+      {
+        "id": "taj_mahal__ram_bagh",
+        "candidate": 9
+      },
+      {
+        "id": "taj_mahal__ram_bagh",
+        "candidate": 10
+      },
+      {
+        "id": "taj_mahal__taj_nature_walk",
+        "candidate": 1
+      },
+      {
+        "id": "taj_mahal__taj_nature_walk",
+        "candidate": 2
+      },
+      {
+        "id": "taj_mahal__taj_nature_walk",
+        "candidate": 3
+      },
+      {
+        "id": "taj_mahal__taj_nature_walk",
+        "candidate": 4
+      },
+      {
+        "id": "taj_mahal__taj_nature_walk",
+        "candidate": 5
+      },
+      {
+        "id": "taj_mahal__taj_nature_walk",
+        "candidate": 6
+      },
+      {
+        "id": "taj_mahal__taj_nature_walk",
+        "candidate": 7
+      },
+      {
+        "id": "taj_mahal__the_red_taj_hessings_tomb",
+        "candidate": 1
+      },
+      {
+        "id": "taj_mahal__the_red_taj_hessings_tomb",
+        "candidate": 2
+      },
+      {
+        "id": "taj_mahal__the_red_taj_hessings_tomb",
+        "candidate": 3
+      },
+      {
+        "id": "taj_mahal__the_red_taj_hessings_tomb",
+        "candidate": 4
+      },
+      {
+        "id": "taj_mahal__the_red_taj_hessings_tomb",
+        "candidate": 5
+      },
+      {
+        "id": "taj_mahal__the_red_taj_hessings_tomb",
+        "candidate": 6
+      },
+      {
+        "id": "taj_mahal__the_red_taj_hessings_tomb",
+        "candidate": 7
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_01_nearby_04.jpg",
+    "order": 1,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "taj_mahal__the_red_taj_hessings_tomb",
+        "candidate": 8
+      },
+      {
+        "id": "taj_mahal__the_red_taj_hessings_tomb",
+        "candidate": 9
+      },
+      {
+        "id": "taj_mahal__the_red_taj_hessings_tomb",
+        "candidate": 10
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_02_main_01.jpg",
+    "order": 2,
+    "kind": "main",
+    "items": [
+      {
+        "id": "qutub_minar",
+        "candidate": 1
+      },
+      {
+        "id": "qutub_minar",
+        "candidate": 2
+      },
+      {
+        "id": "qutub_minar",
+        "candidate": 3
+      },
+      {
+        "id": "qutub_minar",
+        "candidate": 4
+      },
+      {
+        "id": "qutub_minar",
+        "candidate": 5
+      },
+      {
+        "id": "qutub_minar",
+        "candidate": 6
+      },
+      {
+        "id": "qutub_minar",
+        "candidate": 7
+      },
+      {
+        "id": "qutub_minar",
+        "candidate": 8
+      },
+      {
+        "id": "qutub_minar",
+        "candidate": 9
+      },
+      {
+        "id": "qutub_minar",
+        "candidate": 10
+      },
+      {
+        "id": "qutub_minar",
+        "candidate": 11
+      },
+      {
+        "id": "qutub_minar",
+        "candidate": 12
+      },
+      {
+        "id": "qutub_minar",
+        "candidate": 13
+      },
+      {
+        "id": "qutub_minar",
+        "candidate": 14
+      },
+      {
+        "id": "qutub_minar",
+        "candidate": 15
+      },
+      {
+        "id": "qutub_minar",
+        "candidate": 16
+      },
+      {
+        "id": "qutub_minar",
+        "candidate": 17
+      },
+      {
+        "id": "qutub_minar",
+        "candidate": 18
+      },
+      {
+        "id": "qutub_minar",
+        "candidate": 19
+      },
+      {
+        "id": "qutub_minar",
+        "candidate": 20
+      },
+      {
+        "id": "qutub_minar",
+        "candidate": 21
+      },
+      {
+        "id": "qutub_minar",
+        "candidate": 22
+      },
+      {
+        "id": "qutub_minar",
+        "candidate": 23
+      },
+      {
+        "id": "qutub_minar",
+        "candidate": 24
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_02_main_02.jpg",
+    "order": 2,
+    "kind": "main",
+    "items": [
+      {
+        "id": "qutub_minar",
+        "candidate": 25
+      },
+      {
+        "id": "qutub_minar",
+        "candidate": 26
+      },
+      {
+        "id": "qutub_minar",
+        "candidate": 27
+      },
+      {
+        "id": "qutub_minar",
+        "candidate": 28
+      },
+      {
+        "id": "qutub_minar",
+        "candidate": 29
+      },
+      {
+        "id": "qutub_minar",
+        "candidate": 30
+      },
+      {
+        "id": "qutub_minar",
+        "candidate": 31
+      },
+      {
+        "id": "qutub_minar",
+        "candidate": 32
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_02_nearby_01.jpg",
+    "order": 2,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "qutub_minar__adham_khans_tomb",
+        "candidate": 1
+      },
+      {
+        "id": "qutub_minar__adham_khans_tomb",
+        "candidate": 2
+      },
+      {
+        "id": "qutub_minar__adham_khans_tomb",
+        "candidate": 3
+      },
+      {
+        "id": "qutub_minar__adham_khans_tomb",
+        "candidate": 4
+      },
+      {
+        "id": "qutub_minar__adham_khans_tomb",
+        "candidate": 5
+      },
+      {
+        "id": "qutub_minar__adham_khans_tomb",
+        "candidate": 6
+      },
+      {
+        "id": "qutub_minar__adham_khans_tomb",
+        "candidate": 7
+      },
+      {
+        "id": "qutub_minar__adham_khans_tomb",
+        "candidate": 8
+      },
+      {
+        "id": "qutub_minar__adham_khans_tomb",
+        "candidate": 9
+      },
+      {
+        "id": "qutub_minar__adham_khans_tomb",
+        "candidate": 10
+      },
+      {
+        "id": "qutub_minar__balbans_tomb",
+        "candidate": 1
+      },
+      {
+        "id": "qutub_minar__balbans_tomb",
+        "candidate": 2
+      },
+      {
+        "id": "qutub_minar__balbans_tomb",
+        "candidate": 3
+      },
+      {
+        "id": "qutub_minar__balbans_tomb",
+        "candidate": 4
+      },
+      {
+        "id": "qutub_minar__balbans_tomb",
+        "candidate": 5
+      },
+      {
+        "id": "qutub_minar__balbans_tomb",
+        "candidate": 6
+      },
+      {
+        "id": "qutub_minar__balbans_tomb",
+        "candidate": 7
+      },
+      {
+        "id": "qutub_minar__balbans_tomb",
+        "candidate": 8
+      },
+      {
+        "id": "qutub_minar__balbans_tomb",
+        "candidate": 9
+      },
+      {
+        "id": "qutub_minar__balbans_tomb",
+        "candidate": 10
+      },
+      {
+        "id": "qutub_minar__gandhak_ki_baoli",
+        "candidate": 1
+      },
+      {
+        "id": "qutub_minar__gandhak_ki_baoli",
+        "candidate": 2
+      },
+      {
+        "id": "qutub_minar__gandhak_ki_baoli",
+        "candidate": 3
+      },
+      {
+        "id": "qutub_minar__gandhak_ki_baoli",
+        "candidate": 4
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_02_nearby_02.jpg",
+    "order": 2,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "qutub_minar__gandhak_ki_baoli",
+        "candidate": 5
+      },
+      {
+        "id": "qutub_minar__gandhak_ki_baoli",
+        "candidate": 6
+      },
+      {
+        "id": "qutub_minar__gandhak_ki_baoli",
+        "candidate": 7
+      },
+      {
+        "id": "qutub_minar__hauz_i_shamsi",
+        "candidate": 1
+      },
+      {
+        "id": "qutub_minar__hauz_i_shamsi",
+        "candidate": 2
+      },
+      {
+        "id": "qutub_minar__hauz_i_shamsi",
+        "candidate": 3
+      },
+      {
+        "id": "qutub_minar__hauz_i_shamsi",
+        "candidate": 4
+      },
+      {
+        "id": "qutub_minar__hauz_i_shamsi",
+        "candidate": 5
+      },
+      {
+        "id": "qutub_minar__hauz_i_shamsi",
+        "candidate": 6
+      },
+      {
+        "id": "qutub_minar__hauz_i_shamsi",
+        "candidate": 7
+      },
+      {
+        "id": "qutub_minar__hauz_i_shamsi",
+        "candidate": 8
+      },
+      {
+        "id": "qutub_minar__hijron_ka_khanqah",
+        "candidate": 1
+      },
+      {
+        "id": "qutub_minar__hijron_ka_khanqah",
+        "candidate": 2
+      },
+      {
+        "id": "qutub_minar__hijron_ka_khanqah",
+        "candidate": 3
+      },
+      {
+        "id": "qutub_minar__hijron_ka_khanqah",
+        "candidate": 4
+      },
+      {
+        "id": "qutub_minar__hijron_ka_khanqah",
+        "candidate": 5
+      },
+      {
+        "id": "qutub_minar__hijron_ka_khanqah",
+        "candidate": 6
+      },
+      {
+        "id": "qutub_minar__jahaz_mahal",
+        "candidate": 1
+      },
+      {
+        "id": "qutub_minar__jahaz_mahal",
+        "candidate": 2
+      },
+      {
+        "id": "qutub_minar__jahaz_mahal",
+        "candidate": 3
+      },
+      {
+        "id": "qutub_minar__jahaz_mahal",
+        "candidate": 4
+      },
+      {
+        "id": "qutub_minar__jahaz_mahal",
+        "candidate": 5
+      },
+      {
+        "id": "qutub_minar__jahaz_mahal",
+        "candidate": 6
+      },
+      {
+        "id": "qutub_minar__jahaz_mahal",
+        "candidate": 7
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_02_nearby_03.jpg",
+    "order": 2,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "qutub_minar__jahaz_mahal",
+        "candidate": 8
+      },
+      {
+        "id": "qutub_minar__jahaz_mahal",
+        "candidate": 9
+      },
+      {
+        "id": "qutub_minar__jahaz_mahal",
+        "candidate": 10
+      },
+      {
+        "id": "qutub_minar__jamali_kamali_mosque",
+        "candidate": 1
+      },
+      {
+        "id": "qutub_minar__jamali_kamali_mosque",
+        "candidate": 2
+      },
+      {
+        "id": "qutub_minar__jamali_kamali_mosque",
+        "candidate": 3
+      },
+      {
+        "id": "qutub_minar__jamali_kamali_mosque",
+        "candidate": 4
+      },
+      {
+        "id": "qutub_minar__jamali_kamali_mosque",
+        "candidate": 5
+      },
+      {
+        "id": "qutub_minar__jamali_kamali_mosque",
+        "candidate": 6
+      },
+      {
+        "id": "qutub_minar__jamali_kamali_mosque",
+        "candidate": 7
+      },
+      {
+        "id": "qutub_minar__jamali_kamali_mosque",
+        "candidate": 8
+      },
+      {
+        "id": "qutub_minar__jamali_kamali_mosque",
+        "candidate": 9
+      },
+      {
+        "id": "qutub_minar__jamali_kamali_mosque",
+        "candidate": 10
+      },
+      {
+        "id": "qutub_minar__quli_khans_tomb",
+        "candidate": 1
+      },
+      {
+        "id": "qutub_minar__quli_khans_tomb",
+        "candidate": 2
+      },
+      {
+        "id": "qutub_minar__quli_khans_tomb",
+        "candidate": 3
+      },
+      {
+        "id": "qutub_minar__quli_khans_tomb",
+        "candidate": 4
+      },
+      {
+        "id": "qutub_minar__quli_khans_tomb",
+        "candidate": 5
+      },
+      {
+        "id": "qutub_minar__quli_khans_tomb",
+        "candidate": 6
+      },
+      {
+        "id": "qutub_minar__quli_khans_tomb",
+        "candidate": 7
+      },
+      {
+        "id": "qutub_minar__quli_khans_tomb",
+        "candidate": 8
+      },
+      {
+        "id": "qutub_minar__quli_khans_tomb",
+        "candidate": 9
+      },
+      {
+        "id": "qutub_minar__quli_khans_tomb",
+        "candidate": 10
+      },
+      {
+        "id": "qutub_minar__rajon_ki_baoli",
+        "candidate": 1
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_02_nearby_04.jpg",
+    "order": 2,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "qutub_minar__rajon_ki_baoli",
+        "candidate": 2
+      },
+      {
+        "id": "qutub_minar__rajon_ki_baoli",
+        "candidate": 3
+      },
+      {
+        "id": "qutub_minar__rajon_ki_baoli",
+        "candidate": 4
+      },
+      {
+        "id": "qutub_minar__rajon_ki_baoli",
+        "candidate": 5
+      },
+      {
+        "id": "qutub_minar__rajon_ki_baoli",
+        "candidate": 6
+      },
+      {
+        "id": "qutub_minar__rajon_ki_baoli",
+        "candidate": 7
+      },
+      {
+        "id": "qutub_minar__rajon_ki_baoli",
+        "candidate": 8
+      },
+      {
+        "id": "qutub_minar__rajon_ki_baoli",
+        "candidate": 9
+      },
+      {
+        "id": "qutub_minar__rajon_ki_baoli",
+        "candidate": 10
+      },
+      {
+        "id": "qutub_minar__zafar_mahal",
+        "candidate": 1
+      },
+      {
+        "id": "qutub_minar__zafar_mahal",
+        "candidate": 2
+      },
+      {
+        "id": "qutub_minar__zafar_mahal",
+        "candidate": 3
+      },
+      {
+        "id": "qutub_minar__zafar_mahal",
+        "candidate": 4
+      },
+      {
+        "id": "qutub_minar__zafar_mahal",
+        "candidate": 5
+      },
+      {
+        "id": "qutub_minar__zafar_mahal",
+        "candidate": 6
+      },
+      {
+        "id": "qutub_minar__zafar_mahal",
+        "candidate": 7
+      },
+      {
+        "id": "qutub_minar__zafar_mahal",
+        "candidate": 8
+      },
+      {
+        "id": "qutub_minar__zafar_mahal",
+        "candidate": 9
+      },
+      {
+        "id": "qutub_minar__zafar_mahal",
+        "candidate": 10
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_03_main_01.jpg",
+    "order": 3,
+    "kind": "main",
+    "items": [
+      {
+        "id": "amer_fort",
+        "candidate": 1
+      },
+      {
+        "id": "amer_fort",
+        "candidate": 2
+      },
+      {
+        "id": "amer_fort",
+        "candidate": 3
+      },
+      {
+        "id": "amer_fort",
+        "candidate": 4
+      },
+      {
+        "id": "amer_fort",
+        "candidate": 5
+      },
+      {
+        "id": "amer_fort",
+        "candidate": 6
+      },
+      {
+        "id": "amer_fort",
+        "candidate": 7
+      },
+      {
+        "id": "amer_fort",
+        "candidate": 8
+      },
+      {
+        "id": "amer_fort",
+        "candidate": 9
+      },
+      {
+        "id": "amer_fort",
+        "candidate": 10
+      },
+      {
+        "id": "amer_fort",
+        "candidate": 11
+      },
+      {
+        "id": "amer_fort",
+        "candidate": 12
+      },
+      {
+        "id": "amer_fort",
+        "candidate": 13
+      },
+      {
+        "id": "amer_fort",
+        "candidate": 14
+      },
+      {
+        "id": "amer_fort",
+        "candidate": 15
+      },
+      {
+        "id": "amer_fort",
+        "candidate": 16
+      },
+      {
+        "id": "amer_fort",
+        "candidate": 17
+      },
+      {
+        "id": "amer_fort",
+        "candidate": 18
+      },
+      {
+        "id": "amer_fort",
+        "candidate": 19
+      },
+      {
+        "id": "amer_fort",
+        "candidate": 20
+      },
+      {
+        "id": "amer_fort",
+        "candidate": 21
+      },
+      {
+        "id": "amer_fort",
+        "candidate": 22
+      },
+      {
+        "id": "amer_fort",
+        "candidate": 23
+      },
+      {
+        "id": "amer_fort",
+        "candidate": 24
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_03_main_02.jpg",
+    "order": 3,
+    "kind": "main",
+    "items": [
+      {
+        "id": "amer_fort",
+        "candidate": 25
+      },
+      {
+        "id": "amer_fort",
+        "candidate": 26
+      },
+      {
+        "id": "amer_fort",
+        "candidate": 27
+      },
+      {
+        "id": "amer_fort",
+        "candidate": 28
+      },
+      {
+        "id": "amer_fort",
+        "candidate": 29
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_03_nearby_01.jpg",
+    "order": 3,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "amer_fort__anokhi_museum",
+        "candidate": 1
+      },
+      {
+        "id": "amer_fort__anokhi_museum",
+        "candidate": 2
+      },
+      {
+        "id": "amer_fort__gaitore_ki_chhatriyan",
+        "candidate": 1
+      },
+      {
+        "id": "amer_fort__gaitore_ki_chhatriyan",
+        "candidate": 2
+      },
+      {
+        "id": "amer_fort__gaitore_ki_chhatriyan",
+        "candidate": 3
+      },
+      {
+        "id": "amer_fort__gaitore_ki_chhatriyan",
+        "candidate": 4
+      },
+      {
+        "id": "amer_fort__gaitore_ki_chhatriyan",
+        "candidate": 5
+      },
+      {
+        "id": "amer_fort__gaitore_ki_chhatriyan",
+        "candidate": 6
+      },
+      {
+        "id": "amer_fort__gaitore_ki_chhatriyan",
+        "candidate": 7
+      },
+      {
+        "id": "amer_fort__gaitore_ki_chhatriyan",
+        "candidate": 8
+      },
+      {
+        "id": "amer_fort__gaitore_ki_chhatriyan",
+        "candidate": 9
+      },
+      {
+        "id": "amer_fort__gaitore_ki_chhatriyan",
+        "candidate": 10
+      },
+      {
+        "id": "amer_fort__galtaji_temple",
+        "candidate": 1
+      },
+      {
+        "id": "amer_fort__galtaji_temple",
+        "candidate": 2
+      },
+      {
+        "id": "amer_fort__galtaji_temple",
+        "candidate": 3
+      },
+      {
+        "id": "amer_fort__galtaji_temple",
+        "candidate": 4
+      },
+      {
+        "id": "amer_fort__galtaji_temple",
+        "candidate": 5
+      },
+      {
+        "id": "amer_fort__galtaji_temple",
+        "candidate": 6
+      },
+      {
+        "id": "amer_fort__galtaji_temple",
+        "candidate": 7
+      },
+      {
+        "id": "amer_fort__galtaji_temple",
+        "candidate": 8
+      },
+      {
+        "id": "amer_fort__galtaji_temple",
+        "candidate": 9
+      },
+      {
+        "id": "amer_fort__galtaji_temple",
+        "candidate": 10
+      },
+      {
+        "id": "amer_fort__garh_ganesh_temple",
+        "candidate": 1
+      },
+      {
+        "id": "amer_fort__jagat_shiromani_temple",
+        "candidate": 1
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_03_nearby_02.jpg",
+    "order": 3,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "amer_fort__jagat_shiromani_temple",
+        "candidate": 2
+      },
+      {
+        "id": "amer_fort__jagat_shiromani_temple",
+        "candidate": 3
+      },
+      {
+        "id": "amer_fort__jagat_shiromani_temple",
+        "candidate": 4
+      },
+      {
+        "id": "amer_fort__jagat_shiromani_temple",
+        "candidate": 5
+      },
+      {
+        "id": "amer_fort__jagat_shiromani_temple",
+        "candidate": 6
+      },
+      {
+        "id": "amer_fort__jagat_shiromani_temple",
+        "candidate": 7
+      },
+      {
+        "id": "amer_fort__jagat_shiromani_temple",
+        "candidate": 8
+      },
+      {
+        "id": "amer_fort__jagat_shiromani_temple",
+        "candidate": 9
+      },
+      {
+        "id": "amer_fort__jagat_shiromani_temple",
+        "candidate": 10
+      },
+      {
+        "id": "amer_fort__panna_meena_ka_kund",
+        "candidate": 1
+      },
+      {
+        "id": "amer_fort__panna_meena_ka_kund",
+        "candidate": 2
+      },
+      {
+        "id": "amer_fort__panna_meena_ka_kund",
+        "candidate": 3
+      },
+      {
+        "id": "amer_fort__panna_meena_ka_kund",
+        "candidate": 4
+      },
+      {
+        "id": "amer_fort__panna_meena_ka_kund",
+        "candidate": 5
+      },
+      {
+        "id": "amer_fort__panna_meena_ka_kund",
+        "candidate": 6
+      },
+      {
+        "id": "amer_fort__panna_meena_ka_kund",
+        "candidate": 7
+      },
+      {
+        "id": "amer_fort__panna_meena_ka_kund",
+        "candidate": 8
+      },
+      {
+        "id": "amer_fort__panna_meena_ka_kund",
+        "candidate": 9
+      },
+      {
+        "id": "amer_fort__panna_meena_ka_kund",
+        "candidate": 10
+      },
+      {
+        "id": "amer_fort__sagar_lake",
+        "candidate": 1
+      },
+      {
+        "id": "amer_fort__sagar_lake",
+        "candidate": 2
+      },
+      {
+        "id": "amer_fort__sagar_lake",
+        "candidate": 3
+      },
+      {
+        "id": "amer_fort__sagar_lake",
+        "candidate": 4
+      },
+      {
+        "id": "amer_fort__sagar_lake",
+        "candidate": 5
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_03_nearby_03.jpg",
+    "order": 3,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "amer_fort__sagar_lake",
+        "candidate": 6
+      },
+      {
+        "id": "amer_fort__sagar_lake",
+        "candidate": 7
+      },
+      {
+        "id": "amer_fort__sisodia_rani_ka_bagh",
+        "candidate": 1
+      },
+      {
+        "id": "amer_fort__sisodia_rani_ka_bagh",
+        "candidate": 2
+      },
+      {
+        "id": "amer_fort__sisodia_rani_ka_bagh",
+        "candidate": 3
+      },
+      {
+        "id": "amer_fort__sisodia_rani_ka_bagh",
+        "candidate": 4
+      },
+      {
+        "id": "amer_fort__sisodia_rani_ka_bagh",
+        "candidate": 5
+      },
+      {
+        "id": "amer_fort__sisodia_rani_ka_bagh",
+        "candidate": 6
+      },
+      {
+        "id": "amer_fort__sisodia_rani_ka_bagh",
+        "candidate": 7
+      },
+      {
+        "id": "amer_fort__sisodia_rani_ka_bagh",
+        "candidate": 8
+      },
+      {
+        "id": "amer_fort__sisodia_rani_ka_bagh",
+        "candidate": 9
+      },
+      {
+        "id": "amer_fort__sisodia_rani_ka_bagh",
+        "candidate": 10
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_04_main_01.jpg",
+    "order": 4,
+    "kind": "main",
+    "items": [
+      {
+        "id": "red_fort",
+        "candidate": 1
+      },
+      {
+        "id": "red_fort",
+        "candidate": 2
+      },
+      {
+        "id": "red_fort",
+        "candidate": 3
+      },
+      {
+        "id": "red_fort",
+        "candidate": 4
+      },
+      {
+        "id": "red_fort",
+        "candidate": 5
+      },
+      {
+        "id": "red_fort",
+        "candidate": 6
+      },
+      {
+        "id": "red_fort",
+        "candidate": 7
+      },
+      {
+        "id": "red_fort",
+        "candidate": 8
+      },
+      {
+        "id": "red_fort",
+        "candidate": 9
+      },
+      {
+        "id": "red_fort",
+        "candidate": 10
+      },
+      {
+        "id": "red_fort",
+        "candidate": 11
+      },
+      {
+        "id": "red_fort",
+        "candidate": 12
+      },
+      {
+        "id": "red_fort",
+        "candidate": 13
+      },
+      {
+        "id": "red_fort",
+        "candidate": 14
+      },
+      {
+        "id": "red_fort",
+        "candidate": 15
+      },
+      {
+        "id": "red_fort",
+        "candidate": 16
+      },
+      {
+        "id": "red_fort",
+        "candidate": 17
+      },
+      {
+        "id": "red_fort",
+        "candidate": 18
+      },
+      {
+        "id": "red_fort",
+        "candidate": 19
+      },
+      {
+        "id": "red_fort",
+        "candidate": 20
+      },
+      {
+        "id": "red_fort",
+        "candidate": 21
+      },
+      {
+        "id": "red_fort",
+        "candidate": 22
+      },
+      {
+        "id": "red_fort",
+        "candidate": 23
+      },
+      {
+        "id": "red_fort",
+        "candidate": 24
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_04_main_02.jpg",
+    "order": 4,
+    "kind": "main",
+    "items": [
+      {
+        "id": "red_fort",
+        "candidate": 25
+      },
+      {
+        "id": "red_fort",
+        "candidate": 26
+      },
+      {
+        "id": "red_fort",
+        "candidate": 27
+      },
+      {
+        "id": "red_fort",
+        "candidate": 28
+      },
+      {
+        "id": "red_fort",
+        "candidate": 29
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_04_nearby_01.jpg",
+    "order": 4,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "red_fort__digambar_jain_bird_hospital",
+        "candidate": 1
+      },
+      {
+        "id": "red_fort__digambar_jain_bird_hospital",
+        "candidate": 2
+      },
+      {
+        "id": "red_fort__digambar_jain_bird_hospital",
+        "candidate": 3
+      },
+      {
+        "id": "red_fort__fatehpuri_masjid",
+        "candidate": 1
+      },
+      {
+        "id": "red_fort__fatehpuri_masjid",
+        "candidate": 2
+      },
+      {
+        "id": "red_fort__fatehpuri_masjid",
+        "candidate": 3
+      },
+      {
+        "id": "red_fort__fatehpuri_masjid",
+        "candidate": 4
+      },
+      {
+        "id": "red_fort__fatehpuri_masjid",
+        "candidate": 5
+      },
+      {
+        "id": "red_fort__fatehpuri_masjid",
+        "candidate": 6
+      },
+      {
+        "id": "red_fort__fatehpuri_masjid",
+        "candidate": 7
+      },
+      {
+        "id": "red_fort__fatehpuri_masjid",
+        "candidate": 8
+      },
+      {
+        "id": "red_fort__fatehpuri_masjid",
+        "candidate": 9
+      },
+      {
+        "id": "red_fort__fatehpuri_masjid",
+        "candidate": 10
+      },
+      {
+        "id": "red_fort__khooni_darwaza",
+        "candidate": 1
+      },
+      {
+        "id": "red_fort__khooni_darwaza",
+        "candidate": 2
+      },
+      {
+        "id": "red_fort__khooni_darwaza",
+        "candidate": 3
+      },
+      {
+        "id": "red_fort__khooni_darwaza",
+        "candidate": 4
+      },
+      {
+        "id": "red_fort__khooni_darwaza",
+        "candidate": 5
+      },
+      {
+        "id": "red_fort__khooni_darwaza",
+        "candidate": 6
+      },
+      {
+        "id": "red_fort__khooni_darwaza",
+        "candidate": 7
+      },
+      {
+        "id": "red_fort__khooni_darwaza",
+        "candidate": 8
+      },
+      {
+        "id": "red_fort__khooni_darwaza",
+        "candidate": 9
+      },
+      {
+        "id": "red_fort__khooni_darwaza",
+        "candidate": 10
+      },
+      {
+        "id": "red_fort__mirza_ghalib_ki_haveli",
+        "candidate": 1
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_04_nearby_02.jpg",
+    "order": 4,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "red_fort__mirza_ghalib_ki_haveli",
+        "candidate": 2
+      },
+      {
+        "id": "red_fort__mirza_ghalib_ki_haveli",
+        "candidate": 3
+      },
+      {
+        "id": "red_fort__mirza_ghalib_ki_haveli",
+        "candidate": 4
+      },
+      {
+        "id": "red_fort__mirza_ghalib_ki_haveli",
+        "candidate": 5
+      },
+      {
+        "id": "red_fort__mirza_ghalib_ki_haveli",
+        "candidate": 6
+      },
+      {
+        "id": "red_fort__mirza_ghalib_ki_haveli",
+        "candidate": 7
+      },
+      {
+        "id": "red_fort__mirza_ghalib_ki_haveli",
+        "candidate": 8
+      },
+      {
+        "id": "red_fort__mirza_ghalib_ki_haveli",
+        "candidate": 9
+      },
+      {
+        "id": "red_fort__mirza_ghalib_ki_haveli",
+        "candidate": 10
+      },
+      {
+        "id": "red_fort__salimgarh_fort",
+        "candidate": 1
+      },
+      {
+        "id": "red_fort__salimgarh_fort",
+        "candidate": 2
+      },
+      {
+        "id": "red_fort__salimgarh_fort",
+        "candidate": 3
+      },
+      {
+        "id": "red_fort__salimgarh_fort",
+        "candidate": 4
+      },
+      {
+        "id": "red_fort__salimgarh_fort",
+        "candidate": 5
+      },
+      {
+        "id": "red_fort__salimgarh_fort",
+        "candidate": 6
+      },
+      {
+        "id": "red_fort__salimgarh_fort",
+        "candidate": 7
+      },
+      {
+        "id": "red_fort__salimgarh_fort",
+        "candidate": 8
+      },
+      {
+        "id": "red_fort__salimgarh_fort",
+        "candidate": 9
+      },
+      {
+        "id": "red_fort__salimgarh_fort",
+        "candidate": 10
+      },
+      {
+        "id": "red_fort__sunehri_masjid",
+        "candidate": 1
+      },
+      {
+        "id": "red_fort__sunehri_masjid",
+        "candidate": 2
+      },
+      {
+        "id": "red_fort__sunehri_masjid",
+        "candidate": 3
+      },
+      {
+        "id": "red_fort__sunehri_masjid",
+        "candidate": 4
+      },
+      {
+        "id": "red_fort__sunehri_masjid",
+        "candidate": 5
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_04_nearby_03.jpg",
+    "order": 4,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "red_fort__zeenat_ul_masajid",
+        "candidate": 1
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_05_main_01.jpg",
+    "order": 5,
+    "kind": "main",
+    "items": [
+      {
+        "id": "gateway_of_india",
+        "candidate": 1
+      },
+      {
+        "id": "gateway_of_india",
+        "candidate": 2
+      },
+      {
+        "id": "gateway_of_india",
+        "candidate": 3
+      },
+      {
+        "id": "gateway_of_india",
+        "candidate": 4
+      },
+      {
+        "id": "gateway_of_india",
+        "candidate": 5
+      },
+      {
+        "id": "gateway_of_india",
+        "candidate": 6
+      },
+      {
+        "id": "gateway_of_india",
+        "candidate": 7
+      },
+      {
+        "id": "gateway_of_india",
+        "candidate": 8
+      },
+      {
+        "id": "gateway_of_india",
+        "candidate": 9
+      },
+      {
+        "id": "gateway_of_india",
+        "candidate": 10
+      },
+      {
+        "id": "gateway_of_india",
+        "candidate": 11
+      },
+      {
+        "id": "gateway_of_india",
+        "candidate": 12
+      },
+      {
+        "id": "gateway_of_india",
+        "candidate": 13
+      },
+      {
+        "id": "gateway_of_india",
+        "candidate": 14
+      },
+      {
+        "id": "gateway_of_india",
+        "candidate": 15
+      },
+      {
+        "id": "gateway_of_india",
+        "candidate": 16
+      },
+      {
+        "id": "gateway_of_india",
+        "candidate": 17
+      },
+      {
+        "id": "gateway_of_india",
+        "candidate": 18
+      },
+      {
+        "id": "gateway_of_india",
+        "candidate": 19
+      },
+      {
+        "id": "gateway_of_india",
+        "candidate": 20
+      },
+      {
+        "id": "gateway_of_india",
+        "candidate": 21
+      },
+      {
+        "id": "gateway_of_india",
+        "candidate": 22
+      },
+      {
+        "id": "gateway_of_india",
+        "candidate": 23
+      },
+      {
+        "id": "gateway_of_india",
+        "candidate": 24
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_05_main_02.jpg",
+    "order": 5,
+    "kind": "main",
+    "items": [
+      {
+        "id": "gateway_of_india",
+        "candidate": 25
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_05_nearby_01.jpg",
+    "order": 5,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "gateway_of_india__afghan_church",
+        "candidate": 1
+      },
+      {
+        "id": "gateway_of_india__afghan_church",
+        "candidate": 2
+      },
+      {
+        "id": "gateway_of_india__afghan_church",
+        "candidate": 3
+      },
+      {
+        "id": "gateway_of_india__afghan_church",
+        "candidate": 4
+      },
+      {
+        "id": "gateway_of_india__afghan_church",
+        "candidate": 5
+      },
+      {
+        "id": "gateway_of_india__afghan_church",
+        "candidate": 6
+      },
+      {
+        "id": "gateway_of_india__afghan_church",
+        "candidate": 7
+      },
+      {
+        "id": "gateway_of_india__afghan_church",
+        "candidate": 8
+      },
+      {
+        "id": "gateway_of_india__afghan_church",
+        "candidate": 9
+      },
+      {
+        "id": "gateway_of_india__afghan_church",
+        "candidate": 10
+      },
+      {
+        "id": "gateway_of_india__ballard_bunder_gatehouse",
+        "candidate": 1
+      },
+      {
+        "id": "gateway_of_india__banganga_tank",
+        "candidate": 1
+      },
+      {
+        "id": "gateway_of_india__banganga_tank",
+        "candidate": 2
+      },
+      {
+        "id": "gateway_of_india__banganga_tank",
+        "candidate": 3
+      },
+      {
+        "id": "gateway_of_india__banganga_tank",
+        "candidate": 4
+      },
+      {
+        "id": "gateway_of_india__banganga_tank",
+        "candidate": 5
+      },
+      {
+        "id": "gateway_of_india__banganga_tank",
+        "candidate": 6
+      },
+      {
+        "id": "gateway_of_india__banganga_tank",
+        "candidate": 7
+      },
+      {
+        "id": "gateway_of_india__banganga_tank",
+        "candidate": 8
+      },
+      {
+        "id": "gateway_of_india__banganga_tank",
+        "candidate": 9
+      },
+      {
+        "id": "gateway_of_india__banganga_tank",
+        "candidate": 10
+      },
+      {
+        "id": "gateway_of_india__bhau_daji_lad_museum",
+        "candidate": 1
+      },
+      {
+        "id": "gateway_of_india__bhau_daji_lad_museum",
+        "candidate": 2
+      },
+      {
+        "id": "gateway_of_india__bhau_daji_lad_museum",
+        "candidate": 3
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_05_nearby_02.jpg",
+    "order": 5,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "gateway_of_india__bhau_daji_lad_museum",
+        "candidate": 4
+      },
+      {
+        "id": "gateway_of_india__bhau_daji_lad_museum",
+        "candidate": 5
+      },
+      {
+        "id": "gateway_of_india__bhau_daji_lad_museum",
+        "candidate": 6
+      },
+      {
+        "id": "gateway_of_india__bhau_daji_lad_museum",
+        "candidate": 7
+      },
+      {
+        "id": "gateway_of_india__bhau_daji_lad_museum",
+        "candidate": 8
+      },
+      {
+        "id": "gateway_of_india__bhau_daji_lad_museum",
+        "candidate": 9
+      },
+      {
+        "id": "gateway_of_india__bhau_daji_lad_museum",
+        "candidate": 10
+      },
+      {
+        "id": "gateway_of_india__david_sassoon_library",
+        "candidate": 1
+      },
+      {
+        "id": "gateway_of_india__david_sassoon_library",
+        "candidate": 2
+      },
+      {
+        "id": "gateway_of_india__david_sassoon_library",
+        "candidate": 3
+      },
+      {
+        "id": "gateway_of_india__david_sassoon_library",
+        "candidate": 4
+      },
+      {
+        "id": "gateway_of_india__david_sassoon_library",
+        "candidate": 5
+      },
+      {
+        "id": "gateway_of_india__david_sassoon_library",
+        "candidate": 6
+      },
+      {
+        "id": "gateway_of_india__david_sassoon_library",
+        "candidate": 7
+      },
+      {
+        "id": "gateway_of_india__david_sassoon_library",
+        "candidate": 8
+      },
+      {
+        "id": "gateway_of_india__david_sassoon_library",
+        "candidate": 9
+      },
+      {
+        "id": "gateway_of_india__david_sassoon_library",
+        "candidate": 10
+      },
+      {
+        "id": "gateway_of_india__horniman_circle_gardens",
+        "candidate": 1
+      },
+      {
+        "id": "gateway_of_india__horniman_circle_gardens",
+        "candidate": 2
+      },
+      {
+        "id": "gateway_of_india__horniman_circle_gardens",
+        "candidate": 3
+      },
+      {
+        "id": "gateway_of_india__horniman_circle_gardens",
+        "candidate": 4
+      },
+      {
+        "id": "gateway_of_india__horniman_circle_gardens",
+        "candidate": 5
+      },
+      {
+        "id": "gateway_of_india__horniman_circle_gardens",
+        "candidate": 6
+      },
+      {
+        "id": "gateway_of_india__horniman_circle_gardens",
+        "candidate": 7
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_05_nearby_03.jpg",
+    "order": 5,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "gateway_of_india__horniman_circle_gardens",
+        "candidate": 8
+      },
+      {
+        "id": "gateway_of_india__horniman_circle_gardens",
+        "candidate": 9
+      },
+      {
+        "id": "gateway_of_india__horniman_circle_gardens",
+        "candidate": 10
+      },
+      {
+        "id": "gateway_of_india__keneseth_eliyahoo_synagogue",
+        "candidate": 1
+      },
+      {
+        "id": "gateway_of_india__keneseth_eliyahoo_synagogue",
+        "candidate": 2
+      },
+      {
+        "id": "gateway_of_india__keneseth_eliyahoo_synagogue",
+        "candidate": 3
+      },
+      {
+        "id": "gateway_of_india__keneseth_eliyahoo_synagogue",
+        "candidate": 4
+      },
+      {
+        "id": "gateway_of_india__keneseth_eliyahoo_synagogue",
+        "candidate": 5
+      },
+      {
+        "id": "gateway_of_india__keneseth_eliyahoo_synagogue",
+        "candidate": 6
+      },
+      {
+        "id": "gateway_of_india__keneseth_eliyahoo_synagogue",
+        "candidate": 7
+      },
+      {
+        "id": "gateway_of_india__keneseth_eliyahoo_synagogue",
+        "candidate": 8
+      },
+      {
+        "id": "gateway_of_india__keneseth_eliyahoo_synagogue",
+        "candidate": 9
+      },
+      {
+        "id": "gateway_of_india__keneseth_eliyahoo_synagogue",
+        "candidate": 10
+      },
+      {
+        "id": "gateway_of_india__khotachiwadi_village",
+        "candidate": 1
+      },
+      {
+        "id": "gateway_of_india__khotachiwadi_village",
+        "candidate": 2
+      },
+      {
+        "id": "gateway_of_india__khotachiwadi_village",
+        "candidate": 3
+      },
+      {
+        "id": "gateway_of_india__khotachiwadi_village",
+        "candidate": 4
+      },
+      {
+        "id": "gateway_of_india__khotachiwadi_village",
+        "candidate": 5
+      },
+      {
+        "id": "gateway_of_india__khotachiwadi_village",
+        "candidate": 6
+      },
+      {
+        "id": "gateway_of_india__khotachiwadi_village",
+        "candidate": 7
+      },
+      {
+        "id": "gateway_of_india__khotachiwadi_village",
+        "candidate": 8
+      },
+      {
+        "id": "gateway_of_india__khotachiwadi_village",
+        "candidate": 9
+      },
+      {
+        "id": "gateway_of_india__khotachiwadi_village",
+        "candidate": 10
+      },
+      {
+        "id": "gateway_of_india__rbi_monetary_museum",
+        "candidate": 1
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_05_nearby_04.jpg",
+    "order": 5,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "gateway_of_india__rbi_monetary_museum",
+        "candidate": 2
+      },
+      {
+        "id": "gateway_of_india__rbi_monetary_museum",
+        "candidate": 3
+      },
+      {
+        "id": "gateway_of_india__rbi_monetary_museum",
+        "candidate": 4
+      },
+      {
+        "id": "gateway_of_india__rbi_monetary_museum",
+        "candidate": 5
+      },
+      {
+        "id": "gateway_of_india__rbi_monetary_museum",
+        "candidate": 6
+      },
+      {
+        "id": "gateway_of_india__sewri_fort",
+        "candidate": 1
+      },
+      {
+        "id": "gateway_of_india__sewri_fort",
+        "candidate": 2
+      },
+      {
+        "id": "gateway_of_india__sewri_fort",
+        "candidate": 3
+      },
+      {
+        "id": "gateway_of_india__sewri_fort",
+        "candidate": 4
+      },
+      {
+        "id": "gateway_of_india__sewri_fort",
+        "candidate": 5
+      },
+      {
+        "id": "gateway_of_india__sewri_fort",
+        "candidate": 6
+      },
+      {
+        "id": "gateway_of_india__sewri_fort",
+        "candidate": 7
+      },
+      {
+        "id": "gateway_of_india__sewri_fort",
+        "candidate": 8
+      },
+      {
+        "id": "gateway_of_india__sewri_fort",
+        "candidate": 9
+      },
+      {
+        "id": "gateway_of_india__sewri_fort",
+        "candidate": 10
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_06_main_01.jpg",
+    "order": 6,
+    "kind": "main",
+    "items": [
+      {
+        "id": "charminar",
+        "candidate": 1
+      },
+      {
+        "id": "charminar",
+        "candidate": 2
+      },
+      {
+        "id": "charminar",
+        "candidate": 3
+      },
+      {
+        "id": "charminar",
+        "candidate": 4
+      },
+      {
+        "id": "charminar",
+        "candidate": 5
+      },
+      {
+        "id": "charminar",
+        "candidate": 6
+      },
+      {
+        "id": "charminar",
+        "candidate": 7
+      },
+      {
+        "id": "charminar",
+        "candidate": 8
+      },
+      {
+        "id": "charminar",
+        "candidate": 9
+      },
+      {
+        "id": "charminar",
+        "candidate": 10
+      },
+      {
+        "id": "charminar",
+        "candidate": 11
+      },
+      {
+        "id": "charminar",
+        "candidate": 12
+      },
+      {
+        "id": "charminar",
+        "candidate": 13
+      },
+      {
+        "id": "charminar",
+        "candidate": 14
+      },
+      {
+        "id": "charminar",
+        "candidate": 15
+      },
+      {
+        "id": "charminar",
+        "candidate": 16
+      },
+      {
+        "id": "charminar",
+        "candidate": 17
+      },
+      {
+        "id": "charminar",
+        "candidate": 18
+      },
+      {
+        "id": "charminar",
+        "candidate": 19
+      },
+      {
+        "id": "charminar",
+        "candidate": 20
+      },
+      {
+        "id": "charminar",
+        "candidate": 21
+      },
+      {
+        "id": "charminar",
+        "candidate": 22
+      },
+      {
+        "id": "charminar",
+        "candidate": 23
+      },
+      {
+        "id": "charminar",
+        "candidate": 24
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_06_main_02.jpg",
+    "order": 6,
+    "kind": "main",
+    "items": [
+      {
+        "id": "charminar",
+        "candidate": 25
+      },
+      {
+        "id": "charminar",
+        "candidate": 26
+      },
+      {
+        "id": "charminar",
+        "candidate": 27
+      },
+      {
+        "id": "charminar",
+        "candidate": 28
+      },
+      {
+        "id": "charminar",
+        "candidate": 29
+      },
+      {
+        "id": "charminar",
+        "candidate": 30
+      },
+      {
+        "id": "charminar",
+        "candidate": 31
+      },
+      {
+        "id": "charminar",
+        "candidate": 32
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_06_nearby_01.jpg",
+    "order": 6,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "charminar__badshahi_ashurkhana",
+        "candidate": 1
+      },
+      {
+        "id": "charminar__badshahi_ashurkhana",
+        "candidate": 2
+      },
+      {
+        "id": "charminar__badshahi_ashurkhana",
+        "candidate": 3
+      },
+      {
+        "id": "charminar__badshahi_ashurkhana",
+        "candidate": 4
+      },
+      {
+        "id": "charminar__badshahi_ashurkhana",
+        "candidate": 5
+      },
+      {
+        "id": "charminar__badshahi_ashurkhana",
+        "candidate": 6
+      },
+      {
+        "id": "charminar__badshahi_ashurkhana",
+        "candidate": 7
+      },
+      {
+        "id": "charminar__badshahi_ashurkhana",
+        "candidate": 8
+      },
+      {
+        "id": "charminar__badshahi_ashurkhana",
+        "candidate": 9
+      },
+      {
+        "id": "charminar__badshahi_ashurkhana",
+        "candidate": 10
+      },
+      {
+        "id": "charminar__hayat_bakshi_mosque",
+        "candidate": 1
+      },
+      {
+        "id": "charminar__hayat_bakshi_mosque",
+        "candidate": 2
+      },
+      {
+        "id": "charminar__hayat_bakshi_mosque",
+        "candidate": 3
+      },
+      {
+        "id": "charminar__hayat_bakshi_mosque",
+        "candidate": 4
+      },
+      {
+        "id": "charminar__hayat_bakshi_mosque",
+        "candidate": 5
+      },
+      {
+        "id": "charminar__hayat_bakshi_mosque",
+        "candidate": 6
+      },
+      {
+        "id": "charminar__hayat_bakshi_mosque",
+        "candidate": 7
+      },
+      {
+        "id": "charminar__hayat_bakshi_mosque",
+        "candidate": 8
+      },
+      {
+        "id": "charminar__hayat_bakshi_mosque",
+        "candidate": 9
+      },
+      {
+        "id": "charminar__hayat_bakshi_mosque",
+        "candidate": 10
+      },
+      {
+        "id": "charminar__khursheed_jah_devdi",
+        "candidate": 1
+      },
+      {
+        "id": "charminar__khursheed_jah_devdi",
+        "candidate": 2
+      },
+      {
+        "id": "charminar__khursheed_jah_devdi",
+        "candidate": 3
+      },
+      {
+        "id": "charminar__khursheed_jah_devdi",
+        "candidate": 4
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_06_nearby_02.jpg",
+    "order": 6,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "charminar__khursheed_jah_devdi",
+        "candidate": 5
+      },
+      {
+        "id": "charminar__khursheed_jah_devdi",
+        "candidate": 6
+      },
+      {
+        "id": "charminar__khursheed_jah_devdi",
+        "candidate": 7
+      },
+      {
+        "id": "charminar__khursheed_jah_devdi",
+        "candidate": 8
+      },
+      {
+        "id": "charminar__khursheed_jah_devdi",
+        "candidate": 9
+      },
+      {
+        "id": "charminar__khursheed_jah_devdi",
+        "candidate": 10
+      },
+      {
+        "id": "charminar__nizams_museum",
+        "candidate": 1
+      },
+      {
+        "id": "charminar__nizams_museum",
+        "candidate": 2
+      },
+      {
+        "id": "charminar__nizams_museum",
+        "candidate": 3
+      },
+      {
+        "id": "charminar__nizams_museum",
+        "candidate": 4
+      },
+      {
+        "id": "charminar__nizams_museum",
+        "candidate": 5
+      },
+      {
+        "id": "charminar__nizams_museum",
+        "candidate": 6
+      },
+      {
+        "id": "charminar__nizams_museum",
+        "candidate": 7
+      },
+      {
+        "id": "charminar__nizams_museum",
+        "candidate": 8
+      },
+      {
+        "id": "charminar__nizams_museum",
+        "candidate": 9
+      },
+      {
+        "id": "charminar__nizams_museum",
+        "candidate": 10
+      },
+      {
+        "id": "charminar__paigah_tombs",
+        "candidate": 1
+      },
+      {
+        "id": "charminar__paigah_tombs",
+        "candidate": 2
+      },
+      {
+        "id": "charminar__paigah_tombs",
+        "candidate": 3
+      },
+      {
+        "id": "charminar__paigah_tombs",
+        "candidate": 4
+      },
+      {
+        "id": "charminar__paigah_tombs",
+        "candidate": 5
+      },
+      {
+        "id": "charminar__paigah_tombs",
+        "candidate": 6
+      },
+      {
+        "id": "charminar__paigah_tombs",
+        "candidate": 7
+      },
+      {
+        "id": "charminar__paigah_tombs",
+        "candidate": 8
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_06_nearby_03.jpg",
+    "order": 6,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "charminar__paigah_tombs",
+        "candidate": 9
+      },
+      {
+        "id": "charminar__paigah_tombs",
+        "candidate": 10
+      },
+      {
+        "id": "charminar__purani_haveli",
+        "candidate": 1
+      },
+      {
+        "id": "charminar__purani_haveli",
+        "candidate": 2
+      },
+      {
+        "id": "charminar__purani_haveli",
+        "candidate": 3
+      },
+      {
+        "id": "charminar__purani_haveli",
+        "candidate": 4
+      },
+      {
+        "id": "charminar__purani_haveli",
+        "candidate": 5
+      },
+      {
+        "id": "charminar__purani_haveli",
+        "candidate": 6
+      },
+      {
+        "id": "charminar__purani_haveli",
+        "candidate": 7
+      },
+      {
+        "id": "charminar__purani_haveli",
+        "candidate": 8
+      },
+      {
+        "id": "charminar__purani_haveli",
+        "candidate": 9
+      },
+      {
+        "id": "charminar__purani_haveli",
+        "candidate": 10
+      },
+      {
+        "id": "charminar__qutb_shahi_tombs",
+        "candidate": 1
+      },
+      {
+        "id": "charminar__qutb_shahi_tombs",
+        "candidate": 2
+      },
+      {
+        "id": "charminar__qutb_shahi_tombs",
+        "candidate": 3
+      },
+      {
+        "id": "charminar__qutb_shahi_tombs",
+        "candidate": 4
+      },
+      {
+        "id": "charminar__qutb_shahi_tombs",
+        "candidate": 5
+      },
+      {
+        "id": "charminar__qutb_shahi_tombs",
+        "candidate": 6
+      },
+      {
+        "id": "charminar__qutb_shahi_tombs",
+        "candidate": 7
+      },
+      {
+        "id": "charminar__qutb_shahi_tombs",
+        "candidate": 8
+      },
+      {
+        "id": "charminar__qutb_shahi_tombs",
+        "candidate": 9
+      },
+      {
+        "id": "charminar__qutb_shahi_tombs",
+        "candidate": 10
+      },
+      {
+        "id": "charminar__raymonds_tomb",
+        "candidate": 1
+      },
+      {
+        "id": "charminar__raymonds_tomb",
+        "candidate": 2
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_06_nearby_04.jpg",
+    "order": 6,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "charminar__raymonds_tomb",
+        "candidate": 3
+      },
+      {
+        "id": "charminar__raymonds_tomb",
+        "candidate": 4
+      },
+      {
+        "id": "charminar__raymonds_tomb",
+        "candidate": 5
+      },
+      {
+        "id": "charminar__raymonds_tomb",
+        "candidate": 6
+      },
+      {
+        "id": "charminar__raymonds_tomb",
+        "candidate": 7
+      },
+      {
+        "id": "charminar__raymonds_tomb",
+        "candidate": 8
+      },
+      {
+        "id": "charminar__raymonds_tomb",
+        "candidate": 9
+      },
+      {
+        "id": "charminar__raymonds_tomb",
+        "candidate": 10
+      },
+      {
+        "id": "charminar__spanish_mosque",
+        "candidate": 1
+      },
+      {
+        "id": "charminar__spanish_mosque",
+        "candidate": 2
+      },
+      {
+        "id": "charminar__spanish_mosque",
+        "candidate": 3
+      },
+      {
+        "id": "charminar__spanish_mosque",
+        "candidate": 4
+      },
+      {
+        "id": "charminar__spanish_mosque",
+        "candidate": 5
+      },
+      {
+        "id": "charminar__spanish_mosque",
+        "candidate": 6
+      },
+      {
+        "id": "charminar__spanish_mosque",
+        "candidate": 7
+      },
+      {
+        "id": "charminar__toli_masjid",
+        "candidate": 1
+      },
+      {
+        "id": "charminar__toli_masjid",
+        "candidate": 2
+      },
+      {
+        "id": "charminar__toli_masjid",
+        "candidate": 3
+      },
+      {
+        "id": "charminar__toli_masjid",
+        "candidate": 4
+      },
+      {
+        "id": "charminar__toli_masjid",
+        "candidate": 5
+      },
+      {
+        "id": "charminar__toli_masjid",
+        "candidate": 6
+      },
+      {
+        "id": "charminar__toli_masjid",
+        "candidate": 7
+      },
+      {
+        "id": "charminar__toli_masjid",
+        "candidate": 8
+      },
+      {
+        "id": "charminar__toli_masjid",
+        "candidate": 9
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_06_nearby_05.jpg",
+    "order": 6,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "charminar__toli_masjid",
+        "candidate": 10
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_07_main_01.jpg",
+    "order": 7,
+    "kind": "main",
+    "items": [
+      {
+        "id": "victoria_memorial",
+        "candidate": 1
+      },
+      {
+        "id": "victoria_memorial",
+        "candidate": 2
+      },
+      {
+        "id": "victoria_memorial",
+        "candidate": 3
+      },
+      {
+        "id": "victoria_memorial",
+        "candidate": 4
+      },
+      {
+        "id": "victoria_memorial",
+        "candidate": 5
+      },
+      {
+        "id": "victoria_memorial",
+        "candidate": 6
+      },
+      {
+        "id": "victoria_memorial",
+        "candidate": 7
+      },
+      {
+        "id": "victoria_memorial",
+        "candidate": 8
+      },
+      {
+        "id": "victoria_memorial",
+        "candidate": 9
+      },
+      {
+        "id": "victoria_memorial",
+        "candidate": 10
+      },
+      {
+        "id": "victoria_memorial",
+        "candidate": 11
+      },
+      {
+        "id": "victoria_memorial",
+        "candidate": 12
+      },
+      {
+        "id": "victoria_memorial",
+        "candidate": 13
+      },
+      {
+        "id": "victoria_memorial",
+        "candidate": 14
+      },
+      {
+        "id": "victoria_memorial",
+        "candidate": 15
+      },
+      {
+        "id": "victoria_memorial",
+        "candidate": 16
+      },
+      {
+        "id": "victoria_memorial",
+        "candidate": 17
+      },
+      {
+        "id": "victoria_memorial",
+        "candidate": 18
+      },
+      {
+        "id": "victoria_memorial",
+        "candidate": 19
+      },
+      {
+        "id": "victoria_memorial",
+        "candidate": 20
+      },
+      {
+        "id": "victoria_memorial",
+        "candidate": 21
+      },
+      {
+        "id": "victoria_memorial",
+        "candidate": 22
+      },
+      {
+        "id": "victoria_memorial",
+        "candidate": 23
+      },
+      {
+        "id": "victoria_memorial",
+        "candidate": 24
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_07_main_02.jpg",
+    "order": 7,
+    "kind": "main",
+    "items": [
+      {
+        "id": "victoria_memorial",
+        "candidate": 25
+      },
+      {
+        "id": "victoria_memorial",
+        "candidate": 26
+      },
+      {
+        "id": "victoria_memorial",
+        "candidate": 27
+      },
+      {
+        "id": "victoria_memorial",
+        "candidate": 28
+      },
+      {
+        "id": "victoria_memorial",
+        "candidate": 29
+      },
+      {
+        "id": "victoria_memorial",
+        "candidate": 30
+      },
+      {
+        "id": "victoria_memorial",
+        "candidate": 31
+      },
+      {
+        "id": "victoria_memorial",
+        "candidate": 32
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_07_nearby_01.jpg",
+    "order": 7,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "victoria_memorial__armenian_church",
+        "candidate": 1
+      },
+      {
+        "id": "victoria_memorial__armenian_church",
+        "candidate": 2
+      },
+      {
+        "id": "victoria_memorial__armenian_church",
+        "candidate": 3
+      },
+      {
+        "id": "victoria_memorial__armenian_church",
+        "candidate": 4
+      },
+      {
+        "id": "victoria_memorial__armenian_church",
+        "candidate": 5
+      },
+      {
+        "id": "victoria_memorial__armenian_church",
+        "candidate": 6
+      },
+      {
+        "id": "victoria_memorial__armenian_church",
+        "candidate": 7
+      },
+      {
+        "id": "victoria_memorial__armenian_church",
+        "candidate": 8
+      },
+      {
+        "id": "victoria_memorial__armenian_church",
+        "candidate": 9
+      },
+      {
+        "id": "victoria_memorial__armenian_church",
+        "candidate": 10
+      },
+      {
+        "id": "victoria_memorial__jorasanko_thakur_bari",
+        "candidate": 1
+      },
+      {
+        "id": "victoria_memorial__jorasanko_thakur_bari",
+        "candidate": 2
+      },
+      {
+        "id": "victoria_memorial__jorasanko_thakur_bari",
+        "candidate": 3
+      },
+      {
+        "id": "victoria_memorial__jorasanko_thakur_bari",
+        "candidate": 4
+      },
+      {
+        "id": "victoria_memorial__jorasanko_thakur_bari",
+        "candidate": 5
+      },
+      {
+        "id": "victoria_memorial__jorasanko_thakur_bari",
+        "candidate": 6
+      },
+      {
+        "id": "victoria_memorial__jorasanko_thakur_bari",
+        "candidate": 7
+      },
+      {
+        "id": "victoria_memorial__jorasanko_thakur_bari",
+        "candidate": 8
+      },
+      {
+        "id": "victoria_memorial__jorasanko_thakur_bari",
+        "candidate": 9
+      },
+      {
+        "id": "victoria_memorial__jorasanko_thakur_bari",
+        "candidate": 10
+      },
+      {
+        "id": "victoria_memorial__lascar_war_memorial",
+        "candidate": 1
+      },
+      {
+        "id": "victoria_memorial__lascar_war_memorial",
+        "candidate": 2
+      },
+      {
+        "id": "victoria_memorial__lascar_war_memorial",
+        "candidate": 3
+      },
+      {
+        "id": "victoria_memorial__lascar_war_memorial",
+        "candidate": 4
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_07_nearby_02.jpg",
+    "order": 7,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "victoria_memorial__lascar_war_memorial",
+        "candidate": 5
+      },
+      {
+        "id": "victoria_memorial__lascar_war_memorial",
+        "candidate": 6
+      },
+      {
+        "id": "victoria_memorial__lascar_war_memorial",
+        "candidate": 7
+      },
+      {
+        "id": "victoria_memorial__lascar_war_memorial",
+        "candidate": 8
+      },
+      {
+        "id": "victoria_memorial__lascar_war_memorial",
+        "candidate": 9
+      },
+      {
+        "id": "victoria_memorial__lascar_war_memorial",
+        "candidate": 10
+      },
+      {
+        "id": "victoria_memorial__magen_david_synagogue",
+        "candidate": 1
+      },
+      {
+        "id": "victoria_memorial__magen_david_synagogue",
+        "candidate": 2
+      },
+      {
+        "id": "victoria_memorial__magen_david_synagogue",
+        "candidate": 3
+      },
+      {
+        "id": "victoria_memorial__magen_david_synagogue",
+        "candidate": 4
+      },
+      {
+        "id": "victoria_memorial__magen_david_synagogue",
+        "candidate": 5
+      },
+      {
+        "id": "victoria_memorial__magen_david_synagogue",
+        "candidate": 6
+      },
+      {
+        "id": "victoria_memorial__magen_david_synagogue",
+        "candidate": 7
+      },
+      {
+        "id": "victoria_memorial__magen_david_synagogue",
+        "candidate": 8
+      },
+      {
+        "id": "victoria_memorial__magen_david_synagogue",
+        "candidate": 9
+      },
+      {
+        "id": "victoria_memorial__magen_david_synagogue",
+        "candidate": 10
+      },
+      {
+        "id": "victoria_memorial__marble_palace",
+        "candidate": 1
+      },
+      {
+        "id": "victoria_memorial__marble_palace",
+        "candidate": 2
+      },
+      {
+        "id": "victoria_memorial__marble_palace",
+        "candidate": 3
+      },
+      {
+        "id": "victoria_memorial__marble_palace",
+        "candidate": 4
+      },
+      {
+        "id": "victoria_memorial__marble_palace",
+        "candidate": 5
+      },
+      {
+        "id": "victoria_memorial__marble_palace",
+        "candidate": 6
+      },
+      {
+        "id": "victoria_memorial__marble_palace",
+        "candidate": 7
+      },
+      {
+        "id": "victoria_memorial__marble_palace",
+        "candidate": 8
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_07_nearby_03.jpg",
+    "order": 7,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "victoria_memorial__marble_palace",
+        "candidate": 9
+      },
+      {
+        "id": "victoria_memorial__marble_palace",
+        "candidate": 10
+      },
+      {
+        "id": "victoria_memorial__mullick_ghat_flower_market",
+        "candidate": 1
+      },
+      {
+        "id": "victoria_memorial__mullick_ghat_flower_market",
+        "candidate": 2
+      },
+      {
+        "id": "victoria_memorial__mullick_ghat_flower_market",
+        "candidate": 3
+      },
+      {
+        "id": "victoria_memorial__mullick_ghat_flower_market",
+        "candidate": 4
+      },
+      {
+        "id": "victoria_memorial__mullick_ghat_flower_market",
+        "candidate": 5
+      },
+      {
+        "id": "victoria_memorial__mullick_ghat_flower_market",
+        "candidate": 6
+      },
+      {
+        "id": "victoria_memorial__mullick_ghat_flower_market",
+        "candidate": 7
+      },
+      {
+        "id": "victoria_memorial__mullick_ghat_flower_market",
+        "candidate": 8
+      },
+      {
+        "id": "victoria_memorial__mullick_ghat_flower_market",
+        "candidate": 9
+      },
+      {
+        "id": "victoria_memorial__mullick_ghat_flower_market",
+        "candidate": 10
+      },
+      {
+        "id": "victoria_memorial__prinsep_ghat",
+        "candidate": 1
+      },
+      {
+        "id": "victoria_memorial__prinsep_ghat",
+        "candidate": 2
+      },
+      {
+        "id": "victoria_memorial__prinsep_ghat",
+        "candidate": 3
+      },
+      {
+        "id": "victoria_memorial__prinsep_ghat",
+        "candidate": 4
+      },
+      {
+        "id": "victoria_memorial__prinsep_ghat",
+        "candidate": 5
+      },
+      {
+        "id": "victoria_memorial__prinsep_ghat",
+        "candidate": 6
+      },
+      {
+        "id": "victoria_memorial__prinsep_ghat",
+        "candidate": 7
+      },
+      {
+        "id": "victoria_memorial__prinsep_ghat",
+        "candidate": 8
+      },
+      {
+        "id": "victoria_memorial__prinsep_ghat",
+        "candidate": 9
+      },
+      {
+        "id": "victoria_memorial__prinsep_ghat",
+        "candidate": 10
+      },
+      {
+        "id": "victoria_memorial__south_park_street_cemetery",
+        "candidate": 1
+      },
+      {
+        "id": "victoria_memorial__south_park_street_cemetery",
+        "candidate": 2
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_07_nearby_04.jpg",
+    "order": 7,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "victoria_memorial__south_park_street_cemetery",
+        "candidate": 3
+      },
+      {
+        "id": "victoria_memorial__south_park_street_cemetery",
+        "candidate": 4
+      },
+      {
+        "id": "victoria_memorial__south_park_street_cemetery",
+        "candidate": 5
+      },
+      {
+        "id": "victoria_memorial__south_park_street_cemetery",
+        "candidate": 6
+      },
+      {
+        "id": "victoria_memorial__south_park_street_cemetery",
+        "candidate": 7
+      },
+      {
+        "id": "victoria_memorial__south_park_street_cemetery",
+        "candidate": 8
+      },
+      {
+        "id": "victoria_memorial__south_park_street_cemetery",
+        "candidate": 9
+      },
+      {
+        "id": "victoria_memorial__south_park_street_cemetery",
+        "candidate": 10
+      },
+      {
+        "id": "victoria_memorial__st_johns_church",
+        "candidate": 1
+      },
+      {
+        "id": "victoria_memorial__st_johns_church",
+        "candidate": 2
+      },
+      {
+        "id": "victoria_memorial__st_johns_church",
+        "candidate": 3
+      },
+      {
+        "id": "victoria_memorial__st_johns_church",
+        "candidate": 4
+      },
+      {
+        "id": "victoria_memorial__st_johns_church",
+        "candidate": 5
+      },
+      {
+        "id": "victoria_memorial__st_johns_church",
+        "candidate": 6
+      },
+      {
+        "id": "victoria_memorial__st_johns_church",
+        "candidate": 7
+      },
+      {
+        "id": "victoria_memorial__st_johns_church",
+        "candidate": 8
+      },
+      {
+        "id": "victoria_memorial__st_johns_church",
+        "candidate": 9
+      },
+      {
+        "id": "victoria_memorial__st_johns_church",
+        "candidate": 10
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_08_main_01.jpg",
+    "order": 8,
+    "kind": "main",
+    "items": [
+      {
+        "id": "mysore_palace",
+        "candidate": 1
+      },
+      {
+        "id": "mysore_palace",
+        "candidate": 2
+      },
+      {
+        "id": "mysore_palace",
+        "candidate": 3
+      },
+      {
+        "id": "mysore_palace",
+        "candidate": 4
+      },
+      {
+        "id": "mysore_palace",
+        "candidate": 5
+      },
+      {
+        "id": "mysore_palace",
+        "candidate": 6
+      },
+      {
+        "id": "mysore_palace",
+        "candidate": 7
+      },
+      {
+        "id": "mysore_palace",
+        "candidate": 8
+      },
+      {
+        "id": "mysore_palace",
+        "candidate": 9
+      },
+      {
+        "id": "mysore_palace",
+        "candidate": 10
+      },
+      {
+        "id": "mysore_palace",
+        "candidate": 11
+      },
+      {
+        "id": "mysore_palace",
+        "candidate": 12
+      },
+      {
+        "id": "mysore_palace",
+        "candidate": 13
+      },
+      {
+        "id": "mysore_palace",
+        "candidate": 14
+      },
+      {
+        "id": "mysore_palace",
+        "candidate": 15
+      },
+      {
+        "id": "mysore_palace",
+        "candidate": 16
+      },
+      {
+        "id": "mysore_palace",
+        "candidate": 17
+      },
+      {
+        "id": "mysore_palace",
+        "candidate": 18
+      },
+      {
+        "id": "mysore_palace",
+        "candidate": 19
+      },
+      {
+        "id": "mysore_palace",
+        "candidate": 20
+      },
+      {
+        "id": "mysore_palace",
+        "candidate": 21
+      },
+      {
+        "id": "mysore_palace",
+        "candidate": 22
+      },
+      {
+        "id": "mysore_palace",
+        "candidate": 23
+      },
+      {
+        "id": "mysore_palace",
+        "candidate": 24
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_08_main_02.jpg",
+    "order": 8,
+    "kind": "main",
+    "items": [
+      {
+        "id": "mysore_palace",
+        "candidate": 25
+      },
+      {
+        "id": "mysore_palace",
+        "candidate": 26
+      },
+      {
+        "id": "mysore_palace",
+        "candidate": 27
+      },
+      {
+        "id": "mysore_palace",
+        "candidate": 28
+      },
+      {
+        "id": "mysore_palace",
+        "candidate": 29
+      },
+      {
+        "id": "mysore_palace",
+        "candidate": 30
+      },
+      {
+        "id": "mysore_palace",
+        "candidate": 31
+      },
+      {
+        "id": "mysore_palace",
+        "candidate": 32
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_08_nearby_01.jpg",
+    "order": 8,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "mysore_palace__jaganmohan_palace",
+        "candidate": 1
+      },
+      {
+        "id": "mysore_palace__jaganmohan_palace",
+        "candidate": 2
+      },
+      {
+        "id": "mysore_palace__jaganmohan_palace",
+        "candidate": 3
+      },
+      {
+        "id": "mysore_palace__jaganmohan_palace",
+        "candidate": 4
+      },
+      {
+        "id": "mysore_palace__jaganmohan_palace",
+        "candidate": 5
+      },
+      {
+        "id": "mysore_palace__jaganmohan_palace",
+        "candidate": 6
+      },
+      {
+        "id": "mysore_palace__jaganmohan_palace",
+        "candidate": 7
+      },
+      {
+        "id": "mysore_palace__jaganmohan_palace",
+        "candidate": 8
+      },
+      {
+        "id": "mysore_palace__jaganmohan_palace",
+        "candidate": 9
+      },
+      {
+        "id": "mysore_palace__jaganmohan_palace",
+        "candidate": 10
+      },
+      {
+        "id": "mysore_palace__jayalakshmi_vilas_mansion",
+        "candidate": 1
+      },
+      {
+        "id": "mysore_palace__jayalakshmi_vilas_mansion",
+        "candidate": 2
+      },
+      {
+        "id": "mysore_palace__jayalakshmi_vilas_mansion",
+        "candidate": 3
+      },
+      {
+        "id": "mysore_palace__jayalakshmi_vilas_mansion",
+        "candidate": 4
+      },
+      {
+        "id": "mysore_palace__jayalakshmi_vilas_mansion",
+        "candidate": 5
+      },
+      {
+        "id": "mysore_palace__jayalakshmi_vilas_mansion",
+        "candidate": 6
+      },
+      {
+        "id": "mysore_palace__jayalakshmi_vilas_mansion",
+        "candidate": 7
+      },
+      {
+        "id": "mysore_palace__jayalakshmi_vilas_mansion",
+        "candidate": 8
+      },
+      {
+        "id": "mysore_palace__kukkarahalli_lake",
+        "candidate": 1
+      },
+      {
+        "id": "mysore_palace__kukkarahalli_lake",
+        "candidate": 2
+      },
+      {
+        "id": "mysore_palace__kukkarahalli_lake",
+        "candidate": 3
+      },
+      {
+        "id": "mysore_palace__kukkarahalli_lake",
+        "candidate": 4
+      },
+      {
+        "id": "mysore_palace__railway_museum_mysore",
+        "candidate": 1
+      },
+      {
+        "id": "mysore_palace__railway_museum_mysore",
+        "candidate": 2
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_08_nearby_02.jpg",
+    "order": 8,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "mysore_palace__railway_museum_mysore",
+        "candidate": 3
+      },
+      {
+        "id": "mysore_palace__railway_museum_mysore",
+        "candidate": 4
+      },
+      {
+        "id": "mysore_palace__railway_museum_mysore",
+        "candidate": 5
+      },
+      {
+        "id": "mysore_palace__railway_museum_mysore",
+        "candidate": 6
+      },
+      {
+        "id": "mysore_palace__railway_museum_mysore",
+        "candidate": 7
+      },
+      {
+        "id": "mysore_palace__railway_museum_mysore",
+        "candidate": 8
+      },
+      {
+        "id": "mysore_palace__railway_museum_mysore",
+        "candidate": 9
+      },
+      {
+        "id": "mysore_palace__railway_museum_mysore",
+        "candidate": 10
+      },
+      {
+        "id": "mysore_palace__wellington_lodge",
+        "candidate": 1
+      },
+      {
+        "id": "mysore_palace__wellington_lodge",
+        "candidate": 2
+      },
+      {
+        "id": "mysore_palace__wellington_lodge",
+        "candidate": 3
+      },
+      {
+        "id": "mysore_palace__wellington_lodge",
+        "candidate": 4
+      },
+      {
+        "id": "mysore_palace__wellington_lodge",
+        "candidate": 5
+      },
+      {
+        "id": "mysore_palace__wellington_lodge",
+        "candidate": 6
+      },
+      {
+        "id": "mysore_palace__wellington_lodge",
+        "candidate": 7
+      },
+      {
+        "id": "mysore_palace__wellington_lodge",
+        "candidate": 8
+      },
+      {
+        "id": "mysore_palace__wellington_lodge",
+        "candidate": 9
+      },
+      {
+        "id": "mysore_palace__wellington_lodge",
+        "candidate": 10
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_09_main_01.jpg",
+    "order": 9,
+    "kind": "main",
+    "items": [
+      {
+        "id": "hampi_monuments",
+        "candidate": 1
+      },
+      {
+        "id": "hampi_monuments",
+        "candidate": 2
+      },
+      {
+        "id": "hampi_monuments",
+        "candidate": 3
+      },
+      {
+        "id": "hampi_monuments",
+        "candidate": 4
+      },
+      {
+        "id": "hampi_monuments",
+        "candidate": 5
+      },
+      {
+        "id": "hampi_monuments",
+        "candidate": 6
+      },
+      {
+        "id": "hampi_monuments",
+        "candidate": 7
+      },
+      {
+        "id": "hampi_monuments",
+        "candidate": 8
+      },
+      {
+        "id": "hampi_monuments",
+        "candidate": 9
+      },
+      {
+        "id": "hampi_monuments",
+        "candidate": 10
+      },
+      {
+        "id": "hampi_monuments",
+        "candidate": 11
+      },
+      {
+        "id": "hampi_monuments",
+        "candidate": 12
+      },
+      {
+        "id": "hampi_monuments",
+        "candidate": 13
+      },
+      {
+        "id": "hampi_monuments",
+        "candidate": 14
+      },
+      {
+        "id": "hampi_monuments",
+        "candidate": 15
+      },
+      {
+        "id": "hampi_monuments",
+        "candidate": 16
+      },
+      {
+        "id": "hampi_monuments",
+        "candidate": 17
+      },
+      {
+        "id": "hampi_monuments",
+        "candidate": 18
+      },
+      {
+        "id": "hampi_monuments",
+        "candidate": 19
+      },
+      {
+        "id": "hampi_monuments",
+        "candidate": 20
+      },
+      {
+        "id": "hampi_monuments",
+        "candidate": 21
+      },
+      {
+        "id": "hampi_monuments",
+        "candidate": 22
+      },
+      {
+        "id": "hampi_monuments",
+        "candidate": 23
+      },
+      {
+        "id": "hampi_monuments",
+        "candidate": 24
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_09_main_02.jpg",
+    "order": 9,
+    "kind": "main",
+    "items": [
+      {
+        "id": "hampi_monuments",
+        "candidate": 25
+      },
+      {
+        "id": "hampi_monuments",
+        "candidate": 26
+      },
+      {
+        "id": "hampi_monuments",
+        "candidate": 27
+      },
+      {
+        "id": "hampi_monuments",
+        "candidate": 28
+      },
+      {
+        "id": "hampi_monuments",
+        "candidate": 29
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_09_nearby_01.jpg",
+    "order": 9,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "hampi_monuments__achyutaraya_temple",
+        "candidate": 1
+      },
+      {
+        "id": "hampi_monuments__achyutaraya_temple",
+        "candidate": 2
+      },
+      {
+        "id": "hampi_monuments__achyutaraya_temple",
+        "candidate": 3
+      },
+      {
+        "id": "hampi_monuments__achyutaraya_temple",
+        "candidate": 4
+      },
+      {
+        "id": "hampi_monuments__achyutaraya_temple",
+        "candidate": 5
+      },
+      {
+        "id": "hampi_monuments__achyutaraya_temple",
+        "candidate": 6
+      },
+      {
+        "id": "hampi_monuments__achyutaraya_temple",
+        "candidate": 7
+      },
+      {
+        "id": "hampi_monuments__achyutaraya_temple",
+        "candidate": 8
+      },
+      {
+        "id": "hampi_monuments__achyutaraya_temple",
+        "candidate": 9
+      },
+      {
+        "id": "hampi_monuments__achyutaraya_temple",
+        "candidate": 10
+      },
+      {
+        "id": "hampi_monuments__anegundi_village",
+        "candidate": 1
+      },
+      {
+        "id": "hampi_monuments__anegundi_village",
+        "candidate": 2
+      },
+      {
+        "id": "hampi_monuments__anegundi_village",
+        "candidate": 3
+      },
+      {
+        "id": "hampi_monuments__anegundi_village",
+        "candidate": 4
+      },
+      {
+        "id": "hampi_monuments__anegundi_village",
+        "candidate": 5
+      },
+      {
+        "id": "hampi_monuments__anegundi_village",
+        "candidate": 6
+      },
+      {
+        "id": "hampi_monuments__anegundi_village",
+        "candidate": 7
+      },
+      {
+        "id": "hampi_monuments__anegundi_village",
+        "candidate": 8
+      },
+      {
+        "id": "hampi_monuments__anegundi_village",
+        "candidate": 9
+      },
+      {
+        "id": "hampi_monuments__anegundi_village",
+        "candidate": 10
+      },
+      {
+        "id": "hampi_monuments__badavilinga_temple",
+        "candidate": 1
+      },
+      {
+        "id": "hampi_monuments__badavilinga_temple",
+        "candidate": 2
+      },
+      {
+        "id": "hampi_monuments__badavilinga_temple",
+        "candidate": 3
+      },
+      {
+        "id": "hampi_monuments__badavilinga_temple",
+        "candidate": 4
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_09_nearby_02.jpg",
+    "order": 9,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "hampi_monuments__badavilinga_temple",
+        "candidate": 5
+      },
+      {
+        "id": "hampi_monuments__badavilinga_temple",
+        "candidate": 6
+      },
+      {
+        "id": "hampi_monuments__badavilinga_temple",
+        "candidate": 7
+      },
+      {
+        "id": "hampi_monuments__badavilinga_temple",
+        "candidate": 8
+      },
+      {
+        "id": "hampi_monuments__badavilinga_temple",
+        "candidate": 9
+      },
+      {
+        "id": "hampi_monuments__badavilinga_temple",
+        "candidate": 10
+      },
+      {
+        "id": "hampi_monuments__hemakuta_hill_temples",
+        "candidate": 1
+      },
+      {
+        "id": "hampi_monuments__hemakuta_hill_temples",
+        "candidate": 2
+      },
+      {
+        "id": "hampi_monuments__hemakuta_hill_temples",
+        "candidate": 3
+      },
+      {
+        "id": "hampi_monuments__hemakuta_hill_temples",
+        "candidate": 4
+      },
+      {
+        "id": "hampi_monuments__hemakuta_hill_temples",
+        "candidate": 5
+      },
+      {
+        "id": "hampi_monuments__hemakuta_hill_temples",
+        "candidate": 6
+      },
+      {
+        "id": "hampi_monuments__hemakuta_hill_temples",
+        "candidate": 7
+      },
+      {
+        "id": "hampi_monuments__hemakuta_hill_temples",
+        "candidate": 8
+      },
+      {
+        "id": "hampi_monuments__hemakuta_hill_temples",
+        "candidate": 9
+      },
+      {
+        "id": "hampi_monuments__hemakuta_hill_temples",
+        "candidate": 10
+      },
+      {
+        "id": "hampi_monuments__matanga_hill",
+        "candidate": 1
+      },
+      {
+        "id": "hampi_monuments__matanga_hill",
+        "candidate": 2
+      },
+      {
+        "id": "hampi_monuments__matanga_hill",
+        "candidate": 3
+      },
+      {
+        "id": "hampi_monuments__matanga_hill",
+        "candidate": 4
+      },
+      {
+        "id": "hampi_monuments__matanga_hill",
+        "candidate": 5
+      },
+      {
+        "id": "hampi_monuments__matanga_hill",
+        "candidate": 6
+      },
+      {
+        "id": "hampi_monuments__matanga_hill",
+        "candidate": 7
+      },
+      {
+        "id": "hampi_monuments__matanga_hill",
+        "candidate": 8
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_09_nearby_03.jpg",
+    "order": 9,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "hampi_monuments__matanga_hill",
+        "candidate": 9
+      },
+      {
+        "id": "hampi_monuments__matanga_hill",
+        "candidate": 10
+      },
+      {
+        "id": "hampi_monuments__pampa_sarovar",
+        "candidate": 1
+      },
+      {
+        "id": "hampi_monuments__pampa_sarovar",
+        "candidate": 2
+      },
+      {
+        "id": "hampi_monuments__pampa_sarovar",
+        "candidate": 3
+      },
+      {
+        "id": "hampi_monuments__pampa_sarovar",
+        "candidate": 4
+      },
+      {
+        "id": "hampi_monuments__pampa_sarovar",
+        "candidate": 5
+      },
+      {
+        "id": "hampi_monuments__pampa_sarovar",
+        "candidate": 6
+      },
+      {
+        "id": "hampi_monuments__pampa_sarovar",
+        "candidate": 7
+      },
+      {
+        "id": "hampi_monuments__pampa_sarovar",
+        "candidate": 8
+      },
+      {
+        "id": "hampi_monuments__pampa_sarovar",
+        "candidate": 9
+      },
+      {
+        "id": "hampi_monuments__pampa_sarovar",
+        "candidate": 10
+      },
+      {
+        "id": "hampi_monuments__sanapur_lake",
+        "candidate": 1
+      },
+      {
+        "id": "hampi_monuments__sanapur_lake",
+        "candidate": 2
+      },
+      {
+        "id": "hampi_monuments__sanapur_lake",
+        "candidate": 3
+      },
+      {
+        "id": "hampi_monuments__sanapur_lake",
+        "candidate": 4
+      },
+      {
+        "id": "hampi_monuments__sanapur_lake",
+        "candidate": 5
+      },
+      {
+        "id": "hampi_monuments__sasivekalu_ganesha",
+        "candidate": 1
+      },
+      {
+        "id": "hampi_monuments__sasivekalu_ganesha",
+        "candidate": 2
+      },
+      {
+        "id": "hampi_monuments__sasivekalu_ganesha",
+        "candidate": 3
+      },
+      {
+        "id": "hampi_monuments__sasivekalu_ganesha",
+        "candidate": 4
+      },
+      {
+        "id": "hampi_monuments__sasivekalu_ganesha",
+        "candidate": 5
+      },
+      {
+        "id": "hampi_monuments__sasivekalu_ganesha",
+        "candidate": 6
+      },
+      {
+        "id": "hampi_monuments__sasivekalu_ganesha",
+        "candidate": 7
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_09_nearby_04.jpg",
+    "order": 9,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "hampi_monuments__sasivekalu_ganesha",
+        "candidate": 8
+      },
+      {
+        "id": "hampi_monuments__sasivekalu_ganesha",
+        "candidate": 9
+      },
+      {
+        "id": "hampi_monuments__sasivekalu_ganesha",
+        "candidate": 10
+      },
+      {
+        "id": "hampi_monuments__zenana_enclosure",
+        "candidate": 1
+      },
+      {
+        "id": "hampi_monuments__zenana_enclosure",
+        "candidate": 2
+      },
+      {
+        "id": "hampi_monuments__zenana_enclosure",
+        "candidate": 3
+      },
+      {
+        "id": "hampi_monuments__zenana_enclosure",
+        "candidate": 4
+      },
+      {
+        "id": "hampi_monuments__zenana_enclosure",
+        "candidate": 5
+      },
+      {
+        "id": "hampi_monuments__zenana_enclosure",
+        "candidate": 6
+      },
+      {
+        "id": "hampi_monuments__zenana_enclosure",
+        "candidate": 7
+      },
+      {
+        "id": "hampi_monuments__zenana_enclosure",
+        "candidate": 8
+      },
+      {
+        "id": "hampi_monuments__zenana_enclosure",
+        "candidate": 9
+      },
+      {
+        "id": "hampi_monuments__zenana_enclosure",
+        "candidate": 10
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_10_main_01.jpg",
+    "order": 10,
+    "kind": "main",
+    "items": [
+      {
+        "id": "meenakshi_temple",
+        "candidate": 1
+      },
+      {
+        "id": "meenakshi_temple",
+        "candidate": 2
+      },
+      {
+        "id": "meenakshi_temple",
+        "candidate": 3
+      },
+      {
+        "id": "meenakshi_temple",
+        "candidate": 4
+      },
+      {
+        "id": "meenakshi_temple",
+        "candidate": 5
+      },
+      {
+        "id": "meenakshi_temple",
+        "candidate": 6
+      },
+      {
+        "id": "meenakshi_temple",
+        "candidate": 7
+      },
+      {
+        "id": "meenakshi_temple",
+        "candidate": 8
+      },
+      {
+        "id": "meenakshi_temple",
+        "candidate": 9
+      },
+      {
+        "id": "meenakshi_temple",
+        "candidate": 10
+      },
+      {
+        "id": "meenakshi_temple",
+        "candidate": 11
+      },
+      {
+        "id": "meenakshi_temple",
+        "candidate": 12
+      },
+      {
+        "id": "meenakshi_temple",
+        "candidate": 13
+      },
+      {
+        "id": "meenakshi_temple",
+        "candidate": 14
+      },
+      {
+        "id": "meenakshi_temple",
+        "candidate": 15
+      },
+      {
+        "id": "meenakshi_temple",
+        "candidate": 16
+      },
+      {
+        "id": "meenakshi_temple",
+        "candidate": 17
+      },
+      {
+        "id": "meenakshi_temple",
+        "candidate": 18
+      },
+      {
+        "id": "meenakshi_temple",
+        "candidate": 19
+      },
+      {
+        "id": "meenakshi_temple",
+        "candidate": 20
+      },
+      {
+        "id": "meenakshi_temple",
+        "candidate": 21
+      },
+      {
+        "id": "meenakshi_temple",
+        "candidate": 22
+      },
+      {
+        "id": "meenakshi_temple",
+        "candidate": 23
+      },
+      {
+        "id": "meenakshi_temple",
+        "candidate": 24
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_10_main_02.jpg",
+    "order": 10,
+    "kind": "main",
+    "items": [
+      {
+        "id": "meenakshi_temple",
+        "candidate": 25
+      },
+      {
+        "id": "meenakshi_temple",
+        "candidate": 26
+      },
+      {
+        "id": "meenakshi_temple",
+        "candidate": 27
+      },
+      {
+        "id": "meenakshi_temple",
+        "candidate": 28
+      },
+      {
+        "id": "meenakshi_temple",
+        "candidate": 29
+      },
+      {
+        "id": "meenakshi_temple",
+        "candidate": 30
+      },
+      {
+        "id": "meenakshi_temple",
+        "candidate": 31
+      },
+      {
+        "id": "meenakshi_temple",
+        "candidate": 32
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_10_nearby_01.jpg",
+    "order": 10,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "meenakshi_temple__gandhi_memorial_museum",
+        "candidate": 1
+      },
+      {
+        "id": "meenakshi_temple__gandhi_memorial_museum",
+        "candidate": 2
+      },
+      {
+        "id": "meenakshi_temple__gandhi_memorial_museum",
+        "candidate": 3
+      },
+      {
+        "id": "meenakshi_temple__gandhi_memorial_museum",
+        "candidate": 4
+      },
+      {
+        "id": "meenakshi_temple__gandhi_memorial_museum",
+        "candidate": 5
+      },
+      {
+        "id": "meenakshi_temple__gandhi_memorial_museum",
+        "candidate": 6
+      },
+      {
+        "id": "meenakshi_temple__gandhi_memorial_museum",
+        "candidate": 7
+      },
+      {
+        "id": "meenakshi_temple__gandhi_memorial_museum",
+        "candidate": 8
+      },
+      {
+        "id": "meenakshi_temple__gandhi_memorial_museum",
+        "candidate": 9
+      },
+      {
+        "id": "meenakshi_temple__gandhi_memorial_museum",
+        "candidate": 10
+      },
+      {
+        "id": "meenakshi_temple__kazimar_big_mosque",
+        "candidate": 1
+      },
+      {
+        "id": "meenakshi_temple__kazimar_big_mosque",
+        "candidate": 2
+      },
+      {
+        "id": "meenakshi_temple__kazimar_big_mosque",
+        "candidate": 3
+      },
+      {
+        "id": "meenakshi_temple__kazimar_big_mosque",
+        "candidate": 4
+      },
+      {
+        "id": "meenakshi_temple__kazimar_big_mosque",
+        "candidate": 5
+      },
+      {
+        "id": "meenakshi_temple__kazimar_big_mosque",
+        "candidate": 6
+      },
+      {
+        "id": "meenakshi_temple__kazimar_big_mosque",
+        "candidate": 7
+      },
+      {
+        "id": "meenakshi_temple__koodal_azhagar_temple",
+        "candidate": 1
+      },
+      {
+        "id": "meenakshi_temple__koodal_azhagar_temple",
+        "candidate": 2
+      },
+      {
+        "id": "meenakshi_temple__koodal_azhagar_temple",
+        "candidate": 3
+      },
+      {
+        "id": "meenakshi_temple__koodal_azhagar_temple",
+        "candidate": 4
+      },
+      {
+        "id": "meenakshi_temple__koodal_azhagar_temple",
+        "candidate": 5
+      },
+      {
+        "id": "meenakshi_temple__koodal_azhagar_temple",
+        "candidate": 6
+      },
+      {
+        "id": "meenakshi_temple__koodal_azhagar_temple",
+        "candidate": 7
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_10_nearby_02.jpg",
+    "order": 10,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "meenakshi_temple__koodal_azhagar_temple",
+        "candidate": 8
+      },
+      {
+        "id": "meenakshi_temple__koodal_azhagar_temple",
+        "candidate": 9
+      },
+      {
+        "id": "meenakshi_temple__koodal_azhagar_temple",
+        "candidate": 10
+      },
+      {
+        "id": "meenakshi_temple__palamuthirsolai_murugan_temple",
+        "candidate": 1
+      },
+      {
+        "id": "meenakshi_temple__palamuthirsolai_murugan_temple",
+        "candidate": 2
+      },
+      {
+        "id": "meenakshi_temple__samanar_hills",
+        "candidate": 1
+      },
+      {
+        "id": "meenakshi_temple__samanar_hills",
+        "candidate": 2
+      },
+      {
+        "id": "meenakshi_temple__samanar_hills",
+        "candidate": 3
+      },
+      {
+        "id": "meenakshi_temple__samanar_hills",
+        "candidate": 4
+      },
+      {
+        "id": "meenakshi_temple__samanar_hills",
+        "candidate": 5
+      },
+      {
+        "id": "meenakshi_temple__samanar_hills",
+        "candidate": 6
+      },
+      {
+        "id": "meenakshi_temple__samanar_hills",
+        "candidate": 7
+      },
+      {
+        "id": "meenakshi_temple__samanar_hills",
+        "candidate": 8
+      },
+      {
+        "id": "meenakshi_temple__samanar_hills",
+        "candidate": 9
+      },
+      {
+        "id": "meenakshi_temple__samanar_hills",
+        "candidate": 10
+      },
+      {
+        "id": "meenakshi_temple__thirumalai_nayakkar_mahal",
+        "candidate": 1
+      },
+      {
+        "id": "meenakshi_temple__thirumalai_nayakkar_mahal",
+        "candidate": 2
+      },
+      {
+        "id": "meenakshi_temple__thirumalai_nayakkar_mahal",
+        "candidate": 3
+      },
+      {
+        "id": "meenakshi_temple__thirumalai_nayakkar_mahal",
+        "candidate": 4
+      },
+      {
+        "id": "meenakshi_temple__thirumalai_nayakkar_mahal",
+        "candidate": 5
+      },
+      {
+        "id": "meenakshi_temple__thirumalai_nayakkar_mahal",
+        "candidate": 6
+      },
+      {
+        "id": "meenakshi_temple__thirumalai_nayakkar_mahal",
+        "candidate": 7
+      },
+      {
+        "id": "meenakshi_temple__thirumalai_nayakkar_mahal",
+        "candidate": 8
+      },
+      {
+        "id": "meenakshi_temple__thirumalai_nayakkar_mahal",
+        "candidate": 9
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_10_nearby_03.jpg",
+    "order": 10,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "meenakshi_temple__thirumalai_nayakkar_mahal",
+        "candidate": 10
+      },
+      {
+        "id": "meenakshi_temple__vandiyur_mariamman_teppakulam",
+        "candidate": 1
+      },
+      {
+        "id": "meenakshi_temple__vandiyur_mariamman_teppakulam",
+        "candidate": 2
+      },
+      {
+        "id": "meenakshi_temple__vandiyur_mariamman_teppakulam",
+        "candidate": 3
+      },
+      {
+        "id": "meenakshi_temple__vandiyur_mariamman_teppakulam",
+        "candidate": 4
+      },
+      {
+        "id": "meenakshi_temple__vandiyur_mariamman_teppakulam",
+        "candidate": 5
+      },
+      {
+        "id": "meenakshi_temple__yanaimalai",
+        "candidate": 1
+      },
+      {
+        "id": "meenakshi_temple__yanaimalai",
+        "candidate": 2
+      },
+      {
+        "id": "meenakshi_temple__yanaimalai",
+        "candidate": 3
+      },
+      {
+        "id": "meenakshi_temple__yanaimalai",
+        "candidate": 4
+      },
+      {
+        "id": "meenakshi_temple__yanaimalai",
+        "candidate": 5
+      },
+      {
+        "id": "meenakshi_temple__yanaimalai",
+        "candidate": 6
+      },
+      {
+        "id": "meenakshi_temple__yanaimalai",
+        "candidate": 7
+      },
+      {
+        "id": "meenakshi_temple__yanaimalai",
+        "candidate": 8
+      },
+      {
+        "id": "meenakshi_temple__yanaimalai",
+        "candidate": 9
+      },
+      {
+        "id": "meenakshi_temple__yanaimalai",
+        "candidate": 10
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_11_main_01.jpg",
+    "order": 11,
+    "kind": "main",
+    "items": [
+      {
+        "id": "golden_temple",
+        "candidate": 1
+      },
+      {
+        "id": "golden_temple",
+        "candidate": 2
+      },
+      {
+        "id": "golden_temple",
+        "candidate": 3
+      },
+      {
+        "id": "golden_temple",
+        "candidate": 4
+      },
+      {
+        "id": "golden_temple",
+        "candidate": 5
+      },
+      {
+        "id": "golden_temple",
+        "candidate": 6
+      },
+      {
+        "id": "golden_temple",
+        "candidate": 7
+      },
+      {
+        "id": "golden_temple",
+        "candidate": 8
+      },
+      {
+        "id": "golden_temple",
+        "candidate": 9
+      },
+      {
+        "id": "golden_temple",
+        "candidate": 10
+      },
+      {
+        "id": "golden_temple",
+        "candidate": 11
+      },
+      {
+        "id": "golden_temple",
+        "candidate": 12
+      },
+      {
+        "id": "golden_temple",
+        "candidate": 13
+      },
+      {
+        "id": "golden_temple",
+        "candidate": 14
+      },
+      {
+        "id": "golden_temple",
+        "candidate": 15
+      },
+      {
+        "id": "golden_temple",
+        "candidate": 16
+      },
+      {
+        "id": "golden_temple",
+        "candidate": 17
+      },
+      {
+        "id": "golden_temple",
+        "candidate": 18
+      },
+      {
+        "id": "golden_temple",
+        "candidate": 19
+      },
+      {
+        "id": "golden_temple",
+        "candidate": 20
+      },
+      {
+        "id": "golden_temple",
+        "candidate": 21
+      },
+      {
+        "id": "golden_temple",
+        "candidate": 22
+      },
+      {
+        "id": "golden_temple",
+        "candidate": 23
+      },
+      {
+        "id": "golden_temple",
+        "candidate": 24
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_11_main_02.jpg",
+    "order": 11,
+    "kind": "main",
+    "items": [
+      {
+        "id": "golden_temple",
+        "candidate": 25
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_11_nearby_01.jpg",
+    "order": 11,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "golden_temple__durgiana_temple",
+        "candidate": 1
+      },
+      {
+        "id": "golden_temple__durgiana_temple",
+        "candidate": 2
+      },
+      {
+        "id": "golden_temple__durgiana_temple",
+        "candidate": 3
+      },
+      {
+        "id": "golden_temple__durgiana_temple",
+        "candidate": 4
+      },
+      {
+        "id": "golden_temple__durgiana_temple",
+        "candidate": 5
+      },
+      {
+        "id": "golden_temple__durgiana_temple",
+        "candidate": 6
+      },
+      {
+        "id": "golden_temple__durgiana_temple",
+        "candidate": 7
+      },
+      {
+        "id": "golden_temple__durgiana_temple",
+        "candidate": 8
+      },
+      {
+        "id": "golden_temple__durgiana_temple",
+        "candidate": 9
+      },
+      {
+        "id": "golden_temple__durgiana_temple",
+        "candidate": 10
+      },
+      {
+        "id": "golden_temple__gobindgarh_fort",
+        "candidate": 1
+      },
+      {
+        "id": "golden_temple__gobindgarh_fort",
+        "candidate": 2
+      },
+      {
+        "id": "golden_temple__gobindgarh_fort",
+        "candidate": 3
+      },
+      {
+        "id": "golden_temple__gobindgarh_fort",
+        "candidate": 4
+      },
+      {
+        "id": "golden_temple__gobindgarh_fort",
+        "candidate": 5
+      },
+      {
+        "id": "golden_temple__gobindgarh_fort",
+        "candidate": 6
+      },
+      {
+        "id": "golden_temple__gobindgarh_fort",
+        "candidate": 7
+      },
+      {
+        "id": "golden_temple__gobindgarh_fort",
+        "candidate": 8
+      },
+      {
+        "id": "golden_temple__gobindgarh_fort",
+        "candidate": 9
+      },
+      {
+        "id": "golden_temple__gobindgarh_fort",
+        "candidate": 10
+      },
+      {
+        "id": "golden_temple__gurdwara_baba_atal_rai",
+        "candidate": 1
+      },
+      {
+        "id": "golden_temple__gurdwara_baba_atal_rai",
+        "candidate": 2
+      },
+      {
+        "id": "golden_temple__gurdwara_baba_atal_rai",
+        "candidate": 3
+      },
+      {
+        "id": "golden_temple__gurdwara_baba_atal_rai",
+        "candidate": 4
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_11_nearby_02.jpg",
+    "order": 11,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "golden_temple__gurdwara_baba_atal_rai",
+        "candidate": 5
+      },
+      {
+        "id": "golden_temple__gurdwara_baba_atal_rai",
+        "candidate": 6
+      },
+      {
+        "id": "golden_temple__gurdwara_baba_atal_rai",
+        "candidate": 7
+      },
+      {
+        "id": "golden_temple__gurdwara_baba_atal_rai",
+        "candidate": 8
+      },
+      {
+        "id": "golden_temple__gurdwara_baba_atal_rai",
+        "candidate": 9
+      },
+      {
+        "id": "golden_temple__gurdwara_baba_atal_rai",
+        "candidate": 10
+      },
+      {
+        "id": "golden_temple__gurdwara_mata_kaulan",
+        "candidate": 1
+      },
+      {
+        "id": "golden_temple__gurdwara_mata_kaulan",
+        "candidate": 2
+      },
+      {
+        "id": "golden_temple__gurdwara_mata_kaulan",
+        "candidate": 3
+      },
+      {
+        "id": "golden_temple__gurdwara_mata_kaulan",
+        "candidate": 4
+      },
+      {
+        "id": "golden_temple__gurdwara_mata_kaulan",
+        "candidate": 5
+      },
+      {
+        "id": "golden_temple__harike_wetland",
+        "candidate": 1
+      },
+      {
+        "id": "golden_temple__harike_wetland",
+        "candidate": 2
+      },
+      {
+        "id": "golden_temple__harike_wetland",
+        "candidate": 3
+      },
+      {
+        "id": "golden_temple__harike_wetland",
+        "candidate": 4
+      },
+      {
+        "id": "golden_temple__khalsa_college",
+        "candidate": 1
+      },
+      {
+        "id": "golden_temple__khalsa_college",
+        "candidate": 2
+      },
+      {
+        "id": "golden_temple__khalsa_college",
+        "candidate": 3
+      },
+      {
+        "id": "golden_temple__khalsa_college",
+        "candidate": 4
+      },
+      {
+        "id": "golden_temple__khalsa_college",
+        "candidate": 5
+      },
+      {
+        "id": "golden_temple__khalsa_college",
+        "candidate": 6
+      },
+      {
+        "id": "golden_temple__khalsa_college",
+        "candidate": 7
+      },
+      {
+        "id": "golden_temple__khalsa_college",
+        "candidate": 8
+      },
+      {
+        "id": "golden_temple__khalsa_college",
+        "candidate": 9
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_11_nearby_03.jpg",
+    "order": 11,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "golden_temple__khalsa_college",
+        "candidate": 10
+      },
+      {
+        "id": "golden_temple__partition_museum",
+        "candidate": 1
+      },
+      {
+        "id": "golden_temple__partition_museum",
+        "candidate": 2
+      },
+      {
+        "id": "golden_temple__partition_museum",
+        "candidate": 3
+      },
+      {
+        "id": "golden_temple__partition_museum",
+        "candidate": 4
+      },
+      {
+        "id": "golden_temple__partition_museum",
+        "candidate": 5
+      },
+      {
+        "id": "golden_temple__partition_museum",
+        "candidate": 6
+      },
+      {
+        "id": "golden_temple__partition_museum",
+        "candidate": 7
+      },
+      {
+        "id": "golden_temple__partition_museum",
+        "candidate": 8
+      },
+      {
+        "id": "golden_temple__partition_museum",
+        "candidate": 9
+      },
+      {
+        "id": "golden_temple__partition_museum",
+        "candidate": 10
+      },
+      {
+        "id": "golden_temple__pul_kanjri",
+        "candidate": 1
+      },
+      {
+        "id": "golden_temple__ram_bagh_palace",
+        "candidate": 1
+      },
+      {
+        "id": "golden_temple__ram_bagh_palace",
+        "candidate": 2
+      },
+      {
+        "id": "golden_temple__ram_bagh_palace",
+        "candidate": 3
+      },
+      {
+        "id": "golden_temple__ram_bagh_palace",
+        "candidate": 4
+      },
+      {
+        "id": "golden_temple__ram_bagh_palace",
+        "candidate": 5
+      },
+      {
+        "id": "golden_temple__ram_bagh_palace",
+        "candidate": 6
+      },
+      {
+        "id": "golden_temple__ram_bagh_palace",
+        "candidate": 7
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_12_main_01.jpg",
+    "order": 12,
+    "kind": "main",
+    "items": [
+      {
+        "id": "khajuraho_monuments",
+        "candidate": 1
+      },
+      {
+        "id": "khajuraho_monuments",
+        "candidate": 2
+      },
+      {
+        "id": "khajuraho_monuments",
+        "candidate": 3
+      },
+      {
+        "id": "khajuraho_monuments",
+        "candidate": 4
+      },
+      {
+        "id": "khajuraho_monuments",
+        "candidate": 5
+      },
+      {
+        "id": "khajuraho_monuments",
+        "candidate": 6
+      },
+      {
+        "id": "khajuraho_monuments",
+        "candidate": 7
+      },
+      {
+        "id": "khajuraho_monuments",
+        "candidate": 8
+      },
+      {
+        "id": "khajuraho_monuments",
+        "candidate": 9
+      },
+      {
+        "id": "khajuraho_monuments",
+        "candidate": 10
+      },
+      {
+        "id": "khajuraho_monuments",
+        "candidate": 11
+      },
+      {
+        "id": "khajuraho_monuments",
+        "candidate": 12
+      },
+      {
+        "id": "khajuraho_monuments",
+        "candidate": 13
+      },
+      {
+        "id": "khajuraho_monuments",
+        "candidate": 14
+      },
+      {
+        "id": "khajuraho_monuments",
+        "candidate": 15
+      },
+      {
+        "id": "khajuraho_monuments",
+        "candidate": 16
+      },
+      {
+        "id": "khajuraho_monuments",
+        "candidate": 17
+      },
+      {
+        "id": "khajuraho_monuments",
+        "candidate": 18
+      },
+      {
+        "id": "khajuraho_monuments",
+        "candidate": 19
+      },
+      {
+        "id": "khajuraho_monuments",
+        "candidate": 20
+      },
+      {
+        "id": "khajuraho_monuments",
+        "candidate": 21
+      },
+      {
+        "id": "khajuraho_monuments",
+        "candidate": 22
+      },
+      {
+        "id": "khajuraho_monuments",
+        "candidate": 23
+      },
+      {
+        "id": "khajuraho_monuments",
+        "candidate": 24
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_12_main_02.jpg",
+    "order": 12,
+    "kind": "main",
+    "items": [
+      {
+        "id": "khajuraho_monuments",
+        "candidate": 25
+      },
+      {
+        "id": "khajuraho_monuments",
+        "candidate": 26
+      },
+      {
+        "id": "khajuraho_monuments",
+        "candidate": 27
+      },
+      {
+        "id": "khajuraho_monuments",
+        "candidate": 28
+      },
+      {
+        "id": "khajuraho_monuments",
+        "candidate": 29
+      },
+      {
+        "id": "khajuraho_monuments",
+        "candidate": 30
+      },
+      {
+        "id": "khajuraho_monuments",
+        "candidate": 31
+      },
+      {
+        "id": "khajuraho_monuments",
+        "candidate": 32
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_12_nearby_01.jpg",
+    "order": 12,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "khajuraho_monuments__ajaigarh_fort",
+        "candidate": 1
+      },
+      {
+        "id": "khajuraho_monuments__ajaigarh_fort",
+        "candidate": 2
+      },
+      {
+        "id": "khajuraho_monuments__ajaigarh_fort",
+        "candidate": 3
+      },
+      {
+        "id": "khajuraho_monuments__ajaigarh_fort",
+        "candidate": 4
+      },
+      {
+        "id": "khajuraho_monuments__ajaigarh_fort",
+        "candidate": 5
+      },
+      {
+        "id": "khajuraho_monuments__ajaigarh_fort",
+        "candidate": 6
+      },
+      {
+        "id": "khajuraho_monuments__beni_sagar_dam",
+        "candidate": 1
+      },
+      {
+        "id": "khajuraho_monuments__beni_sagar_dam",
+        "candidate": 2
+      },
+      {
+        "id": "khajuraho_monuments__beni_sagar_dam",
+        "candidate": 3
+      },
+      {
+        "id": "khajuraho_monuments__beni_sagar_dam",
+        "candidate": 4
+      },
+      {
+        "id": "khajuraho_monuments__beni_sagar_dam",
+        "candidate": 5
+      },
+      {
+        "id": "khajuraho_monuments__beni_sagar_dam",
+        "candidate": 6
+      },
+      {
+        "id": "khajuraho_monuments__beni_sagar_dam",
+        "candidate": 7
+      },
+      {
+        "id": "khajuraho_monuments__beni_sagar_dam",
+        "candidate": 8
+      },
+      {
+        "id": "khajuraho_monuments__beni_sagar_dam",
+        "candidate": 9
+      },
+      {
+        "id": "khajuraho_monuments__beni_sagar_dam",
+        "candidate": 10
+      },
+      {
+        "id": "khajuraho_monuments__chaturbhuj_temple",
+        "candidate": 1
+      },
+      {
+        "id": "khajuraho_monuments__chaturbhuj_temple",
+        "candidate": 2
+      },
+      {
+        "id": "khajuraho_monuments__chaturbhuj_temple",
+        "candidate": 3
+      },
+      {
+        "id": "khajuraho_monuments__chaturbhuj_temple",
+        "candidate": 4
+      },
+      {
+        "id": "khajuraho_monuments__chaturbhuj_temple",
+        "candidate": 5
+      },
+      {
+        "id": "khajuraho_monuments__chaturbhuj_temple",
+        "candidate": 6
+      },
+      {
+        "id": "khajuraho_monuments__chaturbhuj_temple",
+        "candidate": 7
+      },
+      {
+        "id": "khajuraho_monuments__chaturbhuj_temple",
+        "candidate": 8
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_12_nearby_02.jpg",
+    "order": 12,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "khajuraho_monuments__chaturbhuj_temple",
+        "candidate": 9
+      },
+      {
+        "id": "khajuraho_monuments__chaturbhuj_temple",
+        "candidate": 10
+      },
+      {
+        "id": "khajuraho_monuments__duladeo_temple",
+        "candidate": 1
+      },
+      {
+        "id": "khajuraho_monuments__duladeo_temple",
+        "candidate": 2
+      },
+      {
+        "id": "khajuraho_monuments__duladeo_temple",
+        "candidate": 3
+      },
+      {
+        "id": "khajuraho_monuments__duladeo_temple",
+        "candidate": 4
+      },
+      {
+        "id": "khajuraho_monuments__duladeo_temple",
+        "candidate": 5
+      },
+      {
+        "id": "khajuraho_monuments__duladeo_temple",
+        "candidate": 6
+      },
+      {
+        "id": "khajuraho_monuments__duladeo_temple",
+        "candidate": 7
+      },
+      {
+        "id": "khajuraho_monuments__duladeo_temple",
+        "candidate": 8
+      },
+      {
+        "id": "khajuraho_monuments__duladeo_temple",
+        "candidate": 9
+      },
+      {
+        "id": "khajuraho_monuments__duladeo_temple",
+        "candidate": 10
+      },
+      {
+        "id": "khajuraho_monuments__jain_museum",
+        "candidate": 1
+      },
+      {
+        "id": "khajuraho_monuments__jain_museum",
+        "candidate": 2
+      },
+      {
+        "id": "khajuraho_monuments__kalinjar_fort",
+        "candidate": 1
+      },
+      {
+        "id": "khajuraho_monuments__kalinjar_fort",
+        "candidate": 2
+      },
+      {
+        "id": "khajuraho_monuments__kalinjar_fort",
+        "candidate": 3
+      },
+      {
+        "id": "khajuraho_monuments__kalinjar_fort",
+        "candidate": 4
+      },
+      {
+        "id": "khajuraho_monuments__kalinjar_fort",
+        "candidate": 5
+      },
+      {
+        "id": "khajuraho_monuments__kalinjar_fort",
+        "candidate": 6
+      },
+      {
+        "id": "khajuraho_monuments__kalinjar_fort",
+        "candidate": 7
+      },
+      {
+        "id": "khajuraho_monuments__kalinjar_fort",
+        "candidate": 8
+      },
+      {
+        "id": "khajuraho_monuments__kalinjar_fort",
+        "candidate": 9
+      },
+      {
+        "id": "khajuraho_monuments__kalinjar_fort",
+        "candidate": 10
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_12_nearby_03.jpg",
+    "order": 12,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "khajuraho_monuments__matangeshwar_temple",
+        "candidate": 1
+      },
+      {
+        "id": "khajuraho_monuments__pandav_falls",
+        "candidate": 1
+      },
+      {
+        "id": "khajuraho_monuments__pandav_falls",
+        "candidate": 2
+      },
+      {
+        "id": "khajuraho_monuments__pandav_falls",
+        "candidate": 3
+      },
+      {
+        "id": "khajuraho_monuments__pandav_falls",
+        "candidate": 4
+      },
+      {
+        "id": "khajuraho_monuments__pandav_falls",
+        "candidate": 5
+      },
+      {
+        "id": "khajuraho_monuments__pandav_falls",
+        "candidate": 6
+      },
+      {
+        "id": "khajuraho_monuments__pandav_falls",
+        "candidate": 7
+      },
+      {
+        "id": "khajuraho_monuments__pandav_falls",
+        "candidate": 8
+      },
+      {
+        "id": "khajuraho_monuments__raneh_falls",
+        "candidate": 1
+      },
+      {
+        "id": "khajuraho_monuments__raneh_falls",
+        "candidate": 2
+      },
+      {
+        "id": "khajuraho_monuments__raneh_falls",
+        "candidate": 3
+      },
+      {
+        "id": "khajuraho_monuments__raneh_falls",
+        "candidate": 4
+      },
+      {
+        "id": "khajuraho_monuments__raneh_falls",
+        "candidate": 5
+      },
+      {
+        "id": "khajuraho_monuments__raneh_falls",
+        "candidate": 6
+      },
+      {
+        "id": "khajuraho_monuments__raneh_falls",
+        "candidate": 7
+      },
+      {
+        "id": "khajuraho_monuments__raneh_falls",
+        "candidate": 8
+      },
+      {
+        "id": "khajuraho_monuments__raneh_falls",
+        "candidate": 9
+      },
+      {
+        "id": "khajuraho_monuments__raneh_falls",
+        "candidate": 10
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_13_main_01.jpg",
+    "order": 13,
+    "kind": "main",
+    "items": [
+      {
+        "id": "ajanta_ellora_caves",
+        "candidate": 1
+      },
+      {
+        "id": "ajanta_ellora_caves",
+        "candidate": 2
+      },
+      {
+        "id": "ajanta_ellora_caves",
+        "candidate": 3
+      },
+      {
+        "id": "ajanta_ellora_caves",
+        "candidate": 4
+      },
+      {
+        "id": "ajanta_ellora_caves",
+        "candidate": 5
+      },
+      {
+        "id": "ajanta_ellora_caves",
+        "candidate": 6
+      },
+      {
+        "id": "ajanta_ellora_caves",
+        "candidate": 7
+      },
+      {
+        "id": "ajanta_ellora_caves",
+        "candidate": 8
+      },
+      {
+        "id": "ajanta_ellora_caves",
+        "candidate": 9
+      },
+      {
+        "id": "ajanta_ellora_caves",
+        "candidate": 10
+      },
+      {
+        "id": "ajanta_ellora_caves",
+        "candidate": 11
+      },
+      {
+        "id": "ajanta_ellora_caves",
+        "candidate": 12
+      },
+      {
+        "id": "ajanta_ellora_caves",
+        "candidate": 13
+      },
+      {
+        "id": "ajanta_ellora_caves",
+        "candidate": 14
+      },
+      {
+        "id": "ajanta_ellora_caves",
+        "candidate": 15
+      },
+      {
+        "id": "ajanta_ellora_caves",
+        "candidate": 16
+      },
+      {
+        "id": "ajanta_ellora_caves",
+        "candidate": 17
+      },
+      {
+        "id": "ajanta_ellora_caves",
+        "candidate": 18
+      },
+      {
+        "id": "ajanta_ellora_caves",
+        "candidate": 19
+      },
+      {
+        "id": "ajanta_ellora_caves",
+        "candidate": 20
+      },
+      {
+        "id": "ajanta_ellora_caves",
+        "candidate": 21
+      },
+      {
+        "id": "ajanta_ellora_caves",
+        "candidate": 22
+      },
+      {
+        "id": "ajanta_ellora_caves",
+        "candidate": 23
+      },
+      {
+        "id": "ajanta_ellora_caves",
+        "candidate": 24
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_13_main_02.jpg",
+    "order": 13,
+    "kind": "main",
+    "items": [
+      {
+        "id": "ajanta_ellora_caves",
+        "candidate": 25
+      },
+      {
+        "id": "ajanta_ellora_caves",
+        "candidate": 26
+      },
+      {
+        "id": "ajanta_ellora_caves",
+        "candidate": 27
+      },
+      {
+        "id": "ajanta_ellora_caves",
+        "candidate": 28
+      },
+      {
+        "id": "ajanta_ellora_caves",
+        "candidate": 29
+      },
+      {
+        "id": "ajanta_ellora_caves",
+        "candidate": 30
+      },
+      {
+        "id": "ajanta_ellora_caves",
+        "candidate": 31
+      },
+      {
+        "id": "ajanta_ellora_caves",
+        "candidate": 32
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_13_nearby_01.jpg",
+    "order": 13,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "ajanta_ellora_caves__bhadra_maruti_temple",
+        "candidate": 1
+      },
+      {
+        "id": "ajanta_ellora_caves__bhadra_maruti_temple",
+        "candidate": 2
+      },
+      {
+        "id": "ajanta_ellora_caves__bhadra_maruti_temple",
+        "candidate": 3
+      },
+      {
+        "id": "ajanta_ellora_caves__bibi_ka_maqbara",
+        "candidate": 1
+      },
+      {
+        "id": "ajanta_ellora_caves__bibi_ka_maqbara",
+        "candidate": 2
+      },
+      {
+        "id": "ajanta_ellora_caves__bibi_ka_maqbara",
+        "candidate": 3
+      },
+      {
+        "id": "ajanta_ellora_caves__bibi_ka_maqbara",
+        "candidate": 4
+      },
+      {
+        "id": "ajanta_ellora_caves__bibi_ka_maqbara",
+        "candidate": 5
+      },
+      {
+        "id": "ajanta_ellora_caves__bibi_ka_maqbara",
+        "candidate": 6
+      },
+      {
+        "id": "ajanta_ellora_caves__bibi_ka_maqbara",
+        "candidate": 7
+      },
+      {
+        "id": "ajanta_ellora_caves__bibi_ka_maqbara",
+        "candidate": 8
+      },
+      {
+        "id": "ajanta_ellora_caves__bibi_ka_maqbara",
+        "candidate": 9
+      },
+      {
+        "id": "ajanta_ellora_caves__bibi_ka_maqbara",
+        "candidate": 10
+      },
+      {
+        "id": "ajanta_ellora_caves__daulatabad_fort",
+        "candidate": 1
+      },
+      {
+        "id": "ajanta_ellora_caves__daulatabad_fort",
+        "candidate": 2
+      },
+      {
+        "id": "ajanta_ellora_caves__daulatabad_fort",
+        "candidate": 3
+      },
+      {
+        "id": "ajanta_ellora_caves__daulatabad_fort",
+        "candidate": 4
+      },
+      {
+        "id": "ajanta_ellora_caves__daulatabad_fort",
+        "candidate": 5
+      },
+      {
+        "id": "ajanta_ellora_caves__daulatabad_fort",
+        "candidate": 6
+      },
+      {
+        "id": "ajanta_ellora_caves__daulatabad_fort",
+        "candidate": 7
+      },
+      {
+        "id": "ajanta_ellora_caves__daulatabad_fort",
+        "candidate": 8
+      },
+      {
+        "id": "ajanta_ellora_caves__daulatabad_fort",
+        "candidate": 9
+      },
+      {
+        "id": "ajanta_ellora_caves__daulatabad_fort",
+        "candidate": 10
+      },
+      {
+        "id": "ajanta_ellora_caves__grishneshwar_jyotirlinga",
+        "candidate": 1
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_13_nearby_02.jpg",
+    "order": 13,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "ajanta_ellora_caves__grishneshwar_jyotirlinga",
+        "candidate": 2
+      },
+      {
+        "id": "ajanta_ellora_caves__grishneshwar_jyotirlinga",
+        "candidate": 3
+      },
+      {
+        "id": "ajanta_ellora_caves__grishneshwar_jyotirlinga",
+        "candidate": 4
+      },
+      {
+        "id": "ajanta_ellora_caves__grishneshwar_jyotirlinga",
+        "candidate": 5
+      },
+      {
+        "id": "ajanta_ellora_caves__grishneshwar_jyotirlinga",
+        "candidate": 6
+      },
+      {
+        "id": "ajanta_ellora_caves__grishneshwar_jyotirlinga",
+        "candidate": 7
+      },
+      {
+        "id": "ajanta_ellora_caves__grishneshwar_jyotirlinga",
+        "candidate": 8
+      },
+      {
+        "id": "ajanta_ellora_caves__grishneshwar_jyotirlinga",
+        "candidate": 9
+      },
+      {
+        "id": "ajanta_ellora_caves__grishneshwar_jyotirlinga",
+        "candidate": 10
+      },
+      {
+        "id": "ajanta_ellora_caves__jama_masjid_aurangabad",
+        "candidate": 1
+      },
+      {
+        "id": "ajanta_ellora_caves__jama_masjid_aurangabad",
+        "candidate": 2
+      },
+      {
+        "id": "ajanta_ellora_caves__jama_masjid_aurangabad",
+        "candidate": 3
+      },
+      {
+        "id": "ajanta_ellora_caves__jama_masjid_aurangabad",
+        "candidate": 4
+      },
+      {
+        "id": "ajanta_ellora_caves__jama_masjid_aurangabad",
+        "candidate": 5
+      },
+      {
+        "id": "ajanta_ellora_caves__jama_masjid_aurangabad",
+        "candidate": 6
+      },
+      {
+        "id": "ajanta_ellora_caves__jama_masjid_aurangabad",
+        "candidate": 7
+      },
+      {
+        "id": "ajanta_ellora_caves__jama_masjid_aurangabad",
+        "candidate": 8
+      },
+      {
+        "id": "ajanta_ellora_caves__jama_masjid_aurangabad",
+        "candidate": 9
+      },
+      {
+        "id": "ajanta_ellora_caves__jama_masjid_aurangabad",
+        "candidate": 10
+      },
+      {
+        "id": "ajanta_ellora_caves__khuldabad",
+        "candidate": 1
+      },
+      {
+        "id": "ajanta_ellora_caves__khuldabad",
+        "candidate": 2
+      },
+      {
+        "id": "ajanta_ellora_caves__khuldabad",
+        "candidate": 3
+      },
+      {
+        "id": "ajanta_ellora_caves__khuldabad",
+        "candidate": 4
+      },
+      {
+        "id": "ajanta_ellora_caves__khuldabad",
+        "candidate": 5
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_13_nearby_03.jpg",
+    "order": 13,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "ajanta_ellora_caves__khuldabad",
+        "candidate": 6
+      },
+      {
+        "id": "ajanta_ellora_caves__khuldabad",
+        "candidate": 7
+      },
+      {
+        "id": "ajanta_ellora_caves__khuldabad",
+        "candidate": 8
+      },
+      {
+        "id": "ajanta_ellora_caves__khuldabad",
+        "candidate": 9
+      },
+      {
+        "id": "ajanta_ellora_caves__khuldabad",
+        "candidate": 10
+      },
+      {
+        "id": "ajanta_ellora_caves__panchakki",
+        "candidate": 1
+      },
+      {
+        "id": "ajanta_ellora_caves__panchakki",
+        "candidate": 2
+      },
+      {
+        "id": "ajanta_ellora_caves__panchakki",
+        "candidate": 3
+      },
+      {
+        "id": "ajanta_ellora_caves__panchakki",
+        "candidate": 4
+      },
+      {
+        "id": "ajanta_ellora_caves__panchakki",
+        "candidate": 5
+      },
+      {
+        "id": "ajanta_ellora_caves__panchakki",
+        "candidate": 6
+      },
+      {
+        "id": "ajanta_ellora_caves__panchakki",
+        "candidate": 7
+      },
+      {
+        "id": "ajanta_ellora_caves__panchakki",
+        "candidate": 8
+      },
+      {
+        "id": "ajanta_ellora_caves__panchakki",
+        "candidate": 9
+      },
+      {
+        "id": "ajanta_ellora_caves__panchakki",
+        "candidate": 10
+      },
+      {
+        "id": "ajanta_ellora_caves__salim_ali_lake",
+        "candidate": 1
+      },
+      {
+        "id": "ajanta_ellora_caves__salim_ali_lake",
+        "candidate": 2
+      },
+      {
+        "id": "ajanta_ellora_caves__siddharth_garden",
+        "candidate": 1
+      },
+      {
+        "id": "ajanta_ellora_caves__siddharth_garden",
+        "candidate": 2
+      },
+      {
+        "id": "ajanta_ellora_caves__siddharth_garden",
+        "candidate": 3
+      },
+      {
+        "id": "ajanta_ellora_caves__siddharth_garden",
+        "candidate": 4
+      },
+      {
+        "id": "ajanta_ellora_caves__siddharth_garden",
+        "candidate": 5
+      },
+      {
+        "id": "ajanta_ellora_caves__soneri_mahal",
+        "candidate": 1
+      },
+      {
+        "id": "ajanta_ellora_caves__soneri_mahal",
+        "candidate": 2
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_13_nearby_04.jpg",
+    "order": 13,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "ajanta_ellora_caves__soneri_mahal",
+        "candidate": 3
+      },
+      {
+        "id": "ajanta_ellora_caves__soneri_mahal",
+        "candidate": 4
+      },
+      {
+        "id": "ajanta_ellora_caves__soneri_mahal",
+        "candidate": 5
+      },
+      {
+        "id": "ajanta_ellora_caves__soneri_mahal",
+        "candidate": 6
+      },
+      {
+        "id": "ajanta_ellora_caves__soneri_mahal",
+        "candidate": 7
+      },
+      {
+        "id": "ajanta_ellora_caves__soneri_mahal",
+        "candidate": 8
+      },
+      {
+        "id": "ajanta_ellora_caves__soneri_mahal",
+        "candidate": 9
+      },
+      {
+        "id": "ajanta_ellora_caves__soneri_mahal",
+        "candidate": 10
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_14_main_01.jpg",
+    "order": 14,
+    "kind": "main",
+    "items": [
+      {
+        "id": "konark_sun_temple",
+        "candidate": 1
+      },
+      {
+        "id": "konark_sun_temple",
+        "candidate": 2
+      },
+      {
+        "id": "konark_sun_temple",
+        "candidate": 3
+      },
+      {
+        "id": "konark_sun_temple",
+        "candidate": 4
+      },
+      {
+        "id": "konark_sun_temple",
+        "candidate": 5
+      },
+      {
+        "id": "konark_sun_temple",
+        "candidate": 6
+      },
+      {
+        "id": "konark_sun_temple",
+        "candidate": 7
+      },
+      {
+        "id": "konark_sun_temple",
+        "candidate": 8
+      },
+      {
+        "id": "konark_sun_temple",
+        "candidate": 9
+      },
+      {
+        "id": "konark_sun_temple",
+        "candidate": 10
+      },
+      {
+        "id": "konark_sun_temple",
+        "candidate": 11
+      },
+      {
+        "id": "konark_sun_temple",
+        "candidate": 12
+      },
+      {
+        "id": "konark_sun_temple",
+        "candidate": 13
+      },
+      {
+        "id": "konark_sun_temple",
+        "candidate": 14
+      },
+      {
+        "id": "konark_sun_temple",
+        "candidate": 15
+      },
+      {
+        "id": "konark_sun_temple",
+        "candidate": 16
+      },
+      {
+        "id": "konark_sun_temple",
+        "candidate": 17
+      },
+      {
+        "id": "konark_sun_temple",
+        "candidate": 18
+      },
+      {
+        "id": "konark_sun_temple",
+        "candidate": 19
+      },
+      {
+        "id": "konark_sun_temple",
+        "candidate": 20
+      },
+      {
+        "id": "konark_sun_temple",
+        "candidate": 21
+      },
+      {
+        "id": "konark_sun_temple",
+        "candidate": 22
+      },
+      {
+        "id": "konark_sun_temple",
+        "candidate": 23
+      },
+      {
+        "id": "konark_sun_temple",
+        "candidate": 24
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_14_main_02.jpg",
+    "order": 14,
+    "kind": "main",
+    "items": [
+      {
+        "id": "konark_sun_temple",
+        "candidate": 25
+      },
+      {
+        "id": "konark_sun_temple",
+        "candidate": 26
+      },
+      {
+        "id": "konark_sun_temple",
+        "candidate": 27
+      },
+      {
+        "id": "konark_sun_temple",
+        "candidate": 28
+      },
+      {
+        "id": "konark_sun_temple",
+        "candidate": 29
+      },
+      {
+        "id": "konark_sun_temple",
+        "candidate": 30
+      },
+      {
+        "id": "konark_sun_temple",
+        "candidate": 31
+      },
+      {
+        "id": "konark_sun_temple",
+        "candidate": 32
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_14_nearby_01.jpg",
+    "order": 14,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "konark_sun_temple__barahi_temple_chaurasi",
+        "candidate": 1
+      },
+      {
+        "id": "konark_sun_temple__barahi_temple_chaurasi",
+        "candidate": 2
+      },
+      {
+        "id": "konark_sun_temple__chandrabhaga_beach",
+        "candidate": 1
+      },
+      {
+        "id": "konark_sun_temple__chandrabhaga_beach",
+        "candidate": 2
+      },
+      {
+        "id": "konark_sun_temple__chandrabhaga_beach",
+        "candidate": 3
+      },
+      {
+        "id": "konark_sun_temple__chandrabhaga_beach",
+        "candidate": 4
+      },
+      {
+        "id": "konark_sun_temple__chandrabhaga_beach",
+        "candidate": 5
+      },
+      {
+        "id": "konark_sun_temple__chandrabhaga_beach",
+        "candidate": 6
+      },
+      {
+        "id": "konark_sun_temple__chandrabhaga_beach",
+        "candidate": 7
+      },
+      {
+        "id": "konark_sun_temple__chandrabhaga_beach",
+        "candidate": 8
+      },
+      {
+        "id": "konark_sun_temple__chandrabhaga_beach",
+        "candidate": 9
+      },
+      {
+        "id": "konark_sun_temple__chandrabhaga_beach",
+        "candidate": 10
+      },
+      {
+        "id": "konark_sun_temple__dhauli_shanti_stupa",
+        "candidate": 1
+      },
+      {
+        "id": "konark_sun_temple__dhauli_shanti_stupa",
+        "candidate": 2
+      },
+      {
+        "id": "konark_sun_temple__dhauli_shanti_stupa",
+        "candidate": 3
+      },
+      {
+        "id": "konark_sun_temple__dhauli_shanti_stupa",
+        "candidate": 4
+      },
+      {
+        "id": "konark_sun_temple__dhauli_shanti_stupa",
+        "candidate": 5
+      },
+      {
+        "id": "konark_sun_temple__dhauli_shanti_stupa",
+        "candidate": 6
+      },
+      {
+        "id": "konark_sun_temple__dhauli_shanti_stupa",
+        "candidate": 7
+      },
+      {
+        "id": "konark_sun_temple__dhauli_shanti_stupa",
+        "candidate": 8
+      },
+      {
+        "id": "konark_sun_temple__dhauli_shanti_stupa",
+        "candidate": 9
+      },
+      {
+        "id": "konark_sun_temple__dhauli_shanti_stupa",
+        "candidate": 10
+      },
+      {
+        "id": "konark_sun_temple__mangalajodi_chilika",
+        "candidate": 1
+      },
+      {
+        "id": "konark_sun_temple__mangalajodi_chilika",
+        "candidate": 2
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_14_nearby_02.jpg",
+    "order": 14,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "konark_sun_temple__mangalajodi_chilika",
+        "candidate": 3
+      },
+      {
+        "id": "konark_sun_temple__mangalajodi_chilika",
+        "candidate": 4
+      },
+      {
+        "id": "konark_sun_temple__mangalajodi_chilika",
+        "candidate": 5
+      },
+      {
+        "id": "konark_sun_temple__mangalajodi_chilika",
+        "candidate": 6
+      },
+      {
+        "id": "konark_sun_temple__mangalajodi_chilika",
+        "candidate": 7
+      },
+      {
+        "id": "konark_sun_temple__mangalajodi_chilika",
+        "candidate": 8
+      },
+      {
+        "id": "konark_sun_temple__mangalajodi_chilika",
+        "candidate": 9
+      },
+      {
+        "id": "konark_sun_temple__mangalajodi_chilika",
+        "candidate": 10
+      },
+      {
+        "id": "konark_sun_temple__pipili_village",
+        "candidate": 1
+      },
+      {
+        "id": "konark_sun_temple__pipili_village",
+        "candidate": 2
+      },
+      {
+        "id": "konark_sun_temple__pipili_village",
+        "candidate": 3
+      },
+      {
+        "id": "konark_sun_temple__pipili_village",
+        "candidate": 4
+      },
+      {
+        "id": "konark_sun_temple__pipili_village",
+        "candidate": 5
+      },
+      {
+        "id": "konark_sun_temple__ramachandi_temple",
+        "candidate": 1
+      },
+      {
+        "id": "konark_sun_temple__ramachandi_temple",
+        "candidate": 2
+      },
+      {
+        "id": "konark_sun_temple__ramachandi_temple",
+        "candidate": 3
+      },
+      {
+        "id": "konark_sun_temple__ramachandi_temple",
+        "candidate": 4
+      },
+      {
+        "id": "konark_sun_temple__ramachandi_temple",
+        "candidate": 5
+      },
+      {
+        "id": "konark_sun_temple__ramachandi_temple",
+        "candidate": 6
+      },
+      {
+        "id": "konark_sun_temple__ramachandi_temple",
+        "candidate": 7
+      },
+      {
+        "id": "konark_sun_temple__ramachandi_temple",
+        "candidate": 8
+      },
+      {
+        "id": "konark_sun_temple__ramachandi_temple",
+        "candidate": 9
+      },
+      {
+        "id": "konark_sun_temple__ramachandi_temple",
+        "candidate": 10
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_15_main_01.jpg",
+    "order": 15,
+    "kind": "main",
+    "items": [
+      {
+        "id": "sanchi_stupa",
+        "candidate": 1
+      },
+      {
+        "id": "sanchi_stupa",
+        "candidate": 2
+      },
+      {
+        "id": "sanchi_stupa",
+        "candidate": 3
+      },
+      {
+        "id": "sanchi_stupa",
+        "candidate": 4
+      },
+      {
+        "id": "sanchi_stupa",
+        "candidate": 5
+      },
+      {
+        "id": "sanchi_stupa",
+        "candidate": 6
+      },
+      {
+        "id": "sanchi_stupa",
+        "candidate": 7
+      },
+      {
+        "id": "sanchi_stupa",
+        "candidate": 8
+      },
+      {
+        "id": "sanchi_stupa",
+        "candidate": 9
+      },
+      {
+        "id": "sanchi_stupa",
+        "candidate": 10
+      },
+      {
+        "id": "sanchi_stupa",
+        "candidate": 11
+      },
+      {
+        "id": "sanchi_stupa",
+        "candidate": 12
+      },
+      {
+        "id": "sanchi_stupa",
+        "candidate": 13
+      },
+      {
+        "id": "sanchi_stupa",
+        "candidate": 14
+      },
+      {
+        "id": "sanchi_stupa",
+        "candidate": 15
+      },
+      {
+        "id": "sanchi_stupa",
+        "candidate": 16
+      },
+      {
+        "id": "sanchi_stupa",
+        "candidate": 17
+      },
+      {
+        "id": "sanchi_stupa",
+        "candidate": 18
+      },
+      {
+        "id": "sanchi_stupa",
+        "candidate": 19
+      },
+      {
+        "id": "sanchi_stupa",
+        "candidate": 20
+      },
+      {
+        "id": "sanchi_stupa",
+        "candidate": 21
+      },
+      {
+        "id": "sanchi_stupa",
+        "candidate": 22
+      },
+      {
+        "id": "sanchi_stupa",
+        "candidate": 23
+      },
+      {
+        "id": "sanchi_stupa",
+        "candidate": 24
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_15_main_02.jpg",
+    "order": 15,
+    "kind": "main",
+    "items": [
+      {
+        "id": "sanchi_stupa",
+        "candidate": 25
+      },
+      {
+        "id": "sanchi_stupa",
+        "candidate": 26
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_15_nearby_01.jpg",
+    "order": 15,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "sanchi_stupa__bhojpur_temple",
+        "candidate": 1
+      },
+      {
+        "id": "sanchi_stupa__bhojpur_temple",
+        "candidate": 2
+      },
+      {
+        "id": "sanchi_stupa__bhojpur_temple",
+        "candidate": 3
+      },
+      {
+        "id": "sanchi_stupa__bhojpur_temple",
+        "candidate": 4
+      },
+      {
+        "id": "sanchi_stupa__bhojpur_temple",
+        "candidate": 5
+      },
+      {
+        "id": "sanchi_stupa__bhojpur_temple",
+        "candidate": 6
+      },
+      {
+        "id": "sanchi_stupa__bhojpur_temple",
+        "candidate": 7
+      },
+      {
+        "id": "sanchi_stupa__bhojpur_temple",
+        "candidate": 8
+      },
+      {
+        "id": "sanchi_stupa__bhojpur_temple",
+        "candidate": 9
+      },
+      {
+        "id": "sanchi_stupa__bhojpur_temple",
+        "candidate": 10
+      },
+      {
+        "id": "sanchi_stupa__bijamandal",
+        "candidate": 1
+      },
+      {
+        "id": "sanchi_stupa__bijamandal",
+        "candidate": 2
+      },
+      {
+        "id": "sanchi_stupa__bijamandal",
+        "candidate": 3
+      },
+      {
+        "id": "sanchi_stupa__bijamandal",
+        "candidate": 4
+      },
+      {
+        "id": "sanchi_stupa__bijamandal",
+        "candidate": 5
+      },
+      {
+        "id": "sanchi_stupa__bijamandal",
+        "candidate": 6
+      },
+      {
+        "id": "sanchi_stupa__bijamandal",
+        "candidate": 7
+      },
+      {
+        "id": "sanchi_stupa__bijamandal",
+        "candidate": 8
+      },
+      {
+        "id": "sanchi_stupa__bijamandal",
+        "candidate": 9
+      },
+      {
+        "id": "sanchi_stupa__bijamandal",
+        "candidate": 10
+      },
+      {
+        "id": "sanchi_stupa__halali_dam",
+        "candidate": 1
+      },
+      {
+        "id": "sanchi_stupa__halali_dam",
+        "candidate": 2
+      },
+      {
+        "id": "sanchi_stupa__heliodorus_pillar",
+        "candidate": 1
+      },
+      {
+        "id": "sanchi_stupa__heliodorus_pillar",
+        "candidate": 2
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_15_nearby_02.jpg",
+    "order": 15,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "sanchi_stupa__heliodorus_pillar",
+        "candidate": 3
+      },
+      {
+        "id": "sanchi_stupa__heliodorus_pillar",
+        "candidate": 4
+      },
+      {
+        "id": "sanchi_stupa__heliodorus_pillar",
+        "candidate": 5
+      },
+      {
+        "id": "sanchi_stupa__heliodorus_pillar",
+        "candidate": 6
+      },
+      {
+        "id": "sanchi_stupa__heliodorus_pillar",
+        "candidate": 7
+      },
+      {
+        "id": "sanchi_stupa__heliodorus_pillar",
+        "candidate": 8
+      },
+      {
+        "id": "sanchi_stupa__heliodorus_pillar",
+        "candidate": 9
+      },
+      {
+        "id": "sanchi_stupa__heliodorus_pillar",
+        "candidate": 10
+      },
+      {
+        "id": "sanchi_stupa__raisen_fort",
+        "candidate": 1
+      },
+      {
+        "id": "sanchi_stupa__raisen_fort",
+        "candidate": 2
+      },
+      {
+        "id": "sanchi_stupa__raisen_fort",
+        "candidate": 3
+      },
+      {
+        "id": "sanchi_stupa__raisen_fort",
+        "candidate": 4
+      },
+      {
+        "id": "sanchi_stupa__raisen_fort",
+        "candidate": 5
+      },
+      {
+        "id": "sanchi_stupa__raisen_fort",
+        "candidate": 6
+      },
+      {
+        "id": "sanchi_stupa__raisen_fort",
+        "candidate": 7
+      },
+      {
+        "id": "sanchi_stupa__raisen_fort",
+        "candidate": 8
+      },
+      {
+        "id": "sanchi_stupa__raisen_fort",
+        "candidate": 9
+      },
+      {
+        "id": "sanchi_stupa__raisen_fort",
+        "candidate": 10
+      },
+      {
+        "id": "sanchi_stupa__satdhara_stupas",
+        "candidate": 1
+      },
+      {
+        "id": "sanchi_stupa__satdhara_stupas",
+        "candidate": 2
+      },
+      {
+        "id": "sanchi_stupa__satdhara_stupas",
+        "candidate": 3
+      },
+      {
+        "id": "sanchi_stupa__satdhara_stupas",
+        "candidate": 4
+      },
+      {
+        "id": "sanchi_stupa__udayagiri_caves",
+        "candidate": 1
+      },
+      {
+        "id": "sanchi_stupa__udayagiri_caves",
+        "candidate": 2
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_15_nearby_03.jpg",
+    "order": 15,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "sanchi_stupa__udayagiri_caves",
+        "candidate": 3
+      },
+      {
+        "id": "sanchi_stupa__udayagiri_caves",
+        "candidate": 4
+      },
+      {
+        "id": "sanchi_stupa__udayagiri_caves",
+        "candidate": 5
+      },
+      {
+        "id": "sanchi_stupa__udayagiri_caves",
+        "candidate": 6
+      },
+      {
+        "id": "sanchi_stupa__udayagiri_caves",
+        "candidate": 7
+      },
+      {
+        "id": "sanchi_stupa__udayagiri_caves",
+        "candidate": 8
+      },
+      {
+        "id": "sanchi_stupa__udayagiri_caves",
+        "candidate": 9
+      },
+      {
+        "id": "sanchi_stupa__udayagiri_caves",
+        "candidate": 10
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_16_nearby_01.jpg",
+    "order": 16,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "city_palace_udaipur__ambrai_ghat",
+        "candidate": 1
+      },
+      {
+        "id": "city_palace_udaipur__ambrai_ghat",
+        "candidate": 2
+      },
+      {
+        "id": "city_palace_udaipur__ambrai_ghat",
+        "candidate": 3
+      },
+      {
+        "id": "city_palace_udaipur__ambrai_ghat",
+        "candidate": 4
+      },
+      {
+        "id": "city_palace_udaipur__badi_lake",
+        "candidate": 1
+      },
+      {
+        "id": "city_palace_udaipur__badi_lake",
+        "candidate": 2
+      },
+      {
+        "id": "city_palace_udaipur__badi_lake",
+        "candidate": 3
+      },
+      {
+        "id": "city_palace_udaipur__badi_lake",
+        "candidate": 4
+      },
+      {
+        "id": "city_palace_udaipur__badi_lake",
+        "candidate": 5
+      },
+      {
+        "id": "city_palace_udaipur__badi_lake",
+        "candidate": 6
+      },
+      {
+        "id": "city_palace_udaipur__badi_lake",
+        "candidate": 7
+      },
+      {
+        "id": "city_palace_udaipur__badi_lake",
+        "candidate": 8
+      },
+      {
+        "id": "city_palace_udaipur__badi_lake",
+        "candidate": 9
+      },
+      {
+        "id": "city_palace_udaipur__badi_lake",
+        "candidate": 10
+      },
+      {
+        "id": "city_palace_udaipur__bagore_ki_haveli",
+        "candidate": 1
+      },
+      {
+        "id": "city_palace_udaipur__bagore_ki_haveli",
+        "candidate": 2
+      },
+      {
+        "id": "city_palace_udaipur__bagore_ki_haveli",
+        "candidate": 3
+      },
+      {
+        "id": "city_palace_udaipur__bagore_ki_haveli",
+        "candidate": 4
+      },
+      {
+        "id": "city_palace_udaipur__bagore_ki_haveli",
+        "candidate": 5
+      },
+      {
+        "id": "city_palace_udaipur__bagore_ki_haveli",
+        "candidate": 6
+      },
+      {
+        "id": "city_palace_udaipur__bagore_ki_haveli",
+        "candidate": 7
+      },
+      {
+        "id": "city_palace_udaipur__bagore_ki_haveli",
+        "candidate": 8
+      },
+      {
+        "id": "city_palace_udaipur__bagore_ki_haveli",
+        "candidate": 9
+      },
+      {
+        "id": "city_palace_udaipur__bagore_ki_haveli",
+        "candidate": 10
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_16_nearby_02.jpg",
+    "order": 16,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "city_palace_udaipur__eklingji_temple",
+        "candidate": 1
+      },
+      {
+        "id": "city_palace_udaipur__eklingji_temple",
+        "candidate": 2
+      },
+      {
+        "id": "city_palace_udaipur__eklingji_temple",
+        "candidate": 3
+      },
+      {
+        "id": "city_palace_udaipur__eklingji_temple",
+        "candidate": 4
+      },
+      {
+        "id": "city_palace_udaipur__karni_mata_temple",
+        "candidate": 1
+      },
+      {
+        "id": "city_palace_udaipur__karni_mata_temple",
+        "candidate": 2
+      },
+      {
+        "id": "city_palace_udaipur__karni_mata_temple",
+        "candidate": 3
+      },
+      {
+        "id": "city_palace_udaipur__karni_mata_temple",
+        "candidate": 4
+      },
+      {
+        "id": "city_palace_udaipur__karni_mata_temple",
+        "candidate": 5
+      },
+      {
+        "id": "city_palace_udaipur__karni_mata_temple",
+        "candidate": 6
+      },
+      {
+        "id": "city_palace_udaipur__karni_mata_temple",
+        "candidate": 7
+      },
+      {
+        "id": "city_palace_udaipur__karni_mata_temple",
+        "candidate": 8
+      },
+      {
+        "id": "city_palace_udaipur__karni_mata_temple",
+        "candidate": 9
+      },
+      {
+        "id": "city_palace_udaipur__karni_mata_temple",
+        "candidate": 10
+      },
+      {
+        "id": "city_palace_udaipur__saheliyon_ki_bari",
+        "candidate": 1
+      },
+      {
+        "id": "city_palace_udaipur__saheliyon_ki_bari",
+        "candidate": 2
+      },
+      {
+        "id": "city_palace_udaipur__saheliyon_ki_bari",
+        "candidate": 3
+      },
+      {
+        "id": "city_palace_udaipur__saheliyon_ki_bari",
+        "candidate": 4
+      },
+      {
+        "id": "city_palace_udaipur__saheliyon_ki_bari",
+        "candidate": 5
+      },
+      {
+        "id": "city_palace_udaipur__saheliyon_ki_bari",
+        "candidate": 6
+      },
+      {
+        "id": "city_palace_udaipur__saheliyon_ki_bari",
+        "candidate": 7
+      },
+      {
+        "id": "city_palace_udaipur__saheliyon_ki_bari",
+        "candidate": 8
+      },
+      {
+        "id": "city_palace_udaipur__saheliyon_ki_bari",
+        "candidate": 9
+      },
+      {
+        "id": "city_palace_udaipur__saheliyon_ki_bari",
+        "candidate": 10
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_16_nearby_03.jpg",
+    "order": 16,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "city_palace_udaipur__sajjangarh_monsoon_palace",
+        "candidate": 1
+      },
+      {
+        "id": "city_palace_udaipur__sajjangarh_monsoon_palace",
+        "candidate": 2
+      },
+      {
+        "id": "city_palace_udaipur__sajjangarh_monsoon_palace",
+        "candidate": 3
+      },
+      {
+        "id": "city_palace_udaipur__sajjangarh_monsoon_palace",
+        "candidate": 4
+      },
+      {
+        "id": "city_palace_udaipur__sajjangarh_monsoon_palace",
+        "candidate": 5
+      },
+      {
+        "id": "city_palace_udaipur__sajjangarh_monsoon_palace",
+        "candidate": 6
+      },
+      {
+        "id": "city_palace_udaipur__sajjangarh_monsoon_palace",
+        "candidate": 7
+      },
+      {
+        "id": "city_palace_udaipur__sajjangarh_monsoon_palace",
+        "candidate": 8
+      },
+      {
+        "id": "city_palace_udaipur__sajjangarh_monsoon_palace",
+        "candidate": 9
+      },
+      {
+        "id": "city_palace_udaipur__sajjangarh_monsoon_palace",
+        "candidate": 10
+      },
+      {
+        "id": "city_palace_udaipur__shilpgram",
+        "candidate": 1
+      },
+      {
+        "id": "city_palace_udaipur__shilpgram",
+        "candidate": 2
+      },
+      {
+        "id": "city_palace_udaipur__shilpgram",
+        "candidate": 3
+      },
+      {
+        "id": "city_palace_udaipur__shilpgram",
+        "candidate": 4
+      },
+      {
+        "id": "city_palace_udaipur__shilpgram",
+        "candidate": 5
+      },
+      {
+        "id": "city_palace_udaipur__shilpgram",
+        "candidate": 6
+      },
+      {
+        "id": "city_palace_udaipur__shilpgram",
+        "candidate": 7
+      },
+      {
+        "id": "city_palace_udaipur__shilpgram",
+        "candidate": 8
+      },
+      {
+        "id": "city_palace_udaipur__shilpgram",
+        "candidate": 9
+      },
+      {
+        "id": "city_palace_udaipur__shilpgram",
+        "candidate": 10
+      },
+      {
+        "id": "city_palace_udaipur__vintage_car_museum",
+        "candidate": 1
+      },
+      {
+        "id": "city_palace_udaipur__vintage_car_museum",
+        "candidate": 2
+      },
+      {
+        "id": "city_palace_udaipur__vintage_car_museum",
+        "candidate": 3
+      },
+      {
+        "id": "city_palace_udaipur__vintage_car_museum",
+        "candidate": 4
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_16_nearby_04.jpg",
+    "order": 16,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "city_palace_udaipur__vintage_car_museum",
+        "candidate": 5
+      },
+      {
+        "id": "city_palace_udaipur__vintage_car_museum",
+        "candidate": 6
+      },
+      {
+        "id": "city_palace_udaipur__vintage_car_museum",
+        "candidate": 7
+      },
+      {
+        "id": "city_palace_udaipur__vintage_car_museum",
+        "candidate": 8
+      },
+      {
+        "id": "city_palace_udaipur__vintage_car_museum",
+        "candidate": 9
+      },
+      {
+        "id": "city_palace_udaipur__vintage_car_museum",
+        "candidate": 10
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_17_main_01.jpg",
+    "order": 17,
+    "kind": "main",
+    "items": [
+      {
+        "id": "mahabalipuram",
+        "candidate": 1
+      },
+      {
+        "id": "mahabalipuram",
+        "candidate": 2
+      },
+      {
+        "id": "mahabalipuram",
+        "candidate": 3
+      },
+      {
+        "id": "mahabalipuram",
+        "candidate": 4
+      },
+      {
+        "id": "mahabalipuram",
+        "candidate": 5
+      },
+      {
+        "id": "mahabalipuram",
+        "candidate": 6
+      },
+      {
+        "id": "mahabalipuram",
+        "candidate": 7
+      },
+      {
+        "id": "mahabalipuram",
+        "candidate": 8
+      },
+      {
+        "id": "mahabalipuram",
+        "candidate": 9
+      },
+      {
+        "id": "mahabalipuram",
+        "candidate": 10
+      },
+      {
+        "id": "mahabalipuram",
+        "candidate": 11
+      },
+      {
+        "id": "mahabalipuram",
+        "candidate": 12
+      },
+      {
+        "id": "mahabalipuram",
+        "candidate": 13
+      },
+      {
+        "id": "mahabalipuram",
+        "candidate": 14
+      },
+      {
+        "id": "mahabalipuram",
+        "candidate": 15
+      },
+      {
+        "id": "mahabalipuram",
+        "candidate": 16
+      },
+      {
+        "id": "mahabalipuram",
+        "candidate": 17
+      },
+      {
+        "id": "mahabalipuram",
+        "candidate": 18
+      },
+      {
+        "id": "mahabalipuram",
+        "candidate": 19
+      },
+      {
+        "id": "mahabalipuram",
+        "candidate": 20
+      },
+      {
+        "id": "mahabalipuram",
+        "candidate": 21
+      },
+      {
+        "id": "mahabalipuram",
+        "candidate": 22
+      },
+      {
+        "id": "mahabalipuram",
+        "candidate": 23
+      },
+      {
+        "id": "mahabalipuram",
+        "candidate": 24
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_17_main_02.jpg",
+    "order": 17,
+    "kind": "main",
+    "items": [
+      {
+        "id": "mahabalipuram",
+        "candidate": 25
+      },
+      {
+        "id": "mahabalipuram",
+        "candidate": 26
+      },
+      {
+        "id": "mahabalipuram",
+        "candidate": 27
+      },
+      {
+        "id": "mahabalipuram",
+        "candidate": 28
+      },
+      {
+        "id": "mahabalipuram",
+        "candidate": 29
+      },
+      {
+        "id": "mahabalipuram",
+        "candidate": 30
+      },
+      {
+        "id": "mahabalipuram",
+        "candidate": 31
+      },
+      {
+        "id": "mahabalipuram",
+        "candidate": 32
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_17_nearby_01.jpg",
+    "order": 17,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "mahabalipuram__alamparai_fort",
+        "candidate": 1
+      },
+      {
+        "id": "mahabalipuram__alamparai_fort",
+        "candidate": 2
+      },
+      {
+        "id": "mahabalipuram__alamparai_fort",
+        "candidate": 3
+      },
+      {
+        "id": "mahabalipuram__alamparai_fort",
+        "candidate": 4
+      },
+      {
+        "id": "mahabalipuram__alamparai_fort",
+        "candidate": 5
+      },
+      {
+        "id": "mahabalipuram__alamparai_fort",
+        "candidate": 6
+      },
+      {
+        "id": "mahabalipuram__nithyakalyana_perumal_temple",
+        "candidate": 1
+      },
+      {
+        "id": "mahabalipuram__nithyakalyana_perumal_temple",
+        "candidate": 2
+      },
+      {
+        "id": "mahabalipuram__sadras_dutch_fort",
+        "candidate": 1
+      },
+      {
+        "id": "mahabalipuram__sadras_dutch_fort",
+        "candidate": 2
+      },
+      {
+        "id": "mahabalipuram__sri_thiruvidandhai",
+        "candidate": 1
+      },
+      {
+        "id": "mahabalipuram__tiger_cave",
+        "candidate": 1
+      },
+      {
+        "id": "mahabalipuram__tiger_cave",
+        "candidate": 2
+      },
+      {
+        "id": "mahabalipuram__tiger_cave",
+        "candidate": 3
+      },
+      {
+        "id": "mahabalipuram__tiger_cave",
+        "candidate": 4
+      },
+      {
+        "id": "mahabalipuram__tiger_cave",
+        "candidate": 5
+      },
+      {
+        "id": "mahabalipuram__tiger_cave",
+        "candidate": 6
+      },
+      {
+        "id": "mahabalipuram__tiger_cave",
+        "candidate": 7
+      },
+      {
+        "id": "mahabalipuram__tiger_cave",
+        "candidate": 8
+      },
+      {
+        "id": "mahabalipuram__tiger_cave",
+        "candidate": 9
+      },
+      {
+        "id": "mahabalipuram__tiger_cave",
+        "candidate": 10
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_18_main_01.jpg",
+    "order": 18,
+    "kind": "main",
+    "items": [
+      {
+        "id": "jaisalmer_fort",
+        "candidate": 1
+      },
+      {
+        "id": "jaisalmer_fort",
+        "candidate": 2
+      },
+      {
+        "id": "jaisalmer_fort",
+        "candidate": 3
+      },
+      {
+        "id": "jaisalmer_fort",
+        "candidate": 4
+      },
+      {
+        "id": "jaisalmer_fort",
+        "candidate": 5
+      },
+      {
+        "id": "jaisalmer_fort",
+        "candidate": 6
+      },
+      {
+        "id": "jaisalmer_fort",
+        "candidate": 7
+      },
+      {
+        "id": "jaisalmer_fort",
+        "candidate": 8
+      },
+      {
+        "id": "jaisalmer_fort",
+        "candidate": 9
+      },
+      {
+        "id": "jaisalmer_fort",
+        "candidate": 10
+      },
+      {
+        "id": "jaisalmer_fort",
+        "candidate": 11
+      },
+      {
+        "id": "jaisalmer_fort",
+        "candidate": 12
+      },
+      {
+        "id": "jaisalmer_fort",
+        "candidate": 13
+      },
+      {
+        "id": "jaisalmer_fort",
+        "candidate": 14
+      },
+      {
+        "id": "jaisalmer_fort",
+        "candidate": 15
+      },
+      {
+        "id": "jaisalmer_fort",
+        "candidate": 16
+      },
+      {
+        "id": "jaisalmer_fort",
+        "candidate": 17
+      },
+      {
+        "id": "jaisalmer_fort",
+        "candidate": 18
+      },
+      {
+        "id": "jaisalmer_fort",
+        "candidate": 19
+      },
+      {
+        "id": "jaisalmer_fort",
+        "candidate": 20
+      },
+      {
+        "id": "jaisalmer_fort",
+        "candidate": 21
+      },
+      {
+        "id": "jaisalmer_fort",
+        "candidate": 22
+      },
+      {
+        "id": "jaisalmer_fort",
+        "candidate": 23
+      },
+      {
+        "id": "jaisalmer_fort",
+        "candidate": 24
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_18_main_02.jpg",
+    "order": 18,
+    "kind": "main",
+    "items": [
+      {
+        "id": "jaisalmer_fort",
+        "candidate": 25
+      },
+      {
+        "id": "jaisalmer_fort",
+        "candidate": 26
+      },
+      {
+        "id": "jaisalmer_fort",
+        "candidate": 27
+      },
+      {
+        "id": "jaisalmer_fort",
+        "candidate": 28
+      },
+      {
+        "id": "jaisalmer_fort",
+        "candidate": 29
+      },
+      {
+        "id": "jaisalmer_fort",
+        "candidate": 30
+      },
+      {
+        "id": "jaisalmer_fort",
+        "candidate": 31
+      },
+      {
+        "id": "jaisalmer_fort",
+        "candidate": 32
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_18_nearby_01.jpg",
+    "order": 18,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "jaisalmer_fort__amar_sagar_jain_temple",
+        "candidate": 1
+      },
+      {
+        "id": "jaisalmer_fort__amar_sagar_jain_temple",
+        "candidate": 2
+      },
+      {
+        "id": "jaisalmer_fort__amar_sagar_jain_temple",
+        "candidate": 3
+      },
+      {
+        "id": "jaisalmer_fort__amar_sagar_jain_temple",
+        "candidate": 4
+      },
+      {
+        "id": "jaisalmer_fort__amar_sagar_jain_temple",
+        "candidate": 5
+      },
+      {
+        "id": "jaisalmer_fort__amar_sagar_jain_temple",
+        "candidate": 6
+      },
+      {
+        "id": "jaisalmer_fort__amar_sagar_jain_temple",
+        "candidate": 7
+      },
+      {
+        "id": "jaisalmer_fort__amar_sagar_jain_temple",
+        "candidate": 8
+      },
+      {
+        "id": "jaisalmer_fort__amar_sagar_jain_temple",
+        "candidate": 9
+      },
+      {
+        "id": "jaisalmer_fort__amar_sagar_jain_temple",
+        "candidate": 10
+      },
+      {
+        "id": "jaisalmer_fort__bada_bagh",
+        "candidate": 1
+      },
+      {
+        "id": "jaisalmer_fort__bada_bagh",
+        "candidate": 2
+      },
+      {
+        "id": "jaisalmer_fort__bada_bagh",
+        "candidate": 3
+      },
+      {
+        "id": "jaisalmer_fort__bada_bagh",
+        "candidate": 4
+      },
+      {
+        "id": "jaisalmer_fort__bada_bagh",
+        "candidate": 5
+      },
+      {
+        "id": "jaisalmer_fort__bada_bagh",
+        "candidate": 6
+      },
+      {
+        "id": "jaisalmer_fort__bada_bagh",
+        "candidate": 7
+      },
+      {
+        "id": "jaisalmer_fort__bada_bagh",
+        "candidate": 8
+      },
+      {
+        "id": "jaisalmer_fort__bada_bagh",
+        "candidate": 9
+      },
+      {
+        "id": "jaisalmer_fort__bada_bagh",
+        "candidate": 10
+      },
+      {
+        "id": "jaisalmer_fort__desert_national_park",
+        "candidate": 1
+      },
+      {
+        "id": "jaisalmer_fort__desert_national_park",
+        "candidate": 2
+      },
+      {
+        "id": "jaisalmer_fort__desert_national_park",
+        "candidate": 3
+      },
+      {
+        "id": "jaisalmer_fort__desert_national_park",
+        "candidate": 4
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_18_nearby_02.jpg",
+    "order": 18,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "jaisalmer_fort__desert_national_park",
+        "candidate": 5
+      },
+      {
+        "id": "jaisalmer_fort__desert_national_park",
+        "candidate": 6
+      },
+      {
+        "id": "jaisalmer_fort__desert_national_park",
+        "candidate": 7
+      },
+      {
+        "id": "jaisalmer_fort__desert_national_park",
+        "candidate": 8
+      },
+      {
+        "id": "jaisalmer_fort__desert_national_park",
+        "candidate": 9
+      },
+      {
+        "id": "jaisalmer_fort__desert_national_park",
+        "candidate": 10
+      },
+      {
+        "id": "jaisalmer_fort__khaba_fort",
+        "candidate": 1
+      },
+      {
+        "id": "jaisalmer_fort__khaba_fort",
+        "candidate": 2
+      },
+      {
+        "id": "jaisalmer_fort__kuldhara_village",
+        "candidate": 1
+      },
+      {
+        "id": "jaisalmer_fort__kuldhara_village",
+        "candidate": 2
+      },
+      {
+        "id": "jaisalmer_fort__kuldhara_village",
+        "candidate": 3
+      },
+      {
+        "id": "jaisalmer_fort__kuldhara_village",
+        "candidate": 4
+      },
+      {
+        "id": "jaisalmer_fort__kuldhara_village",
+        "candidate": 5
+      },
+      {
+        "id": "jaisalmer_fort__kuldhara_village",
+        "candidate": 6
+      },
+      {
+        "id": "jaisalmer_fort__kuldhara_village",
+        "candidate": 7
+      },
+      {
+        "id": "jaisalmer_fort__kuldhara_village",
+        "candidate": 8
+      },
+      {
+        "id": "jaisalmer_fort__kuldhara_village",
+        "candidate": 9
+      },
+      {
+        "id": "jaisalmer_fort__kuldhara_village",
+        "candidate": 10
+      },
+      {
+        "id": "jaisalmer_fort__tanot_mata_temple",
+        "candidate": 1
+      },
+      {
+        "id": "jaisalmer_fort__vyas_chhatri",
+        "candidate": 1
+      },
+      {
+        "id": "jaisalmer_fort__vyas_chhatri",
+        "candidate": 2
+      },
+      {
+        "id": "jaisalmer_fort__vyas_chhatri",
+        "candidate": 3
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_19_nearby_01.jpg",
+    "order": 19,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "mehrangarh_fort__mandore_gardens",
+        "candidate": 1
+      },
+      {
+        "id": "mehrangarh_fort__mandore_gardens",
+        "candidate": 2
+      },
+      {
+        "id": "mehrangarh_fort__mandore_gardens",
+        "candidate": 3
+      },
+      {
+        "id": "mehrangarh_fort__mandore_gardens",
+        "candidate": 4
+      },
+      {
+        "id": "mehrangarh_fort__mandore_gardens",
+        "candidate": 5
+      },
+      {
+        "id": "mehrangarh_fort__mandore_gardens",
+        "candidate": 6
+      },
+      {
+        "id": "mehrangarh_fort__mandore_gardens",
+        "candidate": 7
+      },
+      {
+        "id": "mehrangarh_fort__mandore_gardens",
+        "candidate": 8
+      },
+      {
+        "id": "mehrangarh_fort__mandore_gardens",
+        "candidate": 9
+      },
+      {
+        "id": "mehrangarh_fort__mandore_gardens",
+        "candidate": 10
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_20_nearby_01.jpg",
+    "order": 20,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "badami_cave_temples__agastya_lake",
+        "candidate": 1
+      },
+      {
+        "id": "badami_cave_temples__agastya_lake",
+        "candidate": 2
+      },
+      {
+        "id": "badami_cave_temples__agastya_lake",
+        "candidate": 3
+      },
+      {
+        "id": "badami_cave_temples__agastya_lake",
+        "candidate": 4
+      },
+      {
+        "id": "badami_cave_temples__agastya_lake",
+        "candidate": 5
+      },
+      {
+        "id": "badami_cave_temples__agastya_lake",
+        "candidate": 6
+      },
+      {
+        "id": "badami_cave_temples__agastya_lake",
+        "candidate": 7
+      },
+      {
+        "id": "badami_cave_temples__agastya_lake",
+        "candidate": 8
+      },
+      {
+        "id": "badami_cave_temples__agastya_lake",
+        "candidate": 9
+      },
+      {
+        "id": "badami_cave_temples__agastya_lake",
+        "candidate": 10
+      },
+      {
+        "id": "badami_cave_temples__aihole_durga_temple",
+        "candidate": 1
+      },
+      {
+        "id": "badami_cave_temples__aihole_durga_temple",
+        "candidate": 2
+      },
+      {
+        "id": "badami_cave_temples__aihole_durga_temple",
+        "candidate": 3
+      },
+      {
+        "id": "badami_cave_temples__aihole_durga_temple",
+        "candidate": 4
+      },
+      {
+        "id": "badami_cave_temples__aihole_durga_temple",
+        "candidate": 5
+      },
+      {
+        "id": "badami_cave_temples__aihole_durga_temple",
+        "candidate": 6
+      },
+      {
+        "id": "badami_cave_temples__aihole_durga_temple",
+        "candidate": 7
+      },
+      {
+        "id": "badami_cave_temples__aihole_durga_temple",
+        "candidate": 8
+      },
+      {
+        "id": "badami_cave_temples__aihole_durga_temple",
+        "candidate": 9
+      },
+      {
+        "id": "badami_cave_temples__aihole_durga_temple",
+        "candidate": 10
+      },
+      {
+        "id": "badami_cave_temples__badami_fort",
+        "candidate": 1
+      },
+      {
+        "id": "badami_cave_temples__badami_fort",
+        "candidate": 2
+      },
+      {
+        "id": "badami_cave_temples__badami_fort",
+        "candidate": 3
+      },
+      {
+        "id": "badami_cave_temples__badami_fort",
+        "candidate": 4
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_20_nearby_02.jpg",
+    "order": 20,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "badami_cave_temples__badami_fort",
+        "candidate": 5
+      },
+      {
+        "id": "badami_cave_temples__badami_fort",
+        "candidate": 6
+      },
+      {
+        "id": "badami_cave_temples__badami_fort",
+        "candidate": 7
+      },
+      {
+        "id": "badami_cave_temples__badami_fort",
+        "candidate": 8
+      },
+      {
+        "id": "badami_cave_temples__badami_fort",
+        "candidate": 9
+      },
+      {
+        "id": "badami_cave_temples__badami_fort",
+        "candidate": 10
+      },
+      {
+        "id": "badami_cave_temples__lad_khan_temple",
+        "candidate": 1
+      },
+      {
+        "id": "badami_cave_temples__lad_khan_temple",
+        "candidate": 2
+      },
+      {
+        "id": "badami_cave_temples__lad_khan_temple",
+        "candidate": 3
+      },
+      {
+        "id": "badami_cave_temples__lad_khan_temple",
+        "candidate": 4
+      },
+      {
+        "id": "badami_cave_temples__lad_khan_temple",
+        "candidate": 5
+      },
+      {
+        "id": "badami_cave_temples__lad_khan_temple",
+        "candidate": 6
+      },
+      {
+        "id": "badami_cave_temples__lad_khan_temple",
+        "candidate": 7
+      },
+      {
+        "id": "badami_cave_temples__mahakuta_group_of_temples",
+        "candidate": 1
+      },
+      {
+        "id": "badami_cave_temples__mahakuta_group_of_temples",
+        "candidate": 2
+      },
+      {
+        "id": "badami_cave_temples__mahakuta_group_of_temples",
+        "candidate": 3
+      },
+      {
+        "id": "badami_cave_temples__mahakuta_group_of_temples",
+        "candidate": 4
+      },
+      {
+        "id": "badami_cave_temples__mahakuta_group_of_temples",
+        "candidate": 5
+      },
+      {
+        "id": "badami_cave_temples__mahakuta_group_of_temples",
+        "candidate": 6
+      },
+      {
+        "id": "badami_cave_temples__mahakuta_group_of_temples",
+        "candidate": 7
+      },
+      {
+        "id": "badami_cave_temples__mahakuta_group_of_temples",
+        "candidate": 8
+      },
+      {
+        "id": "badami_cave_temples__mahakuta_group_of_temples",
+        "candidate": 9
+      },
+      {
+        "id": "badami_cave_temples__mahakuta_group_of_temples",
+        "candidate": 10
+      },
+      {
+        "id": "badami_cave_temples__pattadakal_monuments",
+        "candidate": 1
+      }
+    ]
+  },
+  {
+    "path": "tools/image_review/contact_sheets/group_20_nearby_03.jpg",
+    "order": 20,
+    "kind": "nearby",
+    "items": [
+      {
+        "id": "badami_cave_temples__pattadakal_monuments",
+        "candidate": 2
+      },
+      {
+        "id": "badami_cave_temples__pattadakal_monuments",
+        "candidate": 3
+      },
+      {
+        "id": "badami_cave_temples__pattadakal_monuments",
+        "candidate": 4
+      },
+      {
+        "id": "badami_cave_temples__pattadakal_monuments",
+        "candidate": 5
+      },
+      {
+        "id": "badami_cave_temples__pattadakal_monuments",
+        "candidate": 6
+      },
+      {
+        "id": "badami_cave_temples__pattadakal_monuments",
+        "candidate": 7
+      },
+      {
+        "id": "badami_cave_temples__pattadakal_monuments",
+        "candidate": 8
+      },
+      {
+        "id": "badami_cave_temples__pattadakal_monuments",
+        "candidate": 9
+      },
+      {
+        "id": "badami_cave_temples__pattadakal_monuments",
+        "candidate": 10
+      },
+      {
+        "id": "badami_cave_temples__ravan_phadi_cave",
+        "candidate": 1
+      },
+      {
+        "id": "badami_cave_temples__ravan_phadi_cave",
+        "candidate": 2
+      },
+      {
+        "id": "badami_cave_temples__ravan_phadi_cave",
+        "candidate": 3
+      },
+      {
+        "id": "badami_cave_temples__ravan_phadi_cave",
+        "candidate": 4
+      },
+      {
+        "id": "badami_cave_temples__ravan_phadi_cave",
+        "candidate": 5
+      },
+      {
+        "id": "badami_cave_temples__ravan_phadi_cave",
+        "candidate": 6
+      },
+      {
+        "id": "badami_cave_temples__ravan_phadi_cave",
+        "candidate": 7
+      },
+      {
+        "id": "badami_cave_temples__ravan_phadi_cave",
+        "candidate": 8
+      },
+      {
+        "id": "badami_cave_temples__ravan_phadi_cave",
+        "candidate": 9
+      },
+      {
+        "id": "badami_cave_temples__ravan_phadi_cave",
+        "candidate": 10
+      }
+    ]
+  }
+]

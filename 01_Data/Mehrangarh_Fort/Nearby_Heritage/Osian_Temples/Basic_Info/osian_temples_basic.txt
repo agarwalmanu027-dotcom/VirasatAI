@@ -1,0 +1,13 @@
+VIRASATAI — BASIC INFORMATION
+Name: Osian Temples
+Entry ID: mehrangarh_fort__osian_temples
+Location: Osian, Jodhpur region, Rajasthan
+Type: Historic Hindu and Jain temple destination
+Identity note: User-selected site identity verified against the sources below.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. Rajasthan Tourism Development Corporation identifies Osian as a destination with Jain and Vaishnava temples dating broadly to the eighth–eleventh centuries. [1]
+2. State protected-monument records list named Osian temples including Harihar and other Hindu and Jain shrines. [2]
+3. Osian should be described as a temple destination, not as one single building.
+
+Sources: See osian_temples_sources.txt. The parent association is the user's selection, not a verified proximity claim.

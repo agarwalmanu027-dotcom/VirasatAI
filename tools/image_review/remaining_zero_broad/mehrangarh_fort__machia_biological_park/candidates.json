@@ -1,0 +1,20 @@
+{
+  "placeId": "mehrangarh_fort__machia_biological_park",
+  "queries": [
+    "Machia Biological Park",
+    "Machiya Safari Park Jodhpur"
+  ],
+  "candidates": [
+    {
+      "candidateId": 1,
+      "title": "File:Machia Biological Park.jpg",
+      "query": "Machia Biological Park",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Machia_Biological_Park.jpg",
+      "previewUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Machia_Biological_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "Wikiwizardinho",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    }
+  ]
+}

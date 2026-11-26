@@ -1,0 +1,42 @@
+{
+  "placeId": "mysore_palace__karanji_lake_aviary",
+  "displayName": "Karanji Lake Aviary",
+  "candidates": [
+    {
+      "candidateId": 1,
+      "title": "File:The White Peacock.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_White_Peacock.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/The_White_Peacock.jpg/1280px-The_White_Peacock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalWidth": 3456,
+      "originalHeight": 4608,
+      "author": "Architectmeamith",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/exact_zero_candidates/mysore_palace__karanji_lake_aviary/candidate_01.jpg"
+    },
+    {
+      "candidateId": 2,
+      "title": "File:Peacock (48963193021).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Peacock_(48963193021).jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Peacock_%2848963193021%29.jpg/1280px-Peacock_%2848963193021%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalWidth": 3631,
+      "originalHeight": 2465,
+      "author": "solarisgirl",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "previewPath": "tools/image_review/exact_zero_candidates/mysore_palace__karanji_lake_aviary/candidate_02.jpg"
+    },
+    {
+      "candidateId": 3,
+      "title": "File:White peacock (48963362082).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:White_peacock_(48963362082).jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/White_peacock_%2848963362082%29.jpg/1280px-White_peacock_%2848963362082%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalWidth": 1950,
+      "originalHeight": 1294,
+      "author": "solarisgirl",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "previewPath": "tools/image_review/exact_zero_candidates/mysore_palace__karanji_lake_aviary/candidate_03.jpg"
+    }
+  ]
+}

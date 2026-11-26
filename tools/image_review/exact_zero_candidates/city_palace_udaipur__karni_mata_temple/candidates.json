@@ -1,0 +1,42 @@
+{
+  "placeId": "city_palace_udaipur__karni_mata_temple",
+  "displayName": "Karni Mata Temple",
+  "candidates": [
+    {
+      "candidateId": 1,
+      "title": "File:Desi bharatiya udaipuri ooooncha! mandir.JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Desi_bharatiya_udaipuri_ooooncha!_mandir.JPG",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Desi_bharatiya_udaipuri_ooooncha%21_mandir.JPG/1280px-Desi_bharatiya_udaipuri_ooooncha%21_mandir.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalWidth": 4000,
+      "originalHeight": 3000,
+      "author": "Puchu",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "previewPath": "tools/image_review/exact_zero_candidates/city_palace_udaipur__karni_mata_temple/candidate_01.jpg"
+    },
+    {
+      "candidateId": 2,
+      "title": "File:KarniMata.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:KarniMata.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/KarniMata.jpg/1280px-KarniMata.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalWidth": 3072,
+      "originalHeight": 1728,
+      "author": "Vishal0soni at English Wikipedia",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "previewPath": "tools/image_review/exact_zero_candidates/city_palace_udaipur__karni_mata_temple/candidate_02.jpg"
+    },
+    {
+      "candidateId": 3,
+      "title": "File:KarniMata SideRoof.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:KarniMata_SideRoof.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/KarniMata_SideRoof.jpg/1280px-KarniMata_SideRoof.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalWidth": 3072,
+      "originalHeight": 1728,
+      "author": "Vishal0soni at English Wikipedia",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "previewPath": "tools/image_review/exact_zero_candidates/city_palace_udaipur__karni_mata_temple/candidate_03.jpg"
+    }
+  ]
+}

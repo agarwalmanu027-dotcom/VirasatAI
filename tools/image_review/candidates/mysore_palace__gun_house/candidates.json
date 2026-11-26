@@ -1,0 +1,11 @@
+{
+  "place_id": "mysore_palace__gun_house",
+  "display_name": "Gun House",
+  "parent_id": "mysore_palace",
+  "main_order": 8,
+  "is_main": false,
+  "candidates": [],
+  "errors": [],
+  "visual_review_status": "pending",
+  "status": "no_qualifying_candidates"
+}

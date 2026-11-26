@@ -1,0 +1,14 @@
+VIRASATAI — BASIC INFORMATION
+Name: Sri Thiruvidandhai
+Entry ID: mahabalipuram__sri_thiruvidandhai
+Location: Thiruvidanthai, Chengalpattu district, Tamil Nadu
+Type: Village and living temple setting; overlapping destination label
+Identity note: Preserved exact user label. Sri Thiruvidandhai is treated as the locality/temple setting of HRCE TM001839, also listed as Nithyakalyana Perumal Temple. Not a second independent monument.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. HRCE uses the locality spelling Thiruvidanthai for Arulmigu Nithya Kalyana Perumal Temple. [1]
+2. The user's Sri Thiruvidandhai entry overlaps with the Nithyakalyana Perumal Temple entry. [1,2]
+3. The temple is a living Vaishnava sacred site rather than an abandoned ruin. [1]
+4. The two catalog labels are preserved, but should share an identity cross-reference when integrated in the app.
+
+Sources: See sri_thiruvidandhai_sources.txt. The parent association is the user's selection, not a verified proximity claim.

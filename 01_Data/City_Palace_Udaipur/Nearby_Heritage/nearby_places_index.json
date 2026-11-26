@@ -1,0 +1,178 @@
+{
+  "parent_monument_id": "city_palace_udaipur",
+  "parent_monument_name": "City Palace, Udaipur",
+  "selection_source": "User-supplied table",
+  "nearby_entry_count": 10,
+  "places": [
+    {
+      "id": "city_palace_udaipur__ahar_cenotaphs",
+      "order": 1,
+      "display_name": "Ahar Cenotaphs",
+      "folder_name": "Ahar_Cenotaphs",
+      "parent_monument_id": "city_palace_udaipur",
+      "paths": {
+        "data": "01_Data/City_Palace_Udaipur/Nearby_Heritage/Ahar_Cenotaphs",
+        "images": "02_Images/City_Palace_Udaipur/Nearby_Heritage/Ahar_Cenotaphs",
+        "scripts": "03_Scripts/City_Palace_Udaipur/Nearby_Heritage/Ahar_Cenotaphs",
+        "audio": "04_Audio/City_Palace_Udaipur/Nearby_Heritage/Ahar_Cenotaphs"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "city_palace_udaipur__sajjangarh_monsoon_palace",
+      "order": 2,
+      "display_name": "Sajjangarh (Monsoon Palace)",
+      "folder_name": "Sajjangarh_Monsoon_Palace",
+      "parent_monument_id": "city_palace_udaipur",
+      "paths": {
+        "data": "01_Data/City_Palace_Udaipur/Nearby_Heritage/Sajjangarh_Monsoon_Palace",
+        "images": "02_Images/City_Palace_Udaipur/Nearby_Heritage/Sajjangarh_Monsoon_Palace",
+        "scripts": "03_Scripts/City_Palace_Udaipur/Nearby_Heritage/Sajjangarh_Monsoon_Palace",
+        "audio": "04_Audio/City_Palace_Udaipur/Nearby_Heritage/Sajjangarh_Monsoon_Palace"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "city_palace_udaipur__badi_lake",
+      "order": 3,
+      "display_name": "Badi Lake",
+      "folder_name": "Badi_Lake",
+      "parent_monument_id": "city_palace_udaipur",
+      "paths": {
+        "data": "01_Data/City_Palace_Udaipur/Nearby_Heritage/Badi_Lake",
+        "images": "02_Images/City_Palace_Udaipur/Nearby_Heritage/Badi_Lake",
+        "scripts": "03_Scripts/City_Palace_Udaipur/Nearby_Heritage/Badi_Lake",
+        "audio": "04_Audio/City_Palace_Udaipur/Nearby_Heritage/Badi_Lake"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "city_palace_udaipur__saheliyon_ki_bari",
+      "order": 4,
+      "display_name": "Saheliyon Ki Bari",
+      "folder_name": "Saheliyon_Ki_Bari",
+      "parent_monument_id": "city_palace_udaipur",
+      "paths": {
+        "data": "01_Data/City_Palace_Udaipur/Nearby_Heritage/Saheliyon_Ki_Bari",
+        "images": "02_Images/City_Palace_Udaipur/Nearby_Heritage/Saheliyon_Ki_Bari",
+        "scripts": "03_Scripts/City_Palace_Udaipur/Nearby_Heritage/Saheliyon_Ki_Bari",
+        "audio": "04_Audio/City_Palace_Udaipur/Nearby_Heritage/Saheliyon_Ki_Bari"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "city_palace_udaipur__bagore_ki_haveli",
+      "order": 5,
+      "display_name": "Bagore Ki Haveli",
+      "folder_name": "Bagore_Ki_Haveli",
+      "parent_monument_id": "city_palace_udaipur",
+      "paths": {
+        "data": "01_Data/City_Palace_Udaipur/Nearby_Heritage/Bagore_Ki_Haveli",
+        "images": "02_Images/City_Palace_Udaipur/Nearby_Heritage/Bagore_Ki_Haveli",
+        "scripts": "03_Scripts/City_Palace_Udaipur/Nearby_Heritage/Bagore_Ki_Haveli",
+        "audio": "04_Audio/City_Palace_Udaipur/Nearby_Heritage/Bagore_Ki_Haveli"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "city_palace_udaipur__shilpgram",
+      "order": 6,
+      "display_name": "Shilpgram",
+      "folder_name": "Shilpgram",
+      "parent_monument_id": "city_palace_udaipur",
+      "paths": {
+        "data": "01_Data/City_Palace_Udaipur/Nearby_Heritage/Shilpgram",
+        "images": "02_Images/City_Palace_Udaipur/Nearby_Heritage/Shilpgram",
+        "scripts": "03_Scripts/City_Palace_Udaipur/Nearby_Heritage/Shilpgram",
+        "audio": "04_Audio/City_Palace_Udaipur/Nearby_Heritage/Shilpgram"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "city_palace_udaipur__karni_mata_temple",
+      "order": 7,
+      "display_name": "Karni Mata Temple",
+      "folder_name": "Karni_Mata_Temple",
+      "parent_monument_id": "city_palace_udaipur",
+      "paths": {
+        "data": "01_Data/City_Palace_Udaipur/Nearby_Heritage/Karni_Mata_Temple",
+        "images": "02_Images/City_Palace_Udaipur/Nearby_Heritage/Karni_Mata_Temple",
+        "scripts": "03_Scripts/City_Palace_Udaipur/Nearby_Heritage/Karni_Mata_Temple",
+        "audio": "04_Audio/City_Palace_Udaipur/Nearby_Heritage/Karni_Mata_Temple"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "city_palace_udaipur__ambrai_ghat",
+      "order": 8,
+      "display_name": "Ambrai Ghat",
+      "folder_name": "Ambrai_Ghat",
+      "parent_monument_id": "city_palace_udaipur",
+      "paths": {
+        "data": "01_Data/City_Palace_Udaipur/Nearby_Heritage/Ambrai_Ghat",
+        "images": "02_Images/City_Palace_Udaipur/Nearby_Heritage/Ambrai_Ghat",
+        "scripts": "03_Scripts/City_Palace_Udaipur/Nearby_Heritage/Ambrai_Ghat",
+        "audio": "04_Audio/City_Palace_Udaipur/Nearby_Heritage/Ambrai_Ghat"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "city_palace_udaipur__vintage_car_museum",
+      "order": 9,
+      "display_name": "Vintage Car Museum",
+      "folder_name": "Vintage_Car_Museum",
+      "parent_monument_id": "city_palace_udaipur",
+      "paths": {
+        "data": "01_Data/City_Palace_Udaipur/Nearby_Heritage/Vintage_Car_Museum",
+        "images": "02_Images/City_Palace_Udaipur/Nearby_Heritage/Vintage_Car_Museum",
+        "scripts": "03_Scripts/City_Palace_Udaipur/Nearby_Heritage/Vintage_Car_Museum",
+        "audio": "04_Audio/City_Palace_Udaipur/Nearby_Heritage/Vintage_Car_Museum"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "city_palace_udaipur__eklingji_temple",
+      "order": 10,
+      "display_name": "Eklingji Temple",
+      "folder_name": "Eklingji_Temple",
+      "parent_monument_id": "city_palace_udaipur",
+      "paths": {
+        "data": "01_Data/City_Palace_Udaipur/Nearby_Heritage/Eklingji_Temple",
+        "images": "02_Images/City_Palace_Udaipur/Nearby_Heritage/Eklingji_Temple",
+        "scripts": "03_Scripts/City_Palace_Udaipur/Nearby_Heritage/Eklingji_Temple",
+        "audio": "04_Audio/City_Palace_Udaipur/Nearby_Heritage/Eklingji_Temple"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    }
+  ]
+}

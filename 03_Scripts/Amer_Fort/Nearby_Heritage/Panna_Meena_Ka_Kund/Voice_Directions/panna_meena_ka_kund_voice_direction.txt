@@ -1,0 +1,12 @@
+VOICE DIRECTIONS — Panna Meena Ka Kund
+
+Role: Warm, clear heritage guide speaking to one visitor.
+Tone: Curious, respectful and calm. Avoid exaggerated drama or advertising delivery.
+Pace: English approximately 125–145 words per minute; Hindi at a natural equivalent pace.
+Pauses: Brief sentence pauses and a slightly longer pause between paragraphs.
+Emphasis: Gently emphasize Panna Meena Ka Kund and the names in the story.
+Pronunciation: Review Indian place names and architectural terms before synthesis. Hindi is written in Devanagari for Hindi TTS. Do not use English phonetics for the Hindi voice.
+Text-to-speech input: Use only the matching master-story file. Do not read this direction file, source URLs, headings or metadata aloud.
+Consistency: English and Hindi should convey the same facts, with natural language-specific phrasing.
+Duration: English master contains 136 words. Duration depends on the chosen voice; listen to the rendered audio before accepting it.
+QA: Check names, dates, pauses and clipping by listening to the complete generated audio. No audio file has been synthesized in this content-preparation stage.

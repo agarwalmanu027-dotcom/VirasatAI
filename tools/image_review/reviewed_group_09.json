@@ -1,0 +1,308 @@
+[
+  {
+    "place_id": "hampi_monuments",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 3,
+        "category": "Different_Views",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Different_Views",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Details",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Details",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Details",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 14,
+        "category": "Overview",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 19,
+        "category": "Different_Views",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 22,
+        "category": "Overview",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 23,
+        "category": "Details",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 24,
+        "category": "Details",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 25,
+        "category": "Different_Views",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 28,
+        "category": "Different_Views",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 29,
+        "category": "Details",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      }
+    ],
+    "coverage_note": "Fourteen natural-color views selected across landscape, temple groups, royal ruins, water tank and stone details. Infrared/purple processing, dark frames and repetition rejected. Stone chariot and Lotus Mahal would add useful coverage."
+  },
+  {
+    "place_id": "hampi_monuments__hemakuta_hill_temples",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Details",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Different_Views",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Different_Views",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      }
+    ],
+    "coverage_note": "Distinct clear views accepted; weaker and duplicate-looking alternatives excluded."
+  },
+  {
+    "place_id": "hampi_monuments__matanga_hill",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 2,
+        "category": "Surroundings",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Different_Views",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Details",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      }
+    ],
+    "coverage_note": "Distinct clear views accepted; weaker and duplicate-looking alternatives excluded."
+  },
+  {
+    "place_id": "hampi_monuments__achyutaraya_temple",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 3,
+        "category": "Different_Views",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Details",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Surroundings",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      }
+    ],
+    "coverage_note": "Distinct clear views accepted; weaker and duplicate-looking alternatives excluded."
+  },
+  {
+    "place_id": "hampi_monuments__sugrivas_cave",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "No qualifying image of Sugriva's specific cave collected; no generic boulder or cave substituted."
+  },
+  {
+    "place_id": "hampi_monuments__zenana_enclosure",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 2,
+        "category": "Overview",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 3,
+        "category": "Different_Views",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Details",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      }
+    ],
+    "coverage_note": "Three clear enclosure tower views accepted. Elephant stable is adjacent and not a substitute for the enclosure; generic Hampi relief/column matches excluded. Lotus Mahal overview is missing."
+  },
+  {
+    "place_id": "hampi_monuments__badavilinga_temple",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 3,
+        "category": "Details",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 8,
+        "category": "Overview",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 9,
+        "category": "Different_Views",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 1,
+        "category": "Surroundings",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      }
+    ],
+    "coverage_note": "Distinct clear views accepted; weaker and duplicate-looking alternatives excluded."
+  },
+  {
+    "place_id": "hampi_monuments__sasivekalu_ganesha",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 2,
+        "category": "Overview",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Details",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Different_Views",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      }
+    ],
+    "coverage_note": "Distinct clear views accepted; weaker and duplicate-looking alternatives excluded."
+  },
+  {
+    "place_id": "hampi_monuments__anegundi_village",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 3,
+        "category": "Details",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Overview",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Surroundings",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      }
+    ],
+    "coverage_note": "Aqueduct, village square/statue and locally identified farming landscape accepted. Portrait, map and timestamped plaque excluded; settlement street view would improve coverage."
+  },
+  {
+    "place_id": "hampi_monuments__sanapur_lake",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Details",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 3,
+        "category": "Overview",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Different_Views",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      }
+    ],
+    "coverage_note": "Distinct clear views accepted; weaker and duplicate-looking alternatives excluded."
+  },
+  {
+    "place_id": "hampi_monuments__pampa_sarovar",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 2,
+        "category": "Overview",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 8,
+        "category": "Different_Views",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Details",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Surroundings",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      }
+    ],
+    "coverage_note": "Anegundi pool and adjoining documented mandapa/temple selected. Candidate 10 is Pampa Sarovar in the Dangs, Gujarat, and rejected. Village identity plaque is not a view of the pool."
+  }
+]

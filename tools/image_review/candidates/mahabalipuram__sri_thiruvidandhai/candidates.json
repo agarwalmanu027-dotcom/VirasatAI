@@ -1,0 +1,37 @@
+{
+  "place_id": "mahabalipuram__sri_thiruvidandhai",
+  "display_name": "Sri Thiruvidandhai",
+  "parent_id": "mahabalipuram",
+  "main_order": 17,
+  "is_main": false,
+  "candidates": [
+    {
+      "title": "File:Thiruvidanthai nithyakalyana permal temple entrance arch.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Thiruvidanthai_nithyakalyana_permal_temple_entrance_arch.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Thiruvidanthai_nithyakalyana_permal_temple_entrance_arch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "preview_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Thiruvidanthai_nithyakalyana_permal_temple_entrance_arch.jpg/1280px-Thiruvidanthai_nithyakalyana_permal_temple_entrance_arch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_width": 3547,
+      "original_height": 2711,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "கி. கார்த்திகேயன் at Tamil Wikipedia",
+      "credit": "Transferred from ta.wikipedia to Commons.",
+      "attribution": "கி. கார்த்திகேயன் at Tamil Wikipedia",
+      "description": "திருவிடந்தை நித்ய கல்யாணப்பெருமாள் கோவில் நுழைவாயில் வளைவு",
+      "date_time_original": "18 November 2011 (original upload date)",
+      "sha1": "bde5c2ae825b05542eaeec531424ea60961195cb",
+      "commons_assessment": "",
+      "copyrighted": "True",
+      "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+      "color_score": 15.16,
+      "sharpness_score": 1177.9,
+      "dhash": "c808707072b2b2e0",
+      "candidate_id": 1,
+      "preview_path": "tools/image_review/candidates/mahabalipuram__sri_thiruvidandhai/candidate_01.jpg"
+    }
+  ],
+  "errors": [],
+  "visual_review_status": "pending",
+  "status": "candidates_collected"
+}

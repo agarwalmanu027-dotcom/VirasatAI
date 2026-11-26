@@ -1,0 +1,66 @@
+{
+  "places_processed": 12,
+  "candidate_count": 204,
+  "records": [
+    {
+      "id": "charminar__hayat_bakshi_mosque",
+      "candidates": 17,
+      "status": "candidates_collected"
+    },
+    {
+      "id": "victoria_memorial__marble_palace",
+      "candidates": 13,
+      "status": "candidates_collected"
+    },
+    {
+      "id": "mysore_palace",
+      "candidates": 35,
+      "status": "candidates_collected"
+    },
+    {
+      "id": "hampi_monuments",
+      "candidates": 32,
+      "status": "candidates_collected"
+    },
+    {
+      "id": "meenakshi_temple__palamuthirsolai_murugan_temple",
+      "candidates": 6,
+      "status": "candidates_collected"
+    },
+    {
+      "id": "meenakshi_temple__gandhi_memorial_museum",
+      "candidates": 14,
+      "status": "candidates_collected"
+    },
+    {
+      "id": "sanchi_stupa__neelkantheshwar_temple",
+      "candidates": 9,
+      "status": "candidates_collected"
+    },
+    {
+      "id": "ajanta_ellora_caves",
+      "candidates": 40,
+      "status": "candidates_collected"
+    },
+    {
+      "id": "city_palace_udaipur",
+      "candidates": 6,
+      "status": "candidates_collected"
+    },
+    {
+      "id": "city_palace_udaipur__ahar_cenotaphs",
+      "candidates": 6,
+      "status": "candidates_collected"
+    },
+    {
+      "id": "city_palace_udaipur__karni_mata_temple",
+      "candidates": 13,
+      "status": "candidates_collected"
+    },
+    {
+      "id": "city_palace_udaipur__vintage_car_museum",
+      "candidates": 13,
+      "status": "candidates_collected"
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+[
+  {
+    "place_id": "mysore_palace",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Different_Views",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      },
+      {
+        "candidate_id": 2,
+        "category": "Different_Views",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      },
+      {
+        "candidate_id": 8,
+        "category": "Details",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      },
+      {
+        "candidate_id": 12,
+        "category": "Overview",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      },
+      {
+        "candidate_id": 13,
+        "category": "Different_Views",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      },
+      {
+        "candidate_id": 14,
+        "category": "Details",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      },
+      {
+        "candidate_id": 16,
+        "category": "Details",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      },
+      {
+        "candidate_id": 17,
+        "category": "Details",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      },
+      {
+        "candidate_id": 28,
+        "category": "Overview",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      }
+    ],
+    "coverage_note": "Nine varied architectural, exhibit and evening views accepted. Most remaining candidates repeat decorative gate framing or have excessive dark foreground; count not padded."
+  },
+  {
+    "place_id": "mysore_palace__jaganmohan_palace",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Different_Views",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      },
+      {
+        "candidate_id": 8,
+        "category": "Details",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      }
+    ],
+    "coverage_note": "Selected distinct clear views; duplicate-looking and weaker alternatives excluded."
+  },
+  {
+    "place_id": "mysore_palace__railway_museum_mysore",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 6,
+        "category": "Overview",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Different_Views",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      },
+      {
+        "candidate_id": 3,
+        "category": "Details",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Details",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      }
+    ],
+    "coverage_note": "Selected distinct clear views; duplicate-looking and weaker alternatives excluded."
+  },
+  {
+    "place_id": "mysore_palace__kukkarahalli_lake",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      }
+    ],
+    "coverage_note": "One clear landscape accepted. Watermarked and timestamped alternatives rejected; hazy bird-led view not selected."
+  },
+  {
+    "place_id": "mysore_palace__melody_world_wax_museum",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "No qualifying Commons candidate was collected; no unrelated image substituted."
+  },
+  {
+    "place_id": "mysore_palace__kishkindha_moolika_bonsai_garden",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "No qualifying Commons candidate was collected; no unrelated image substituted."
+  },
+  {
+    "place_id": "mysore_palace__st_philomenas_church_crypt",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "No qualifying photograph of the specific church crypt in the collected batch. Church exterior must not be substituted."
+  },
+  {
+    "place_id": "mysore_palace__gun_house",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "No qualifying Commons candidate was collected; no unrelated image substituted."
+  },
+  {
+    "place_id": "mysore_palace__karanji_lake_aviary",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "No qualifying photograph of the specific aviary in the batch. Generic lake and bird photos must not substitute for the aviary."
+  },
+  {
+    "place_id": "mysore_palace__wellington_lodge",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Different_Views",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Different_Views",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Details",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      }
+    ],
+    "coverage_note": "Mysore lodge views and identity plaque accepted. Candidates 6, 8 and 9 show unrelated United Kingdom locations and were rejected."
+  },
+  {
+    "place_id": "mysore_palace__jayalakshmi_vilas_mansion",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Different_Views",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      },
+      {
+        "candidate_id": 3,
+        "category": "Details",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Overview",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Different_Views",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      }
+    ],
+    "coverage_note": "Selected distinct clear views; duplicate-looking and weaker alternatives excluded."
+  }
+]

@@ -1,0 +1,14 @@
+VIRASATAI — STORY DATA
+Entry ID: city_palace_udaipur__badi_lake
+Name: Badi Lake
+Narrative focus: A beautiful water landscape with a practical drought-response history.
+Language files: Separate English and Devanagari Hindi master scripts in 03_Scripts.
+Status: Written narration ready for TTS input; pronunciation and generated audio still need listening QA.
+
+Badi Lake offers a quieter view of Udaipur's relationship with water. Also called Jiyan Sagar, this artificial freshwater lake was created under Maharana Raj Singh to help counter the effects of drought. Its name honours his mother, Jana Devi.
+
+That purpose gives the scenery a deeper meaning. Water was not simply a backdrop for royal buildings. Storing it helped communities face dry periods and supported the life of the region.
+
+Look at the shape of the water between the surrounding hills. The setting helps explain why a lake becomes part of a city's identity. Its appearance can change with rainfall, light and water level, so the landscape is never completely fixed.
+
+Badi is a place to slow down and connect beauty with usefulness. Keep to permitted viewpoints and protect the shore. The most lasting memory is a landscape understood and cared for, as well as admired.

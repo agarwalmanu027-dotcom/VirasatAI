@@ -1,0 +1,319 @@
+[
+  {
+    "place_id": "ajanta_ellora_caves",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Different_Views",
+        "review_note": "Clear Ajanta Cave 9 facade."
+      },
+      {
+        "candidate_id": 2,
+        "category": "Overview",
+        "review_note": "Clear Ajanta chaitya hall and stupa."
+      },
+      {
+        "candidate_id": 3,
+        "category": "Overview",
+        "review_note": "Ajanta basalt cliffs and cave entrances."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Details",
+        "review_note": "Sharp rock-cut Hariti and Panchika relief."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Details",
+        "review_note": "Ajanta painted ceiling and walls."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Details",
+        "review_note": "Carved arcade and vaulted chaitya roof."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Details",
+        "review_note": "Clear painted ceiling composition."
+      },
+      {
+        "candidate_id": 11,
+        "category": "Different_Views",
+        "review_note": "Different Ajanta cave entrance; building remains the main subject."
+      },
+      {
+        "candidate_id": 12,
+        "category": "Details",
+        "review_note": "Ajanta wall painting in its interior setting."
+      },
+      {
+        "candidate_id": 19,
+        "category": "Details",
+        "review_note": "Close stupa and carved pillars."
+      },
+      {
+        "candidate_id": 20,
+        "category": "Details",
+        "review_note": "Clear Buddha sculpture and surrounding relief."
+      },
+      {
+        "candidate_id": 24,
+        "category": "Details",
+        "review_note": "Buddha shrine framed by cave architecture."
+      },
+      {
+        "candidate_id": 25,
+        "category": "Different_Views",
+        "review_note": "Illuminated monastery hall and columns."
+      },
+      {
+        "candidate_id": 27,
+        "category": "Details",
+        "review_note": "Actual Ajanta entry monument sign."
+      },
+      {
+        "candidate_id": 31,
+        "category": "Surroundings",
+        "review_note": "Ajanta visitor path and cave-cliff landscape."
+      },
+      {
+        "candidate_id": 32,
+        "category": "Details",
+        "review_note": "Carved cave entrance columns and lintel."
+      }
+    ],
+    "coverage_note": "16 suitable natural-color photographs cover Ajanta exteriors, interiors, carvings, paintings and setting. All 32 collected candidates are Ajanta; no Ellora photograph was collected, so the combined place still needs Ellora coverage. Rejected motion blur, animals, illustrations, heavy vignette, overexposure, weak paintings and repeated-looking views."
+  },
+  {
+    "place_id": "ajanta_ellora_caves__daulatabad_fort",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 5,
+        "category": "Overview",
+        "review_note": "Clear fortified gateway and bastion."
+      },
+      {
+        "candidate_id": 2,
+        "category": "Different_Views",
+        "review_note": "Different stone gateway and approach."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Details",
+        "review_note": "Rock-cut doorway inside the fort."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Details",
+        "review_note": "Clear stone arcade."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Surroundings",
+        "review_note": "Landscape and town seen from the fort hill."
+      }
+    ],
+    "coverage_note": "Five different gateway, rock-cut doorway, arcade and hill-setting views. A clear full hill-fort panorama would improve coverage; dark silhouette and softer images excluded."
+  },
+  {
+    "place_id": "ajanta_ellora_caves__bibi_ka_maqbara",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 2,
+        "category": "Overview",
+        "review_note": "Full mausoleum, minarets and central garden axis."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Different_Views",
+        "review_note": "Clear distinct entrance-gateway angle."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Details",
+        "review_note": "Closer mausoleum facade and dome."
+      },
+      {
+        "candidate_id": 8,
+        "category": "Details",
+        "review_note": "Clear decorative stucco and stone screen."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Surroundings",
+        "review_note": "Mosque within the mausoleum complex."
+      }
+    ],
+    "coverage_note": "Five distinct mausoleum, gateway, decoration and complex views. Rejected weak repeated fronts and a soft interior photo."
+  },
+  {
+    "place_id": "ajanta_ellora_caves__khuldabad",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 2,
+        "category": "Overview",
+        "review_note": "Actual Nagarkhana Gate."
+      },
+      {
+        "candidate_id": 3,
+        "category": "Details",
+        "review_note": "Azam Shah tombs."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Different_Views",
+        "review_note": "Clear Malik Ambar tomb elevation."
+      },
+      {
+        "candidate_id": 9,
+        "category": "Details",
+        "review_note": "Aurangzeb tomb enclosure."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Different_Views",
+        "review_note": "Bani Begum garden structures and setting."
+      }
+    ],
+    "coverage_note": "Five actual local heritage structures, not generic portraits or unrelated landscapes. Rejected monochrome historical photo and repeated tomb/temple views."
+  },
+  {
+    "place_id": "ajanta_ellora_caves__grishneshwar_jyotirlinga",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Clear actual Grishneshwar temple exterior."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Different_Views",
+        "review_note": "Distinct temple side elevation."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Details",
+        "review_note": "Temple tower carvings."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Surroundings",
+        "review_note": "Associated temple-area stepped sacred tank; not a substitute temple overview."
+      }
+    ],
+    "coverage_note": "Three actual temple views and one associated stepped tank. Rejected mosque, guesthouse, timestamp image and repeated tank views."
+  },
+  {
+    "place_id": "ajanta_ellora_caves__siddharth_garden",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 2,
+        "category": "Overview",
+        "review_note": "Actual Siddharth Garden and Zoo gate from the road."
+      },
+      {
+        "candidate_id": 1,
+        "category": "Details",
+        "review_note": "Closer entry gateway and site sign."
+      }
+    ],
+    "coverage_note": "Two actual entrance views only; garden interiors remain missing. Animal-only photographs do not show the requested place clearly."
+  },
+  {
+    "place_id": "ajanta_ellora_caves__salim_ali_lake",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Clear daytime lake and distant shoreline."
+      }
+    ],
+    "coverage_note": "One usable daytime lake view. The night reflection photo is too soft for this quality target."
+  },
+  {
+    "place_id": "ajanta_ellora_caves__panchakki",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 5,
+        "category": "Overview",
+        "review_note": "Actual Panchakki water pool and surrounding complex."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Different_Views",
+        "review_note": "Clear adjoining arcade and religious building."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Details",
+        "review_note": "Pool fountain and arcade detail."
+      }
+    ],
+    "coverage_note": "Three clear actual water-pool, fountain and associated arcade views. A visible working water-mill mechanism photo remains missing. Rejected repeated pool views, photographer watermark, heavy color effects and weak sign image."
+  },
+  {
+    "place_id": "ajanta_ellora_caves__jama_masjid_aurangabad",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Surroundings",
+        "review_note": "Actual Aurangabad Jama Masjid courtyard; mosque facade is only partially visible behind trees."
+      }
+    ],
+    "coverage_note": "Only one candidate shows the correct Aurangabad courtyard; full mosque facade remains missing. Candidates 2–10 show other Jama Masjids in Uperkot, Ahmedabad, Delhi, Padum or otherwise do not establish the requested Aurangabad identity."
+  },
+  {
+    "place_id": "ajanta_ellora_caves__soneri_mahal",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 8,
+        "category": "Overview",
+        "review_note": "Clear palace, garden and water-channel axis."
+      },
+      {
+        "candidate_id": 9,
+        "category": "Different_Views",
+        "review_note": "Palace framed by actual gateway arch."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Details",
+        "review_note": "Close gate and metal door."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Different_Views",
+        "review_note": "View along water channel toward the opposite gateway."
+      }
+    ],
+    "coverage_note": "Four distinct palace, garden axis, gateway framing and door views. Rejected repeated-looking facade and gateway images."
+  },
+  {
+    "place_id": "ajanta_ellora_caves__bhadra_maruti_temple",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 3,
+        "category": "Overview",
+        "review_note": "Actual Bhadra Maruti temple exterior and approach."
+      },
+      {
+        "candidate_id": 1,
+        "category": "Details",
+        "review_note": "Clear reclining Hanuman shrine with offerings."
+      }
+    ],
+    "coverage_note": "Two clear actual temple and shrine photographs. A nearby tree/secondary Shani shrine does not supply another useful main-temple image."
+  }
+]

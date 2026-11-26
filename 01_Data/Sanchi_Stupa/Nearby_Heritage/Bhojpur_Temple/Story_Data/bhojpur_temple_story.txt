@@ -1,0 +1,14 @@
+VIRASATAI — STORY DATA
+Entry ID: sanchi_stupa__bhojpur_temple
+Name: Bhojpur Temple
+Narrative focus: The ambition visible in an unfinished stone temple.
+Language files: Separate English and Devanagari Hindi master scripts in 03_Scripts.
+Status: Written narration ready for TTS input; pronunciation and generated audio still need listening QA.
+
+Bhojpur's temple tells a story through both what was built and what remained unfinished. Associated with Raja Bhoj in the eleventh century, the Bhojeshwar Temple is dedicated to Shiva.
+
+Inside, a large lingam carved from a single stone creates a powerful centre of attention. The scale of the chamber and its stonework suggests the ambition behind the design. Here, an unfinished building can teach us about architecture just as clearly as a completed one.
+
+Notice the proportions before focusing on decoration. Large pieces of stone required planning, movement and skilled handling. Thinking about that work brings the makers closer to us.
+
+Bhojpur adds a medieval Shaiva chapter to the wider heritage journey around Sanchi. It is also a living sacred place. Explore its architectural details with curiosity, while giving worshippers and the temple's religious purpose the respect they deserve.

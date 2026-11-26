@@ -1,0 +1,14 @@
+VIRASATAI — BASIC INFORMATION
+Name: Machia Biological Park
+Entry ID: mehrangarh_fort__machia_biological_park
+Location: Jodhpur, Rajasthan
+Type: Biological park and zoo
+Identity note: User-selected site identity verified against the sources below.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. Central Zoo Authority records identify Machia Biological Park as Jodhpur Zoo in Rajasthan. [1]
+2. The CZA archive contains the park's institutional annual reports. [1,2]
+3. The 2021–22 inventory is historical evidence, not a guarantee of animals displayed today. [3]
+4. Machia Biological Park must not be confused with an unrestricted wildlife safari or a national park.
+
+Sources: See machia_biological_park_sources.txt. The parent association is the user's selection, not a verified proximity claim.

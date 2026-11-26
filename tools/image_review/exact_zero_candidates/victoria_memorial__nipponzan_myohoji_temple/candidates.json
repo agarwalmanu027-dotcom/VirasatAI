@@ -1,0 +1,78 @@
+{
+  "placeId": "victoria_memorial__nipponzan_myohoji_temple",
+  "displayName": "Nipponzan Myohoji Temple",
+  "candidates": [
+    {
+      "candidateId": 1,
+      "title": "File:Nipponzan Myohoji Buddhist Temple.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Nipponzan_Myohoji_Buddhist_Temple.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Nipponzan_Myohoji_Buddhist_Temple.jpg/1280px-Nipponzan_Myohoji_Buddhist_Temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalWidth": 5336,
+      "originalHeight": 3557,
+      "author": "DeepanjanGhosh",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/exact_zero_candidates/victoria_memorial__nipponzan_myohoji_temple/candidate_01.jpg"
+    },
+    {
+      "candidateId": 2,
+      "title": "File:Japanese Buddhist Temple 2.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Japanese_Buddhist_Temple_2.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Japanese_Buddhist_Temple_2.jpg/1280px-Japanese_Buddhist_Temple_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalWidth": 3872,
+      "originalHeight": 2592,
+      "author": "Rangan Datta Wiki",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/exact_zero_candidates/victoria_memorial__nipponzan_myohoji_temple/candidate_02.jpg"
+    },
+    {
+      "candidateId": 3,
+      "title": "File:Japanese Buddhist Temple 3.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Japanese_Buddhist_Temple_3.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Japanese_Buddhist_Temple_3.jpg/1280px-Japanese_Buddhist_Temple_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalWidth": 3872,
+      "originalHeight": 2592,
+      "author": "Rangan Datta Wiki",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/exact_zero_candidates/victoria_memorial__nipponzan_myohoji_temple/candidate_03.jpg"
+    },
+    {
+      "candidateId": 4,
+      "title": "File:Japanese Buddhist Temple 4.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Japanese_Buddhist_Temple_4.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Japanese_Buddhist_Temple_4.jpg/1280px-Japanese_Buddhist_Temple_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalWidth": 3872,
+      "originalHeight": 2592,
+      "author": "Rangan Datta Wiki",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/exact_zero_candidates/victoria_memorial__nipponzan_myohoji_temple/candidate_04.jpg"
+    },
+    {
+      "candidateId": 5,
+      "title": "File:Japanese Buddhist Temple 5.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Japanese_Buddhist_Temple_5.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Japanese_Buddhist_Temple_5.jpg/1280px-Japanese_Buddhist_Temple_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalWidth": 3872,
+      "originalHeight": 2592,
+      "author": "Rangan Datta Wiki",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/exact_zero_candidates/victoria_memorial__nipponzan_myohoji_temple/candidate_05.jpg"
+    },
+    {
+      "candidateId": 6,
+      "title": "File:Japanese Buddhist Temple 22.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Japanese_Buddhist_Temple_22.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Japanese_Buddhist_Temple_22.jpg/1280px-Japanese_Buddhist_Temple_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalWidth": 4000,
+      "originalHeight": 3000,
+      "author": "Rangan Datta Wiki",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/exact_zero_candidates/victoria_memorial__nipponzan_myohoji_temple/candidate_06.jpg"
+    }
+  ]
+}

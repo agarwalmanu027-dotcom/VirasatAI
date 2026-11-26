@@ -1,0 +1,11 @@
+{
+  "place_id": "konark_sun_temple__kuruma_buddhist_site",
+  "display_name": "Kuruma Buddhist Site",
+  "parent_id": "konark_sun_temple",
+  "main_order": 14,
+  "is_main": false,
+  "candidates": [],
+  "errors": [],
+  "visual_review_status": "pending",
+  "status": "no_qualifying_candidates"
+}

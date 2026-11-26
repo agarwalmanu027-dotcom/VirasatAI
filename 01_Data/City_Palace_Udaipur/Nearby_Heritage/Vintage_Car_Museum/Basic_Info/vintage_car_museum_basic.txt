@@ -1,0 +1,13 @@
+VIRASATAI — BASIC INFORMATION
+Name: Vintage Car Museum
+Entry ID: city_palace_udaipur__vintage_car_museum
+Location: Udaipur, Rajasthan, India
+Type: Automotive heritage museum
+Identity note: User-selected site identity verified against the sources below.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. The collection includes vintage and classic vehicles associated with the Maharanas of Mewar. [1]
+2. Rolls-Royce and Cadillac vehicles are represented in the collection. [1]
+3. The museum provides a perspective on royal transport and automotive craftsmanship. [1]
+
+Sources: See vintage_car_museum_sources.txt. The parent association is the user's selection, not a verified proximity claim.

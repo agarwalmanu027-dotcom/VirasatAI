@@ -1,0 +1,1097 @@
+[
+  {
+    "place_id": "taj_mahal__mehtab_bagh",
+    "image_count": 4,
+    "manifest": "02_Images/Taj_Mahal/Nearby_Heritage/Mehtab_Bagh/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "taj_mahal__chini_ka_rauza",
+    "image_count": 4,
+    "manifest": "02_Images/Taj_Mahal/Nearby_Heritage/Chini_Ka_Rauza/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "taj_mahal__the_red_taj_hessings_tomb",
+    "image_count": 4,
+    "manifest": "02_Images/Taj_Mahal/Nearby_Heritage/The_Red_Taj_Hessings_Tomb/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "taj_mahal__taj_nature_walk",
+    "image_count": 2,
+    "manifest": "02_Images/Taj_Mahal/Nearby_Heritage/Taj_Nature_Walk/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "taj_mahal__mariam_uz_zamani_tomb",
+    "image_count": 3,
+    "manifest": "02_Images/Taj_Mahal/Nearby_Heritage/Mariam_uz_Zamani_Tomb/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "taj_mahal__ram_bagh",
+    "image_count": 5,
+    "manifest": "02_Images/Taj_Mahal/Nearby_Heritage/Ram_Bagh/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "taj_mahal__kanch_mahal",
+    "image_count": 4,
+    "manifest": "02_Images/Taj_Mahal/Nearby_Heritage/Kanch_Mahal/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "taj_mahal__bateshwar_temples",
+    "image_count": 0,
+    "manifest": "02_Images/Taj_Mahal/Nearby_Heritage/Bateshwar_Temples/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "taj_mahal__jaswant_singh_ki_chhatri",
+    "image_count": 1,
+    "manifest": "02_Images/Taj_Mahal/Nearby_Heritage/Jaswant_Singh_Ki_Chhatri/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "taj_mahal__gurudwara_guru_ka_taal",
+    "image_count": 3,
+    "manifest": "02_Images/Taj_Mahal/Nearby_Heritage/Gurudwara_Guru_Ka_Taal/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "qutub_minar",
+    "image_count": 14,
+    "manifest": "02_Images/Qutub_Minar/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "qutub_minar__jamali_kamali_mosque",
+    "image_count": 5,
+    "manifest": "02_Images/Qutub_Minar/Nearby_Heritage/Jamali_Kamali_Mosque/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "qutub_minar__rajon_ki_baoli",
+    "image_count": 3,
+    "manifest": "02_Images/Qutub_Minar/Nearby_Heritage/Rajon_Ki_Baoli/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "qutub_minar__balbans_tomb",
+    "image_count": 4,
+    "manifest": "02_Images/Qutub_Minar/Nearby_Heritage/Balbans_Tomb/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "qutub_minar__zafar_mahal",
+    "image_count": 5,
+    "manifest": "02_Images/Qutub_Minar/Nearby_Heritage/Zafar_Mahal/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "qutub_minar__adham_khans_tomb",
+    "image_count": 5,
+    "manifest": "02_Images/Qutub_Minar/Nearby_Heritage/Adham_Khans_Tomb/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "qutub_minar__gandhak_ki_baoli",
+    "image_count": 3,
+    "manifest": "02_Images/Qutub_Minar/Nearby_Heritage/Gandhak_Ki_Baoli/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "qutub_minar__hijron_ka_khanqah",
+    "image_count": 4,
+    "manifest": "02_Images/Qutub_Minar/Nearby_Heritage/Hijron_Ka_Khanqah/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "qutub_minar__jahaz_mahal",
+    "image_count": 4,
+    "manifest": "02_Images/Qutub_Minar/Nearby_Heritage/Jahaz_Mahal/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "qutub_minar__quli_khans_tomb",
+    "image_count": 4,
+    "manifest": "02_Images/Qutub_Minar/Nearby_Heritage/Quli_Khans_Tomb/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "qutub_minar__hauz_i_shamsi",
+    "image_count": 4,
+    "manifest": "02_Images/Qutub_Minar/Nearby_Heritage/Hauz_i_Shamsi/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "amer_fort",
+    "image_count": 10,
+    "manifest": "02_Images/Amer_Fort/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "amer_fort__panna_meena_ka_kund",
+    "image_count": 4,
+    "manifest": "02_Images/Amer_Fort/Nearby_Heritage/Panna_Meena_Ka_Kund/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "amer_fort__jagat_shiromani_temple",
+    "image_count": 4,
+    "manifest": "02_Images/Amer_Fort/Nearby_Heritage/Jagat_Shiromani_Temple/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "amer_fort__gaitore_ki_chhatriyan",
+    "image_count": 5,
+    "manifest": "02_Images/Amer_Fort/Nearby_Heritage/Gaitore_Ki_Chhatriyan/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "amer_fort__anokhi_museum",
+    "image_count": 2,
+    "manifest": "02_Images/Amer_Fort/Nearby_Heritage/Anokhi_Museum/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "amer_fort__galtaji_temple",
+    "image_count": 5,
+    "manifest": "02_Images/Amer_Fort/Nearby_Heritage/Galtaji_Temple/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "amer_fort__garh_ganesh_temple",
+    "image_count": 1,
+    "manifest": "02_Images/Amer_Fort/Nearby_Heritage/Garh_Ganesh_Temple/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "amer_fort__vidyadhar_garden",
+    "image_count": 0,
+    "manifest": "02_Images/Amer_Fort/Nearby_Heritage/Vidyadhar_Garden/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "amer_fort__sagar_lake",
+    "image_count": 0,
+    "manifest": "02_Images/Amer_Fort/Nearby_Heritage/Sagar_Lake/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "amer_fort__sisodia_rani_ka_bagh",
+    "image_count": 5,
+    "manifest": "02_Images/Amer_Fort/Nearby_Heritage/Sisodia_Rani_Ka_Bagh/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "amer_fort__hathni_kund",
+    "image_count": 0,
+    "manifest": "02_Images/Amer_Fort/Nearby_Heritage/Hathni_Kund/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "red_fort",
+    "image_count": 8,
+    "manifest": "02_Images/Red_Fort/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "red_fort__sunehri_masjid",
+    "image_count": 2,
+    "manifest": "02_Images/Red_Fort/Nearby_Heritage/Sunehri_Masjid/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "red_fort__zeenat_ul_masajid",
+    "image_count": 1,
+    "manifest": "02_Images/Red_Fort/Nearby_Heritage/Zeenat_ul_Masajid/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "red_fort__mirza_ghalib_ki_haveli",
+    "image_count": 3,
+    "manifest": "02_Images/Red_Fort/Nearby_Heritage/Mirza_Ghalib_Ki_Haveli/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "red_fort__chunnamal_haveli",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "red_fort__digambar_jain_bird_hospital",
+    "image_count": 2,
+    "manifest": "02_Images/Red_Fort/Nearby_Heritage/Digambar_Jain_Bird_Hospital/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "red_fort__st_james_church",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "red_fort__khooni_darwaza",
+    "image_count": 4,
+    "manifest": "02_Images/Red_Fort/Nearby_Heritage/Khooni_Darwaza/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "red_fort__fatehpuri_masjid",
+    "image_count": 4,
+    "manifest": "02_Images/Red_Fort/Nearby_Heritage/Fatehpuri_Masjid/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "red_fort__salimgarh_fort",
+    "image_count": 3,
+    "manifest": "02_Images/Red_Fort/Nearby_Heritage/Salimgarh_Fort/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "red_fort__naughara_kinari_bazaar",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "gateway_of_india",
+    "image_count": 12,
+    "manifest": "02_Images/Gateway_of_India/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "gateway_of_india__keneseth_eliyahoo_synagogue",
+    "image_count": 4,
+    "manifest": "02_Images/Gateway_of_India/Nearby_Heritage/Keneseth_Eliyahoo_Synagogue/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "gateway_of_india__afghan_church",
+    "image_count": 4,
+    "manifest": "02_Images/Gateway_of_India/Nearby_Heritage/Afghan_Church/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "gateway_of_india__ballard_bunder_gatehouse",
+    "image_count": 1,
+    "manifest": "02_Images/Gateway_of_India/Nearby_Heritage/Ballard_Bunder_Gatehouse/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "gateway_of_india__horniman_circle_gardens",
+    "image_count": 4,
+    "manifest": "02_Images/Gateway_of_India/Nearby_Heritage/Horniman_Circle_Gardens/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "gateway_of_india__david_sassoon_library",
+    "image_count": 5,
+    "manifest": "02_Images/Gateway_of_India/Nearby_Heritage/David_Sassoon_Library/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "gateway_of_india__banganga_tank",
+    "image_count": 4,
+    "manifest": "02_Images/Gateway_of_India/Nearby_Heritage/Banganga_Tank/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "gateway_of_india__khotachiwadi_village",
+    "image_count": 5,
+    "manifest": "02_Images/Gateway_of_India/Nearby_Heritage/Khotachiwadi_Village/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "gateway_of_india__rbi_monetary_museum",
+    "image_count": 3,
+    "manifest": "02_Images/Gateway_of_India/Nearby_Heritage/RBI_Monetary_Museum/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "gateway_of_india__sewri_fort",
+    "image_count": 4,
+    "manifest": "02_Images/Gateway_of_India/Nearby_Heritage/Sewri_Fort/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "gateway_of_india__bhau_daji_lad_museum",
+    "image_count": 4,
+    "manifest": "02_Images/Gateway_of_India/Nearby_Heritage/Bhau_Daji_Lad_Museum/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "charminar",
+    "image_count": 14,
+    "manifest": "02_Images/Charminar/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "charminar__badshahi_ashurkhana",
+    "image_count": 4,
+    "manifest": "02_Images/Charminar/Nearby_Heritage/Badshahi_Ashurkhana/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "charminar__purani_haveli",
+    "image_count": 4,
+    "manifest": "02_Images/Charminar/Nearby_Heritage/Purani_Haveli/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "charminar__paigah_tombs",
+    "image_count": 5,
+    "manifest": "02_Images/Charminar/Nearby_Heritage/Paigah_Tombs/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "charminar__toli_masjid",
+    "image_count": 5,
+    "manifest": "02_Images/Charminar/Nearby_Heritage/Toli_Masjid/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "charminar__raymonds_tomb",
+    "image_count": 5,
+    "manifest": "02_Images/Charminar/Nearby_Heritage/Raymonds_Tomb/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "charminar__hayat_bakshi_mosque",
+    "image_count": 0,
+    "manifest": "02_Images/Charminar/Nearby_Heritage/Hayat_Bakshi_Mosque/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "charminar__spanish_mosque",
+    "image_count": 1,
+    "manifest": "02_Images/Charminar/Nearby_Heritage/Spanish_Mosque/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "charminar__nizams_museum",
+    "image_count": 1,
+    "manifest": "02_Images/Charminar/Nearby_Heritage/Nizams_Museum/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "charminar__khursheed_jah_devdi",
+    "image_count": 4,
+    "manifest": "02_Images/Charminar/Nearby_Heritage/Khursheed_Jah_Devdi/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "charminar__qutb_shahi_tombs",
+    "image_count": 5,
+    "manifest": "02_Images/Charminar/Nearby_Heritage/Qutb_Shahi_Tombs/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "victoria_memorial",
+    "image_count": 13,
+    "manifest": "02_Images/Victoria_Memorial/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "victoria_memorial__south_park_street_cemetery",
+    "image_count": 5,
+    "manifest": "02_Images/Victoria_Memorial/Nearby_Heritage/South_Park_Street_Cemetery/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "victoria_memorial__lascar_war_memorial",
+    "image_count": 5,
+    "manifest": "02_Images/Victoria_Memorial/Nearby_Heritage/Lascar_War_Memorial/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "victoria_memorial__marble_palace",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "victoria_memorial__nipponzan_myohoji_temple",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "victoria_memorial__st_johns_church",
+    "image_count": 3,
+    "manifest": "02_Images/Victoria_Memorial/Nearby_Heritage/St_Johns_Church/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "victoria_memorial__mullick_ghat_flower_market",
+    "image_count": 4,
+    "manifest": "02_Images/Victoria_Memorial/Nearby_Heritage/Mullick_Ghat_Flower_Market/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "victoria_memorial__prinsep_ghat",
+    "image_count": 5,
+    "manifest": "02_Images/Victoria_Memorial/Nearby_Heritage/Prinsep_Ghat/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "victoria_memorial__jorasanko_thakur_bari",
+    "image_count": 4,
+    "manifest": "02_Images/Victoria_Memorial/Nearby_Heritage/Jorasanko_Thakur_Bari/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "victoria_memorial__armenian_church",
+    "image_count": 3,
+    "manifest": "02_Images/Victoria_Memorial/Nearby_Heritage/Armenian_Church/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "victoria_memorial__magen_david_synagogue",
+    "image_count": 5,
+    "manifest": "02_Images/Victoria_Memorial/Nearby_Heritage/Magen_David_Synagogue/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "mysore_palace",
+    "image_count": 9,
+    "manifest": "02_Images/Mysore_Palace/Image_Sources/image_manifest.json"
+  },
+  {
+    "place_id": "mysore_palace__jaganmohan_palace",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "mysore_palace__railway_museum_mysore",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "mysore_palace__kukkarahalli_lake",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "mysore_palace__melody_world_wax_museum",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "mysore_palace__kishkindha_moolika_bonsai_garden",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "mysore_palace__st_philomenas_church_crypt",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "mysore_palace__gun_house",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "mysore_palace__karanji_lake_aviary",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "mysore_palace__wellington_lodge",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "mysore_palace__jayalakshmi_vilas_mansion",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "hampi_monuments",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "hampi_monuments__hemakuta_hill_temples",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "hampi_monuments__matanga_hill",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "hampi_monuments__achyutaraya_temple",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "hampi_monuments__sugrivas_cave",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "hampi_monuments__zenana_enclosure",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "hampi_monuments__badavilinga_temple",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "hampi_monuments__sasivekalu_ganesha",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "hampi_monuments__anegundi_village",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "hampi_monuments__sanapur_lake",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "hampi_monuments__pampa_sarovar",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "meenakshi_temple",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "meenakshi_temple__thirumalai_nayakkar_mahal",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "meenakshi_temple__gandhi_memorial_museum",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "meenakshi_temple__vandiyur_mariamman_teppakulam",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "meenakshi_temple__vilachery_pottery_village",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "meenakshi_temple__goripalayam_dargah",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "meenakshi_temple__koodal_azhagar_temple",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "meenakshi_temple__palamuthirsolai_murugan_temple",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "meenakshi_temple__kazimar_big_mosque",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "meenakshi_temple__yanaimalai",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "meenakshi_temple__samanar_hills",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "golden_temple",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "golden_temple__pul_kanjri",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "golden_temple__gurdwara_baba_atal_rai",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "golden_temple__khalsa_college",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "golden_temple__ram_bagh_palace",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "golden_temple__gobindgarh_fort",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "golden_temple__partition_museum",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "golden_temple__gurdwara_mata_kaulan",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "golden_temple__durgiana_temple",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "golden_temple__harike_wetland",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "golden_temple__saragarhi_memorial",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "khajuraho_monuments",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "khajuraho_monuments__raneh_falls",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "khajuraho_monuments__pandav_falls",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "khajuraho_monuments__ken_gharial_sanctuary",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "khajuraho_monuments__matangeshwar_temple",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "khajuraho_monuments__ajaigarh_fort",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "khajuraho_monuments__kalinjar_fort",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "khajuraho_monuments__jain_museum",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "khajuraho_monuments__duladeo_temple",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "khajuraho_monuments__chaturbhuj_temple",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "khajuraho_monuments__beni_sagar_dam",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "ajanta_ellora_caves",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "ajanta_ellora_caves__daulatabad_fort",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "ajanta_ellora_caves__bibi_ka_maqbara",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "ajanta_ellora_caves__khuldabad",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "ajanta_ellora_caves__grishneshwar_jyotirlinga",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "ajanta_ellora_caves__siddharth_garden",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "ajanta_ellora_caves__salim_ali_lake",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "ajanta_ellora_caves__panchakki",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "ajanta_ellora_caves__jama_masjid_aurangabad",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "ajanta_ellora_caves__soneri_mahal",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "ajanta_ellora_caves__bhadra_maruti_temple",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "konark_sun_temple",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "konark_sun_temple__kuruma_buddhist_site",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "konark_sun_temple__ramachandi_temple",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "konark_sun_temple__chandrabhaga_beach",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "konark_sun_temple__astaranga_beach",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "konark_sun_temple__barahi_temple_chaurasi",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "konark_sun_temple__pipili_village",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "konark_sun_temple__dhauli_shanti_stupa",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "konark_sun_temple__chausathi_yogini_temple",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "konark_sun_temple__mangalajodi_chilika",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "konark_sun_temple__raghurajpur_artist_village",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "sanchi_stupa",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "sanchi_stupa__udayagiri_caves",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "sanchi_stupa__heliodorus_pillar",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "sanchi_stupa__bijamandal",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "sanchi_stupa__raisen_fort",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "sanchi_stupa__sonari_stupas",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "sanchi_stupa__satdhara_stupas",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "sanchi_stupa__bhojpur_temple",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "sanchi_stupa__andher_stupas",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "sanchi_stupa__halali_dam",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "sanchi_stupa__neelkantheshwar_temple",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "city_palace_udaipur",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "city_palace_udaipur__ahar_cenotaphs",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "city_palace_udaipur__sajjangarh_monsoon_palace",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "city_palace_udaipur__badi_lake",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "city_palace_udaipur__saheliyon_ki_bari",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "city_palace_udaipur__bagore_ki_haveli",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "city_palace_udaipur__shilpgram",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "city_palace_udaipur__karni_mata_temple",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "city_palace_udaipur__ambrai_ghat",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "city_palace_udaipur__vintage_car_museum",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "city_palace_udaipur__eklingji_temple",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "mahabalipuram",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "mahabalipuram__tiger_cave",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "mahabalipuram__sadras_dutch_fort",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "mahabalipuram__nithyakalyana_perumal_temple",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "mahabalipuram__alamparai_fort",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "mahabalipuram__cholamandal_artists_village",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "mahabalipuram__dakshinachitra",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "mahabalipuram__muttukadu_backwaters",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "mahabalipuram__vedanthangal_bird_sanctuary",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "mahabalipuram__sri_thiruvidandhai",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "mahabalipuram__poonjeri_village",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "jaisalmer_fort",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "jaisalmer_fort__kuldhara_village",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "jaisalmer_fort__bada_bagh",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "jaisalmer_fort__khaba_fort",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "jaisalmer_fort__lodhruva_jain_temples",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "jaisalmer_fort__vyas_chhatri",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "jaisalmer_fort__desert_national_park",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "jaisalmer_fort__tanot_mata_temple",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "jaisalmer_fort__akal_wood_fossil_park",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "jaisalmer_fort__amar_sagar_jain_temple",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "jaisalmer_fort__nathmal_ji_ki_haveli",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "mehrangarh_fort",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "mehrangarh_fort__rao_jodha_desert_rock_park",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "mehrangarh_fort__jaswant_thada",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "mehrangarh_fort__toorji_ka_jhalra",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "mehrangarh_fort__mandore_gardens",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "mehrangarh_fort__balsamand_lake",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "mehrangarh_fort__mahamandir_temple",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "mehrangarh_fort__osian_temples",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "mehrangarh_fort__machia_biological_park",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "mehrangarh_fort__singhasni_village",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "mehrangarh_fort__navchowkiya",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "badami_cave_temples",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "badami_cave_temples__bhutanatha_group_of_temples",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "badami_cave_temples__agastya_lake",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "badami_cave_temples__badami_fort",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "badami_cave_temples__mahakuta_group_of_temples",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "badami_cave_temples__pattadakal_monuments",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "badami_cave_temples__aihole_durga_temple",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "badami_cave_temples__banashankari_amma_temple",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "badami_cave_temples__ravan_phadi_cave",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "badami_cave_temples__lad_khan_temple",
+    "image_count": 0,
+    "manifest": null
+  },
+  {
+    "place_id": "badami_cave_temples__galaganatha_temples",
+    "image_count": 0,
+    "manifest": null
+  }
+]

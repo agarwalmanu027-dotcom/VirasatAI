@@ -1,0 +1,37 @@
+{
+  "place_id": "khajuraho_monuments__matangeshwar_temple",
+  "display_name": "Matangeshwar Temple",
+  "parent_id": "khajuraho_monuments",
+  "main_order": 12,
+  "is_main": false,
+  "candidates": [
+    {
+      "title": "File:Matangeshwar Mahadev Temple, Khajuraho.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Matangeshwar_Mahadev_Temple,_Khajuraho.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Matangeshwar_Mahadev_Temple%2C_Khajuraho.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "preview_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Matangeshwar_Mahadev_Temple%2C_Khajuraho.jpg/1280px-Matangeshwar_Mahadev_Temple%2C_Khajuraho.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_width": 3000,
+      "original_height": 4512,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Kaushikboral",
+      "credit": "Own work",
+      "attribution": "",
+      "description": "This is a photo of ASI monument number",
+      "date_time_original": "2018-07-27 17:16:01",
+      "sha1": "07b9e2e964bea1546791ed3e4fb49aa9f5b212b7",
+      "commons_assessment": "",
+      "copyrighted": "True",
+      "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+      "color_score": 14.01,
+      "sharpness_score": 2878.39,
+      "dhash": "460b0b0b07175e7a",
+      "candidate_id": 1,
+      "preview_path": "tools/image_review/candidates/khajuraho_monuments__matangeshwar_temple/candidate_01.jpg"
+    }
+  ],
+  "errors": [],
+  "visual_review_status": "pending",
+  "status": "candidates_collected"
+}

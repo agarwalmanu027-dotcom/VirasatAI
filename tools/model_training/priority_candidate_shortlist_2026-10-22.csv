@@ -1,0 +1,61 @@
+label,index,decision,reason
+badami_cave_temples,1,shortlist,distinct cave corridor
+badami_cave_temples,2,shortlist,site sculpture context
+badami_cave_temples,3,shortlist,site relief context
+badami_cave_temples,10,shortlist,carved cave column
+badami_cave_temples,11,shortlist,site-specific dance relief
+badami_cave_temples,12,shortlist,cave opening with wider context
+badami_cave_temples,13,shortlist,recognizable cave exterior
+badami_cave_temples,15,shortlist,different relief view
+badami_cave_temples,18,shortlist,second distinct cave corridor
+sanchi_stupa,0,shortlist,Ashoka pillar at site
+sanchi_stupa,2,shortlist,north torana elephant detail
+sanchi_stupa,4,shortlist,site carving with structure context
+sanchi_stupa,5,shortlist,torana in wider site context
+sanchi_stupa,6,shortlist,north torana architectural detail
+sanchi_stupa,7,shortlist,ornate pillar with stupa context
+sanchi_stupa,8,shortlist,torana panel
+sanchi_stupa,9,shortlist,stupa gateway view
+sanchi_stupa,10,shortlist,site sculpture with architectural context
+sanchi_stupa,12,shortlist,torana top view
+sanchi_stupa,13,shortlist,torana entry view
+sanchi_stupa,19,shortlist,east torana view
+mysore_palace,1,shortlist,distinct chandelier hall
+mysore_palace,2,shortlist,wide interior hall
+mysore_palace,4,shortlist,ornate ceiling
+mysore_palace,5,shortlist,interior doorway
+mysore_palace,8,shortlist,decorated columns
+mysore_palace,11,shortlist,ceiling with contextual decoration
+mysore_palace,13,shortlist,arched interior hall
+mysore_palace,15,shortlist,decorated room
+mysore_palace,19,shortlist,stucco hall ceiling
+red_fort,0,shortlist,Diwan-i-Am front with people
+red_fort,2,shortlist,Diwan-i-Am arches oblique view
+red_fort,5,shortlist,Diwan-i-Am corridor view
+red_fort,6,shortlist,royal platform through arches
+red_fort,7,shortlist,interior arches with people
+red_fort,10,shortlist,Lahori Gate close view
+red_fort,13,shortlist,royal platform detail
+red_fort,16,shortlist,arched walkway different angle
+red_fort,18,shortlist,Diwan-i-Am repeated arches
+jaisalmer_fort,2,shortlist,fort palace front
+jaisalmer_fort,3,shortlist,fort palace facade oblique view
+jaisalmer_fort,5,shortlist,fort exterior ramparts
+hampi_monuments,1,shortlist,Virupaksha gopuram distant view
+hampi_monuments,2,shortlist,Vittala stone chariot wider context
+hampi_monuments,3,shortlist,Vittala temple side view
+hampi_monuments,6,shortlist,underground Shiva temple
+hampi_monuments,7,shortlist,Vittala carved column
+hampi_monuments,8,shortlist,Vittala mandapa interior
+hampi_monuments,10,shortlist,Vittala main facade
+hampi_monuments,13,shortlist,Virupaksha smaller gopuram
+hampi_monuments,14,shortlist,Virupaksha site structure
+hampi_monuments,15,shortlist,Vittala hall interior
+hampi_monuments,17,shortlist,Vittala pavilion exterior
+hampi_monuments,18,shortlist,Vittala building elevation
+hampi_monuments,19,shortlist,Vittala carved pillar with context
+konark_sun_temple,0,shortlist,temple wall architectural detail
+konark_sun_temple,1,shortlist,Konark wheel in facade context
+konark_sun_temple,3,shortlist,series of carved panels
+konark_sun_temple,8,shortlist,wheel partial with facade context
+konark_sun_temple,10,shortlist,wheel distinct wider view

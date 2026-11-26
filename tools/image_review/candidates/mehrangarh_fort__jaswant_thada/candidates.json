@@ -1,0 +1,14 @@
+{
+  "place_id": "mehrangarh_fort__jaswant_thada",
+  "display_name": "Jaswant Thada",
+  "parent_id": "mehrangarh_fort",
+  "main_order": 19,
+  "is_main": false,
+  "candidates": [],
+  "errors": [
+    "HTTP Error 429: Too Many Requests",
+    "HTTP Error 429: Too Many Requests"
+  ],
+  "visual_review_status": "pending",
+  "status": "no_qualifying_candidates"
+}

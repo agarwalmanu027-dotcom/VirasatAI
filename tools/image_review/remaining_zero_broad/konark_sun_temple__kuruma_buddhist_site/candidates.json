@@ -1,0 +1,20 @@
+{
+  "placeId": "konark_sun_temple__kuruma_buddhist_site",
+  "queries": [
+    "Kuruma Buddhist site Odisha",
+    "Kuruma Buddhism Odisha"
+  ],
+  "candidates": [
+    {
+      "candidateId": 1,
+      "title": "File:Kuruma 1.jpg",
+      "query": "Kuruma Buddhist site Odisha",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Kuruma_1.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Kuruma_1.jpg/1280px-Kuruma_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Rangan Datta Wiki",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/remaining_zero_broad/konark_sun_temple__kuruma_buddhist_site/candidate_01.jpg"
+    }
+  ]
+}

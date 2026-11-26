@@ -1,0 +1,11 @@
+{
+  "place_id": "amer_fort__vidyadhar_garden",
+  "display_name": "Vidyadhar Garden",
+  "parent_id": "amer_fort",
+  "main_order": 3,
+  "is_main": false,
+  "candidates": [],
+  "errors": [],
+  "visual_review_status": "pending",
+  "status": "no_qualifying_candidates"
+}

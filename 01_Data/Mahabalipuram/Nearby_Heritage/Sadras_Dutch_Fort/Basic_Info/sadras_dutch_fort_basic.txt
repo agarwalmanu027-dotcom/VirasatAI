@@ -1,0 +1,13 @@
+VIRASATAI — BASIC INFORMATION
+Name: Sadras Dutch Fort
+Entry ID: mahabalipuram__sadras_dutch_fort
+Location: Sadras, Chengalpattu district, Tamil Nadu
+Type: Protected ruined Dutch fort and cemetery
+Identity note: User-selected site identity verified against the sources below.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. ASI lists the ruined Dutch fort and cemetery at Sadras as protected monuments. [1]
+2. Sadras belongs to the Coromandel coast's history of European trading settlements. [2]
+3. The fort and cemetery should be understood as connected but distinct parts of the site. [1]
+
+Sources: See sadras_dutch_fort_sources.txt. The parent association is the user's selection, not a verified proximity claim.

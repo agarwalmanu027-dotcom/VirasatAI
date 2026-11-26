@@ -1,0 +1,11 @@
+{
+  "place_id": "victoria_memorial__nipponzan_myohoji_temple",
+  "display_name": "Nipponzan Myohoji Temple",
+  "parent_id": "victoria_memorial",
+  "main_order": 7,
+  "is_main": false,
+  "candidates": [],
+  "errors": [],
+  "visual_review_status": "pending",
+  "status": "no_qualifying_candidates"
+}

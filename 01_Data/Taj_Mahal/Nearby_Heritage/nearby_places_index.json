@@ -1,0 +1,178 @@
+{
+  "parent_monument_id": "taj_mahal",
+  "parent_monument_name": "Taj Mahal, Agra",
+  "selection_source": "User-supplied table",
+  "nearby_entry_count": 10,
+  "places": [
+    {
+      "id": "taj_mahal__mehtab_bagh",
+      "order": 1,
+      "display_name": "Mehtab Bagh",
+      "folder_name": "Mehtab_Bagh",
+      "parent_monument_id": "taj_mahal",
+      "paths": {
+        "data": "01_Data/Taj_Mahal/Nearby_Heritage/Mehtab_Bagh",
+        "images": "02_Images/Taj_Mahal/Nearby_Heritage/Mehtab_Bagh",
+        "scripts": "03_Scripts/Taj_Mahal/Nearby_Heritage/Mehtab_Bagh",
+        "audio": "04_Audio/Taj_Mahal/Nearby_Heritage/Mehtab_Bagh"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "taj_mahal__chini_ka_rauza",
+      "order": 2,
+      "display_name": "Chini Ka Rauza",
+      "folder_name": "Chini_Ka_Rauza",
+      "parent_monument_id": "taj_mahal",
+      "paths": {
+        "data": "01_Data/Taj_Mahal/Nearby_Heritage/Chini_Ka_Rauza",
+        "images": "02_Images/Taj_Mahal/Nearby_Heritage/Chini_Ka_Rauza",
+        "scripts": "03_Scripts/Taj_Mahal/Nearby_Heritage/Chini_Ka_Rauza",
+        "audio": "04_Audio/Taj_Mahal/Nearby_Heritage/Chini_Ka_Rauza"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "taj_mahal__the_red_taj_hessings_tomb",
+      "order": 3,
+      "display_name": "The Red Taj (Hessing's Tomb)",
+      "folder_name": "The_Red_Taj_Hessings_Tomb",
+      "parent_monument_id": "taj_mahal",
+      "paths": {
+        "data": "01_Data/Taj_Mahal/Nearby_Heritage/The_Red_Taj_Hessings_Tomb",
+        "images": "02_Images/Taj_Mahal/Nearby_Heritage/The_Red_Taj_Hessings_Tomb",
+        "scripts": "03_Scripts/Taj_Mahal/Nearby_Heritage/The_Red_Taj_Hessings_Tomb",
+        "audio": "04_Audio/Taj_Mahal/Nearby_Heritage/The_Red_Taj_Hessings_Tomb"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "taj_mahal__taj_nature_walk",
+      "order": 4,
+      "display_name": "Taj Nature Walk",
+      "folder_name": "Taj_Nature_Walk",
+      "parent_monument_id": "taj_mahal",
+      "paths": {
+        "data": "01_Data/Taj_Mahal/Nearby_Heritage/Taj_Nature_Walk",
+        "images": "02_Images/Taj_Mahal/Nearby_Heritage/Taj_Nature_Walk",
+        "scripts": "03_Scripts/Taj_Mahal/Nearby_Heritage/Taj_Nature_Walk",
+        "audio": "04_Audio/Taj_Mahal/Nearby_Heritage/Taj_Nature_Walk"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "taj_mahal__mariam_uz_zamani_tomb",
+      "order": 5,
+      "display_name": "Mariam-uz-Zamani Tomb",
+      "folder_name": "Mariam_uz_Zamani_Tomb",
+      "parent_monument_id": "taj_mahal",
+      "paths": {
+        "data": "01_Data/Taj_Mahal/Nearby_Heritage/Mariam_uz_Zamani_Tomb",
+        "images": "02_Images/Taj_Mahal/Nearby_Heritage/Mariam_uz_Zamani_Tomb",
+        "scripts": "03_Scripts/Taj_Mahal/Nearby_Heritage/Mariam_uz_Zamani_Tomb",
+        "audio": "04_Audio/Taj_Mahal/Nearby_Heritage/Mariam_uz_Zamani_Tomb"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "taj_mahal__ram_bagh",
+      "order": 6,
+      "display_name": "Ram Bagh",
+      "folder_name": "Ram_Bagh",
+      "parent_monument_id": "taj_mahal",
+      "paths": {
+        "data": "01_Data/Taj_Mahal/Nearby_Heritage/Ram_Bagh",
+        "images": "02_Images/Taj_Mahal/Nearby_Heritage/Ram_Bagh",
+        "scripts": "03_Scripts/Taj_Mahal/Nearby_Heritage/Ram_Bagh",
+        "audio": "04_Audio/Taj_Mahal/Nearby_Heritage/Ram_Bagh"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "taj_mahal__kanch_mahal",
+      "order": 7,
+      "display_name": "Kanch Mahal",
+      "folder_name": "Kanch_Mahal",
+      "parent_monument_id": "taj_mahal",
+      "paths": {
+        "data": "01_Data/Taj_Mahal/Nearby_Heritage/Kanch_Mahal",
+        "images": "02_Images/Taj_Mahal/Nearby_Heritage/Kanch_Mahal",
+        "scripts": "03_Scripts/Taj_Mahal/Nearby_Heritage/Kanch_Mahal",
+        "audio": "04_Audio/Taj_Mahal/Nearby_Heritage/Kanch_Mahal"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "taj_mahal__bateshwar_temples",
+      "order": 8,
+      "display_name": "Bateshwar Temples",
+      "folder_name": "Bateshwar_Temples",
+      "parent_monument_id": "taj_mahal",
+      "paths": {
+        "data": "01_Data/Taj_Mahal/Nearby_Heritage/Bateshwar_Temples",
+        "images": "02_Images/Taj_Mahal/Nearby_Heritage/Bateshwar_Temples",
+        "scripts": "03_Scripts/Taj_Mahal/Nearby_Heritage/Bateshwar_Temples",
+        "audio": "04_Audio/Taj_Mahal/Nearby_Heritage/Bateshwar_Temples"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "taj_mahal__jaswant_singh_ki_chhatri",
+      "order": 9,
+      "display_name": "Jaswant Singh Ki Chhatri",
+      "folder_name": "Jaswant_Singh_Ki_Chhatri",
+      "parent_monument_id": "taj_mahal",
+      "paths": {
+        "data": "01_Data/Taj_Mahal/Nearby_Heritage/Jaswant_Singh_Ki_Chhatri",
+        "images": "02_Images/Taj_Mahal/Nearby_Heritage/Jaswant_Singh_Ki_Chhatri",
+        "scripts": "03_Scripts/Taj_Mahal/Nearby_Heritage/Jaswant_Singh_Ki_Chhatri",
+        "audio": "04_Audio/Taj_Mahal/Nearby_Heritage/Jaswant_Singh_Ki_Chhatri"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "taj_mahal__gurudwara_guru_ka_taal",
+      "order": 10,
+      "display_name": "Gurudwara Guru Ka Taal",
+      "folder_name": "Gurudwara_Guru_Ka_Taal",
+      "parent_monument_id": "taj_mahal",
+      "paths": {
+        "data": "01_Data/Taj_Mahal/Nearby_Heritage/Gurudwara_Guru_Ka_Taal",
+        "images": "02_Images/Taj_Mahal/Nearby_Heritage/Gurudwara_Guru_Ka_Taal",
+        "scripts": "03_Scripts/Taj_Mahal/Nearby_Heritage/Gurudwara_Guru_Ka_Taal",
+        "audio": "04_Audio/Taj_Mahal/Nearby_Heritage/Gurudwara_Guru_Ka_Taal"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    }
+  ]
+}

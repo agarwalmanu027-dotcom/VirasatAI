@@ -1,0 +1,180 @@
+{
+  "parent_monument_id": "mysore_palace",
+  "parent_monument_name": "Mysore Palace, Mysuru",
+  "selection_source": "User-supplied table",
+  "nearby_entry_count": 10,
+  "places": [
+    {
+      "id": "mysore_palace__jaganmohan_palace",
+      "order": 1,
+      "display_name": "Jaganmohan Palace",
+      "folder_name": "Jaganmohan_Palace",
+      "parent_monument_id": "mysore_palace",
+      "paths": {
+        "data": "01_Data/Mysore_Palace/Nearby_Heritage/Jaganmohan_Palace",
+        "images": "02_Images/Mysore_Palace/Nearby_Heritage/Jaganmohan_Palace",
+        "scripts": "03_Scripts/Mysore_Palace/Nearby_Heritage/Jaganmohan_Palace",
+        "audio": "04_Audio/Mysore_Palace/Nearby_Heritage/Jaganmohan_Palace"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "mysore_palace__railway_museum_mysore",
+      "order": 2,
+      "display_name": "Railway Museum Mysore",
+      "folder_name": "Railway_Museum_Mysore",
+      "parent_monument_id": "mysore_palace",
+      "paths": {
+        "data": "01_Data/Mysore_Palace/Nearby_Heritage/Railway_Museum_Mysore",
+        "images": "02_Images/Mysore_Palace/Nearby_Heritage/Railway_Museum_Mysore",
+        "scripts": "03_Scripts/Mysore_Palace/Nearby_Heritage/Railway_Museum_Mysore",
+        "audio": "04_Audio/Mysore_Palace/Nearby_Heritage/Railway_Museum_Mysore"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "mysore_palace__kukkarahalli_lake",
+      "order": 3,
+      "display_name": "Kukkarahalli Lake",
+      "folder_name": "Kukkarahalli_Lake",
+      "parent_monument_id": "mysore_palace",
+      "paths": {
+        "data": "01_Data/Mysore_Palace/Nearby_Heritage/Kukkarahalli_Lake",
+        "images": "02_Images/Mysore_Palace/Nearby_Heritage/Kukkarahalli_Lake",
+        "scripts": "03_Scripts/Mysore_Palace/Nearby_Heritage/Kukkarahalli_Lake",
+        "audio": "04_Audio/Mysore_Palace/Nearby_Heritage/Kukkarahalli_Lake"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "mysore_palace__melody_world_wax_museum",
+      "order": 4,
+      "display_name": "Melody World Wax Museum",
+      "folder_name": "Melody_World_Wax_Museum",
+      "parent_monument_id": "mysore_palace",
+      "paths": {
+        "data": "01_Data/Mysore_Palace/Nearby_Heritage/Melody_World_Wax_Museum",
+        "images": "02_Images/Mysore_Palace/Nearby_Heritage/Melody_World_Wax_Museum",
+        "scripts": "03_Scripts/Mysore_Palace/Nearby_Heritage/Melody_World_Wax_Museum",
+        "audio": "04_Audio/Mysore_Palace/Nearby_Heritage/Melody_World_Wax_Museum"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "mysore_palace__kishkindha_moolika_bonsai_garden",
+      "order": 5,
+      "display_name": "Kishkindha Moolika Bonsai Garden",
+      "folder_name": "Kishkindha_Moolika_Bonsai_Garden",
+      "parent_monument_id": "mysore_palace",
+      "paths": {
+        "data": "01_Data/Mysore_Palace/Nearby_Heritage/Kishkindha_Moolika_Bonsai_Garden",
+        "images": "02_Images/Mysore_Palace/Nearby_Heritage/Kishkindha_Moolika_Bonsai_Garden",
+        "scripts": "03_Scripts/Mysore_Palace/Nearby_Heritage/Kishkindha_Moolika_Bonsai_Garden",
+        "audio": "04_Audio/Mysore_Palace/Nearby_Heritage/Kishkindha_Moolika_Bonsai_Garden"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "mysore_palace__st_philomenas_church_crypt",
+      "order": 6,
+      "display_name": "St. Philomena's Church Crypt",
+      "folder_name": "St_Philomenas_Church_Crypt",
+      "parent_monument_id": "mysore_palace",
+      "paths": {
+        "data": "01_Data/Mysore_Palace/Nearby_Heritage/St_Philomenas_Church_Crypt",
+        "images": "02_Images/Mysore_Palace/Nearby_Heritage/St_Philomenas_Church_Crypt",
+        "scripts": "03_Scripts/Mysore_Palace/Nearby_Heritage/St_Philomenas_Church_Crypt",
+        "audio": "04_Audio/Mysore_Palace/Nearby_Heritage/St_Philomenas_Church_Crypt"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "mysore_palace__gun_house",
+      "order": 7,
+      "display_name": "Gun House",
+      "folder_name": "Gun_House",
+      "parent_monument_id": "mysore_palace",
+      "paths": {
+        "data": "01_Data/Mysore_Palace/Nearby_Heritage/Gun_House",
+        "images": "02_Images/Mysore_Palace/Nearby_Heritage/Gun_House",
+        "scripts": "03_Scripts/Mysore_Palace/Nearby_Heritage/Gun_House",
+        "audio": "04_Audio/Mysore_Palace/Nearby_Heritage/Gun_House"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": [
+        "Verify the Mysuru site and image subject."
+      ]
+    },
+    {
+      "id": "mysore_palace__karanji_lake_aviary",
+      "order": 8,
+      "display_name": "Karanji Lake Aviary",
+      "folder_name": "Karanji_Lake_Aviary",
+      "parent_monument_id": "mysore_palace",
+      "paths": {
+        "data": "01_Data/Mysore_Palace/Nearby_Heritage/Karanji_Lake_Aviary",
+        "images": "02_Images/Mysore_Palace/Nearby_Heritage/Karanji_Lake_Aviary",
+        "scripts": "03_Scripts/Mysore_Palace/Nearby_Heritage/Karanji_Lake_Aviary",
+        "audio": "04_Audio/Mysore_Palace/Nearby_Heritage/Karanji_Lake_Aviary"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "mysore_palace__wellington_lodge",
+      "order": 9,
+      "display_name": "Wellington Lodge",
+      "folder_name": "Wellington_Lodge",
+      "parent_monument_id": "mysore_palace",
+      "paths": {
+        "data": "01_Data/Mysore_Palace/Nearby_Heritage/Wellington_Lodge",
+        "images": "02_Images/Mysore_Palace/Nearby_Heritage/Wellington_Lodge",
+        "scripts": "03_Scripts/Mysore_Palace/Nearby_Heritage/Wellington_Lodge",
+        "audio": "04_Audio/Mysore_Palace/Nearby_Heritage/Wellington_Lodge"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "mysore_palace__jayalakshmi_vilas_mansion",
+      "order": 10,
+      "display_name": "Jayalakshmi Vilas Mansion",
+      "folder_name": "Jayalakshmi_Vilas_Mansion",
+      "parent_monument_id": "mysore_palace",
+      "paths": {
+        "data": "01_Data/Mysore_Palace/Nearby_Heritage/Jayalakshmi_Vilas_Mansion",
+        "images": "02_Images/Mysore_Palace/Nearby_Heritage/Jayalakshmi_Vilas_Mansion",
+        "scripts": "03_Scripts/Mysore_Palace/Nearby_Heritage/Jayalakshmi_Vilas_Mansion",
+        "audio": "04_Audio/Mysore_Palace/Nearby_Heritage/Jayalakshmi_Vilas_Mansion"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    }
+  ]
+}

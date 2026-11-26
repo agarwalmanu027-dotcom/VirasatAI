@@ -1,0 +1,14 @@
+VIRASATAI — STORY DATA
+Entry ID: badami_cave_temples
+Name: Badami Cave Temples, Karnataka
+Narrative focus: Rock-cut rooms and different religious images within one cliff
+Language files: Separate English and Devanagari Hindi master scripts in 03_Scripts.
+Status: Written narration ready for TTS input; pronunciation and generated audio still need listening QA.
+
+At Badami, the architecture begins inside the cliff. Craftsmen cut rooms, pillars and sacred images into sandstone, turning natural rock into places of worship. The town, historically known as Vatapi, was a capital of the Early Chalukyas, and its cave temples are a remarkable part of that cultural landscape.
+
+The four main caves reveal different religious subjects. In the first, Shiva appears as Nataraja, the dancing lord, with eighteen arms. The arrangement creates a sense of movement within a fixed stone panel. The second and third caves contain important images of Vishnu, while the fourth belongs to the Jain tradition and includes Tirthankara figures.
+
+Look at a pillar, then at the ceiling and a carved panel. All are parts of spaces made by removing rock rather than assembling a separate building. That difference helps you appreciate both the planning and the care required from the sculptors. Changing light can make one detail stand out while another remains in shadow.
+
+Badami belongs to a wider story of temple architecture shared with Aihole and Pattadakal. UNESCO's Tentative List recognises that broader proposal; it should not be confused with Pattadakal's separate World Heritage inscription. Follow the permitted routes, take care on steps and leave the carved surfaces untouched. A patient visit reveals how stone could become both architecture and a language of faith.

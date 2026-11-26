@@ -1,0 +1,14 @@
+VIRASATAI — BASIC INFORMATION
+Name: Lad Khan Temple
+Entry ID: badami_cave_temples__lad_khan_temple
+Location: Aihole, Bagalkot district, Karnataka
+Type: Early structural Hindu temple
+Identity note: User-selected site identity verified against the sources below.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. Lad Khan Temple is a named early structural temple at Aihole. [1,2]
+2. Karnataka Tourism describes imagery from Shaiva, Vaishnava and Shakti traditions. [1]
+3. India's UNESCO Tentative List submission places Ladkhan in the Durga complex. [2]
+4. The later name should not be used to infer Islamic original construction; exact early dating and royal-hall origin stories are not asserted here.
+
+Sources: See lad_khan_temple_sources.txt. The parent association is the user's selection, not a verified proximity claim.

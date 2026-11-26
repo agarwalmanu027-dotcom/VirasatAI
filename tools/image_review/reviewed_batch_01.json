@@ -1,0 +1,293 @@
+[
+  {
+    "place_id": "taj_mahal__bateshwar_temples",
+    "selected": [],
+    "coverage_note": "Correct Agra/UP identity checked. Morena images rejected; two Agra interior candidates rejected for noise and soft detail. High-quality exterior gallery pending.",
+    "review_status": "visually_reviewed"
+  },
+  {
+    "place_id": "taj_mahal__chini_ka_rauza",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Subject, composition and clarity visually checked; original-resolution color photograph selected."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Details",
+        "review_note": "Subject, composition and clarity visually checked; original-resolution color photograph selected."
+      },
+      {
+        "candidate_id": 8,
+        "category": "Details",
+        "review_note": "Subject, composition and clarity visually checked; original-resolution color photograph selected."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Details",
+        "review_note": "Subject, composition and clarity visually checked; original-resolution color photograph selected."
+      }
+    ],
+    "review_status": "visually_reviewed"
+  },
+  {
+    "place_id": "taj_mahal__gurudwara_guru_ka_taal",
+    "selected": [
+      {
+        "candidate_id": 7,
+        "category": "Overview",
+        "review_note": "Subject, composition and clarity visually checked; original-resolution color photograph selected."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Different_Views",
+        "review_note": "Subject, composition and clarity visually checked; original-resolution color photograph selected."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Details",
+        "review_note": "Subject, composition and clarity visually checked; original-resolution color photograph selected."
+      }
+    ],
+    "coverage_note": "Selfies, birds and dark silhouettes rejected.",
+    "review_status": "visually_reviewed"
+  },
+  {
+    "place_id": "taj_mahal__kanch_mahal",
+    "selected": [
+      {
+        "candidate_id": 4,
+        "category": "Overview",
+        "review_note": "Subject, composition and clarity visually checked; original-resolution color photograph selected."
+      },
+      {
+        "candidate_id": 9,
+        "category": "Different_Views",
+        "review_note": "Subject, composition and clarity visually checked; original-resolution color photograph selected."
+      },
+      {
+        "candidate_id": 3,
+        "category": "Details",
+        "review_note": "Subject, composition and clarity visually checked; original-resolution color photograph selected."
+      },
+      {
+        "candidate_id": 2,
+        "category": "Details",
+        "review_note": "Subject, composition and clarity visually checked; original-resolution color photograph selected."
+      }
+    ],
+    "review_status": "visually_reviewed"
+  },
+  {
+    "place_id": "taj_mahal__mariam_uz_zamani_tomb",
+    "selected": [
+      {
+        "candidate_id": 4,
+        "category": "Overview",
+        "review_note": "Subject, composition and clarity visually checked; original-resolution color photograph selected."
+      },
+      {
+        "candidate_id": 2,
+        "category": "Details",
+        "review_note": "Subject, composition and clarity visually checked; original-resolution color photograph selected."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Different_Views",
+        "review_note": "Subject, composition and clarity visually checked; original-resolution color photograph selected."
+      }
+    ],
+    "review_status": "visually_reviewed"
+  },
+  {
+    "place_id": "taj_mahal__mehtab_bagh",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Subject, composition and clarity visually checked; original-resolution color photograph selected."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Details",
+        "review_note": "Subject, composition and clarity visually checked; original-resolution color photograph selected."
+      },
+      {
+        "candidate_id": 3,
+        "category": "Surroundings",
+        "review_note": "Subject, composition and clarity visually checked; original-resolution color photograph selected."
+      },
+      {
+        "candidate_id": 9,
+        "category": "Different_Views",
+        "review_note": "Subject, composition and clarity visually checked; original-resolution color photograph selected."
+      }
+    ],
+    "review_status": "visually_reviewed"
+  },
+  {
+    "place_id": "taj_mahal__ram_bagh",
+    "selected": [
+      {
+        "candidate_id": 5,
+        "category": "Overview",
+        "review_note": "Subject, composition and clarity visually checked; original-resolution color photograph selected."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Different_Views",
+        "review_note": "Subject, composition and clarity visually checked; original-resolution color photograph selected."
+      },
+      {
+        "candidate_id": 3,
+        "category": "Details",
+        "review_note": "Subject, composition and clarity visually checked; original-resolution color photograph selected."
+      },
+      {
+        "candidate_id": 9,
+        "category": "Surroundings",
+        "review_note": "Subject, composition and clarity visually checked; original-resolution color photograph selected."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Details",
+        "review_note": "Subject, composition and clarity visually checked; original-resolution color photograph selected."
+      }
+    ],
+    "review_status": "visually_reviewed"
+  },
+  {
+    "place_id": "taj_mahal__taj_nature_walk",
+    "selected": [
+      {
+        "candidate_id": 5,
+        "category": "Surroundings",
+        "review_note": "Subject, composition and clarity visually checked; original-resolution color photograph selected."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Different_Views",
+        "review_note": "Subject, composition and clarity visually checked; original-resolution color photograph selected."
+      }
+    ],
+    "coverage_note": "Clear garden/pond and documented Nature Walk sunset view selected. Blurry low-resolution views and prominently watermarked photos rejected.",
+    "review_status": "visually_reviewed"
+  },
+  {
+    "place_id": "taj_mahal__the_red_taj_hessings_tomb",
+    "selected": [
+      {
+        "candidate_id": 3,
+        "category": "Overview",
+        "review_note": "Subject, composition and clarity visually checked; original-resolution color photograph selected."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Different_Views",
+        "review_note": "Subject, composition and clarity visually checked; original-resolution color photograph selected."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Details",
+        "review_note": "Subject, composition and clarity visually checked; original-resolution color photograph selected."
+      },
+      {
+        "candidate_id": 8,
+        "category": "Details",
+        "review_note": "Subject, composition and clarity visually checked; original-resolution color photograph selected."
+      }
+    ],
+    "coverage_note": "Historical portrait and unrelated Humayun's Tomb photograph rejected.",
+    "review_status": "visually_reviewed"
+  },
+  {
+    "place_id": "taj_mahal__jaswant_singh_ki_chhatri",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Subject, composition and clarity visually checked; original-resolution color photograph selected."
+      }
+    ],
+    "coverage_note": "One clear correctly identified Commons photograph available; gallery quantity kept low to preserve relevance and quality.",
+    "review_status": "visually_reviewed"
+  },
+  {
+    "place_id": "qutub_minar",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Subject, composition and clarity visually checked; original-resolution color photograph selected."
+      },
+      {
+        "candidate_id": 2,
+        "category": "Different_Views",
+        "review_note": "Subject, composition and clarity visually checked; original-resolution color photograph selected."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Details",
+        "review_note": "Subject, composition and clarity visually checked; original-resolution color photograph selected."
+      },
+      {
+        "candidate_id": 12,
+        "category": "Surroundings",
+        "review_note": "Subject, composition and clarity visually checked; original-resolution color photograph selected."
+      },
+      {
+        "candidate_id": 14,
+        "category": "Surroundings",
+        "review_note": "Subject, composition and clarity visually checked; original-resolution color photograph selected."
+      },
+      {
+        "candidate_id": 23,
+        "category": "Overview",
+        "review_note": "Subject, composition and clarity visually checked; original-resolution color photograph selected."
+      },
+      {
+        "candidate_id": 22,
+        "category": "Details",
+        "review_note": "Subject, composition and clarity visually checked; original-resolution color photograph selected."
+      },
+      {
+        "candidate_id": 25,
+        "category": "Different_Views",
+        "review_note": "Subject, composition and clarity visually checked; original-resolution color photograph selected."
+      },
+      {
+        "candidate_id": 26,
+        "category": "Details",
+        "review_note": "Subject, composition and clarity visually checked; original-resolution color photograph selected."
+      },
+      {
+        "candidate_id": 27,
+        "category": "Details",
+        "review_note": "Subject, composition and clarity visually checked; original-resolution color photograph selected."
+      },
+      {
+        "candidate_id": 28,
+        "category": "Details",
+        "review_note": "Subject, composition and clarity visually checked; original-resolution color photograph selected."
+      },
+      {
+        "candidate_id": 29,
+        "category": "Surroundings",
+        "review_note": "Subject, composition and clarity visually checked; original-resolution color photograph selected."
+      },
+      {
+        "candidate_id": 30,
+        "category": "Details",
+        "review_note": "Subject, composition and clarity visually checked; original-resolution color photograph selected."
+      },
+      {
+        "candidate_id": 31,
+        "category": "Details",
+        "review_note": "Subject, composition and clarity visually checked; original-resolution color photograph selected."
+      }
+    ],
+    "coverage_note": "Tower, complex, gateway, columned hall, iron pillar and illuminated architectural details. Backlit silhouettes and repetitive phone views rejected.",
+    "review_status": "visually_reviewed"
+  }
+]

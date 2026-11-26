@@ -1,0 +1,13 @@
+VIRASATAI — BASIC INFORMATION
+Name: Singhasni Village
+Entry ID: mehrangarh_fort__singhasni_village
+Location: Rural Jodhpur region, Rajasthan; precise mapped identity requires local confirmation
+Type: Pottery-associated village visit
+Identity note: Exact user spelling Singhasni retained. Sri Venkateswara College field report explicitly uses Singhasni (Pottery). Similar census spellings must not be equated without mapping evidence; no exact coordinates or foundation date claimed.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. Sri Venkateswara College's 2015–16 annual report records a sociology field visit to Singhasni (Pottery) during a Jodhpur trip. [1]
+2. The report's focus includes rural interactions, artisanal practices and the effects of consumption and globalisation. [1]
+3. The evidence supports a pottery association, not claims of an unchanged ancient technique, exact foundation date or current guaranteed workshop access.
+
+Sources: See singhasni_village_sources.txt. The parent association is the user's selection, not a verified proximity claim.

@@ -1,0 +1,1889 @@
+[
+  {
+    "place_id": "mysore_palace",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Different_Views",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      },
+      {
+        "candidate_id": 2,
+        "category": "Different_Views",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      },
+      {
+        "candidate_id": 8,
+        "category": "Details",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      },
+      {
+        "candidate_id": 12,
+        "category": "Overview",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      },
+      {
+        "candidate_id": 13,
+        "category": "Different_Views",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      },
+      {
+        "candidate_id": 14,
+        "category": "Details",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      },
+      {
+        "candidate_id": 16,
+        "category": "Details",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      },
+      {
+        "candidate_id": 17,
+        "category": "Details",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      },
+      {
+        "candidate_id": 28,
+        "category": "Overview",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      }
+    ],
+    "coverage_note": "Nine varied architectural, exhibit and evening views accepted. Most remaining candidates repeat decorative gate framing or have excessive dark foreground; count not padded."
+  },
+  {
+    "place_id": "mysore_palace__jaganmohan_palace",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Different_Views",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      },
+      {
+        "candidate_id": 8,
+        "category": "Details",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      }
+    ],
+    "coverage_note": "Selected distinct clear views; duplicate-looking and weaker alternatives excluded."
+  },
+  {
+    "place_id": "mysore_palace__railway_museum_mysore",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 6,
+        "category": "Overview",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Different_Views",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      },
+      {
+        "candidate_id": 3,
+        "category": "Details",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Details",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      }
+    ],
+    "coverage_note": "Selected distinct clear views; duplicate-looking and weaker alternatives excluded."
+  },
+  {
+    "place_id": "mysore_palace__kukkarahalli_lake",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      }
+    ],
+    "coverage_note": "One clear landscape accepted. Watermarked and timestamped alternatives rejected; hazy bird-led view not selected."
+  },
+  {
+    "place_id": "mysore_palace__melody_world_wax_museum",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "No qualifying Commons candidate was collected; no unrelated image substituted."
+  },
+  {
+    "place_id": "mysore_palace__kishkindha_moolika_bonsai_garden",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "No qualifying Commons candidate was collected; no unrelated image substituted."
+  },
+  {
+    "place_id": "mysore_palace__st_philomenas_church_crypt",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "No qualifying photograph of the specific church crypt in the collected batch. Church exterior must not be substituted."
+  },
+  {
+    "place_id": "mysore_palace__gun_house",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "No qualifying Commons candidate was collected; no unrelated image substituted."
+  },
+  {
+    "place_id": "mysore_palace__karanji_lake_aviary",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "No qualifying photograph of the specific aviary in the batch. Generic lake and bird photos must not substitute for the aviary."
+  },
+  {
+    "place_id": "mysore_palace__wellington_lodge",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Different_Views",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Different_Views",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Details",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      }
+    ],
+    "coverage_note": "Mysore lodge views and identity plaque accepted. Candidates 6, 8 and 9 show unrelated United Kingdom locations and were rejected."
+  },
+  {
+    "place_id": "mysore_palace__jayalakshmi_vilas_mansion",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Different_Views",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      },
+      {
+        "candidate_id": 3,
+        "category": "Details",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Overview",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Different_Views",
+        "review_note": "Inspected in group 08 contact sheets; clear color photograph of the identified place or its documented details, selected for distinct subject or view."
+      }
+    ],
+    "coverage_note": "Selected distinct clear views; duplicate-looking and weaker alternatives excluded."
+  },
+  {
+    "place_id": "hampi_monuments",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 3,
+        "category": "Different_Views",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Different_Views",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Details",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Details",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Details",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 14,
+        "category": "Overview",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 19,
+        "category": "Different_Views",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 22,
+        "category": "Overview",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 23,
+        "category": "Details",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 24,
+        "category": "Details",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 25,
+        "category": "Different_Views",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 28,
+        "category": "Different_Views",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 29,
+        "category": "Details",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      }
+    ],
+    "coverage_note": "Fourteen natural-color views selected across landscape, temple groups, royal ruins, water tank and stone details. Infrared/purple processing, dark frames and repetition rejected. Stone chariot and Lotus Mahal would add useful coverage."
+  },
+  {
+    "place_id": "hampi_monuments__hemakuta_hill_temples",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Details",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Different_Views",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Different_Views",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      }
+    ],
+    "coverage_note": "Distinct clear views accepted; weaker and duplicate-looking alternatives excluded."
+  },
+  {
+    "place_id": "hampi_monuments__matanga_hill",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 2,
+        "category": "Surroundings",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Different_Views",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Details",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      }
+    ],
+    "coverage_note": "Distinct clear views accepted; weaker and duplicate-looking alternatives excluded."
+  },
+  {
+    "place_id": "hampi_monuments__achyutaraya_temple",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 3,
+        "category": "Different_Views",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Details",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Surroundings",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      }
+    ],
+    "coverage_note": "Distinct clear views accepted; weaker and duplicate-looking alternatives excluded."
+  },
+  {
+    "place_id": "hampi_monuments__sugrivas_cave",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "No qualifying image of Sugriva's specific cave collected; no generic boulder or cave substituted."
+  },
+  {
+    "place_id": "hampi_monuments__zenana_enclosure",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 2,
+        "category": "Overview",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 3,
+        "category": "Different_Views",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Details",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      }
+    ],
+    "coverage_note": "Three clear enclosure tower views accepted. Elephant stable is adjacent and not a substitute for the enclosure; generic Hampi relief/column matches excluded. Lotus Mahal overview is missing."
+  },
+  {
+    "place_id": "hampi_monuments__badavilinga_temple",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 3,
+        "category": "Details",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 8,
+        "category": "Overview",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 9,
+        "category": "Different_Views",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 1,
+        "category": "Surroundings",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      }
+    ],
+    "coverage_note": "Distinct clear views accepted; weaker and duplicate-looking alternatives excluded."
+  },
+  {
+    "place_id": "hampi_monuments__sasivekalu_ganesha",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 2,
+        "category": "Overview",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Details",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Different_Views",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      }
+    ],
+    "coverage_note": "Distinct clear views accepted; weaker and duplicate-looking alternatives excluded."
+  },
+  {
+    "place_id": "hampi_monuments__anegundi_village",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 3,
+        "category": "Details",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Overview",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Surroundings",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      }
+    ],
+    "coverage_note": "Aqueduct, village square/statue and locally identified farming landscape accepted. Portrait, map and timestamped plaque excluded; settlement street view would improve coverage."
+  },
+  {
+    "place_id": "hampi_monuments__sanapur_lake",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Details",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 3,
+        "category": "Overview",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Different_Views",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      }
+    ],
+    "coverage_note": "Distinct clear views accepted; weaker and duplicate-looking alternatives excluded."
+  },
+  {
+    "place_id": "hampi_monuments__pampa_sarovar",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 2,
+        "category": "Overview",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 8,
+        "category": "Different_Views",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Details",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Surroundings",
+        "review_note": "Visually inspected group 09 contact sheets and file subject metadata; clear natural-color identified monument, landscape or documented local detail, distinct from other selections."
+      }
+    ],
+    "coverage_note": "Anegundi pool and adjoining documented mandapa/temple selected. Candidate 10 is Pampa Sarovar in the Dangs, Gujarat, and rejected. Village identity plaque is not a view of the pool."
+  },
+  {
+    "place_id": "meenakshi_temple",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 3,
+        "category": "Overview",
+        "review_note": "Inspected group 10 contact sheets and named file metadata; clear identified building, local landscape or relevant architectural detail, selected for distinct view."
+      },
+      {
+        "candidate_id": 21,
+        "category": "Different_Views",
+        "review_note": "Inspected group 10 contact sheets and named file metadata; clear identified building, local landscape or relevant architectural detail, selected for distinct view."
+      },
+      {
+        "candidate_id": 25,
+        "category": "Different_Views",
+        "review_note": "Inspected group 10 contact sheets and named file metadata; clear identified building, local landscape or relevant architectural detail, selected for distinct view."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Details",
+        "review_note": "Inspected group 10 contact sheets and named file metadata; clear identified building, local landscape or relevant architectural detail, selected for distinct view."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Details",
+        "review_note": "Inspected group 10 contact sheets and named file metadata; clear identified building, local landscape or relevant architectural detail, selected for distinct view."
+      },
+      {
+        "candidate_id": 9,
+        "category": "Different_Views",
+        "review_note": "Inspected group 10 contact sheets and named file metadata; clear identified building, local landscape or relevant architectural detail, selected for distinct view."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Details",
+        "review_note": "Inspected group 10 contact sheets and named file metadata; clear identified building, local landscape or relevant architectural detail, selected for distinct view."
+      },
+      {
+        "candidate_id": 11,
+        "category": "Details",
+        "review_note": "Inspected group 10 contact sheets and named file metadata; clear identified building, local landscape or relevant architectural detail, selected for distinct view."
+      },
+      {
+        "candidate_id": 14,
+        "category": "Details",
+        "review_note": "Inspected group 10 contact sheets and named file metadata; clear identified building, local landscape or relevant architectural detail, selected for distinct view."
+      },
+      {
+        "candidate_id": 16,
+        "category": "Different_Views",
+        "review_note": "Inspected group 10 contact sheets and named file metadata; clear identified building, local landscape or relevant architectural detail, selected for distinct view."
+      },
+      {
+        "candidate_id": 18,
+        "category": "Details",
+        "review_note": "Inspected group 10 contact sheets and named file metadata; clear identified building, local landscape or relevant architectural detail, selected for distinct view."
+      },
+      {
+        "candidate_id": 22,
+        "category": "Different_Views",
+        "review_note": "Inspected group 10 contact sheets and named file metadata; clear identified building, local landscape or relevant architectural detail, selected for distinct view."
+      },
+      {
+        "candidate_id": 26,
+        "category": "Overview",
+        "review_note": "Inspected group 10 contact sheets and named file metadata; clear identified building, local landscape or relevant architectural detail, selected for distinct view."
+      },
+      {
+        "candidate_id": 27,
+        "category": "Details",
+        "review_note": "Inspected group 10 contact sheets and named file metadata; clear identified building, local landscape or relevant architectural detail, selected for distinct view."
+      },
+      {
+        "candidate_id": 30,
+        "category": "Details",
+        "review_note": "Inspected group 10 contact sheets and named file metadata; clear identified building, local landscape or relevant architectural detail, selected for distinct view."
+      }
+    ],
+    "coverage_note": "Fifteen distinct tower, tank, corridor and sculptural details accepted. Repeated street views, prominent logo, people-led framing and weaker dark frames excluded."
+  },
+  {
+    "place_id": "meenakshi_temple__thirumalai_nayakkar_mahal",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 10,
+        "category": "Overview",
+        "review_note": "Inspected group 10 contact sheets and named file metadata; clear identified building, local landscape or relevant architectural detail, selected for distinct view."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Different_Views",
+        "review_note": "Inspected group 10 contact sheets and named file metadata; clear identified building, local landscape or relevant architectural detail, selected for distinct view."
+      },
+      {
+        "candidate_id": 1,
+        "category": "Details",
+        "review_note": "Inspected group 10 contact sheets and named file metadata; clear identified building, local landscape or relevant architectural detail, selected for distinct view."
+      }
+    ],
+    "coverage_note": "Clear distinct views accepted; repeated-looking and weaker alternatives excluded."
+  },
+  {
+    "place_id": "meenakshi_temple__gandhi_memorial_museum",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "All ten candidates depict Gandhi Smriti/martyrdom path or Gandhi's last room in Delhi. None is Madurai's Gandhi Memorial Museum at Tamukkam Palace; all rejected."
+  },
+  {
+    "place_id": "meenakshi_temple__vandiyur_mariamman_teppakulam",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 4,
+        "category": "Overview",
+        "review_note": "Inspected group 10 contact sheets and named file metadata; clear identified building, local landscape or relevant architectural detail, selected for distinct view."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Different_Views",
+        "review_note": "Inspected group 10 contact sheets and named file metadata; clear identified building, local landscape or relevant architectural detail, selected for distinct view."
+      },
+      {
+        "candidate_id": 1,
+        "category": "Details",
+        "review_note": "Inspected group 10 contact sheets and named file metadata; clear identified building, local landscape or relevant architectural detail, selected for distinct view."
+      }
+    ],
+    "coverage_note": "Accepted the tank and its central island structure. Cropped water and unrelated detail views excluded."
+  },
+  {
+    "place_id": "meenakshi_temple__vilachery_pottery_village",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "No qualifying photograph collected; no unrelated image substituted."
+  },
+  {
+    "place_id": "meenakshi_temple__goripalayam_dargah",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "No qualifying photograph collected; no unrelated image substituted."
+  },
+  {
+    "place_id": "meenakshi_temple__koodal_azhagar_temple",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 3,
+        "category": "Overview",
+        "review_note": "Inspected group 10 contact sheets and named file metadata; clear identified building, local landscape or relevant architectural detail, selected for distinct view."
+      },
+      {
+        "candidate_id": 2,
+        "category": "Details",
+        "review_note": "Inspected group 10 contact sheets and named file metadata; clear identified building, local landscape or relevant architectural detail, selected for distinct view."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Details",
+        "review_note": "Inspected group 10 contact sheets and named file metadata; clear identified building, local landscape or relevant architectural detail, selected for distinct view."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Details",
+        "review_note": "Inspected group 10 contact sheets and named file metadata; clear identified building, local landscape or relevant architectural detail, selected for distinct view."
+      }
+    ],
+    "coverage_note": "Clear distinct views accepted; repeated-looking and weaker alternatives excluded."
+  },
+  {
+    "place_id": "meenakshi_temple__palamuthirsolai_murugan_temple",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "Candidate 1 identifies Kallazhagar Temple and candidate 2 Shrungagiri Sri Shanmukha Swamy Temple; neither is the requested Pazhamudircholai shrine. Both rejected."
+  },
+  {
+    "place_id": "meenakshi_temple__kazimar_big_mosque",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Inspected group 10 contact sheets and named file metadata; clear identified building, local landscape or relevant architectural detail, selected for distinct view."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Different_Views",
+        "review_note": "Inspected group 10 contact sheets and named file metadata; clear identified building, local landscape or relevant architectural detail, selected for distinct view."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Details",
+        "review_note": "Inspected group 10 contact sheets and named file metadata; clear identified building, local landscape or relevant architectural detail, selected for distinct view."
+      }
+    ],
+    "coverage_note": "Three clear mosque facade/minaret views accepted. Candidate 7 is Periyar bus stand, rejected as unrelated."
+  },
+  {
+    "place_id": "meenakshi_temple__yanaimalai",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 7,
+        "category": "Overview",
+        "review_note": "Inspected group 10 contact sheets and named file metadata; clear identified building, local landscape or relevant architectural detail, selected for distinct view."
+      },
+      {
+        "candidate_id": 2,
+        "category": "Different_Views",
+        "review_note": "Inspected group 10 contact sheets and named file metadata; clear identified building, local landscape or relevant architectural detail, selected for distinct view."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Details",
+        "review_note": "Inspected group 10 contact sheets and named file metadata; clear identified building, local landscape or relevant architectural detail, selected for distinct view."
+      },
+      {
+        "candidate_id": 8,
+        "category": "Different_Views",
+        "review_note": "Inspected group 10 contact sheets and named file metadata; clear identified building, local landscape or relevant architectural detail, selected for distinct view."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Details",
+        "review_note": "Inspected group 10 contact sheets and named file metadata; clear identified building, local landscape or relevant architectural detail, selected for distinct view."
+      }
+    ],
+    "coverage_note": "Clear distinct views accepted; repeated-looking and weaker alternatives excluded."
+  },
+  {
+    "place_id": "meenakshi_temple__samanar_hills",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Inspected group 10 contact sheets and named file metadata; clear identified building, local landscape or relevant architectural detail, selected for distinct view."
+      },
+      {
+        "candidate_id": 2,
+        "category": "Different_Views",
+        "review_note": "Inspected group 10 contact sheets and named file metadata; clear identified building, local landscape or relevant architectural detail, selected for distinct view."
+      },
+      {
+        "candidate_id": 3,
+        "category": "Details",
+        "review_note": "Inspected group 10 contact sheets and named file metadata; clear identified building, local landscape or relevant architectural detail, selected for distinct view."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Details",
+        "review_note": "Inspected group 10 contact sheets and named file metadata; clear identified building, local landscape or relevant architectural detail, selected for distinct view."
+      }
+    ],
+    "coverage_note": "Clear distinct views accepted; repeated-looking and weaker alternatives excluded."
+  },
+  {
+    "place_id": "golden_temple",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Different_Views",
+        "review_note": "Inspected group 11 contact sheet and file identity metadata; clear color photograph of identified place or its documented architectural detail."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Different_Views",
+        "review_note": "Inspected group 11 contact sheet and file identity metadata; clear color photograph of identified place or its documented architectural detail."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Different_Views",
+        "review_note": "Inspected group 11 contact sheet and file identity metadata; clear color photograph of identified place or its documented architectural detail."
+      },
+      {
+        "candidate_id": 8,
+        "category": "Overview",
+        "review_note": "Inspected group 11 contact sheet and file identity metadata; clear color photograph of identified place or its documented architectural detail."
+      },
+      {
+        "candidate_id": 9,
+        "category": "Overview",
+        "review_note": "Inspected group 11 contact sheet and file identity metadata; clear color photograph of identified place or its documented architectural detail."
+      },
+      {
+        "candidate_id": 11,
+        "category": "Different_Views",
+        "review_note": "Inspected group 11 contact sheet and file identity metadata; clear color photograph of identified place or its documented architectural detail."
+      },
+      {
+        "candidate_id": 18,
+        "category": "Details",
+        "review_note": "Inspected group 11 contact sheet and file identity metadata; clear color photograph of identified place or its documented architectural detail."
+      },
+      {
+        "candidate_id": 19,
+        "category": "Different_Views",
+        "review_note": "Inspected group 11 contact sheet and file identity metadata; clear color photograph of identified place or its documented architectural detail."
+      },
+      {
+        "candidate_id": 20,
+        "category": "Details",
+        "review_note": "Inspected group 11 contact sheet and file identity metadata; clear color photograph of identified place or its documented architectural detail."
+      },
+      {
+        "candidate_id": 23,
+        "category": "Details",
+        "review_note": "Inspected group 11 contact sheet and file identity metadata; clear color photograph of identified place or its documented architectural detail."
+      },
+      {
+        "candidate_id": 24,
+        "category": "Different_Views",
+        "review_note": "Inspected group 11 contact sheet and file identity metadata; clear color photograph of identified place or its documented architectural detail."
+      },
+      {
+        "candidate_id": 25,
+        "category": "Details",
+        "review_note": "Inspected group 11 contact sheet and file identity metadata; clear color photograph of identified place or its documented architectural detail."
+      }
+    ],
+    "coverage_note": "Twelve clear color complex, causeway, gate and decorative-detail photos accepted. Historic monochrome/painted reproductions, intrusive portrait framing, heavy vignette and repeated facades rejected."
+  },
+  {
+    "place_id": "golden_temple__pul_kanjri",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Details",
+        "review_note": "Inspected group 11 contact sheet and file identity metadata; clear color photograph of identified place or its documented architectural detail."
+      }
+    ],
+    "coverage_note": "One locally identified fresco photo accepted as Details. Overall site/building view is missing."
+  },
+  {
+    "place_id": "golden_temple__gurdwara_baba_atal_rai",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 7,
+        "category": "Overview",
+        "review_note": "Inspected group 11 contact sheet and file identity metadata; clear color photograph of identified place or its documented architectural detail."
+      },
+      {
+        "candidate_id": 1,
+        "category": "Different_Views",
+        "review_note": "Inspected group 11 contact sheet and file identity metadata; clear color photograph of identified place or its documented architectural detail."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Details",
+        "review_note": "Inspected group 11 contact sheet and file identity metadata; clear color photograph of identified place or its documented architectural detail."
+      }
+    ],
+    "coverage_note": "Distinct clear identified views accepted; weaker and repeated-looking alternatives rejected."
+  },
+  {
+    "place_id": "golden_temple__khalsa_college",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Inspected group 11 contact sheet and file identity metadata; clear color photograph of identified place or its documented architectural detail."
+      },
+      {
+        "candidate_id": 2,
+        "category": "Different_Views",
+        "review_note": "Inspected group 11 contact sheet and file identity metadata; clear color photograph of identified place or its documented architectural detail."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Details",
+        "review_note": "Inspected group 11 contact sheet and file identity metadata; clear color photograph of identified place or its documented architectural detail."
+      }
+    ],
+    "coverage_note": "Only Amritsar building and entrance images accepted. Delhi, Mumbai, Sidhwan Khurd and unrelated shop/manuscript matches rejected."
+  },
+  {
+    "place_id": "golden_temple__ram_bagh_palace",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Surroundings",
+        "review_note": "Inspected clear color palace-complex gateway/ASI detail; this is entrance coverage, not the central summer palace building."
+      },
+      {
+        "candidate_id": 3,
+        "category": "Different_Views",
+        "review_note": "Inspected clear color palace-complex gateway/ASI detail; this is entrance coverage, not the central summer palace building."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Details",
+        "review_note": "Inspected clear color palace-complex gateway/ASI detail; this is entrance coverage, not the central summer palace building."
+      }
+    ],
+    "coverage_note": "Accepted the documented palace-complex Deorhi entrance and ASI description. Images do not provide a full view of the summer palace building; gateway coverage is explicitly partial."
+  },
+  {
+    "place_id": "golden_temple__gobindgarh_fort",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Inspected group 11 contact sheet and file identity metadata; clear color photograph of identified place or its documented architectural detail."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Details",
+        "review_note": "Inspected group 11 contact sheet and file identity metadata; clear color photograph of identified place or its documented architectural detail."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Different_Views",
+        "review_note": "Inspected group 11 contact sheet and file identity metadata; clear color photograph of identified place or its documented architectural detail."
+      },
+      {
+        "candidate_id": 8,
+        "category": "Different_Views",
+        "review_note": "Inspected group 11 contact sheet and file identity metadata; clear color photograph of identified place or its documented architectural detail."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Details",
+        "review_note": "Inspected group 11 contact sheet and file identity metadata; clear color photograph of identified place or its documented architectural detail."
+      }
+    ],
+    "coverage_note": "Distinct clear identified views accepted; weaker and repeated-looking alternatives rejected."
+  },
+  {
+    "place_id": "golden_temple__partition_museum",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Inspected group 11 contact sheet and file identity metadata; clear color photograph of identified place or its documented architectural detail."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Different_Views",
+        "review_note": "Inspected group 11 contact sheet and file identity metadata; clear color photograph of identified place or its documented architectural detail."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Details",
+        "review_note": "Inspected group 11 contact sheet and file identity metadata; clear color photograph of identified place or its documented architectural detail."
+      }
+    ],
+    "coverage_note": "Amritsar Town Hall/museum building views accepted. Candidates 8–10 identify Delhi and were rejected; shawl exhibit location insufficiently specific."
+  },
+  {
+    "place_id": "golden_temple__gurdwara_mata_kaulan",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "Batch shows Baba Atal tower, Kaulsar tank and an unrelated Giani Sant Singh memorial, not the specific Mata Kaulan gurdwara. No building substitute accepted."
+  },
+  {
+    "place_id": "golden_temple__durgiana_temple",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 2,
+        "category": "Overview",
+        "review_note": "Inspected group 11 contact sheet and file identity metadata; clear color photograph of identified place or its documented architectural detail."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Different_Views",
+        "review_note": "Inspected group 11 contact sheet and file identity metadata; clear color photograph of identified place or its documented architectural detail."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Details",
+        "review_note": "Inspected group 11 contact sheet and file identity metadata; clear color photograph of identified place or its documented architectural detail."
+      },
+      {
+        "candidate_id": 8,
+        "category": "Different_Views",
+        "review_note": "Inspected group 11 contact sheet and file identity metadata; clear color photograph of identified place or its documented architectural detail."
+      },
+      {
+        "candidate_id": 1,
+        "category": "Details",
+        "review_note": "Inspected group 11 contact sheet and file identity metadata; clear color photograph of identified place or its documented architectural detail."
+      }
+    ],
+    "coverage_note": "Distinct clear identified views accepted; weaker and repeated-looking alternatives rejected."
+  },
+  {
+    "place_id": "golden_temple__harike_wetland",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Inspected group 11 contact sheet and file identity metadata; clear color photograph of identified place or its documented architectural detail."
+      }
+    ],
+    "coverage_note": "One clear wetland landscape accepted. Remaining distant bird-led, hazy and similar views not used."
+  },
+  {
+    "place_id": "golden_temple__saragarhi_memorial",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "No qualifying Commons candidate collected; requested Amritsar memorial remains without image."
+  },
+  {
+    "place_id": "khajuraho_monuments",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Details",
+        "review_note": "Clear carved exterior wall."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Different_Views",
+        "review_note": "Distinct side elevation and mandapa."
+      },
+      {
+        "candidate_id": 11,
+        "category": "Details",
+        "review_note": "Clear sculpture inside the temple."
+      },
+      {
+        "candidate_id": 12,
+        "category": "Details",
+        "review_note": "Interior Shiva linga view."
+      },
+      {
+        "candidate_id": 13,
+        "category": "Surroundings",
+        "review_note": "Temple grounds framed by the large tree."
+      },
+      {
+        "candidate_id": 14,
+        "category": "Details",
+        "review_note": "Ornamental stone ceiling."
+      },
+      {
+        "candidate_id": 17,
+        "category": "Overview",
+        "review_note": "Complete temple elevation with clear stonework."
+      },
+      {
+        "candidate_id": 19,
+        "category": "Different_Views",
+        "review_note": "Entrance staircase and facade angle."
+      },
+      {
+        "candidate_id": 20,
+        "category": "Different_Views",
+        "review_note": "White shrine within the Khajuraho western complex; useful complex coverage."
+      },
+      {
+        "candidate_id": 21,
+        "category": "Different_Views",
+        "review_note": "Wider temple-complex setting."
+      },
+      {
+        "candidate_id": 24,
+        "category": "Details",
+        "review_note": "Close view of Chitragupta Temple carved panels."
+      },
+      {
+        "candidate_id": 26,
+        "category": "Overview",
+        "review_note": "Dulhadeo Temple full elevation."
+      },
+      {
+        "candidate_id": 27,
+        "category": "Details",
+        "review_note": "Jagadambi Temple carved interior doorway."
+      },
+      {
+        "candidate_id": 28,
+        "category": "Details",
+        "review_note": "Lion figure with Devi Jagadamba Temple in the background."
+      },
+      {
+        "candidate_id": 29,
+        "category": "Details",
+        "review_note": "Dulhadeo carved figure."
+      },
+      {
+        "candidate_id": 30,
+        "category": "Details",
+        "review_note": "Dulhadeo exterior carving bands."
+      },
+      {
+        "candidate_id": 31,
+        "category": "Different_Views",
+        "review_note": "Dulhadeo tower and side elevation."
+      },
+      {
+        "candidate_id": 32,
+        "category": "Overview",
+        "review_note": "Dulhadeo full front elevation."
+      }
+    ],
+    "coverage_note": "18 distinct color photographs cover multiple temples, exterior views, carvings and interiors. Rejected phone watermarks, tourist portraits, silhouettes, weak images and repeated-looking views."
+  },
+  {
+    "place_id": "khajuraho_monuments__raneh_falls",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 2,
+        "category": "Overview",
+        "review_note": "Clear dry-season canyon and rock formations."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Different_Views",
+        "review_note": "Wide Ken River waterfall and surrounding plateau."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Details",
+        "review_note": "Close view of falling water and colorful gorge walls."
+      }
+    ],
+    "coverage_note": "Three clear distinct river and gorge views. Rejected a visible photographer watermark, heavy filters, soft or repeated views."
+  },
+  {
+    "place_id": "khajuraho_monuments__pandav_falls",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Actual waterfall and pool."
+      },
+      {
+        "candidate_id": 3,
+        "category": "Details",
+        "review_note": "Clear pool and surrounding rock face."
+      },
+      {
+        "candidate_id": 8,
+        "category": "Different_Views",
+        "review_note": "Cave-side walkway at the same Panna waterfall site."
+      }
+    ],
+    "coverage_note": "Three relevant clear waterfall, pool and cave-setting views. Rejected timestamp overlays and generic tree photographs."
+  },
+  {
+    "place_id": "khajuraho_monuments__ken_gharial_sanctuary",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "No candidates collected for this exact sanctuary; no substitute wildlife or waterfall photos selected."
+  },
+  {
+    "place_id": "khajuraho_monuments__matangeshwar_temple",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Actual temple entrance; visitors are secondary to the building."
+      }
+    ],
+    "coverage_note": "Only one collected candidate, showing the correct temple exterior."
+  },
+  {
+    "place_id": "khajuraho_monuments__ajaigarh_fort",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 5,
+        "category": "Overview",
+        "review_note": "Complete surviving temple within the fort."
+      },
+      {
+        "candidate_id": 2,
+        "category": "Details",
+        "review_note": "Clear elaborate stone panel from Ajaigarh."
+      },
+      {
+        "candidate_id": 3,
+        "category": "Details",
+        "review_note": "Large monolithic animal relief."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Different_Views",
+        "review_note": "Temple ruins and wooded hill setting."
+      }
+    ],
+    "coverage_note": "Four different temple/ruin and carving views. Rejected a posed tourist group and a people-dominant tank scene."
+  },
+  {
+    "place_id": "khajuraho_monuments__kalinjar_fort",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 2,
+        "category": "Overview",
+        "review_note": "Nilakanth Temple gateway within Kalinjar Fort."
+      },
+      {
+        "candidate_id": 3,
+        "category": "Different_Views",
+        "review_note": "Wide palace and fort architecture."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Details",
+        "review_note": "Clear rock-cut relief."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Surroundings",
+        "review_note": "Hill landscape from the fort."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Details",
+        "review_note": "Different relief figure with historic markings on the stone."
+      }
+    ],
+    "coverage_note": "Five different architecture, relief and hill-setting views. Rejected a car-mirror selfie composition, hazy sunset and repeated relief view."
+  },
+  {
+    "place_id": "khajuraho_monuments__jain_museum",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Actual Khajuraho Jain Museum exterior and architectural fragment."
+      }
+    ],
+    "coverage_note": "Only one suitable clear overview. The second candidate is the correct museum sculpture but too soft for this quality target."
+  },
+  {
+    "place_id": "khajuraho_monuments__duladeo_temple",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 2,
+        "category": "Overview",
+        "review_note": "Full front of the actual Duladeo Temple."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Details",
+        "review_note": "Sharp intricate sculpture bands."
+      },
+      {
+        "candidate_id": 9,
+        "category": "Different_Views",
+        "review_note": "Distinct temple side elevation."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Details",
+        "review_note": "Clear Nandi and other exterior sculptures."
+      }
+    ],
+    "coverage_note": "Four clear distinct temple and carving views. Rejected strong color effects, redundant fronts and an unrelated-looking generic garden composition."
+  },
+  {
+    "place_id": "khajuraho_monuments__chaturbhuj_temple",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 9,
+        "category": "Overview",
+        "review_note": "Complete front elevation in natural light."
+      },
+      {
+        "candidate_id": 8,
+        "category": "Different_Views",
+        "review_note": "Clear three-quarter temple elevation."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Details",
+        "review_note": "Close carved exterior detail."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Details",
+        "review_note": "Interior architecture; small visitors do not obscure the stonework."
+      }
+    ],
+    "coverage_note": "Four different front, side, carving and interior views. Rejected repeated views and conspicuous orange/color grading."
+  },
+  {
+    "place_id": "khajuraho_monuments__beni_sagar_dam",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Actual Beni Sagar Dam near Khajuraho; reservoir and jetty."
+      }
+    ],
+    "coverage_note": "One relevant dam view. Candidates 2–10 show Benisagar Archaeological Museum in West Singhbhum, Jharkhand, and are the wrong place."
+  },
+  {
+    "place_id": "ajanta_ellora_caves",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Different_Views",
+        "review_note": "Clear Ajanta Cave 9 facade."
+      },
+      {
+        "candidate_id": 2,
+        "category": "Overview",
+        "review_note": "Clear Ajanta chaitya hall and stupa."
+      },
+      {
+        "candidate_id": 3,
+        "category": "Overview",
+        "review_note": "Ajanta basalt cliffs and cave entrances."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Details",
+        "review_note": "Sharp rock-cut Hariti and Panchika relief."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Details",
+        "review_note": "Ajanta painted ceiling and walls."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Details",
+        "review_note": "Carved arcade and vaulted chaitya roof."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Details",
+        "review_note": "Clear painted ceiling composition."
+      },
+      {
+        "candidate_id": 11,
+        "category": "Different_Views",
+        "review_note": "Different Ajanta cave entrance; building remains the main subject."
+      },
+      {
+        "candidate_id": 12,
+        "category": "Details",
+        "review_note": "Ajanta wall painting in its interior setting."
+      },
+      {
+        "candidate_id": 19,
+        "category": "Details",
+        "review_note": "Close stupa and carved pillars."
+      },
+      {
+        "candidate_id": 20,
+        "category": "Details",
+        "review_note": "Clear Buddha sculpture and surrounding relief."
+      },
+      {
+        "candidate_id": 24,
+        "category": "Details",
+        "review_note": "Buddha shrine framed by cave architecture."
+      },
+      {
+        "candidate_id": 25,
+        "category": "Different_Views",
+        "review_note": "Illuminated monastery hall and columns."
+      },
+      {
+        "candidate_id": 27,
+        "category": "Details",
+        "review_note": "Actual Ajanta entry monument sign."
+      },
+      {
+        "candidate_id": 31,
+        "category": "Surroundings",
+        "review_note": "Ajanta visitor path and cave-cliff landscape."
+      },
+      {
+        "candidate_id": 32,
+        "category": "Details",
+        "review_note": "Carved cave entrance columns and lintel."
+      }
+    ],
+    "coverage_note": "16 suitable natural-color photographs cover Ajanta exteriors, interiors, carvings, paintings and setting. All 32 collected candidates are Ajanta; no Ellora photograph was collected, so the combined place still needs Ellora coverage. Rejected motion blur, animals, illustrations, heavy vignette, overexposure, weak paintings and repeated-looking views."
+  },
+  {
+    "place_id": "ajanta_ellora_caves__daulatabad_fort",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 5,
+        "category": "Overview",
+        "review_note": "Clear fortified gateway and bastion."
+      },
+      {
+        "candidate_id": 2,
+        "category": "Different_Views",
+        "review_note": "Different stone gateway and approach."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Details",
+        "review_note": "Rock-cut doorway inside the fort."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Details",
+        "review_note": "Clear stone arcade."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Surroundings",
+        "review_note": "Landscape and town seen from the fort hill."
+      }
+    ],
+    "coverage_note": "Five different gateway, rock-cut doorway, arcade and hill-setting views. A clear full hill-fort panorama would improve coverage; dark silhouette and softer images excluded."
+  },
+  {
+    "place_id": "ajanta_ellora_caves__bibi_ka_maqbara",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 2,
+        "category": "Overview",
+        "review_note": "Full mausoleum, minarets and central garden axis."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Different_Views",
+        "review_note": "Clear distinct entrance-gateway angle."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Details",
+        "review_note": "Closer mausoleum facade and dome."
+      },
+      {
+        "candidate_id": 8,
+        "category": "Details",
+        "review_note": "Clear decorative stucco and stone screen."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Surroundings",
+        "review_note": "Mosque within the mausoleum complex."
+      }
+    ],
+    "coverage_note": "Five distinct mausoleum, gateway, decoration and complex views. Rejected weak repeated fronts and a soft interior photo."
+  },
+  {
+    "place_id": "ajanta_ellora_caves__khuldabad",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 2,
+        "category": "Overview",
+        "review_note": "Actual Nagarkhana Gate."
+      },
+      {
+        "candidate_id": 3,
+        "category": "Details",
+        "review_note": "Azam Shah tombs."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Different_Views",
+        "review_note": "Clear Malik Ambar tomb elevation."
+      },
+      {
+        "candidate_id": 9,
+        "category": "Details",
+        "review_note": "Aurangzeb tomb enclosure."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Different_Views",
+        "review_note": "Bani Begum garden structures and setting."
+      }
+    ],
+    "coverage_note": "Five actual local heritage structures, not generic portraits or unrelated landscapes. Rejected monochrome historical photo and repeated tomb/temple views."
+  },
+  {
+    "place_id": "ajanta_ellora_caves__grishneshwar_jyotirlinga",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Clear actual Grishneshwar temple exterior."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Different_Views",
+        "review_note": "Distinct temple side elevation."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Details",
+        "review_note": "Temple tower carvings."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Surroundings",
+        "review_note": "Associated temple-area stepped sacred tank; not a substitute temple overview."
+      }
+    ],
+    "coverage_note": "Three actual temple views and one associated stepped tank. Rejected mosque, guesthouse, timestamp image and repeated tank views."
+  },
+  {
+    "place_id": "ajanta_ellora_caves__siddharth_garden",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 2,
+        "category": "Overview",
+        "review_note": "Actual Siddharth Garden and Zoo gate from the road."
+      },
+      {
+        "candidate_id": 1,
+        "category": "Details",
+        "review_note": "Closer entry gateway and site sign."
+      }
+    ],
+    "coverage_note": "Two actual entrance views only; garden interiors remain missing. Animal-only photographs do not show the requested place clearly."
+  },
+  {
+    "place_id": "ajanta_ellora_caves__salim_ali_lake",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Clear daytime lake and distant shoreline."
+      }
+    ],
+    "coverage_note": "One usable daytime lake view. The night reflection photo is too soft for this quality target."
+  },
+  {
+    "place_id": "ajanta_ellora_caves__panchakki",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 5,
+        "category": "Overview",
+        "review_note": "Actual Panchakki water pool and surrounding complex."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Different_Views",
+        "review_note": "Clear adjoining arcade and religious building."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Details",
+        "review_note": "Pool fountain and arcade detail."
+      }
+    ],
+    "coverage_note": "Three clear actual water-pool, fountain and associated arcade views. A visible working water-mill mechanism photo remains missing. Rejected repeated pool views, photographer watermark, heavy color effects and weak sign image."
+  },
+  {
+    "place_id": "ajanta_ellora_caves__jama_masjid_aurangabad",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Surroundings",
+        "review_note": "Actual Aurangabad Jama Masjid courtyard; mosque facade is only partially visible behind trees."
+      }
+    ],
+    "coverage_note": "Only one candidate shows the correct Aurangabad courtyard; full mosque facade remains missing. Candidates 2–10 show other Jama Masjids in Uperkot, Ahmedabad, Delhi, Padum or otherwise do not establish the requested Aurangabad identity."
+  },
+  {
+    "place_id": "ajanta_ellora_caves__soneri_mahal",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 8,
+        "category": "Overview",
+        "review_note": "Clear palace, garden and water-channel axis."
+      },
+      {
+        "candidate_id": 9,
+        "category": "Different_Views",
+        "review_note": "Palace framed by actual gateway arch."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Details",
+        "review_note": "Close gate and metal door."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Different_Views",
+        "review_note": "View along water channel toward the opposite gateway."
+      }
+    ],
+    "coverage_note": "Four distinct palace, garden axis, gateway framing and door views. Rejected repeated-looking facade and gateway images."
+  },
+  {
+    "place_id": "ajanta_ellora_caves__bhadra_maruti_temple",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 3,
+        "category": "Overview",
+        "review_note": "Actual Bhadra Maruti temple exterior and approach."
+      },
+      {
+        "candidate_id": 1,
+        "category": "Details",
+        "review_note": "Clear reclining Hanuman shrine with offerings."
+      }
+    ],
+    "coverage_note": "Two clear actual temple and shrine photographs. A nearby tree/secondary Shani shrine does not supply another useful main-temple image."
+  },
+  {
+    "place_id": "konark_sun_temple",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Details",
+        "review_note": "Clear Surya sculpture and stone niche."
+      },
+      {
+        "candidate_id": 2,
+        "category": "Overview",
+        "review_note": "Full surviving hall facade with visible conservation scaffolding."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Details",
+        "review_note": "Sharp stone chariot wheel and carved wall."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Details",
+        "review_note": "Upward view of carved stone architectural bands."
+      },
+      {
+        "candidate_id": 8,
+        "category": "Details",
+        "review_note": "Clear ornamental entrance doorway."
+      },
+      {
+        "candidate_id": 12,
+        "category": "Different_Views",
+        "review_note": "Natamandira remains and staircase."
+      },
+      {
+        "candidate_id": 13,
+        "category": "Details",
+        "review_note": "Roofless hall columns and upper stonework."
+      },
+      {
+        "candidate_id": 14,
+        "category": "Different_Views",
+        "review_note": "Surviving hall side elevation in warm natural light."
+      },
+      {
+        "candidate_id": 16,
+        "category": "Different_Views",
+        "review_note": "Temple framed through the actual stone hall entrance."
+      },
+      {
+        "candidate_id": 17,
+        "category": "Details",
+        "review_note": "Natamandira external wall sculpture."
+      },
+      {
+        "candidate_id": 19,
+        "category": "Surroundings",
+        "review_note": "Temple grounds and secondary ruins."
+      },
+      {
+        "candidate_id": 23,
+        "category": "Overview",
+        "review_note": "Distinct rear temple elevation and grounds."
+      },
+      {
+        "candidate_id": 24,
+        "category": "Different_Views",
+        "review_note": "Long chariot wall, wheel and courtyard."
+      },
+      {
+        "candidate_id": 25,
+        "category": "Different_Views",
+        "review_note": "Wide roofless hall and complex layout."
+      },
+      {
+        "candidate_id": 28,
+        "category": "Details",
+        "review_note": "Secondary surviving stone platform and architectural remains."
+      },
+      {
+        "candidate_id": 29,
+        "category": "Different_Views",
+        "review_note": "Low-angle chariot wall and surviving temple."
+      },
+      {
+        "candidate_id": 30,
+        "category": "Details",
+        "review_note": "Clear upper architectural crown and carvings."
+      }
+    ],
+    "coverage_note": "17 distinct clear color images show the surviving hall, roofless hall, sculptures, wheel, doorway and grounds. Some photographs document visible scaffolding and must not be represented as today's exact condition. Rejected timestamp, tourist-dominant compositions, dark or weak images, strong color effects and repeated-looking views."
+  },
+  {
+    "place_id": "konark_sun_temple__kuruma_buddhist_site",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "No candidates collected for the exact Kuruma Buddhist site."
+  },
+  {
+    "place_id": "konark_sun_temple__ramachandi_temple",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 5,
+        "category": "Overview",
+        "review_note": "Clear actual Ramachandi Temple front."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Details",
+        "review_note": "Bright gold-topped shrine tower."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Details",
+        "review_note": "Maa Ramachandi Pitha sign and actual entry setting."
+      },
+      {
+        "candidate_id": 9,
+        "category": "Different_Views",
+        "review_note": "Temple seen from outside the enclosing wall."
+      }
+    ],
+    "coverage_note": "Four actual distinct temple, tower, entry-sign and outer-wall views. Rejected repeated fronts, obstructed tower, people-dominant interior and unrelated-looking skeleton exhibit for the gallery."
+  },
+  {
+    "place_id": "konark_sun_temple__chandrabhaga_beach",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Actual Chandrabhaga shoreline and breaking waves."
+      },
+      {
+        "candidate_id": 2,
+        "category": "Different_Views",
+        "review_note": "Empty beach, dunes and coastal vegetation."
+      },
+      {
+        "candidate_id": 3,
+        "category": "Details",
+        "review_note": "Fishing boats on the actual beach."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Aerial",
+        "review_note": "Elevated coastline view shows the beach, road and coastal strip."
+      }
+    ],
+    "coverage_note": "Four varied shoreline, beach/dunes, boat and elevated coastline views. Rejected blurry haze, tourist portraits, repeated shore views and dark tree silhouettes."
+  },
+  {
+    "place_id": "konark_sun_temple__astaranga_beach",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "No candidates collected for the exact Astaranga beach; Puri or Chandrabhaga photos are not substitutes."
+  },
+  {
+    "place_id": "konark_sun_temple__barahi_temple_chaurasi",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Clear natural-color actual Varahi Temple at Chaurasi."
+      }
+    ],
+    "coverage_note": "One clear actual temple photograph. The other candidate is a map of many Odisha sites, not a monument photo."
+  },
+  {
+    "place_id": "konark_sun_temple__pipili_village",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 2,
+        "category": "Different_Views",
+        "review_note": "Actual Pipili craft shop display."
+      },
+      {
+        "candidate_id": 3,
+        "category": "Details",
+        "review_note": "Clear ceremonial applique fans."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Details",
+        "review_note": "Distinct applique umbrellas and hanging fabric crafts."
+      }
+    ],
+    "coverage_note": "Three clear actual applique craft/shop photos. Village street and artisan-at-work overview remain missing. Rejected repeated craft-wall views."
+  },
+  {
+    "place_id": "konark_sun_temple__dhauli_shanti_stupa",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 4,
+        "category": "Overview",
+        "review_note": "Actual white Dhauli Shanti Stupa."
+      },
+      {
+        "candidate_id": 3,
+        "category": "Details",
+        "review_note": "Clear seated Buddha statue."
+      },
+      {
+        "candidate_id": 9,
+        "category": "Details",
+        "review_note": "Colored architectural Buddhist relief panel."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Details",
+        "review_note": "Distinct Buddha and wheel relief panel."
+      }
+    ],
+    "coverage_note": "Four actual distinct stupa and relief/statue photos. Rejected softer reliefs, redundant panels and an unrelated person's roadside memorial."
+  },
+  {
+    "place_id": "konark_sun_temple__chausathi_yogini_temple",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "No candidates collected for the Hirapur Chausathi/Chausath Yogini Temple identity used in the sourced content."
+  },
+  {
+    "place_id": "konark_sun_temple__mangalajodi_chilika",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Clear actual wetland landscape."
+      },
+      {
+        "candidate_id": 3,
+        "category": "Different_Views",
+        "review_note": "Natural sunset boat and marsh setting."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Surroundings",
+        "review_note": "Boat landing and channels."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Different_Views",
+        "review_note": "Guided boat within the wetland, with landscape context."
+      }
+    ],
+    "coverage_note": "Four distinct wetland, sunset, boat-landing and guided-boat photographs. Rejected bird-only/fisherman-portrait images, heavy sunset coloring, overexposure and haze."
+  },
+  {
+    "place_id": "konark_sun_temple__raghurajpur_artist_village",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "No candidates collected for the exact Raghurajpur artist village."
+  }
+]

@@ -1,0 +1,182 @@
+{
+  "parent_monument_id": "mahabalipuram",
+  "parent_monument_name": "Mahabalipuram, Tamil Nadu",
+  "selection_source": "User-supplied table",
+  "nearby_entry_count": 10,
+  "places": [
+    {
+      "id": "mahabalipuram__tiger_cave",
+      "order": 1,
+      "display_name": "Tiger Cave",
+      "folder_name": "Tiger_Cave",
+      "parent_monument_id": "mahabalipuram",
+      "paths": {
+        "data": "01_Data/Mahabalipuram/Nearby_Heritage/Tiger_Cave",
+        "images": "02_Images/Mahabalipuram/Nearby_Heritage/Tiger_Cave",
+        "scripts": "03_Scripts/Mahabalipuram/Nearby_Heritage/Tiger_Cave",
+        "audio": "04_Audio/Mahabalipuram/Nearby_Heritage/Tiger_Cave"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "mahabalipuram__sadras_dutch_fort",
+      "order": 2,
+      "display_name": "Sadras Dutch Fort",
+      "folder_name": "Sadras_Dutch_Fort",
+      "parent_monument_id": "mahabalipuram",
+      "paths": {
+        "data": "01_Data/Mahabalipuram/Nearby_Heritage/Sadras_Dutch_Fort",
+        "images": "02_Images/Mahabalipuram/Nearby_Heritage/Sadras_Dutch_Fort",
+        "scripts": "03_Scripts/Mahabalipuram/Nearby_Heritage/Sadras_Dutch_Fort",
+        "audio": "04_Audio/Mahabalipuram/Nearby_Heritage/Sadras_Dutch_Fort"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "mahabalipuram__nithyakalyana_perumal_temple",
+      "order": 3,
+      "display_name": "Nithyakalyana Perumal Temple",
+      "folder_name": "Nithyakalyana_Perumal_Temple",
+      "parent_monument_id": "mahabalipuram",
+      "paths": {
+        "data": "01_Data/Mahabalipuram/Nearby_Heritage/Nithyakalyana_Perumal_Temple",
+        "images": "02_Images/Mahabalipuram/Nearby_Heritage/Nithyakalyana_Perumal_Temple",
+        "scripts": "03_Scripts/Mahabalipuram/Nearby_Heritage/Nithyakalyana_Perumal_Temple",
+        "audio": "04_Audio/Mahabalipuram/Nearby_Heritage/Nithyakalyana_Perumal_Temple"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": [
+        "Confirm site identity against Sri Thiruvidandhai; retain both user-selected entries until checked."
+      ]
+    },
+    {
+      "id": "mahabalipuram__alamparai_fort",
+      "order": 4,
+      "display_name": "Alamparai Fort",
+      "folder_name": "Alamparai_Fort",
+      "parent_monument_id": "mahabalipuram",
+      "paths": {
+        "data": "01_Data/Mahabalipuram/Nearby_Heritage/Alamparai_Fort",
+        "images": "02_Images/Mahabalipuram/Nearby_Heritage/Alamparai_Fort",
+        "scripts": "03_Scripts/Mahabalipuram/Nearby_Heritage/Alamparai_Fort",
+        "audio": "04_Audio/Mahabalipuram/Nearby_Heritage/Alamparai_Fort"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "mahabalipuram__cholamandal_artists_village",
+      "order": 5,
+      "display_name": "Cholamandal Artists' Village",
+      "folder_name": "Cholamandal_Artists_Village",
+      "parent_monument_id": "mahabalipuram",
+      "paths": {
+        "data": "01_Data/Mahabalipuram/Nearby_Heritage/Cholamandal_Artists_Village",
+        "images": "02_Images/Mahabalipuram/Nearby_Heritage/Cholamandal_Artists_Village",
+        "scripts": "03_Scripts/Mahabalipuram/Nearby_Heritage/Cholamandal_Artists_Village",
+        "audio": "04_Audio/Mahabalipuram/Nearby_Heritage/Cholamandal_Artists_Village"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "mahabalipuram__dakshinachitra",
+      "order": 6,
+      "display_name": "DakshinaChitra",
+      "folder_name": "DakshinaChitra",
+      "parent_monument_id": "mahabalipuram",
+      "paths": {
+        "data": "01_Data/Mahabalipuram/Nearby_Heritage/DakshinaChitra",
+        "images": "02_Images/Mahabalipuram/Nearby_Heritage/DakshinaChitra",
+        "scripts": "03_Scripts/Mahabalipuram/Nearby_Heritage/DakshinaChitra",
+        "audio": "04_Audio/Mahabalipuram/Nearby_Heritage/DakshinaChitra"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "mahabalipuram__muttukadu_backwaters",
+      "order": 7,
+      "display_name": "Muttukadu Backwaters",
+      "folder_name": "Muttukadu_Backwaters",
+      "parent_monument_id": "mahabalipuram",
+      "paths": {
+        "data": "01_Data/Mahabalipuram/Nearby_Heritage/Muttukadu_Backwaters",
+        "images": "02_Images/Mahabalipuram/Nearby_Heritage/Muttukadu_Backwaters",
+        "scripts": "03_Scripts/Mahabalipuram/Nearby_Heritage/Muttukadu_Backwaters",
+        "audio": "04_Audio/Mahabalipuram/Nearby_Heritage/Muttukadu_Backwaters"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "mahabalipuram__vedanthangal_bird_sanctuary",
+      "order": 8,
+      "display_name": "Vedanthangal Bird Sanctuary",
+      "folder_name": "Vedanthangal_Bird_Sanctuary",
+      "parent_monument_id": "mahabalipuram",
+      "paths": {
+        "data": "01_Data/Mahabalipuram/Nearby_Heritage/Vedanthangal_Bird_Sanctuary",
+        "images": "02_Images/Mahabalipuram/Nearby_Heritage/Vedanthangal_Bird_Sanctuary",
+        "scripts": "03_Scripts/Mahabalipuram/Nearby_Heritage/Vedanthangal_Bird_Sanctuary",
+        "audio": "04_Audio/Mahabalipuram/Nearby_Heritage/Vedanthangal_Bird_Sanctuary"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "mahabalipuram__sri_thiruvidandhai",
+      "order": 9,
+      "display_name": "Sri Thiruvidandhai",
+      "folder_name": "Sri_Thiruvidandhai",
+      "parent_monument_id": "mahabalipuram",
+      "paths": {
+        "data": "01_Data/Mahabalipuram/Nearby_Heritage/Sri_Thiruvidandhai",
+        "images": "02_Images/Mahabalipuram/Nearby_Heritage/Sri_Thiruvidandhai",
+        "scripts": "03_Scripts/Mahabalipuram/Nearby_Heritage/Sri_Thiruvidandhai",
+        "audio": "04_Audio/Mahabalipuram/Nearby_Heritage/Sri_Thiruvidandhai"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": [
+        "Confirm whether this is the locality or the temple already listed as Nithyakalyana Perumal Temple."
+      ]
+    },
+    {
+      "id": "mahabalipuram__poonjeri_village",
+      "order": 10,
+      "display_name": "Poonjeri Village",
+      "folder_name": "Poonjeri_Village",
+      "parent_monument_id": "mahabalipuram",
+      "paths": {
+        "data": "01_Data/Mahabalipuram/Nearby_Heritage/Poonjeri_Village",
+        "images": "02_Images/Mahabalipuram/Nearby_Heritage/Poonjeri_Village",
+        "scripts": "03_Scripts/Mahabalipuram/Nearby_Heritage/Poonjeri_Village",
+        "audio": "04_Audio/Mahabalipuram/Nearby_Heritage/Poonjeri_Village"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    }
+  ]
+}

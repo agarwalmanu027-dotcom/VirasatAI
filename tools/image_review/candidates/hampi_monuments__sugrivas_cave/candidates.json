@@ -1,0 +1,11 @@
+{
+  "place_id": "hampi_monuments__sugrivas_cave",
+  "display_name": "Sugriva's Cave",
+  "parent_id": "hampi_monuments",
+  "main_order": 9,
+  "is_main": false,
+  "candidates": [],
+  "errors": [],
+  "visual_review_status": "pending",
+  "status": "no_qualifying_candidates"
+}

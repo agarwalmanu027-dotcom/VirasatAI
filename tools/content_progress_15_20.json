@@ -1,0 +1,533 @@
+{
+  "checked_date": "2026-10-07",
+  "completed_count": 65,
+  "completed_ids": [
+    "sanchi_stupa",
+    "sanchi_stupa__udayagiri_caves",
+    "sanchi_stupa__heliodorus_pillar",
+    "sanchi_stupa__bijamandal",
+    "sanchi_stupa__raisen_fort",
+    "sanchi_stupa__sonari_stupas",
+    "sanchi_stupa__satdhara_stupas",
+    "sanchi_stupa__bhojpur_temple",
+    "sanchi_stupa__andher_stupas",
+    "sanchi_stupa__halali_dam",
+    "sanchi_stupa__neelkantheshwar_temple",
+    "city_palace_udaipur",
+    "city_palace_udaipur__ahar_cenotaphs",
+    "city_palace_udaipur__sajjangarh_monsoon_palace",
+    "city_palace_udaipur__badi_lake",
+    "city_palace_udaipur__saheliyon_ki_bari",
+    "city_palace_udaipur__bagore_ki_haveli",
+    "city_palace_udaipur__shilpgram",
+    "city_palace_udaipur__karni_mata_temple",
+    "city_palace_udaipur__ambrai_ghat",
+    "city_palace_udaipur__vintage_car_museum",
+    "city_palace_udaipur__eklingji_temple",
+    "mahabalipuram",
+    "mahabalipuram__tiger_cave",
+    "mahabalipuram__sadras_dutch_fort",
+    "mahabalipuram__nithyakalyana_perumal_temple",
+    "mahabalipuram__alamparai_fort",
+    "mahabalipuram__cholamandal_artists_village",
+    "mahabalipuram__dakshinachitra",
+    "mahabalipuram__muttukadu_backwaters",
+    "mahabalipuram__vedanthangal_bird_sanctuary",
+    "mahabalipuram__sri_thiruvidandhai",
+    "mahabalipuram__poonjeri_village",
+    "jaisalmer_fort",
+    "jaisalmer_fort__kuldhara_village",
+    "jaisalmer_fort__bada_bagh",
+    "jaisalmer_fort__khaba_fort",
+    "jaisalmer_fort__lodhruva_jain_temples",
+    "jaisalmer_fort__vyas_chhatri",
+    "jaisalmer_fort__desert_national_park",
+    "jaisalmer_fort__tanot_mata_temple",
+    "jaisalmer_fort__akal_wood_fossil_park",
+    "jaisalmer_fort__amar_sagar_jain_temple",
+    "jaisalmer_fort__nathmal_ji_ki_haveli",
+    "mehrangarh_fort",
+    "mehrangarh_fort__rao_jodha_desert_rock_park",
+    "mehrangarh_fort__jaswant_thada",
+    "mehrangarh_fort__toorji_ka_jhalra",
+    "mehrangarh_fort__mandore_gardens",
+    "mehrangarh_fort__balsamand_lake",
+    "mehrangarh_fort__mahamandir_temple",
+    "mehrangarh_fort__osian_temples",
+    "mehrangarh_fort__machia_biological_park",
+    "mehrangarh_fort__singhasni_village",
+    "mehrangarh_fort__navchowkiya",
+    "badami_cave_temples",
+    "badami_cave_temples__bhutanatha_group_of_temples",
+    "badami_cave_temples__agastya_lake",
+    "badami_cave_temples__badami_fort",
+    "badami_cave_temples__mahakuta_group_of_temples",
+    "badami_cave_temples__pattadakal_monuments",
+    "badami_cave_temples__aihole_durga_temple",
+    "badami_cave_temples__banashankari_amma_temple",
+    "badami_cave_temples__ravan_phadi_cave",
+    "badami_cave_temples__lad_khan_temple"
+  ],
+  "source_counts": {
+    "sanchi_stupa": 2,
+    "sanchi_stupa__udayagiri_caves": 2,
+    "sanchi_stupa__heliodorus_pillar": 2,
+    "sanchi_stupa__bijamandal": 3,
+    "sanchi_stupa__raisen_fort": 2,
+    "sanchi_stupa__sonari_stupas": 2,
+    "sanchi_stupa__satdhara_stupas": 2,
+    "sanchi_stupa__bhojpur_temple": 2,
+    "sanchi_stupa__andher_stupas": 2,
+    "sanchi_stupa__halali_dam": 1,
+    "sanchi_stupa__neelkantheshwar_temple": 2,
+    "city_palace_udaipur": 2,
+    "city_palace_udaipur__ahar_cenotaphs": 2,
+    "city_palace_udaipur__sajjangarh_monsoon_palace": 2,
+    "city_palace_udaipur__badi_lake": 2,
+    "city_palace_udaipur__saheliyon_ki_bari": 2,
+    "city_palace_udaipur__bagore_ki_haveli": 2,
+    "city_palace_udaipur__shilpgram": 2,
+    "city_palace_udaipur__karni_mata_temple": 2,
+    "city_palace_udaipur__ambrai_ghat": 1,
+    "city_palace_udaipur__vintage_car_museum": 1,
+    "city_palace_udaipur__eklingji_temple": 2,
+    "mahabalipuram": 2,
+    "mahabalipuram__tiger_cave": 2,
+    "mahabalipuram__sadras_dutch_fort": 2,
+    "mahabalipuram__nithyakalyana_perumal_temple": 2,
+    "mahabalipuram__alamparai_fort": 2,
+    "mahabalipuram__cholamandal_artists_village": 2,
+    "mahabalipuram__dakshinachitra": 2,
+    "mahabalipuram__muttukadu_backwaters": 2,
+    "mahabalipuram__vedanthangal_bird_sanctuary": 1,
+    "mahabalipuram__sri_thiruvidandhai": 2,
+    "mahabalipuram__poonjeri_village": 2,
+    "jaisalmer_fort": 2,
+    "jaisalmer_fort__kuldhara_village": 2,
+    "jaisalmer_fort__bada_bagh": 2,
+    "jaisalmer_fort__khaba_fort": 2,
+    "jaisalmer_fort__lodhruva_jain_temples": 2,
+    "jaisalmer_fort__vyas_chhatri": 2,
+    "jaisalmer_fort__desert_national_park": 2,
+    "jaisalmer_fort__tanot_mata_temple": 2,
+    "jaisalmer_fort__akal_wood_fossil_park": 2,
+    "jaisalmer_fort__amar_sagar_jain_temple": 2,
+    "jaisalmer_fort__nathmal_ji_ki_haveli": 2,
+    "mehrangarh_fort": 2,
+    "mehrangarh_fort__rao_jodha_desert_rock_park": 1,
+    "mehrangarh_fort__jaswant_thada": 1,
+    "mehrangarh_fort__toorji_ka_jhalra": 2,
+    "mehrangarh_fort__mandore_gardens": 1,
+    "mehrangarh_fort__balsamand_lake": 1,
+    "mehrangarh_fort__mahamandir_temple": 2,
+    "mehrangarh_fort__osian_temples": 2,
+    "mehrangarh_fort__machia_biological_park": 3,
+    "mehrangarh_fort__singhasni_village": 1,
+    "mehrangarh_fort__navchowkiya": 1,
+    "badami_cave_temples": 3,
+    "badami_cave_temples__bhutanatha_group_of_temples": 2,
+    "badami_cave_temples__agastya_lake": 2,
+    "badami_cave_temples__badami_fort": 2,
+    "badami_cave_temples__mahakuta_group_of_temples": 2,
+    "badami_cave_temples__pattadakal_monuments": 1,
+    "badami_cave_temples__aihole_durga_temple": 2,
+    "badami_cave_temples__banashankari_amma_temple": 2,
+    "badami_cave_temples__ravan_phadi_cave": 2,
+    "badami_cave_temples__lad_khan_temple": 2
+  },
+  "unresolved_ids": [
+    "badami_cave_temples__galaganatha_temples"
+  ],
+  "qa": [
+    {
+      "id": "sanchi_stupa",
+      "english_words": 214,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "sanchi_stupa__udayagiri_caves",
+      "english_words": 148,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "sanchi_stupa__heliodorus_pillar",
+      "english_words": 148,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "sanchi_stupa__bijamandal",
+      "english_words": 146,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "sanchi_stupa__raisen_fort",
+      "english_words": 149,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "sanchi_stupa__sonari_stupas",
+      "english_words": 143,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "sanchi_stupa__satdhara_stupas",
+      "english_words": 142,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "sanchi_stupa__bhojpur_temple",
+      "english_words": 139,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "sanchi_stupa__andher_stupas",
+      "english_words": 138,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "sanchi_stupa__halali_dam",
+      "english_words": 145,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "sanchi_stupa__neelkantheshwar_temple",
+      "english_words": 142,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "city_palace_udaipur",
+      "english_words": 208,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "city_palace_udaipur__ahar_cenotaphs",
+      "english_words": 144,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "city_palace_udaipur__sajjangarh_monsoon_palace",
+      "english_words": 141,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "city_palace_udaipur__badi_lake",
+      "english_words": 146,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "city_palace_udaipur__saheliyon_ki_bari",
+      "english_words": 143,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "city_palace_udaipur__bagore_ki_haveli",
+      "english_words": 143,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "city_palace_udaipur__shilpgram",
+      "english_words": 142,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "city_palace_udaipur__karni_mata_temple",
+      "english_words": 138,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "city_palace_udaipur__ambrai_ghat",
+      "english_words": 139,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "city_palace_udaipur__vintage_car_museum",
+      "english_words": 146,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "city_palace_udaipur__eklingji_temple",
+      "english_words": 141,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "mahabalipuram",
+      "english_words": 217,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "mahabalipuram__tiger_cave",
+      "english_words": 152,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "mahabalipuram__sadras_dutch_fort",
+      "english_words": 165,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "mahabalipuram__nithyakalyana_perumal_temple",
+      "english_words": 154,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "mahabalipuram__alamparai_fort",
+      "english_words": 168,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "mahabalipuram__cholamandal_artists_village",
+      "english_words": 160,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "mahabalipuram__dakshinachitra",
+      "english_words": 163,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "mahabalipuram__muttukadu_backwaters",
+      "english_words": 154,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "mahabalipuram__vedanthangal_bird_sanctuary",
+      "english_words": 157,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "mahabalipuram__sri_thiruvidandhai",
+      "english_words": 155,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "mahabalipuram__poonjeri_village",
+      "english_words": 164,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "jaisalmer_fort",
+      "english_words": 214,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "jaisalmer_fort__kuldhara_village",
+      "english_words": 161,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "jaisalmer_fort__bada_bagh",
+      "english_words": 158,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "jaisalmer_fort__khaba_fort",
+      "english_words": 155,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "jaisalmer_fort__lodhruva_jain_temples",
+      "english_words": 158,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "jaisalmer_fort__vyas_chhatri",
+      "english_words": 155,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "jaisalmer_fort__desert_national_park",
+      "english_words": 160,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "jaisalmer_fort__tanot_mata_temple",
+      "english_words": 154,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "jaisalmer_fort__akal_wood_fossil_park",
+      "english_words": 158,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "jaisalmer_fort__amar_sagar_jain_temple",
+      "english_words": 153,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "jaisalmer_fort__nathmal_ji_ki_haveli",
+      "english_words": 157,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "mehrangarh_fort",
+      "english_words": 213,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "mehrangarh_fort__rao_jodha_desert_rock_park",
+      "english_words": 159,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "mehrangarh_fort__jaswant_thada",
+      "english_words": 162,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "mehrangarh_fort__toorji_ka_jhalra",
+      "english_words": 151,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "mehrangarh_fort__mandore_gardens",
+      "english_words": 156,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "mehrangarh_fort__balsamand_lake",
+      "english_words": 161,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "mehrangarh_fort__mahamandir_temple",
+      "english_words": 156,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "mehrangarh_fort__osian_temples",
+      "english_words": 164,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "mehrangarh_fort__machia_biological_park",
+      "english_words": 153,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "mehrangarh_fort__singhasni_village",
+      "english_words": 153,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "mehrangarh_fort__navchowkiya",
+      "english_words": 154,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "badami_cave_temples",
+      "english_words": 220,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "badami_cave_temples__bhutanatha_group_of_temples",
+      "english_words": 159,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "badami_cave_temples__agastya_lake",
+      "english_words": 153,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "badami_cave_temples__badami_fort",
+      "english_words": 153,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "badami_cave_temples__mahakuta_group_of_temples",
+      "english_words": 156,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "badami_cave_temples__pattadakal_monuments",
+      "english_words": 161,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "badami_cave_temples__aihole_durga_temple",
+      "english_words": 157,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "badami_cave_temples__banashankari_amma_temple",
+      "english_words": 155,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "badami_cave_temples__ravan_phadi_cave",
+      "english_words": 154,
+      "length_in_target": true,
+      "hindi_present": true
+    },
+    {
+      "id": "badami_cave_temples__lad_khan_temple",
+      "english_words": 160,
+      "length_in_target": true,
+      "hindi_present": true
+    }
+  ]
+}

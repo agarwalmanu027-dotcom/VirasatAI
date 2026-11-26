@@ -1,0 +1,14 @@
+{
+  "place_id": "badami_cave_temples",
+  "display_name": "Badami Cave Temples, Karnataka",
+  "parent_id": "badami_cave_temples",
+  "main_order": 20,
+  "is_main": true,
+  "candidates": [],
+  "errors": [
+    "HTTP Error 429: Too Many Requests",
+    "HTTP Error 429: Too Many Requests"
+  ],
+  "visual_review_status": "pending",
+  "status": "no_qualifying_candidates"
+}

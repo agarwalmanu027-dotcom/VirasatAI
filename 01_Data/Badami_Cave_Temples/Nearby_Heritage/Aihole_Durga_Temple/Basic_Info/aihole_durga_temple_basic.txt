@@ -1,0 +1,14 @@
+VIRASATAI — BASIC INFORMATION
+Name: Aihole (Durga Temple)
+Entry ID: badami_cave_temples__aihole_durga_temple
+Location: Aihole, Bagalkot district, Karnataka
+Type: Early Chalukya structural temple with an apsidal plan
+Identity note: User-selected site identity verified against the sources below.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. Aihole's Durga Temple has an apsidal, or rounded-ended, plan. [1,2]
+2. Its elevated platform and gallery around the shrine are key architectural features. [1]
+3. India's UNESCO Tentative List submission identifies it as an unusual apsidal example among Early Chalukya temples. [2]
+4. Aihole's tentative candidature is different from Pattadakal's inscription; the script does not call Aihole an inscribed World Heritage Site.
+
+Sources: See aihole_durga_temple_sources.txt. The parent association is the user's selection, not a verified proximity claim.

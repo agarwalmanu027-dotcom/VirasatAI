@@ -1,0 +1,97 @@
+{
+  "placeId": "sanchi_stupa__sonari_stupas",
+  "queries": [
+    "Sonari stupas Madhya Pradesh",
+    "Sonari Buddhist stupas"
+  ],
+  "candidates": [
+    {
+      "candidateId": 1,
+      "title": "File:Historic heritage sites of Madhya Pradesh with GPS coordinates.jpg",
+      "query": "Sonari stupas Madhya Pradesh",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Historic_heritage_sites_of_Madhya_Pradesh_with_GPS_coordinates.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Historic_heritage_sites_of_Madhya_Pradesh_with_GPS_coordinates.jpg/1280px-Historic_heritage_sites_of_Madhya_Pradesh_with_GPS_coordinates.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Ms Sarah Welch",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/remaining_zero_broad/sanchi_stupa__sonari_stupas/candidate_01.jpg"
+    },
+    {
+      "candidateId": 2,
+      "title": "File:Sonari Stupa, Madhya Pradesh.jpg",
+      "query": "Sonari stupas Madhya Pradesh",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Sonari_Stupa,_Madhya_Pradesh.jpg",
+      "previewUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Sonari_Stupa%2C_Madhya_Pradesh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "SpeakingArch",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/remaining_zero_broad/sanchi_stupa__sonari_stupas/candidate_02.jpg"
+    },
+    {
+      "candidateId": 3,
+      "title": "File:Main Reliquary, circa before 100 BCE, Sonari Stupa 2, Madhya Pradesh, housed at the Victoria and Albert Museum, London.jpg",
+      "query": "Sonari stupas Madhya Pradesh",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Main_Reliquary,_circa_before_100_BCE,_Sonari_Stupa_2,_Madhya_Pradesh,_housed_at_the_Victoria_and_Albert_Museum,_London.jpg",
+      "previewUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Main_Reliquary%2C_circa_before_100_BCE%2C_Sonari_Stupa_2%2C_Madhya_Pradesh%2C_housed_at_the_Victoria_and_Albert_Museum%2C_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "SpeakingArch",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "previewPath": "tools/image_review/remaining_zero_broad/sanchi_stupa__sonari_stupas/candidate_03.jpg"
+    },
+    {
+      "candidateId": 4,
+      "title": "File:Inscribed Reliquary, circa 100-1 BCE, steatite, that originally held the ashes of Buddhist monk, Majhima Kodiniputa, Sonari Stupa 2, Madhya Pradesh, housed in the Victoria and Albert Museum, London.jpg",
+      "query": "Sonari stupas Madhya Pradesh",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Inscribed_Reliquary,_circa_100-1_BCE,_steatite,_that_originally_held_the_ashes_of_Buddhist_monk,_Majhima_Kodiniputa,_Sonari_Stupa_2,_Madhya_Pradesh,_housed_in_the_Victoria_and_Albert_Museum,_London.jpg",
+      "previewUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Inscribed_Reliquary%2C_circa_100-1_BCE%2C_steatite%2C_that_originally_held_the_ashes_of_Buddhist_monk%2C_Majhima_Kodiniputa%2C_Sonari_Stupa_2%2C_Madhya_Pradesh%2C_housed_in_the_Victoria_and_Albert_Museum%2C_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "SpeakingArch",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "error": "HTTP Error 429: Too many requests (f061ab2)"
+    },
+    {
+      "candidateId": 5,
+      "title": "File:Sonari stupas map.jpg",
+      "query": "Sonari Buddhist stupas",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Sonari_stupas_map.jpg",
+      "previewUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Sonari_stupas_map.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "Alexander Cunningham\n\nPublication date 1854",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "error": "HTTP Error 429: Too many requests (f061ab2)"
+    },
+    {
+      "candidateId": 6,
+      "title": "File:Sonari pillar.jpg",
+      "query": "Sonari Buddhist stupas",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Sonari_pillar.jpg",
+      "previewUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Sonari_pillar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "Alexander Cunningham\n\nPublication date 1854",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "error": "HTTP Error 429: Too many requests (f061ab2)"
+    },
+    {
+      "candidateId": 7,
+      "title": "File:Sonari Stupa 1 and relics.jpg",
+      "query": "Sonari Buddhist stupas",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Sonari_Stupa_1_and_relics.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Sonari_Stupa_1_and_relics.jpg/1280px-Sonari_Stupa_1_and_relics.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Alexander Cunningham\n\nPublication date 1854",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "previewPath": "tools/image_review/remaining_zero_broad/sanchi_stupa__sonari_stupas/candidate_07.jpg"
+    },
+    {
+      "candidateId": 8,
+      "title": "File:Sonari Stupa 2 and relics.jpg",
+      "query": "Sonari Buddhist stupas",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Sonari_Stupa_2_and_relics.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Sonari_Stupa_2_and_relics.jpg/1280px-Sonari_Stupa_2_and_relics.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Alexander Cunningham\n\nPublication date 1854",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "previewPath": "tools/image_review/remaining_zero_broad/sanchi_stupa__sonari_stupas/candidate_08.jpg"
+    }
+  ]
+}

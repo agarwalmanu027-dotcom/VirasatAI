@@ -1,0 +1,14 @@
+VIRASATAI — BASIC INFORMATION
+Name: Banashankari Amma Temple
+Entry ID: badami_cave_temples__banashankari_amma_temple
+Location: Cholachagudda near Badami, Bagalkot district, Karnataka
+Type: Living goddess temple and pilgrimage-fair destination
+Identity note: The Badami-area temple at Cholachagudda, not the separately documented Banashankari temple in Bengaluru.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. Government records identify Banashankari Amma Temple at Cholachagudda near Badami. [1,2]
+2. The deity is associated with Shakambhari, a form of Parvati. [1]
+3. The Ministry of Tourism's festival record documents a chariot procession and fair associated with the temple. [2]
+4. Festival dates and attendance vary; the dated 2023 event is not copied as a future schedule.
+
+Sources: See banashankari_amma_temple_sources.txt. The parent association is the user's selection, not a verified proximity claim.

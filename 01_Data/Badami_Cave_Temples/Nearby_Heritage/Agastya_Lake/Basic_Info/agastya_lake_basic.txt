@@ -1,0 +1,14 @@
+VIRASATAI — BASIC INFORMATION
+Name: Agastya Lake
+Entry ID: badami_cave_temples__agastya_lake
+Location: Badami, Bagalkot district, Karnataka
+Type: Historic artificial tank and heritage landscape
+Identity note: User-selected site identity verified against the sources below.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. Agastya Lake is a historic man-made waterbody in Badami's sandstone landscape. [1]
+2. The district administration also uses the name Agastya Tirtha for the tank. [2]
+3. The lake setting links views of the caves, hills and Bhutanatha temples. [1,2]
+4. Religious healing stories are not scientific health claims; the script makes no bathing recommendation.
+
+Sources: See agastya_lake_sources.txt. The parent association is the user's selection, not a verified proximity claim.

@@ -1,0 +1,12 @@
+VIRASATAI — STORY DATA
+Entry ID: mahabalipuram__poonjeri_village
+Name: Poonjeri Village
+Narrative focus: Craft workers and the infrastructure needed to sustain stoneworking livelihoods
+Language files: Separate English and Devanagari Hindi master scripts in 03_Scripts.
+Status: Written narration ready for TTS input; pronunciation and generated audio still need listening QA.
+
+Poonjeri Village brings the people behind sculpture into a journey around Mamallapuram. In two thousand eight, a sculptors' park project was sanctioned here as part of livelihood support following the tsunami. The plan focused on providing infrastructure for affected sculptors and artisans.
+
+This connection between craft and livelihood offers an important perspective on heritage. Skill needs space, tools, training and ways to earn a living. Supporting a cultural practice therefore involves the conditions that allow people to continue their work. As you think about a carved object, consider the knowledge and effort that give it form.
+
+If you hope to visit a working space, first ask locally whether a visit can be arranged. Give artisans time to work, respect their belongings and ask before taking photographs. Poonjeri encourages us to recognise sculpture as skilled labour, shaped by cultural knowledge and the everyday needs of the people who practise it.

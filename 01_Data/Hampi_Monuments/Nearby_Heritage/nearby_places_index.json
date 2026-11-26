@@ -1,0 +1,178 @@
+{
+  "parent_monument_id": "hampi_monuments",
+  "parent_monument_name": "Hampi Monuments, Karnataka",
+  "selection_source": "User-supplied table",
+  "nearby_entry_count": 10,
+  "places": [
+    {
+      "id": "hampi_monuments__hemakuta_hill_temples",
+      "order": 1,
+      "display_name": "Hemakuta Hill Temples",
+      "folder_name": "Hemakuta_Hill_Temples",
+      "parent_monument_id": "hampi_monuments",
+      "paths": {
+        "data": "01_Data/Hampi_Monuments/Nearby_Heritage/Hemakuta_Hill_Temples",
+        "images": "02_Images/Hampi_Monuments/Nearby_Heritage/Hemakuta_Hill_Temples",
+        "scripts": "03_Scripts/Hampi_Monuments/Nearby_Heritage/Hemakuta_Hill_Temples",
+        "audio": "04_Audio/Hampi_Monuments/Nearby_Heritage/Hemakuta_Hill_Temples"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "hampi_monuments__matanga_hill",
+      "order": 2,
+      "display_name": "Matanga Hill",
+      "folder_name": "Matanga_Hill",
+      "parent_monument_id": "hampi_monuments",
+      "paths": {
+        "data": "01_Data/Hampi_Monuments/Nearby_Heritage/Matanga_Hill",
+        "images": "02_Images/Hampi_Monuments/Nearby_Heritage/Matanga_Hill",
+        "scripts": "03_Scripts/Hampi_Monuments/Nearby_Heritage/Matanga_Hill",
+        "audio": "04_Audio/Hampi_Monuments/Nearby_Heritage/Matanga_Hill"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "hampi_monuments__achyutaraya_temple",
+      "order": 3,
+      "display_name": "Achyutaraya Temple",
+      "folder_name": "Achyutaraya_Temple",
+      "parent_monument_id": "hampi_monuments",
+      "paths": {
+        "data": "01_Data/Hampi_Monuments/Nearby_Heritage/Achyutaraya_Temple",
+        "images": "02_Images/Hampi_Monuments/Nearby_Heritage/Achyutaraya_Temple",
+        "scripts": "03_Scripts/Hampi_Monuments/Nearby_Heritage/Achyutaraya_Temple",
+        "audio": "04_Audio/Hampi_Monuments/Nearby_Heritage/Achyutaraya_Temple"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "hampi_monuments__sugrivas_cave",
+      "order": 4,
+      "display_name": "Sugriva's Cave",
+      "folder_name": "Sugrivas_Cave",
+      "parent_monument_id": "hampi_monuments",
+      "paths": {
+        "data": "01_Data/Hampi_Monuments/Nearby_Heritage/Sugrivas_Cave",
+        "images": "02_Images/Hampi_Monuments/Nearby_Heritage/Sugrivas_Cave",
+        "scripts": "03_Scripts/Hampi_Monuments/Nearby_Heritage/Sugrivas_Cave",
+        "audio": "04_Audio/Hampi_Monuments/Nearby_Heritage/Sugrivas_Cave"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "hampi_monuments__zenana_enclosure",
+      "order": 5,
+      "display_name": "Zenana Enclosure",
+      "folder_name": "Zenana_Enclosure",
+      "parent_monument_id": "hampi_monuments",
+      "paths": {
+        "data": "01_Data/Hampi_Monuments/Nearby_Heritage/Zenana_Enclosure",
+        "images": "02_Images/Hampi_Monuments/Nearby_Heritage/Zenana_Enclosure",
+        "scripts": "03_Scripts/Hampi_Monuments/Nearby_Heritage/Zenana_Enclosure",
+        "audio": "04_Audio/Hampi_Monuments/Nearby_Heritage/Zenana_Enclosure"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "hampi_monuments__badavilinga_temple",
+      "order": 6,
+      "display_name": "Badavilinga Temple",
+      "folder_name": "Badavilinga_Temple",
+      "parent_monument_id": "hampi_monuments",
+      "paths": {
+        "data": "01_Data/Hampi_Monuments/Nearby_Heritage/Badavilinga_Temple",
+        "images": "02_Images/Hampi_Monuments/Nearby_Heritage/Badavilinga_Temple",
+        "scripts": "03_Scripts/Hampi_Monuments/Nearby_Heritage/Badavilinga_Temple",
+        "audio": "04_Audio/Hampi_Monuments/Nearby_Heritage/Badavilinga_Temple"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "hampi_monuments__sasivekalu_ganesha",
+      "order": 7,
+      "display_name": "Sasivekalu Ganesha",
+      "folder_name": "Sasivekalu_Ganesha",
+      "parent_monument_id": "hampi_monuments",
+      "paths": {
+        "data": "01_Data/Hampi_Monuments/Nearby_Heritage/Sasivekalu_Ganesha",
+        "images": "02_Images/Hampi_Monuments/Nearby_Heritage/Sasivekalu_Ganesha",
+        "scripts": "03_Scripts/Hampi_Monuments/Nearby_Heritage/Sasivekalu_Ganesha",
+        "audio": "04_Audio/Hampi_Monuments/Nearby_Heritage/Sasivekalu_Ganesha"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "hampi_monuments__anegundi_village",
+      "order": 8,
+      "display_name": "Anegundi Village",
+      "folder_name": "Anegundi_Village",
+      "parent_monument_id": "hampi_monuments",
+      "paths": {
+        "data": "01_Data/Hampi_Monuments/Nearby_Heritage/Anegundi_Village",
+        "images": "02_Images/Hampi_Monuments/Nearby_Heritage/Anegundi_Village",
+        "scripts": "03_Scripts/Hampi_Monuments/Nearby_Heritage/Anegundi_Village",
+        "audio": "04_Audio/Hampi_Monuments/Nearby_Heritage/Anegundi_Village"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "hampi_monuments__sanapur_lake",
+      "order": 9,
+      "display_name": "Sanapur Lake",
+      "folder_name": "Sanapur_Lake",
+      "parent_monument_id": "hampi_monuments",
+      "paths": {
+        "data": "01_Data/Hampi_Monuments/Nearby_Heritage/Sanapur_Lake",
+        "images": "02_Images/Hampi_Monuments/Nearby_Heritage/Sanapur_Lake",
+        "scripts": "03_Scripts/Hampi_Monuments/Nearby_Heritage/Sanapur_Lake",
+        "audio": "04_Audio/Hampi_Monuments/Nearby_Heritage/Sanapur_Lake"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "hampi_monuments__pampa_sarovar",
+      "order": 10,
+      "display_name": "Pampa Sarovar",
+      "folder_name": "Pampa_Sarovar",
+      "parent_monument_id": "hampi_monuments",
+      "paths": {
+        "data": "01_Data/Hampi_Monuments/Nearby_Heritage/Pampa_Sarovar",
+        "images": "02_Images/Hampi_Monuments/Nearby_Heritage/Pampa_Sarovar",
+        "scripts": "03_Scripts/Hampi_Monuments/Nearby_Heritage/Pampa_Sarovar",
+        "audio": "04_Audio/Hampi_Monuments/Nearby_Heritage/Pampa_Sarovar"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    }
+  ]
+}

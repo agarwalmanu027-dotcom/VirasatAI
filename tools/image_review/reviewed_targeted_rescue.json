@@ -1,0 +1,310 @@
+[
+  {
+    "place_id": "konark_sun_temple__chausathi_yogini_temple",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 2,
+        "category": "Overview",
+        "review_note": "Clear color view of the circular, open-air Hirapur temple and entrance in its landscaped setting.",
+        "reviewed_source_title": "File:Chausath Yogini Temple Odisha.jpg",
+        "reviewed_source_sha1": "3bc4912bf0cd458754756e53489f21db3fe87090"
+      },
+      {
+        "candidate_id": 1,
+        "category": "Details",
+        "review_note": "Sharp central yogini sculpture and carved niche row; foreground/background softness is intentional depth of field.",
+        "reviewed_source_title": "File:64 Yogini Temple, Hirapur.jpg",
+        "reviewed_source_sha1": "ec162dbd35cb34be56dcd87126dea637ac8212e0"
+      },
+      {
+        "candidate_id": 3,
+        "category": "Details",
+        "review_note": "Correct Hirapur stone sculpture in its niche, visible detail and color, without a prominent watermark.",
+        "reviewed_source_title": "File:Chausathi Yogini temple Hirapur (14).jpg",
+        "reviewed_source_sha1": "44bafda2e74b97fb7000911317e55d1b979f8ce9"
+      },
+      {
+        "candidate_id": 4,
+        "category": "Different_Views",
+        "review_note": "Wider curved interior circuit with yogini niches and red ritual cloth; complements the exterior and focused detail.",
+        "reviewed_source_title": "File:Yoginis in a circular format.JPG",
+        "reviewed_source_sha1": "13cd7bbf13b512cca9f3a7254cf20bd1eccededb"
+      }
+    ],
+    "coverage_note": "Four correct Hirapur photos: clear circular exterior, focused sculptural circuit, one single sculpture and a wider curved niche row. Intentional depth of field in #1 leaves its central sculpture sharply focused; no generic temple substitutions."
+  },
+  {
+    "place_id": "konark_sun_temple__raghurajpur_artist_village",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Village entrance with a legible Raghurajpur sign and clear surrounding buildings.",
+        "reviewed_source_title": "File:Entrance of Raghurajpur.jpg",
+        "reviewed_source_sha1": "e86a0251bc956e32d8b506b44e5c59bc72150c29"
+      },
+      {
+        "candidate_id": 6,
+        "category": "Different_Views",
+        "review_note": "Clear wide row of painted houses and studio displays, showing the village streetscape.",
+        "reviewed_source_title": "File:Raghurajpur Village.JPG",
+        "reviewed_source_sha1": "48da81c9a62922642eeb48bc28efb4a7a21c7fb6"
+      },
+      {
+        "candidate_id": 2,
+        "category": "Details",
+        "review_note": "Decorated village-house wall with sharply visible painted motifs and a studio doorway.",
+        "reviewed_source_title": "File:Raghurajpur - Decorated Village House.jpg",
+        "reviewed_source_sha1": "e692664b62c5571425d721418d74890b7d97fbdb"
+      },
+      {
+        "candidate_id": 4,
+        "category": "Details",
+        "review_note": "Relevant artisan-process image with handwork and painted crafts visible; this is site-specific craft documentation.",
+        "reviewed_source_title": "File:Raghurajpur 2.jpg",
+        "reviewed_source_sha1": "b3ca5cb68171963ab5d3c8c512ef655e3759a0bb"
+      },
+      {
+        "candidate_id": 3,
+        "category": "Different_Views",
+        "review_note": "Village artisan displays artwork at a painted doorway, with the decorated house and art visible.",
+        "reviewed_source_title": "File:Raghurajpur 1.jpg",
+        "reviewed_source_sha1": "da81dd85306481dd67e38f0e7960204dd4514be5"
+      }
+    ],
+    "coverage_note": "Five clear village-specific views cover the named entrance, painted house, art display, artisan at work and a wider row of studios. Reject #5 because the seated-person portrait dominates and adds little to the stronger process view."
+  },
+  {
+    "place_id": "ajanta_ellora_caves",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Different_Views",
+        "review_note": "Clear Ajanta Cave 9 facade.",
+        "reviewed_source_title": "File:Ajanta cave no. 9 2010.jpg",
+        "reviewed_source_sha1": "9cb2eb1c65b45c6808c6865af7e4168711c6b8eb"
+      },
+      {
+        "candidate_id": 2,
+        "category": "Overview",
+        "review_note": "Clear Ajanta chaitya hall and stupa.",
+        "reviewed_source_title": "File:Cave 26, Ajanta.jpg",
+        "reviewed_source_sha1": "4d991f1cb069f0784681f6687ac6bd2c5938da30"
+      },
+      {
+        "candidate_id": 3,
+        "category": "Overview",
+        "review_note": "Ajanta basalt cliffs and cave entrances.",
+        "reviewed_source_title": "File:Ajanta Caves, India, Panoramic view of Ajanta basalt cliffs and caves.jpg",
+        "reviewed_source_sha1": "0c8d09ec1ff1365a58dfa9fc3d0009fa1c483aa8"
+      },
+      {
+        "candidate_id": 4,
+        "category": "Details",
+        "review_note": "Sharp rock-cut Hariti and Panchika relief.",
+        "reviewed_source_title": "File:Hariti Panchika Ajanta.jpg",
+        "reviewed_source_sha1": "f2298569b21f1b64f961b0a20f179c74a1c336d7"
+      },
+      {
+        "candidate_id": 5,
+        "category": "Details",
+        "review_note": "Ajanta painted ceiling and walls.",
+        "reviewed_source_title": "File:Ajanta Caves Art.jpg",
+        "reviewed_source_sha1": "c12bfcc8d44bf9ab7557ca2eca394f2c04b32385"
+      },
+      {
+        "candidate_id": 6,
+        "category": "Details",
+        "review_note": "Carved arcade and vaulted chaitya roof.",
+        "reviewed_source_title": "File:Ajanta Caves works.jpg",
+        "reviewed_source_sha1": "5352e2b9f4a110f523a53492c261a03425781316"
+      },
+      {
+        "candidate_id": 7,
+        "category": "Details",
+        "review_note": "Clear painted ceiling composition.",
+        "reviewed_source_title": "File:PAINTINGS IN AJANTA CAVES.jpg",
+        "reviewed_source_sha1": "8b1145a2baf66cc8cf898d0892b0f886cdee87fb"
+      },
+      {
+        "candidate_id": 11,
+        "category": "Different_Views",
+        "review_note": "Different Ajanta cave entrance; building remains the main subject.",
+        "reviewed_source_title": "File:AJANTA CAVES 5.jpg",
+        "reviewed_source_sha1": "50139c402a1df968f53022ba60f176185c72d222"
+      },
+      {
+        "candidate_id": 12,
+        "category": "Details",
+        "review_note": "Ajanta wall painting in its interior setting.",
+        "reviewed_source_title": "File:Ajanta Shibi Kapota.jpg",
+        "reviewed_source_sha1": "9a41f0749b84a19953f252affb927fceb7a4694f"
+      },
+      {
+        "candidate_id": 19,
+        "category": "Details",
+        "review_note": "Close stupa and carved pillars.",
+        "reviewed_source_title": "File:Ajanta Caves stupa.jpg",
+        "reviewed_source_sha1": "c7ee02addc55b0ffec3eb33b65e14ab00191765e"
+      },
+      {
+        "candidate_id": 20,
+        "category": "Details",
+        "review_note": "Clear Buddha sculpture and surrounding relief.",
+        "reviewed_source_title": "File:Ajanta Caves -Aurangabad -Maharastra -DSC5401.jpg",
+        "reviewed_source_sha1": "f13c7a2c796654fabb867531a525112a633ca299"
+      },
+      {
+        "candidate_id": 24,
+        "category": "Details",
+        "review_note": "Buddha shrine framed by cave architecture.",
+        "reviewed_source_title": "File:Cave 3 Buddha Ajanta.jpg",
+        "reviewed_source_sha1": "3cd76edb062ccc0ac86ff728a056586168b656c1"
+      },
+      {
+        "candidate_id": 25,
+        "category": "Different_Views",
+        "review_note": "Illuminated monastery hall and columns.",
+        "reviewed_source_title": "File:Ajanta Caves, India, Pillared hall of ancient Buddhist temple (monastery).jpg",
+        "reviewed_source_sha1": "d8d8e0087a18b69cd2e6f603beda51f654116855"
+      },
+      {
+        "candidate_id": 27,
+        "category": "Details",
+        "review_note": "Actual Ajanta entry monument sign.",
+        "reviewed_source_title": "File:ENTRY GATE SIGN OF AJANTA CAVES.jpg",
+        "reviewed_source_sha1": "00b5f7170b9c46c6933d020ffb35ed59a81d74e0"
+      },
+      {
+        "candidate_id": 31,
+        "category": "Surroundings",
+        "review_note": "Ajanta visitor path and cave-cliff landscape.",
+        "reviewed_source_title": "File:Ajanta Caves-Aurangabad-Maharashtra-01.jpg",
+        "reviewed_source_sha1": "a212b88e0730c1e5edc4313951818f61ad09a12a"
+      },
+      {
+        "candidate_id": 32,
+        "category": "Details",
+        "review_note": "Carved cave entrance columns and lintel.",
+        "reviewed_source_title": "File:Inside Ajanta caves1.jpg",
+        "reviewed_source_sha1": "f39c96a8fdc393c322caa2d5d0594ef21dd5effe"
+      }
+    ],
+    "coverage_note": "Preserves all 16 Ajanta selections previously visually reviewed in groups 08–14. Supplemental Ellora candidates are still pending collection and review."
+  },
+  {
+    "place_id": "charminar__hayat_bakshi_mosque",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 11,
+        "category": "Overview",
+        "review_note": "Correct Hayathnagar mosque full front with both minarets and arches visible; clear architecture under natural overcast light.",
+        "reviewed_source_title": "File:Frong view hayat bakshi begum mosque.JPG",
+        "reviewed_source_sha1": "b7cc35cf10f27dd2100e7368a1a77c82c28cc724"
+      },
+      {
+        "candidate_id": 16,
+        "category": "Different_Views",
+        "review_note": "Distinct close side-angle view of the Hayathnagar minaret and facade; visible stonework and architectural depth.",
+        "reviewed_source_title": "File:Hayat bakshi mosque side view.JPG",
+        "reviewed_source_sha1": "6c87f8e65497c9bd7c82bf4589edb574d57c4770"
+      },
+      {
+        "candidate_id": 12,
+        "category": "Details",
+        "review_note": "Sharp minaret crown and ornament carvings at the correct Hayathnagar mosque.",
+        "reviewed_source_title": "File:Hayat... design on the minar.JPG",
+        "reviewed_source_sha1": "2119706e8899c0919bd87332366dce684b79d042"
+      },
+      {
+        "candidate_id": 14,
+        "category": "Surroundings",
+        "review_note": "Longer view along the garden and stone approach to the correct mosque; adds setting beyond the unobstructed front.",
+        "reviewed_source_title": "File:Hayat bakshi..... clear picture.JPG",
+        "reviewed_source_sha1": "90c6f979eb1953db672a760055d38f2f94c766c7"
+      }
+    ],
+    "coverage_note": "Four correct Hayathnagar photographs cover the unobstructed front, minaret carving, side architecture and garden approach. Natural overcast lighting is subdued but details are visible. Reject rear street/painted-boundary view #13, hazy overexposed ceiling #15 and administrative board #17 as weak gallery coverage. All original wrong Qutb Shahi Tombs mosque candidates remain rejected."
+  },
+  {
+    "place_id": "victoria_memorial__marble_palace",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 13,
+        "category": "Overview",
+        "review_note": "Clear colonnaded palace front with garden and fountain; exact Kolkata address and palace identity verified.",
+        "reviewed_source_title": "File:Marble Palace at 46, Muktaram Babu Street, Kolkata.jpg",
+        "reviewed_source_sha1": "c7707c7676664a19b4acd8b819a15f221eac9543"
+      },
+      {
+        "candidate_id": 11,
+        "category": "Different_Views",
+        "review_note": "Clear rear facade and garden, providing a genuinely different side of Marble Palace.",
+        "reviewed_source_title": "File:Marble Palace Back.jpg",
+        "reviewed_source_sha1": "b87a75d97f6cb964548afe93acf9b12201046a0f"
+      },
+      {
+        "candidate_id": 12,
+        "category": "Surroundings",
+        "review_note": "Street-side palace entrance and gate with the colonnaded building beyond; traffic is contextual, not a generic portrait.",
+        "reviewed_source_title": "File:Marble Palace Front View.jpg",
+        "reviewed_source_sha1": "f90ba2f46352a47a62f94ae0ac0866de0a858d15"
+      }
+    ],
+    "coverage_note": "Three correct Kolkata palace views show the garden-facing colonnaded front, rear facade and street-side gate. All are clear natural-color photographs. The gate photo includes normal street traffic while retaining useful architecture context; prior wrong/weak originals are not reintroduced."
+  },
+  {
+    "place_id": "meenakshi_temple__gandhi_memorial_museum",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 13,
+        "category": "Overview",
+        "review_note": "Sharp wide view of the Madurai museum facade, wings, dome and courtyard, with the building unobstructed.",
+        "reviewed_source_title": "File:Gandhi museum, Madurai.jpg",
+        "reviewed_source_sha1": "25117d32cc947c0af25017e88c57979541981bbd"
+      },
+      {
+        "candidate_id": 11,
+        "category": "Different_Views",
+        "review_note": "Correct Madurai museum front with visible facade details and its differently dated paint appearance; visitors remain secondary.",
+        "reviewed_source_title": "File:Gandhi Memorial Museum Madurai TamilNadu India.jpg",
+        "reviewed_source_sha1": "69bc8b438b8504a6334e037e264466ccfb905666"
+      }
+    ],
+    "coverage_note": "Two clear photographs genuinely depict the Madurai museum: a broad facade/courtyard view and a differently dated facade appearance. Both are front views; side/interior coverage is still missing. Reject #12 as a weaker repeated facade with a central light pole, and #14 as a heavily saturated, foliage-obstructed wire portrait/garden scene rather than strong museum coverage. All old Delhi Gandhi Smriti sources stay rejected."
+  },
+  {
+    "place_id": "meenakshi_temple__palamuthirsolai_murugan_temple",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 6,
+        "category": "Overview",
+        "review_note": "Clear colorful Pazhamudircholai gopuram and part of the adjacent facade against the wooded hill.",
+        "reviewed_source_title": "File:Solaimalai.jpg",
+        "reviewed_source_sha1": "bde48979520c19a673a0d3ace3c576e55fd68b90"
+      },
+      {
+        "candidate_id": 4,
+        "category": "Different_Views",
+        "review_note": "Sharper front entrance tower with painted sculptures and the correct Murugan sign; ordinary stalls provide context.",
+        "reviewed_source_title": "File:Pazhamuthir solai Murugan 1.JPG",
+        "reviewed_source_sha1": "e29258da1564c24c66bcc6e70820e816f7d4bebb"
+      },
+      {
+        "candidate_id": 5,
+        "category": "Surroundings",
+        "review_note": "Wider temple entrance and forested hill setting, showing the approach rather than duplicating the close tower view.",
+        "reviewed_source_title": "File:Pazhamuthir solai Murugan 2.JPG",
+        "reviewed_source_sha1": "37f16c399748ddc461124c6d5a0dd54bf6202b83"
+      }
+    ],
+    "coverage_note": "Three correct Pazhamudircholai views show a clear colorful tower, the temple entrance and the wooded hill approach. Reject new #3 for washed-out haze and weak detail. Prior Kallazhagar/Bengaluru candidates remain rejected."
+  }
+]

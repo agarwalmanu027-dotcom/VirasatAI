@@ -1,0 +1,12 @@
+VIRASATAI — STORY DATA
+Entry ID: mehrangarh_fort__machia_biological_park
+Name: Machia Biological Park
+Narrative focus: Managed animal care and careful learning from zoo exhibits
+Language files: Separate English and Devanagari Hindi master scripts in 03_Scripts.
+Status: Written narration ready for TTS input; pronunciation and generated audio still need listening QA.
+
+Machia Biological Park adds a different kind of learning stop to Jodhpur's heritage circuit. Also known as Jodhpur Zoo, it is a managed animal park where a visit can encourage interest in wildlife and animal care.
+
+A useful visit begins with the information beside an enclosure. Notice what it explains about an animal's habitat, behaviour and needs. Watching quietly allows time to observe movements and responses. The opportunity to observe also brings a responsibility to respect an animal's space.
+
+Check the current visitor information before planning your visit. Follow the marked routes, do not feed animals or knock on barriers, and keep litter out of the park. Consider how each of these small actions contributes to considerate behaviour. Machia offers a way to connect curiosity about the natural world with care for the animals and the place around them.

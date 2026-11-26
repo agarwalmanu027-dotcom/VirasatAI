@@ -1,0 +1,31 @@
+VIRASATAI - WIKIMEDIA IMAGE SOURCE RECORD
+Taj Nature Walk
+
+High-resolution color photographs. Downloaded and original dimensions recorded separately. Photographer and license copied from Commons metadata.
+Check each linked file page for complete license conditions before reuse.
+
+01. File:The Taj Nature Walk.jpg
+Local file: 02_Images/Taj_Mahal/Nearby_Heritage/Taj_Nature_Walk/Surroundings/taj_nature_walk_surroundings_01.jpg
+Downloaded size: 3840 x 2880
+Original size: 5184 x 3888
+Photographer/artist: Nehakain
+License: CC BY-SA 4.0
+License link: https://creativecommons.org/licenses/by-sa/4.0
+Commons file page: https://commons.wikimedia.org/wiki/File:The_Taj_Nature_Walk.jpg
+Downloaded image: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/The_Taj_Nature_Walk.jpg/3840px-The_Taj_Nature_Walk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+Original image: https://upload.wikimedia.org/wikipedia/commons/b/b4/The_Taj_Nature_Walk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Credit: Own work
+Attribution: 
+
+02. File:Taj Mahal at Sunset (14029167044).jpg
+Local file: 02_Images/Taj_Mahal/Nearby_Heritage/Taj_Nature_Walk/Different_Views/taj_nature_walk_different_views_02.jpg
+Downloaded size: 3840 x 1469
+Original size: 5563 x 2128
+Photographer/artist: David Brossard
+License: CC BY-SA 2.0
+License link: https://creativecommons.org/licenses/by-sa/2.0
+Commons file page: https://commons.wikimedia.org/wiki/File:Taj_Mahal_at_Sunset_(14029167044).jpg
+Downloaded image: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Taj_Mahal_at_Sunset_%2814029167044%29.jpg/3840px-Taj_Mahal_at_Sunset_%2814029167044%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+Original image: https://upload.wikimedia.org/wikipedia/commons/4/42/Taj_Mahal_at_Sunset_%2814029167044%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Credit: Taj Mahal at Sunset
+Attribution: 

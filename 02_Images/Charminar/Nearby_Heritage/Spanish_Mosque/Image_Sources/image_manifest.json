@@ -1,0 +1,41 @@
+{
+  "place_id": "charminar__spanish_mosque",
+  "display_name": "Spanish Mosque",
+  "checked_on": "2026-10-08",
+  "source": "Wikimedia Commons",
+  "images": [
+    {
+      "title": "File:Spanish Mosque Hyderabad.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Spanish_Mosque_Hyderabad.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Spanish_Mosque_Hyderabad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_width": 3713,
+      "original_height": 2785,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Sriharsha from Hyderabad, India",
+      "credit": "Spanish Mosque",
+      "attribution": "",
+      "description": "Spanish Mosque, Hyderabad",
+      "date_time_original": "2016-03-14 17:20",
+      "sha1": "e46a7bc6fd3e4f312630e14e231929a591fa0e09",
+      "commons_assessment": "",
+      "copyrighted": "True",
+      "usage_terms": "Creative Commons Attribution-Share Alike 2.0",
+      "color_score": 5.05,
+      "sharpness_score": 1476.25,
+      "dhash": "c0e869292b8dcc50",
+      "candidate_id": 1,
+      "local_path": "02_Images/Charminar/Nearby_Heritage/Spanish_Mosque/Overview/spanish_mosque_overview_01.jpg",
+      "sha256": "b00bb2b774bec22fcb90ed81608ce4ec1b7f276ac1bd59e16585210aac56a8f5",
+      "visual_review_status": "visually_reviewed",
+      "downloaded_width": 1920,
+      "downloaded_height": 1440,
+      "downloaded_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Spanish_Mosque_Hyderabad.jpg/1920px-Spanish_Mosque_Hyderabad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "download_kind": "commons_standard_high_resolution",
+      "review_note": "Clear complete Hyderabad mosque facade with its distinctive pointed towers."
+    }
+  ],
+  "download_errors": [],
+  "coverage_note": "Only candidate 1 is Hyderabad's Spanish Mosque. Candidates 2–7 depict the Spanish Mosque overlooking Chefchaouen, Morocco, and were rejected."
+}

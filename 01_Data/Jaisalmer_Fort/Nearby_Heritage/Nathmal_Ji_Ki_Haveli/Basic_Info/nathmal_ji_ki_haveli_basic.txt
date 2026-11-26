@@ -1,0 +1,14 @@
+VIRASATAI — BASIC INFORMATION
+Name: Nathmal Ji Ki Haveli
+Entry ID: jaisalmer_fort__nathmal_ji_ki_haveli
+Location: Jaisalmer, Rajasthan
+Type: Nineteenth-century historic haveli
+Identity note: User-selected site identity verified against the sources below.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. Official tourism material identifies Nathmal ki Haveli as a nineteenth-century residence associated with Diwan Nathmal. [1]
+2. Its elaborate sandstone facade includes carved decorative detail and elephant forms. [1]
+3. The familiar account of two architect brothers working from opposite sides is a traditional construction story, not necessary to treat as independently established evidence. [1]
+4. Access to private residential areas is not promised.
+
+Sources: See nathmal_ji_ki_haveli_sources.txt. The parent association is the user's selection, not a verified proximity claim.

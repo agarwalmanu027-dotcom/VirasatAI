@@ -1,0 +1,14 @@
+{
+  "place_id": "mysore_palace__melody_world_wax_museum",
+  "display_name": "Melody World Wax Museum",
+  "parent_id": "mysore_palace",
+  "main_order": 8,
+  "is_main": false,
+  "candidates": [],
+  "errors": [
+    "HTTP Error 429: Too Many Requests",
+    "HTTP Error 429: Too Many Requests"
+  ],
+  "visual_review_status": "pending",
+  "status": "no_qualifying_candidates"
+}

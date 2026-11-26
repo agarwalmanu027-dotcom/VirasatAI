@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": "konark_sun_temple__raghurajpur_artist_village",
+    "display_name": "Raghurajpur Artist Village",
+    "exact_files": ["File:Entrance of Raghurajpur.jpg", "File:Raghurajpur - Decorated Village House.jpg", "File:Raghurajpur 1.jpg", "File:Raghurajpur 2.jpg", "File:Raghurajpur 4.jpg", "File:Raghurajpur Village.JPG"],
+    "evidence_url": "https://commons.wikimedia.org/wiki/Category:Raghurajpur",
+    "identity_evidence": "Category identifies the Puri district artist village. Listed original sizes are 3000–4912 pixels wide. Candidate photographs still require visual review."
+  },
+  {
+    "place_id": "konark_sun_temple__chausathi_yogini_temple",
+    "display_name": "Chausathi Yogini Temple",
+    "exact_files": ["File:64 Yogini Temple, Hirapur.jpg", "File:Chausathi Yogini temple Hirapur (14).jpg", "File:Yoginis in a circular format.JPG", "File:Chausath Yogini Temple Odisha.jpg"],
+    "evidence_url": "https://commons.wikimedia.org/wiki/Category:Chausath_Yogini_Temple,_Hirapur",
+    "identity_evidence": "Hirapur circular Yogini temple in Odisha; excludes Ranipur Jharial. File pages show original dimensions above the collection threshold."
+  },
+  {
+    "place_id": "sanchi_stupa__neelkantheshwar_temple",
+    "display_name": "Neelkantheshwar Temple",
+    "exact_categories": ["Category:Udayeshvara temple"],
+    "evidence_url": "https://commons.wikimedia.org/wiki/Category:Udayeshvara_temple",
+    "identity_evidence": "ASI N-MP-289 Udayesvara/Nilkanthesvara temple, Udaipur village in Vidisha district, Madhya Pradesh. Excludes Rajasthan."
+  }
+]

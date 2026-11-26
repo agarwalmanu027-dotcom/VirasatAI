@@ -1,0 +1,318 @@
+[
+  {
+    "place_id": "charminar",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Sharp whole front elevation against blue sky."
+      },
+      {
+        "candidate_id": 2,
+        "category": "Different_Views",
+        "review_note": "Clear low oblique facade and minaret seen beside palm foliage."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Different_Views",
+        "review_note": "Clear three-quarter view shows adjoining faces and minarets."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Different_Views",
+        "review_note": "Sharp view down through the arch to the inner courtyard."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Aerial",
+        "review_note": "Clear elevated overall view of Charminar and surrounding city."
+      },
+      {
+        "candidate_id": 8,
+        "category": "Surroundings",
+        "review_note": "Sharp elevated view of the busy street beside the monument."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Overview",
+        "review_note": "Clear wide view includes monument and surrounding square."
+      },
+      {
+        "candidate_id": 14,
+        "category": "Different_Views",
+        "review_note": "Sharp illuminated night front elevation."
+      },
+      {
+        "candidate_id": 17,
+        "category": "Different_Views",
+        "review_note": "Sharp illuminated night corner view."
+      },
+      {
+        "candidate_id": 25,
+        "category": "Details",
+        "review_note": "Sharp upper architectural panel and carved band."
+      },
+      {
+        "candidate_id": 28,
+        "category": "Details",
+        "review_note": "Sharp minaret balcony and ornamental arcades."
+      },
+      {
+        "candidate_id": 29,
+        "category": "Details",
+        "review_note": "Sharp upward view of arch soffit and upper balustrades."
+      },
+      {
+        "candidate_id": 30,
+        "category": "Surroundings",
+        "review_note": "Clear market-lane approach places Charminar in its street setting."
+      },
+      {
+        "candidate_id": 32,
+        "category": "Details",
+        "review_note": "Sharp minaret shaft, balconies and crown."
+      }
+    ],
+    "coverage_note": "Fourteen complementary day, night, elevated, street-setting and architectural detail views; repeated front frames and foreground-dominated market photos omitted."
+  },
+  {
+    "place_id": "charminar__badshahi_ashurkhana",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Sharp view of tiled hall, columns and ceremonial setting."
+      },
+      {
+        "candidate_id": 2,
+        "category": "Details",
+        "review_note": "Sharp coloured tilework panel."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Different_Views",
+        "review_note": "Clear broad courtyard and exterior of the hall."
+      },
+      {
+        "candidate_id": 9,
+        "category": "Details",
+        "review_note": "Sharp upper tilework and calligraphy."
+      }
+    ],
+    "coverage_note": "Hall, courtyard and tilework represented; repetitive central panel photos omitted."
+  },
+  {
+    "place_id": "charminar__hayat_bakshi_mosque",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "All ten candidates depict the Hayat Bakshi funerary mosque inside the Qutb Shahi Tombs complex. The intended entry is the mosque/sarai at Hayathnagar; no candidate selected until a correctly identified Hayathnagar photo is available."
+  },
+  {
+    "place_id": "charminar__khursheed_jah_devdi",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 2,
+        "category": "Overview",
+        "review_note": "Sharp complete columned palace facade."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Different_Views",
+        "review_note": "Clear oblique view includes steps and portico."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Details",
+        "review_note": "Clear old patterned tiled floor."
+      },
+      {
+        "candidate_id": 9,
+        "category": "Details",
+        "review_note": "Sharp weathered doors and pediments."
+      }
+    ],
+    "coverage_note": "Palace exterior and surviving architectural details represented; repetitive facade and dusk frames omitted."
+  },
+  {
+    "place_id": "charminar__nizams_museum",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Sharp exterior of the Nizam's Museum building in Purani Haveli, explicitly identified in source metadata."
+      }
+    ],
+    "coverage_note": "Only museum-building exterior qualifies. Candidates 2–10 are explicitly labelled Salarjung Museum, a different institution, and were rejected. Additional genuine Nizam's Museum collection photos are needed."
+  },
+  {
+    "place_id": "charminar__paigah_tombs",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Sharp complex courtyard, tomb platforms and arcades."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Details",
+        "review_note": "Sharp decorated tomb and carved relief."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Details",
+        "review_note": "Clear Abdul Fatah Khan tomb and stone screens."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Different_Views",
+        "review_note": "Clear richly carved tomb canopy and arch."
+      },
+      {
+        "candidate_id": 8,
+        "category": "Different_Views",
+        "review_note": "Clear long arched corridor adds a distinct spatial view."
+      }
+    ],
+    "coverage_note": "Courtyard, decorated tombs, canopy and corridor represented; dark close-up omitted."
+  },
+  {
+    "place_id": "charminar__purani_haveli",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 8,
+        "category": "Overview",
+        "review_note": "Clear palace wing and courtyard."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Different_Views",
+        "review_note": "Clear alternate central building and courtyard setting."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Details",
+        "review_note": "Sharp pediments and arched-window frontage of the museum wing within the palace complex."
+      },
+      {
+        "candidate_id": 9,
+        "category": "Details",
+        "review_note": "Clear spiral stairway within the complex."
+      }
+    ],
+    "coverage_note": "Palace complex exterior and stair represented; severe blue cast and low-value noticeboard images omitted. Museum-wing overlap with Nizam's Museum is acknowledged."
+  },
+  {
+    "place_id": "charminar__qutb_shahi_tombs",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 2,
+        "category": "Overview",
+        "review_note": "Sharp domed structure within the Qutb Shahi heritage complex."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Details",
+        "review_note": "Clear complex stepwell and surrounding stonework."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Different_Views",
+        "review_note": "Sharp small arched structure and parapet ornament."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Details",
+        "review_note": "Clear pointed arch and architectural decoration."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Different_Views",
+        "review_note": "Clear long arched passageway within the complex."
+      }
+    ],
+    "coverage_note": "Five distinct complex structures and details; dark night image and conservation-material-dominated frames omitted."
+  },
+  {
+    "place_id": "charminar__raymonds_tomb",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Clear obelisk memorial and adjoining pavilion."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Different_Views",
+        "review_note": "Sharp stair approach toward the memorial."
+      },
+      {
+        "candidate_id": 3,
+        "category": "Different_Views",
+        "review_note": "Clear framed obelisk view through pavilion columns."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Details",
+        "review_note": "Sharp grave slab and inscription."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Details",
+        "review_note": "Sharp separate pavilion elevation."
+      }
+    ],
+    "coverage_note": "Memorial, grave, stairs and pavilion represented; repeated obelisk close-ups omitted."
+  },
+  {
+    "place_id": "charminar__spanish_mosque",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Clear complete Hyderabad mosque facade with its distinctive pointed towers."
+      }
+    ],
+    "coverage_note": "Only candidate 1 is Hyderabad's Spanish Mosque. Candidates 2–7 depict the Spanish Mosque overlooking Chefchaouen, Morocco, and were rejected."
+  },
+  {
+    "place_id": "charminar__toli_masjid",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Sharp front mosque elevation and minarets."
+      },
+      {
+        "candidate_id": 8,
+        "category": "Different_Views",
+        "review_note": "Clear forecourt water tank and lower arcade."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Details",
+        "review_note": "Sharp upper jali and decorative rooftop elements."
+      },
+      {
+        "candidate_id": 9,
+        "category": "Details",
+        "review_note": "Sharp individual carved jali window."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Details",
+        "review_note": "Sharp arch ornamentation and patterned plasterwork."
+      }
+    ],
+    "coverage_note": "Facade, water tank and fine ornament represented; repetitive upper-façade and backlit views omitted."
+  }
+]

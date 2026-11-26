@@ -1,0 +1,37 @@
+{
+  "place_id": "red_fort__zeenat_ul_masajid",
+  "display_name": "Zeenat-ul-Masajid",
+  "parent_id": "red_fort",
+  "main_order": 4,
+  "is_main": false,
+  "candidates": [
+    {
+      "title": "File:Zeenat ul Masjid, Darya Ganj.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Zeenat_ul_Masjid,_Darya_Ganj.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Zeenat_ul_Masjid%2C_Darya_Ganj.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "preview_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Zeenat_ul_Masjid%2C_Darya_Ganj.jpg/1280px-Zeenat_ul_Masjid%2C_Darya_Ganj.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_width": 3024,
+      "original_height": 4032,
+      "mime": "image/jpeg",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Zuck28",
+      "credit": "Own work",
+      "attribution": "",
+      "description": "Entry Gate of Ghata Masjid, Darya Ganj",
+      "date_time_original": "2024-02-11",
+      "sha1": "de67c2d706d1eebd9ed762d586d48cfa47c43615",
+      "commons_assessment": "",
+      "copyrighted": "True",
+      "usage_terms": "Creative Commons Zero, Public Domain Dedication",
+      "color_score": 22.2,
+      "sharpness_score": 1903.97,
+      "dhash": "e0dec627077962e6",
+      "candidate_id": 1,
+      "preview_path": "tools/image_review/candidates/red_fort__zeenat_ul_masajid/candidate_01.jpg"
+    }
+  ],
+  "errors": [],
+  "visual_review_status": "pending",
+  "status": "candidates_collected"
+}

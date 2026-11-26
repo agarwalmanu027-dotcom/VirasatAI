@@ -1,0 +1,14 @@
+VIRASATAI — STORY DATA
+Entry ID: sanchi_stupa__andher_stupas
+Name: Andher Stupas
+Narrative focus: Understanding a lesser-known archaeological site through preserved forms.
+Language files: Separate English and Devanagari Hindi master scripts in 03_Scripts.
+Status: Written narration ready for TTS input; pronunciation and generated audio still need listening QA.
+
+Andher is one of the quieter names in the Buddhist heritage landscape around Sanchi. Its stupas and ancient remains are officially protected in Raisen district.
+
+A site like this asks for a different pace of attention. Instead of looking for a single grand facade, follow the outline of what survives. Stone arrangements and changes in level help reveal the presence of earlier structures, even where complete buildings no longer stand.
+
+These remains remind us that famous monuments were part of a wider world. Religious life involved many places, and smaller sites also deserve space in that story.
+
+Keep your exploration gentle. Observe the ruins without moving stones or climbing fragile structures. At Andher, the reward is the chance to widen your understanding of the region and notice how much history can be held in a modest archaeological landscape.

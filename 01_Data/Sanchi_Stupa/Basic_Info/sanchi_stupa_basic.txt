@@ -1,0 +1,15 @@
+VIRASATAI — BASIC INFORMATION
+Name: Sanchi Stupa, Madhya Pradesh
+Entry ID: sanchi_stupa
+Location: Sanchi, Raisen district, Madhya Pradesh, India
+Type: Buddhist archaeological complex and UNESCO World Heritage property
+Identity note: User-selected site identity verified against the sources below.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. The sacred complex began under Emperor Ashoka in the third century BCE. [1]
+2. The Great Stupa developed through later enlargements and additions. [1]
+3. Carved gateways use Buddhist symbols and Jataka narratives. [1]
+4. The property includes stupas, temples, monasteries and pillars. [1,2]
+5. UNESCO inscribed the Buddhist Monuments at Sanchi in 1989. [1]
+
+Sources: See sanchi_stupa_sources.txt. The parent association is the user's selection, not a verified proximity claim.

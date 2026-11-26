@@ -1,0 +1,14 @@
+{
+  "place_id": "red_fort__chunnamal_haveli",
+  "display_name": "Chunnamal Haveli",
+  "parent_id": "red_fort",
+  "main_order": 4,
+  "is_main": false,
+  "candidates": [],
+  "errors": [
+    "HTTP Error 429: Too Many Requests",
+    "HTTP Error 429: Too Many Requests"
+  ],
+  "visual_review_status": "pending",
+  "status": "no_qualifying_candidates"
+}

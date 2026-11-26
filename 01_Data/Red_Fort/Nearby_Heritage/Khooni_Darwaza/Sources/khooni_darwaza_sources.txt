@@ -1,0 +1,20 @@
+CONTENT SOURCES — Khooni Darwaza
+Checked online: 2026-10-07
+Purpose: Factual research for application text and narration. Image licensing is recorded separately.
+
+[1] IGNCA — Lal Darwaza property inventory
+URL: https://ignca.gov.in/asi_reports/sd26ld0001.pdf
+Used for: Alternate names and gateway identity.
+
+[2] ASI — Centrally Protected Monuments list
+URL: https://asi.nic.in/pdf/CPM_List.pdf
+Used for: Identification as a northern gate of Sher Shah's outer city walls.
+
+[3] Shahjahanabad Redevelopment Corporation — 1600–1700
+URL: https://srdc.delhi.gov.in/en/srdc/1600-1700
+Used for: Location relative to Delhi Gate and Sher Shah association.
+
+Editorial checks
+Violent anecdotes and ghost narratives are not narrated. The gateway is not labelled an original Red Fort entrance.
+The audio scripts are original paraphrases, with sources kept outside the spoken text.
+No distance or travel time is inferred from the parent association.

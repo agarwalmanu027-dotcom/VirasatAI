@@ -1,0 +1,20 @@
+VIRASATAI — VERIFIED SOURCE RECORD
+Entry ID: badami_cave_temples
+User label: Badami Cave Temples, Karnataka
+
+[1] Bagalkote district administration — Badami Caves
+URL: https://bagalkot.nic.in/en/tourist-place/badami-caves/
+Supports: Main cave group, religious affiliations and carved imagery; incorrect stair counts and blanket completion attribution are not repeated.
+Checked: 2026-10-07
+
+[2] Karnataka Tourism — Badami
+URL: https://karnatakatourism.org/en/destinations/badami
+Supports: Vatapi/Chalukya setting and rock-cut architecture; timings and travel claims excluded.
+Checked: 2026-10-07
+
+[3] UNESCO — Evolution of Temple Architecture, Tentative List submission
+URL: https://whc.unesco.org/en/tentativelists/5972
+Supports: State Party submission and distinction between tentative candidature and World Heritage inscription.
+Checked: 2026-10-07
+
+Method: Original paraphrased narrative based on listed primary sources. Observational prompts and respectful visitor advice are editorial. No prices, opening hours, guaranteed activities, exact distance or journey time are asserted. Recheck access and site rules before visiting.

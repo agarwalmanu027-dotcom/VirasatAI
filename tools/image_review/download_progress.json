@@ -1,0 +1,17 @@
+[
+  {
+    "place_id": "taj_mahal__bateshwar_temples",
+    "image_count": 0,
+    "manifest": "02_Images\\Taj_Mahal\\Nearby_Heritage\\Bateshwar_Temples\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "taj_mahal__chini_ka_rauza",
+    "image_count": 4,
+    "manifest": "02_Images\\Taj_Mahal\\Nearby_Heritage\\Chini_Ka_Rauza\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "taj_mahal__gurudwara_guru_ka_taal",
+    "image_count": 3,
+    "manifest": "02_Images\\Taj_Mahal\\Nearby_Heritage\\Gurudwara_Guru_Ka_Taal\\Image_Sources\\image_manifest.json"
+  }
+]

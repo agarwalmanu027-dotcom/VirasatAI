@@ -1,0 +1,12 @@
+VIRASATAI — STORY DATA
+Entry ID: mahabalipuram__vedanthangal_bird_sanctuary
+Name: Vedanthangal Bird Sanctuary
+Narrative focus: Seasonal water, nesting trees and respectful birdwatching
+Language files: Separate English and Devanagari Hindi master scripts in 03_Scripts.
+Status: Written narration ready for TTS input; pronunciation and generated audio still need listening QA.
+
+At Vedanthangal Bird Sanctuary, the most important structures are living trees standing in a wetland. Their branches provide places for waterbirds to gather and nest. The district administration describes a sanctuary used by birds such as cormorants, herons, egrets, storks and spoonbills. What you see on a particular visit depends on the season and water conditions.
+
+Birdwatching rewards patience. From a permitted viewing area, notice differences in shape and movement. One bird may have a long neck, another a broad bill, while a group on the branches may be difficult to distinguish at first. A quiet observation can become more interesting than a hurried photograph.
+
+This is a habitat before it is a visitor attraction. Avoid loud sounds, feeding or any attempt to approach nesting birds. Follow the sanctuary's instructions and leave the wetland clean. Vedanthangal adds an ecological story to the wider journey: natural places need protection just as carefully as carved stone and historic buildings.

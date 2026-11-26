@@ -1,0 +1,57 @@
+{
+  "placeId": "golden_temple__saragarhi_memorial",
+  "displayName": "Saragarhi Memorial",
+  "query": "\"Saragarhi Memorial\" Amritsar, Punjab filetype:bitmap",
+  "candidates": [
+    {
+      "candidateId": 1,
+      "title": "File:Photograph of the Saragarhi Memorial Gurdwara in Amritsar, ca.1900.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Photograph_of_the_Saragarhi_Memorial_Gurdwara_in_Amritsar,_ca.1900.jpg",
+      "previewUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Photograph_of_the_Saragarhi_Memorial_Gurdwara_in_Amritsar%2C_ca.1900.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "Unknown",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "previewPath": "tools/image_review/zero_search_candidates/golden_temple__saragarhi_memorial/candidate_01.jpg"
+    },
+    {
+      "candidateId": 2,
+      "title": "File:Photograph of the Saragarhi Memorial Gurdwara in Amritsar, as published in the Mahan Kosh (1930).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Photograph_of_the_Saragarhi_Memorial_Gurdwara_in_Amritsar,_as_published_in_the_Mahan_Kosh_(1930).jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Photograph_of_the_Saragarhi_Memorial_Gurdwara_in_Amritsar%2C_as_published_in_the_Mahan_Kosh_%281930%29.jpg/1280px-Photograph_of_the_Saragarhi_Memorial_Gurdwara_in_Amritsar%2C_as_published_in_the_Mahan_Kosh_%281930%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Published by Kahn Singh of Nabha [Kahn Singh Nabha]",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "previewPath": "tools/image_review/zero_search_candidates/golden_temple__saragarhi_memorial/candidate_02.jpg"
+    },
+    {
+      "candidateId": 3,
+      "title": "File:Photograph of the unveiling and inauguration of the Saragarhi Memorial Gurdwara at Amritsar in April 1902.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Photograph_of_the_unveiling_and_inauguration_of_the_Saragarhi_Memorial_Gurdwara_at_Amritsar_in_April_1902.jpg",
+      "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Photograph_of_the_unveiling_and_inauguration_of_the_Saragarhi_Memorial_Gurdwara_at_Amritsar_in_April_1902.jpg/1280px-Photograph_of_the_unveiling_and_inauguration_of_the_Saragarhi_Memorial_Gurdwara_at_Amritsar_in_April_1902.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "previewPath": "tools/image_review/zero_search_candidates/golden_temple__saragarhi_memorial/candidate_03.jpg"
+    },
+    {
+      "candidateId": 4,
+      "title": "File:Newspaper snippet regarding the inauguration of the Saragarhi Memorial Gurdwara, Amritsar, 15 April 1902.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Newspaper_snippet_regarding_the_inauguration_of_the_Saragarhi_Memorial_Gurdwara,_Amritsar,_15_April_1902.jpg",
+      "previewUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Newspaper_snippet_regarding_the_inauguration_of_the_Saragarhi_Memorial_Gurdwara%2C_Amritsar%2C_15_April_1902.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "previewPath": "tools/image_review/zero_search_candidates/golden_temple__saragarhi_memorial/candidate_04.jpg"
+    },
+    {
+      "candidateId": 5,
+      "title": "File:Photograph of the Saragarhi Memorial Gurdwara in Amritsar, kept in the collection of the National Army Museum.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Photograph_of_the_Saragarhi_Memorial_Gurdwara_in_Amritsar,_kept_in_the_collection_of_the_National_Army_Museum.jpg",
+      "previewUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Photograph_of_the_Saragarhi_Memorial_Gurdwara_in_Amritsar%2C_kept_in_the_collection_of_the_National_Army_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "previewPath": "tools/image_review/zero_search_candidates/golden_temple__saragarhi_memorial/candidate_05.jpg"
+    }
+  ]
+}

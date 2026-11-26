@@ -1,0 +1,178 @@
+{
+  "parent_monument_id": "qutub_minar",
+  "parent_monument_name": "Qutub Minar, Delhi",
+  "selection_source": "User-supplied table",
+  "nearby_entry_count": 10,
+  "places": [
+    {
+      "id": "qutub_minar__jamali_kamali_mosque",
+      "order": 1,
+      "display_name": "Jamali Kamali Mosque",
+      "folder_name": "Jamali_Kamali_Mosque",
+      "parent_monument_id": "qutub_minar",
+      "paths": {
+        "data": "01_Data/Qutub_Minar/Nearby_Heritage/Jamali_Kamali_Mosque",
+        "images": "02_Images/Qutub_Minar/Nearby_Heritage/Jamali_Kamali_Mosque",
+        "scripts": "03_Scripts/Qutub_Minar/Nearby_Heritage/Jamali_Kamali_Mosque",
+        "audio": "04_Audio/Qutub_Minar/Nearby_Heritage/Jamali_Kamali_Mosque"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "qutub_minar__rajon_ki_baoli",
+      "order": 2,
+      "display_name": "Rajon Ki Baoli",
+      "folder_name": "Rajon_Ki_Baoli",
+      "parent_monument_id": "qutub_minar",
+      "paths": {
+        "data": "01_Data/Qutub_Minar/Nearby_Heritage/Rajon_Ki_Baoli",
+        "images": "02_Images/Qutub_Minar/Nearby_Heritage/Rajon_Ki_Baoli",
+        "scripts": "03_Scripts/Qutub_Minar/Nearby_Heritage/Rajon_Ki_Baoli",
+        "audio": "04_Audio/Qutub_Minar/Nearby_Heritage/Rajon_Ki_Baoli"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "qutub_minar__balbans_tomb",
+      "order": 3,
+      "display_name": "Balban's Tomb",
+      "folder_name": "Balbans_Tomb",
+      "parent_monument_id": "qutub_minar",
+      "paths": {
+        "data": "01_Data/Qutub_Minar/Nearby_Heritage/Balbans_Tomb",
+        "images": "02_Images/Qutub_Minar/Nearby_Heritage/Balbans_Tomb",
+        "scripts": "03_Scripts/Qutub_Minar/Nearby_Heritage/Balbans_Tomb",
+        "audio": "04_Audio/Qutub_Minar/Nearby_Heritage/Balbans_Tomb"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "qutub_minar__zafar_mahal",
+      "order": 4,
+      "display_name": "Zafar Mahal",
+      "folder_name": "Zafar_Mahal",
+      "parent_monument_id": "qutub_minar",
+      "paths": {
+        "data": "01_Data/Qutub_Minar/Nearby_Heritage/Zafar_Mahal",
+        "images": "02_Images/Qutub_Minar/Nearby_Heritage/Zafar_Mahal",
+        "scripts": "03_Scripts/Qutub_Minar/Nearby_Heritage/Zafar_Mahal",
+        "audio": "04_Audio/Qutub_Minar/Nearby_Heritage/Zafar_Mahal"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "qutub_minar__adham_khans_tomb",
+      "order": 5,
+      "display_name": "Adham Khan's Tomb",
+      "folder_name": "Adham_Khans_Tomb",
+      "parent_monument_id": "qutub_minar",
+      "paths": {
+        "data": "01_Data/Qutub_Minar/Nearby_Heritage/Adham_Khans_Tomb",
+        "images": "02_Images/Qutub_Minar/Nearby_Heritage/Adham_Khans_Tomb",
+        "scripts": "03_Scripts/Qutub_Minar/Nearby_Heritage/Adham_Khans_Tomb",
+        "audio": "04_Audio/Qutub_Minar/Nearby_Heritage/Adham_Khans_Tomb"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "qutub_minar__gandhak_ki_baoli",
+      "order": 6,
+      "display_name": "Gandhak Ki Baoli",
+      "folder_name": "Gandhak_Ki_Baoli",
+      "parent_monument_id": "qutub_minar",
+      "paths": {
+        "data": "01_Data/Qutub_Minar/Nearby_Heritage/Gandhak_Ki_Baoli",
+        "images": "02_Images/Qutub_Minar/Nearby_Heritage/Gandhak_Ki_Baoli",
+        "scripts": "03_Scripts/Qutub_Minar/Nearby_Heritage/Gandhak_Ki_Baoli",
+        "audio": "04_Audio/Qutub_Minar/Nearby_Heritage/Gandhak_Ki_Baoli"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "qutub_minar__hijron_ka_khanqah",
+      "order": 7,
+      "display_name": "Hijron Ka Khanqah",
+      "folder_name": "Hijron_Ka_Khanqah",
+      "parent_monument_id": "qutub_minar",
+      "paths": {
+        "data": "01_Data/Qutub_Minar/Nearby_Heritage/Hijron_Ka_Khanqah",
+        "images": "02_Images/Qutub_Minar/Nearby_Heritage/Hijron_Ka_Khanqah",
+        "scripts": "03_Scripts/Qutub_Minar/Nearby_Heritage/Hijron_Ka_Khanqah",
+        "audio": "04_Audio/Qutub_Minar/Nearby_Heritage/Hijron_Ka_Khanqah"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "qutub_minar__jahaz_mahal",
+      "order": 8,
+      "display_name": "Jahaz Mahal",
+      "folder_name": "Jahaz_Mahal",
+      "parent_monument_id": "qutub_minar",
+      "paths": {
+        "data": "01_Data/Qutub_Minar/Nearby_Heritage/Jahaz_Mahal",
+        "images": "02_Images/Qutub_Minar/Nearby_Heritage/Jahaz_Mahal",
+        "scripts": "03_Scripts/Qutub_Minar/Nearby_Heritage/Jahaz_Mahal",
+        "audio": "04_Audio/Qutub_Minar/Nearby_Heritage/Jahaz_Mahal"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "qutub_minar__quli_khans_tomb",
+      "order": 9,
+      "display_name": "Quli Khan's Tomb",
+      "folder_name": "Quli_Khans_Tomb",
+      "parent_monument_id": "qutub_minar",
+      "paths": {
+        "data": "01_Data/Qutub_Minar/Nearby_Heritage/Quli_Khans_Tomb",
+        "images": "02_Images/Qutub_Minar/Nearby_Heritage/Quli_Khans_Tomb",
+        "scripts": "03_Scripts/Qutub_Minar/Nearby_Heritage/Quli_Khans_Tomb",
+        "audio": "04_Audio/Qutub_Minar/Nearby_Heritage/Quli_Khans_Tomb"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "qutub_minar__hauz_i_shamsi",
+      "order": 10,
+      "display_name": "Hauz-i-Shamsi",
+      "folder_name": "Hauz_i_Shamsi",
+      "parent_monument_id": "qutub_minar",
+      "paths": {
+        "data": "01_Data/Qutub_Minar/Nearby_Heritage/Hauz_i_Shamsi",
+        "images": "02_Images/Qutub_Minar/Nearby_Heritage/Hauz_i_Shamsi",
+        "scripts": "03_Scripts/Qutub_Minar/Nearby_Heritage/Hauz_i_Shamsi",
+        "audio": "04_Audio/Qutub_Minar/Nearby_Heritage/Hauz_i_Shamsi"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    }
+  ]
+}

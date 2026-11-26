@@ -1,0 +1,77 @@
+[
+  {
+    "place_id": "victoria_memorial__nipponzan_myohoji_temple",
+    "display_name": "Nipponzan Myohoji Temple",
+    "exact_files": [
+      "File:Nipponzan Myohoji Buddhist Temple.jpg",
+      "File:Japanese Buddhist Temple 2.jpg",
+      "File:Japanese Buddhist Temple 3.jpg",
+      "File:Japanese Buddhist Temple 4.jpg",
+      "File:Japanese Buddhist Temple 5.jpg",
+      "File:Japanese Buddhist Temple 22.jpg"
+    ],
+    "evidence_url": "https://commons.wikimedia.org/wiki/Category:Nipponzan_Myohoji_Buddhist_Temple,_Kolkata"
+  },
+  {
+    "place_id": "taj_mahal__bateshwar_temples",
+    "display_name": "Bateshwar Temples",
+    "exact_files": [
+      "File:BATESHWAR TEMPLE.jpg"
+    ],
+    "evidence_url": "https://commons.wikimedia.org/wiki/File:BATESHWAR_TEMPLE.jpg"
+  },
+  {
+    "place_id": "red_fort",
+    "display_name": "Red Fort, Delhi",
+    "exact_files": [
+      "File:Moti Masjid, Red Fort, Delhi.jpg"
+    ]
+  },
+  {
+    "place_id": "amer_fort__garh_ganesh_temple",
+    "display_name": "Garh Ganesh Temple",
+    "exact_files": [
+      "File:Jaipur 03-2016 38 Garh Ganesh Temple.jpg"
+    ]
+  },
+  {
+    "place_id": "mysore_palace__karanji_lake_aviary",
+    "display_name": "Karanji Lake Aviary",
+    "exact_files": [
+      "File:The White Peacock.jpg",
+      "File:Peacock (48963193021).jpg",
+      "File:White peacock (48963362082).jpg"
+    ],
+    "evidence_urls": [
+      "https://commons.wikimedia.org/wiki/File:Peacock_(48963193021).jpg",
+      "https://commons.wikimedia.org/wiki/File:White_peacock_(48963362082).jpg",
+      "https://commons.wikimedia.org/wiki/File:The_White_Peacock.jpg"
+    ]
+  },
+  {
+    "place_id": "hampi_monuments",
+    "display_name": "Hampi Monuments, Karnataka",
+    "exact_files": [
+      "File:The Stone Chariot of Hampi.jpg"
+    ]
+  },
+  {
+    "place_id": "badami_cave_temples",
+    "display_name": "Badami Cave Temples, Karnataka",
+    "exact_files": [
+      "File:Badami - Jaina & Vaishnava Caves.jpg",
+      "File:Badami caves Cave One (10).jpg",
+      "File:7th century Cave 2 pillars, Badami Hindu cave temple Karnataka.jpg",
+      "File:6th century pillars in Cave 3, Badami Hindu cave temple Karnataka.jpg",
+      "File:7th to 8th century Digambara Jain cave entrance, Badami cave 4, Karnataka.jpg",
+      "File:7th to 12th century Digambara Jain reliefs, Badami cave 4, Karnataka - 4.jpg"
+    ],
+    "evidence_urls": [
+      "https://commons.wikimedia.org/wiki/Category:Badami_cave_temples_(cave_1)",
+      "https://commons.wikimedia.org/wiki/Category:Badami_cave_temples_(cave_2)",
+      "https://commons.wikimedia.org/wiki/Category:Badami_cave_temples_(cave_3)",
+      "https://commons.wikimedia.org/wiki/Category:Badami_cave_temples_(cave_4)"
+    ],
+    "source_status": "Verified large modern photographs across all four caves. Badami rock-cut caves, not Aihole/Pattadakal structural temples. Visual review pending."
+  }
+]

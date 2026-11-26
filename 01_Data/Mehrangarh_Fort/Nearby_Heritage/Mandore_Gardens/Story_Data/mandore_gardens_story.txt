@@ -1,0 +1,12 @@
+VIRASATAI — STORY DATA
+Entry ID: mehrangarh_fort__mandore_gardens
+Name: Mandore Gardens
+Narrative focus: The former capital and temple-like memorial architecture
+Language files: Separate English and Devanagari Hindi master scripts in 03_Scripts.
+Status: Written narration ready for TTS input; pronunciation and generated audio still need listening QA.
+
+Mandore Gardens takes you towards the earlier political centre of Marwar. Before Jodhpur became its capital, Mandore held that role. Today, a garden setting brings together memorial architecture and sculptural reminders of the region's past.
+
+The royal memorials are especially interesting because their forms can resemble temples more closely than the small domed chhatris you may expect elsewhere in Rajasthan. Compare the height, roof shapes and arrangement of their parts. The differences remind us that memorial architecture follows more than one pattern. The Hall of Heroes adds another way of expressing public memory through sculpted figures.
+
+Enjoy the garden, but give the historic structures their own attention. A shaded walk and a heritage visit can support each other when visitors remain careful around old stonework. Stay in permitted areas, avoid climbing and leave carving untouched. Mandore helps connect Jodhpur's better-known fort with an earlier centre, widening the story from one landmark to a changing regional history.

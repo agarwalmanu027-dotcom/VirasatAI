@@ -1,0 +1,180 @@
+{
+  "parent_monument_id": "sanchi_stupa",
+  "parent_monument_name": "Sanchi Stupa, Madhya Pradesh",
+  "selection_source": "User-supplied table",
+  "nearby_entry_count": 10,
+  "places": [
+    {
+      "id": "sanchi_stupa__udayagiri_caves",
+      "order": 1,
+      "display_name": "Udayagiri Caves",
+      "folder_name": "Udayagiri_Caves",
+      "parent_monument_id": "sanchi_stupa",
+      "paths": {
+        "data": "01_Data/Sanchi_Stupa/Nearby_Heritage/Udayagiri_Caves",
+        "images": "02_Images/Sanchi_Stupa/Nearby_Heritage/Udayagiri_Caves",
+        "scripts": "03_Scripts/Sanchi_Stupa/Nearby_Heritage/Udayagiri_Caves",
+        "audio": "04_Audio/Sanchi_Stupa/Nearby_Heritage/Udayagiri_Caves"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "sanchi_stupa__heliodorus_pillar",
+      "order": 2,
+      "display_name": "Heliodorus Pillar",
+      "folder_name": "Heliodorus_Pillar",
+      "parent_monument_id": "sanchi_stupa",
+      "paths": {
+        "data": "01_Data/Sanchi_Stupa/Nearby_Heritage/Heliodorus_Pillar",
+        "images": "02_Images/Sanchi_Stupa/Nearby_Heritage/Heliodorus_Pillar",
+        "scripts": "03_Scripts/Sanchi_Stupa/Nearby_Heritage/Heliodorus_Pillar",
+        "audio": "04_Audio/Sanchi_Stupa/Nearby_Heritage/Heliodorus_Pillar"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "sanchi_stupa__bijamandal",
+      "order": 3,
+      "display_name": "Bijamandal",
+      "folder_name": "Bijamandal",
+      "parent_monument_id": "sanchi_stupa",
+      "paths": {
+        "data": "01_Data/Sanchi_Stupa/Nearby_Heritage/Bijamandal",
+        "images": "02_Images/Sanchi_Stupa/Nearby_Heritage/Bijamandal",
+        "scripts": "03_Scripts/Sanchi_Stupa/Nearby_Heritage/Bijamandal",
+        "audio": "04_Audio/Sanchi_Stupa/Nearby_Heritage/Bijamandal"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "sanchi_stupa__raisen_fort",
+      "order": 4,
+      "display_name": "Raisen Fort",
+      "folder_name": "Raisen_Fort",
+      "parent_monument_id": "sanchi_stupa",
+      "paths": {
+        "data": "01_Data/Sanchi_Stupa/Nearby_Heritage/Raisen_Fort",
+        "images": "02_Images/Sanchi_Stupa/Nearby_Heritage/Raisen_Fort",
+        "scripts": "03_Scripts/Sanchi_Stupa/Nearby_Heritage/Raisen_Fort",
+        "audio": "04_Audio/Sanchi_Stupa/Nearby_Heritage/Raisen_Fort"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "sanchi_stupa__sonari_stupas",
+      "order": 5,
+      "display_name": "Sonari Stupas",
+      "folder_name": "Sonari_Stupas",
+      "parent_monument_id": "sanchi_stupa",
+      "paths": {
+        "data": "01_Data/Sanchi_Stupa/Nearby_Heritage/Sonari_Stupas",
+        "images": "02_Images/Sanchi_Stupa/Nearby_Heritage/Sonari_Stupas",
+        "scripts": "03_Scripts/Sanchi_Stupa/Nearby_Heritage/Sonari_Stupas",
+        "audio": "04_Audio/Sanchi_Stupa/Nearby_Heritage/Sonari_Stupas"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "sanchi_stupa__satdhara_stupas",
+      "order": 6,
+      "display_name": "Satdhara Stupas",
+      "folder_name": "Satdhara_Stupas",
+      "parent_monument_id": "sanchi_stupa",
+      "paths": {
+        "data": "01_Data/Sanchi_Stupa/Nearby_Heritage/Satdhara_Stupas",
+        "images": "02_Images/Sanchi_Stupa/Nearby_Heritage/Satdhara_Stupas",
+        "scripts": "03_Scripts/Sanchi_Stupa/Nearby_Heritage/Satdhara_Stupas",
+        "audio": "04_Audio/Sanchi_Stupa/Nearby_Heritage/Satdhara_Stupas"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "sanchi_stupa__bhojpur_temple",
+      "order": 7,
+      "display_name": "Bhojpur Temple",
+      "folder_name": "Bhojpur_Temple",
+      "parent_monument_id": "sanchi_stupa",
+      "paths": {
+        "data": "01_Data/Sanchi_Stupa/Nearby_Heritage/Bhojpur_Temple",
+        "images": "02_Images/Sanchi_Stupa/Nearby_Heritage/Bhojpur_Temple",
+        "scripts": "03_Scripts/Sanchi_Stupa/Nearby_Heritage/Bhojpur_Temple",
+        "audio": "04_Audio/Sanchi_Stupa/Nearby_Heritage/Bhojpur_Temple"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "sanchi_stupa__andher_stupas",
+      "order": 8,
+      "display_name": "Andher Stupas",
+      "folder_name": "Andher_Stupas",
+      "parent_monument_id": "sanchi_stupa",
+      "paths": {
+        "data": "01_Data/Sanchi_Stupa/Nearby_Heritage/Andher_Stupas",
+        "images": "02_Images/Sanchi_Stupa/Nearby_Heritage/Andher_Stupas",
+        "scripts": "03_Scripts/Sanchi_Stupa/Nearby_Heritage/Andher_Stupas",
+        "audio": "04_Audio/Sanchi_Stupa/Nearby_Heritage/Andher_Stupas"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "sanchi_stupa__halali_dam",
+      "order": 9,
+      "display_name": "Halali Dam",
+      "folder_name": "Halali_Dam",
+      "parent_monument_id": "sanchi_stupa",
+      "paths": {
+        "data": "01_Data/Sanchi_Stupa/Nearby_Heritage/Halali_Dam",
+        "images": "02_Images/Sanchi_Stupa/Nearby_Heritage/Halali_Dam",
+        "scripts": "03_Scripts/Sanchi_Stupa/Nearby_Heritage/Halali_Dam",
+        "audio": "04_Audio/Sanchi_Stupa/Nearby_Heritage/Halali_Dam"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "sanchi_stupa__neelkantheshwar_temple",
+      "order": 10,
+      "display_name": "Neelkantheshwar Temple",
+      "folder_name": "Neelkantheshwar_Temple",
+      "parent_monument_id": "sanchi_stupa",
+      "paths": {
+        "data": "01_Data/Sanchi_Stupa/Nearby_Heritage/Neelkantheshwar_Temple",
+        "images": "02_Images/Sanchi_Stupa/Nearby_Heritage/Neelkantheshwar_Temple",
+        "scripts": "03_Scripts/Sanchi_Stupa/Nearby_Heritage/Neelkantheshwar_Temple",
+        "audio": "04_Audio/Sanchi_Stupa/Nearby_Heritage/Neelkantheshwar_Temple"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": [
+        "Verify the specific site associated with the Sanchi group."
+      ]
+    }
+  ]
+}

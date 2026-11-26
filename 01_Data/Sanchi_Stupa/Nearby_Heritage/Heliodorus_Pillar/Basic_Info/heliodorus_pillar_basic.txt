@@ -1,0 +1,13 @@
+VIRASATAI — BASIC INFORMATION
+Name: Heliodorus Pillar
+Entry ID: sanchi_stupa__heliodorus_pillar
+Location: Besnagar near Vidisha, Madhya Pradesh, India
+Type: Inscribed ancient pillar
+Identity note: User-selected site identity verified against the sources below.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. The pillar stands at Besnagar near Vidisha. [1]
+2. Its inscription identifies Heliodorus, son of Dion, as an envoy of the Indo-Greek king Antialkidas. [1]
+3. It was dedicated in honour of Vasudeva and is locally called Khamba Baba. [1,2]
+
+Sources: See heliodorus_pillar_sources.txt. The parent association is the user's selection, not a verified proximity claim.

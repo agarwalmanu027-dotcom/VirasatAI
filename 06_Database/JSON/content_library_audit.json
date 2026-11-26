@@ -1,0 +1,1160 @@
+{
+  "checked_on": "2026-10-08",
+  "totals": {
+    "place_entries": 220,
+    "main_groups": 20,
+    "nearby_entries": 200,
+    "content_ready": 218,
+    "identity_pending": 2,
+    "english_scripts": 218,
+    "hindi_scripts": 218,
+    "display_images": 342,
+    "places_with_images": 68,
+    "places_without_images": 152,
+    "protected_original_files_unchanged": 49,
+    "new_content_text_files": 1521
+  },
+  "errors": [],
+  "warnings": [],
+  "image_gaps": [
+    {
+      "id": "taj_mahal__bateshwar_temples",
+      "name": "Bateshwar Temples",
+      "group": "Taj Mahal, Agra",
+      "reason": "Correct Agra/UP identity checked. Morena images rejected; two Agra interior candidates rejected for noise and soft detail. High-quality exterior gallery pending.",
+      "download_errors": []
+    },
+    {
+      "id": "amer_fort__vidyadhar_garden",
+      "name": "Vidyadhar Garden",
+      "group": "Amer Fort, Jaipur",
+      "reason": "Generic Jaipur street photograph rejected. Qualifying correctly identified garden photographs pending.",
+      "download_errors": []
+    },
+    {
+      "id": "amer_fort__sagar_lake",
+      "name": "Sagar Lake",
+      "group": "Amer Fort, Jaipur",
+      "reason": "Man Sagar/Jal Mahal photographs rejected. Correct identity is the reservoir behind Amer Fort; qualifying images pending.",
+      "download_errors": []
+    },
+    {
+      "id": "amer_fort__hathni_kund",
+      "name": "Hathni Kund",
+      "group": "Amer Fort, Jaipur",
+      "reason": "Exact Jaipur site identity needs further reliable-source verification.",
+      "download_errors": []
+    },
+    {
+      "id": "red_fort__chunnamal_haveli",
+      "name": "Chunnamal Haveli",
+      "group": "Red Fort, Delhi",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "red_fort__st_james_church",
+      "name": "St. James' Church",
+      "group": "Red Fort, Delhi",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "red_fort__naughara_kinari_bazaar",
+      "name": "Naughara (Kinari Bazaar)",
+      "group": "Red Fort, Delhi",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "charminar__hayat_bakshi_mosque",
+      "name": "Hayat Bakshi Mosque",
+      "group": "Charminar, Hyderabad",
+      "reason": "All ten candidates depict the Hayat Bakshi funerary mosque inside the Qutb Shahi Tombs complex. The intended entry is the mosque/sarai at Hayathnagar; no candidate selected until a correctly identified Hayathnagar photo is available.",
+      "download_errors": []
+    },
+    {
+      "id": "victoria_memorial__marble_palace",
+      "name": "Marble Palace",
+      "group": "Victoria Memorial, Kolkata",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "victoria_memorial__nipponzan_myohoji_temple",
+      "name": "Nipponzan Myohoji Temple",
+      "group": "Victoria Memorial, Kolkata",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "mysore_palace__jaganmohan_palace",
+      "name": "Jaganmohan Palace",
+      "group": "Mysore Palace, Mysuru",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "mysore_palace__railway_museum_mysore",
+      "name": "Railway Museum Mysore",
+      "group": "Mysore Palace, Mysuru",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "mysore_palace__kukkarahalli_lake",
+      "name": "Kukkarahalli Lake",
+      "group": "Mysore Palace, Mysuru",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "mysore_palace__melody_world_wax_museum",
+      "name": "Melody World Wax Museum",
+      "group": "Mysore Palace, Mysuru",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "mysore_palace__kishkindha_moolika_bonsai_garden",
+      "name": "Kishkindha Moolika Bonsai Garden",
+      "group": "Mysore Palace, Mysuru",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "mysore_palace__st_philomenas_church_crypt",
+      "name": "St. Philomena's Church Crypt",
+      "group": "Mysore Palace, Mysuru",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "mysore_palace__gun_house",
+      "name": "Gun House",
+      "group": "Mysore Palace, Mysuru",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "mysore_palace__karanji_lake_aviary",
+      "name": "Karanji Lake Aviary",
+      "group": "Mysore Palace, Mysuru",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "mysore_palace__wellington_lodge",
+      "name": "Wellington Lodge",
+      "group": "Mysore Palace, Mysuru",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "mysore_palace__jayalakshmi_vilas_mansion",
+      "name": "Jayalakshmi Vilas Mansion",
+      "group": "Mysore Palace, Mysuru",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "hampi_monuments",
+      "name": "Hampi Monuments, Karnataka",
+      "group": "Hampi Monuments, Karnataka",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "hampi_monuments__hemakuta_hill_temples",
+      "name": "Hemakuta Hill Temples",
+      "group": "Hampi Monuments, Karnataka",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "hampi_monuments__matanga_hill",
+      "name": "Matanga Hill",
+      "group": "Hampi Monuments, Karnataka",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "hampi_monuments__achyutaraya_temple",
+      "name": "Achyutaraya Temple",
+      "group": "Hampi Monuments, Karnataka",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "hampi_monuments__sugrivas_cave",
+      "name": "Sugriva's Cave",
+      "group": "Hampi Monuments, Karnataka",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "hampi_monuments__zenana_enclosure",
+      "name": "Zenana Enclosure",
+      "group": "Hampi Monuments, Karnataka",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "hampi_monuments__badavilinga_temple",
+      "name": "Badavilinga Temple",
+      "group": "Hampi Monuments, Karnataka",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "hampi_monuments__sasivekalu_ganesha",
+      "name": "Sasivekalu Ganesha",
+      "group": "Hampi Monuments, Karnataka",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "hampi_monuments__anegundi_village",
+      "name": "Anegundi Village",
+      "group": "Hampi Monuments, Karnataka",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "hampi_monuments__sanapur_lake",
+      "name": "Sanapur Lake",
+      "group": "Hampi Monuments, Karnataka",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "hampi_monuments__pampa_sarovar",
+      "name": "Pampa Sarovar",
+      "group": "Hampi Monuments, Karnataka",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "meenakshi_temple",
+      "name": "Meenakshi Temple, Madurai",
+      "group": "Meenakshi Temple, Madurai",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "meenakshi_temple__thirumalai_nayakkar_mahal",
+      "name": "Thirumalai Nayakkar Mahal",
+      "group": "Meenakshi Temple, Madurai",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "meenakshi_temple__gandhi_memorial_museum",
+      "name": "Gandhi Memorial Museum",
+      "group": "Meenakshi Temple, Madurai",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "meenakshi_temple__vandiyur_mariamman_teppakulam",
+      "name": "Vandiyur Mariamman Teppakulam",
+      "group": "Meenakshi Temple, Madurai",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "meenakshi_temple__vilachery_pottery_village",
+      "name": "Vilachery Pottery Village",
+      "group": "Meenakshi Temple, Madurai",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "meenakshi_temple__goripalayam_dargah",
+      "name": "Goripalayam Dargah",
+      "group": "Meenakshi Temple, Madurai",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "meenakshi_temple__koodal_azhagar_temple",
+      "name": "Koodal Azhagar Temple",
+      "group": "Meenakshi Temple, Madurai",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "meenakshi_temple__palamuthirsolai_murugan_temple",
+      "name": "Palamuthirsolai Murugan Temple",
+      "group": "Meenakshi Temple, Madurai",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "meenakshi_temple__kazimar_big_mosque",
+      "name": "Kazimar Big Mosque",
+      "group": "Meenakshi Temple, Madurai",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "meenakshi_temple__yanaimalai",
+      "name": "Yanaimalai",
+      "group": "Meenakshi Temple, Madurai",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "meenakshi_temple__samanar_hills",
+      "name": "Samanar Hills",
+      "group": "Meenakshi Temple, Madurai",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "golden_temple",
+      "name": "Golden Temple, Amritsar",
+      "group": "Golden Temple, Amritsar",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "golden_temple__pul_kanjri",
+      "name": "Pul Kanjri",
+      "group": "Golden Temple, Amritsar",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "golden_temple__gurdwara_baba_atal_rai",
+      "name": "Gurdwara Baba Atal Rai",
+      "group": "Golden Temple, Amritsar",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "golden_temple__khalsa_college",
+      "name": "Khalsa College",
+      "group": "Golden Temple, Amritsar",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "golden_temple__ram_bagh_palace",
+      "name": "Ram Bagh Palace",
+      "group": "Golden Temple, Amritsar",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "golden_temple__gobindgarh_fort",
+      "name": "Gobindgarh Fort",
+      "group": "Golden Temple, Amritsar",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "golden_temple__partition_museum",
+      "name": "Partition Museum",
+      "group": "Golden Temple, Amritsar",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "golden_temple__gurdwara_mata_kaulan",
+      "name": "Gurdwara Mata Kaulan",
+      "group": "Golden Temple, Amritsar",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "golden_temple__durgiana_temple",
+      "name": "Durgiana Temple",
+      "group": "Golden Temple, Amritsar",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "golden_temple__harike_wetland",
+      "name": "Harike Wetland",
+      "group": "Golden Temple, Amritsar",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "golden_temple__saragarhi_memorial",
+      "name": "Saragarhi Memorial",
+      "group": "Golden Temple, Amritsar",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "khajuraho_monuments",
+      "name": "Khajuraho Monuments, Madhya Pradesh",
+      "group": "Khajuraho Monuments, Madhya Pradesh",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "khajuraho_monuments__raneh_falls",
+      "name": "Raneh Falls",
+      "group": "Khajuraho Monuments, Madhya Pradesh",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "khajuraho_monuments__pandav_falls",
+      "name": "Pandav Falls",
+      "group": "Khajuraho Monuments, Madhya Pradesh",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "khajuraho_monuments__ken_gharial_sanctuary",
+      "name": "Ken Gharial Sanctuary",
+      "group": "Khajuraho Monuments, Madhya Pradesh",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "khajuraho_monuments__matangeshwar_temple",
+      "name": "Matangeshwar Temple",
+      "group": "Khajuraho Monuments, Madhya Pradesh",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "khajuraho_monuments__ajaigarh_fort",
+      "name": "Ajaigarh Fort",
+      "group": "Khajuraho Monuments, Madhya Pradesh",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "khajuraho_monuments__kalinjar_fort",
+      "name": "Kalinjar Fort",
+      "group": "Khajuraho Monuments, Madhya Pradesh",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "khajuraho_monuments__jain_museum",
+      "name": "Jain Museum",
+      "group": "Khajuraho Monuments, Madhya Pradesh",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "khajuraho_monuments__duladeo_temple",
+      "name": "Duladeo Temple",
+      "group": "Khajuraho Monuments, Madhya Pradesh",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "khajuraho_monuments__chaturbhuj_temple",
+      "name": "Chaturbhuj Temple",
+      "group": "Khajuraho Monuments, Madhya Pradesh",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "khajuraho_monuments__beni_sagar_dam",
+      "name": "Beni Sagar Dam",
+      "group": "Khajuraho Monuments, Madhya Pradesh",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "ajanta_ellora_caves",
+      "name": "Ajanta & Ellora Caves, Maharashtra",
+      "group": "Ajanta & Ellora Caves, Maharashtra",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "ajanta_ellora_caves__daulatabad_fort",
+      "name": "Daulatabad Fort",
+      "group": "Ajanta & Ellora Caves, Maharashtra",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "ajanta_ellora_caves__bibi_ka_maqbara",
+      "name": "Bibi Ka Maqbara",
+      "group": "Ajanta & Ellora Caves, Maharashtra",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "ajanta_ellora_caves__khuldabad",
+      "name": "Khuldabad",
+      "group": "Ajanta & Ellora Caves, Maharashtra",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "ajanta_ellora_caves__grishneshwar_jyotirlinga",
+      "name": "Grishneshwar Jyotirlinga",
+      "group": "Ajanta & Ellora Caves, Maharashtra",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "ajanta_ellora_caves__siddharth_garden",
+      "name": "Siddharth Garden",
+      "group": "Ajanta & Ellora Caves, Maharashtra",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "ajanta_ellora_caves__salim_ali_lake",
+      "name": "Salim Ali Lake",
+      "group": "Ajanta & Ellora Caves, Maharashtra",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "ajanta_ellora_caves__panchakki",
+      "name": "Panchakki",
+      "group": "Ajanta & Ellora Caves, Maharashtra",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "ajanta_ellora_caves__jama_masjid_aurangabad",
+      "name": "Jama Masjid Aurangabad",
+      "group": "Ajanta & Ellora Caves, Maharashtra",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "ajanta_ellora_caves__soneri_mahal",
+      "name": "Soneri Mahal",
+      "group": "Ajanta & Ellora Caves, Maharashtra",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "ajanta_ellora_caves__bhadra_maruti_temple",
+      "name": "Bhadra Maruti Temple",
+      "group": "Ajanta & Ellora Caves, Maharashtra",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "konark_sun_temple",
+      "name": "Konark Sun Temple, Odisha",
+      "group": "Konark Sun Temple, Odisha",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "konark_sun_temple__kuruma_buddhist_site",
+      "name": "Kuruma Buddhist Site",
+      "group": "Konark Sun Temple, Odisha",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "konark_sun_temple__ramachandi_temple",
+      "name": "Ramachandi Temple",
+      "group": "Konark Sun Temple, Odisha",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "konark_sun_temple__chandrabhaga_beach",
+      "name": "Chandrabhaga Beach",
+      "group": "Konark Sun Temple, Odisha",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "konark_sun_temple__astaranga_beach",
+      "name": "Astaranga Beach",
+      "group": "Konark Sun Temple, Odisha",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "konark_sun_temple__barahi_temple_chaurasi",
+      "name": "Barahi Temple (Chaurasi)",
+      "group": "Konark Sun Temple, Odisha",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "konark_sun_temple__pipili_village",
+      "name": "Pipili Village",
+      "group": "Konark Sun Temple, Odisha",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "konark_sun_temple__dhauli_shanti_stupa",
+      "name": "Dhauli Shanti Stupa",
+      "group": "Konark Sun Temple, Odisha",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "konark_sun_temple__chausathi_yogini_temple",
+      "name": "Chausathi Yogini Temple",
+      "group": "Konark Sun Temple, Odisha",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "konark_sun_temple__mangalajodi_chilika",
+      "name": "Mangalajodi (Chilika)",
+      "group": "Konark Sun Temple, Odisha",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "konark_sun_temple__raghurajpur_artist_village",
+      "name": "Raghurajpur Artist Village",
+      "group": "Konark Sun Temple, Odisha",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "sanchi_stupa",
+      "name": "Sanchi Stupa, Madhya Pradesh",
+      "group": "Sanchi Stupa, Madhya Pradesh",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "sanchi_stupa__udayagiri_caves",
+      "name": "Udayagiri Caves",
+      "group": "Sanchi Stupa, Madhya Pradesh",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "sanchi_stupa__heliodorus_pillar",
+      "name": "Heliodorus Pillar",
+      "group": "Sanchi Stupa, Madhya Pradesh",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "sanchi_stupa__bijamandal",
+      "name": "Bijamandal",
+      "group": "Sanchi Stupa, Madhya Pradesh",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "sanchi_stupa__raisen_fort",
+      "name": "Raisen Fort",
+      "group": "Sanchi Stupa, Madhya Pradesh",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "sanchi_stupa__sonari_stupas",
+      "name": "Sonari Stupas",
+      "group": "Sanchi Stupa, Madhya Pradesh",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "sanchi_stupa__satdhara_stupas",
+      "name": "Satdhara Stupas",
+      "group": "Sanchi Stupa, Madhya Pradesh",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "sanchi_stupa__bhojpur_temple",
+      "name": "Bhojpur Temple",
+      "group": "Sanchi Stupa, Madhya Pradesh",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "sanchi_stupa__andher_stupas",
+      "name": "Andher Stupas",
+      "group": "Sanchi Stupa, Madhya Pradesh",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "sanchi_stupa__halali_dam",
+      "name": "Halali Dam",
+      "group": "Sanchi Stupa, Madhya Pradesh",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "sanchi_stupa__neelkantheshwar_temple",
+      "name": "Neelkantheshwar Temple",
+      "group": "Sanchi Stupa, Madhya Pradesh",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "city_palace_udaipur",
+      "name": "City Palace, Udaipur",
+      "group": "City Palace, Udaipur",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "city_palace_udaipur__ahar_cenotaphs",
+      "name": "Ahar Cenotaphs",
+      "group": "City Palace, Udaipur",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "city_palace_udaipur__sajjangarh_monsoon_palace",
+      "name": "Sajjangarh (Monsoon Palace)",
+      "group": "City Palace, Udaipur",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "city_palace_udaipur__badi_lake",
+      "name": "Badi Lake",
+      "group": "City Palace, Udaipur",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "city_palace_udaipur__saheliyon_ki_bari",
+      "name": "Saheliyon Ki Bari",
+      "group": "City Palace, Udaipur",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "city_palace_udaipur__bagore_ki_haveli",
+      "name": "Bagore Ki Haveli",
+      "group": "City Palace, Udaipur",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "city_palace_udaipur__shilpgram",
+      "name": "Shilpgram",
+      "group": "City Palace, Udaipur",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "city_palace_udaipur__karni_mata_temple",
+      "name": "Karni Mata Temple",
+      "group": "City Palace, Udaipur",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "city_palace_udaipur__ambrai_ghat",
+      "name": "Ambrai Ghat",
+      "group": "City Palace, Udaipur",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "city_palace_udaipur__vintage_car_museum",
+      "name": "Vintage Car Museum",
+      "group": "City Palace, Udaipur",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "city_palace_udaipur__eklingji_temple",
+      "name": "Eklingji Temple",
+      "group": "City Palace, Udaipur",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "mahabalipuram",
+      "name": "Mahabalipuram, Tamil Nadu",
+      "group": "Mahabalipuram, Tamil Nadu",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "mahabalipuram__tiger_cave",
+      "name": "Tiger Cave",
+      "group": "Mahabalipuram, Tamil Nadu",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "mahabalipuram__sadras_dutch_fort",
+      "name": "Sadras Dutch Fort",
+      "group": "Mahabalipuram, Tamil Nadu",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "mahabalipuram__nithyakalyana_perumal_temple",
+      "name": "Nithyakalyana Perumal Temple",
+      "group": "Mahabalipuram, Tamil Nadu",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "mahabalipuram__alamparai_fort",
+      "name": "Alamparai Fort",
+      "group": "Mahabalipuram, Tamil Nadu",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "mahabalipuram__cholamandal_artists_village",
+      "name": "Cholamandal Artists' Village",
+      "group": "Mahabalipuram, Tamil Nadu",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "mahabalipuram__dakshinachitra",
+      "name": "DakshinaChitra",
+      "group": "Mahabalipuram, Tamil Nadu",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "mahabalipuram__muttukadu_backwaters",
+      "name": "Muttukadu Backwaters",
+      "group": "Mahabalipuram, Tamil Nadu",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "mahabalipuram__vedanthangal_bird_sanctuary",
+      "name": "Vedanthangal Bird Sanctuary",
+      "group": "Mahabalipuram, Tamil Nadu",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "mahabalipuram__sri_thiruvidandhai",
+      "name": "Sri Thiruvidandhai",
+      "group": "Mahabalipuram, Tamil Nadu",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "mahabalipuram__poonjeri_village",
+      "name": "Poonjeri Village",
+      "group": "Mahabalipuram, Tamil Nadu",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "jaisalmer_fort",
+      "name": "Jaisalmer Fort, Rajasthan",
+      "group": "Jaisalmer Fort, Rajasthan",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "jaisalmer_fort__kuldhara_village",
+      "name": "Kuldhara Village",
+      "group": "Jaisalmer Fort, Rajasthan",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "jaisalmer_fort__bada_bagh",
+      "name": "Bada Bagh",
+      "group": "Jaisalmer Fort, Rajasthan",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "jaisalmer_fort__khaba_fort",
+      "name": "Khaba Fort",
+      "group": "Jaisalmer Fort, Rajasthan",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "jaisalmer_fort__lodhruva_jain_temples",
+      "name": "Lodhruva Jain Temples",
+      "group": "Jaisalmer Fort, Rajasthan",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "jaisalmer_fort__vyas_chhatri",
+      "name": "Vyas Chhatri",
+      "group": "Jaisalmer Fort, Rajasthan",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "jaisalmer_fort__desert_national_park",
+      "name": "Desert National Park",
+      "group": "Jaisalmer Fort, Rajasthan",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "jaisalmer_fort__tanot_mata_temple",
+      "name": "Tanot Mata Temple",
+      "group": "Jaisalmer Fort, Rajasthan",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "jaisalmer_fort__akal_wood_fossil_park",
+      "name": "Akal Wood Fossil Park",
+      "group": "Jaisalmer Fort, Rajasthan",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "jaisalmer_fort__amar_sagar_jain_temple",
+      "name": "Amar Sagar Jain Temple",
+      "group": "Jaisalmer Fort, Rajasthan",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "jaisalmer_fort__nathmal_ji_ki_haveli",
+      "name": "Nathmal Ji Ki Haveli",
+      "group": "Jaisalmer Fort, Rajasthan",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "mehrangarh_fort",
+      "name": "Mehrangarh Fort, Jodhpur",
+      "group": "Mehrangarh Fort, Jodhpur",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "mehrangarh_fort__rao_jodha_desert_rock_park",
+      "name": "Rao Jodha Desert Rock Park",
+      "group": "Mehrangarh Fort, Jodhpur",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "mehrangarh_fort__jaswant_thada",
+      "name": "Jaswant Thada",
+      "group": "Mehrangarh Fort, Jodhpur",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "mehrangarh_fort__toorji_ka_jhalra",
+      "name": "Toorji Ka Jhalra",
+      "group": "Mehrangarh Fort, Jodhpur",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "mehrangarh_fort__mandore_gardens",
+      "name": "Mandore Gardens",
+      "group": "Mehrangarh Fort, Jodhpur",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "mehrangarh_fort__balsamand_lake",
+      "name": "Balsamand Lake",
+      "group": "Mehrangarh Fort, Jodhpur",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "mehrangarh_fort__mahamandir_temple",
+      "name": "Mahamandir Temple",
+      "group": "Mehrangarh Fort, Jodhpur",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "mehrangarh_fort__osian_temples",
+      "name": "Osian Temples",
+      "group": "Mehrangarh Fort, Jodhpur",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "mehrangarh_fort__machia_biological_park",
+      "name": "Machia Biological Park",
+      "group": "Mehrangarh Fort, Jodhpur",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "mehrangarh_fort__singhasni_village",
+      "name": "Singhasni Village",
+      "group": "Mehrangarh Fort, Jodhpur",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "mehrangarh_fort__navchowkiya",
+      "name": "Navchowkiya",
+      "group": "Mehrangarh Fort, Jodhpur",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "badami_cave_temples",
+      "name": "Badami Cave Temples, Karnataka",
+      "group": "Badami Cave Temples, Karnataka",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "badami_cave_temples__bhutanatha_group_of_temples",
+      "name": "Bhutanatha Group of Temples",
+      "group": "Badami Cave Temples, Karnataka",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "badami_cave_temples__agastya_lake",
+      "name": "Agastya Lake",
+      "group": "Badami Cave Temples, Karnataka",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "badami_cave_temples__badami_fort",
+      "name": "Badami Fort",
+      "group": "Badami Cave Temples, Karnataka",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "badami_cave_temples__mahakuta_group_of_temples",
+      "name": "Mahakuta Group of Temples",
+      "group": "Badami Cave Temples, Karnataka",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "badami_cave_temples__pattadakal_monuments",
+      "name": "Pattadakal Monuments",
+      "group": "Badami Cave Temples, Karnataka",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "badami_cave_temples__aihole_durga_temple",
+      "name": "Aihole (Durga Temple)",
+      "group": "Badami Cave Temples, Karnataka",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "badami_cave_temples__banashankari_amma_temple",
+      "name": "Banashankari Amma Temple",
+      "group": "Badami Cave Temples, Karnataka",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "badami_cave_temples__ravan_phadi_cave",
+      "name": "Ravan Phadi Cave",
+      "group": "Badami Cave Temples, Karnataka",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "badami_cave_temples__lad_khan_temple",
+      "name": "Lad Khan Temple",
+      "group": "Badami Cave Temples, Karnataka",
+      "reason": "No reviewed high-quality, correct-site image saved yet.",
+      "download_errors": []
+    },
+    {
+      "id": "badami_cave_temples__galaganatha_temples",
+      "name": "Galaganatha Temples",
+      "group": "Badami Cave Temples, Karnataka",
+      "reason": "Identity pending by user instruction: Aihole group or Pattadakal temple.",
+      "download_errors": []
+    }
+  ],
+  "sparse_galleries": [
+    {
+      "id": "taj_mahal__taj_nature_walk",
+      "name": "Taj Nature Walk",
+      "image_count": 2,
+      "coverage_note": "Clear garden/pond and documented Nature Walk sunset view selected. Blurry low-resolution views and prominently watermarked photos rejected."
+    },
+    {
+      "id": "taj_mahal__jaswant_singh_ki_chhatri",
+      "name": "Jaswant Singh Ki Chhatri",
+      "image_count": 1,
+      "coverage_note": "One clear correctly identified Commons photograph available; gallery quantity kept low to preserve relevance and quality."
+    },
+    {
+      "id": "amer_fort__anokhi_museum",
+      "name": "Anokhi Museum",
+      "image_count": 2,
+      "coverage_note": "Museum building and block-printing demonstration."
+    },
+    {
+      "id": "amer_fort__garh_ganesh_temple",
+      "name": "Garh Ganesh Temple",
+      "image_count": 1,
+      "coverage_note": "Entrance stairway only. Gaitore cenotaph photographs rejected as wrong subject; full temple gallery remains limited."
+    },
+    {
+      "id": "red_fort__sunehri_masjid",
+      "name": "Sunehri Masjid",
+      "image_count": 2,
+      "coverage_note": "Verified 1751 Qudsia Begum mosque near Red Fort. Entrance and stone carving; darker/crowded views rejected."
+    },
+    {
+      "id": "red_fort__zeenat_ul_masajid",
+      "name": "Zeenat-ul-Masajid",
+      "image_count": 1,
+      "coverage_note": "Correct Delhi mosque entrance and minaret view only; full facade coverage limited."
+    },
+    {
+      "id": "red_fort__digambar_jain_bird_hospital",
+      "name": "Digambar Jain Bird Hospital",
+      "image_count": 2,
+      "coverage_note": "Hospital building and its signed entrance; no generic bird or Jain-temple substitute."
+    },
+    {
+      "id": "gateway_of_india__ballard_bunder_gatehouse",
+      "name": "Ballard Bunder Gatehouse",
+      "image_count": 1,
+      "coverage_note": "Only one qualifying current gatehouse image was available in this candidate batch."
+    },
+    {
+      "id": "charminar__spanish_mosque",
+      "name": "Spanish Mosque",
+      "image_count": 1,
+      "coverage_note": "Only candidate 1 is Hyderabad's Spanish Mosque. Candidates 2–7 depict the Spanish Mosque overlooking Chefchaouen, Morocco, and were rejected."
+    },
+    {
+      "id": "charminar__nizams_museum",
+      "name": "Nizam's Museum",
+      "image_count": 1,
+      "coverage_note": "Only museum-building exterior qualifies. Candidates 2–10 are explicitly labelled Salarjung Museum, a different institution, and were rejected. Additional genuine Nizam's Museum collection photos are needed."
+    }
+  ],
+  "download_failures": [],
+  "preserved_originals": {
+    "checked": 49,
+    "changed": []
+  },
+  "limitations": [
+    "Image review is a visual check, not perfect identity or quality certification.",
+    "Some niche sites have no suitable image yet; missing galleries remain empty.",
+    "Legacy Taj source record contains VERIFY fields; original user files were preserved.",
+    "TTS scripts are prepared but audio voices and pronunciations have not been auditioned.",
+    "Distances and travel times remain unverified.",
+    "This content collection is separate from the AI training dataset."
+  ]
+}

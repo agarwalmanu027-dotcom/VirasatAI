@@ -1,0 +1,1568 @@
+[
+  {
+    "place_id": "sanchi_stupa",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Clear full Great Stupa and gateway in natural colour.",
+        "reviewed_source_title": "File:Sanchi-N-MP-220.jpg",
+        "reviewed_source_sha1": "c3818c3b92c4770f3245917017dd4d1df35bf338"
+      },
+      {
+        "candidate_id": 3,
+        "category": "Different_Views",
+        "review_note": "Vertical gateway reflection; clear stone architecture.",
+        "reviewed_source_title": "File:Sanchi-bhopal-madhya pradesh-DSC01.jpg",
+        "reviewed_source_sha1": "0cd8e934308a8408c37a8651854601799d28b49f"
+      },
+      {
+        "candidate_id": 4,
+        "category": "Surroundings",
+        "review_note": "Wide view of the Sanchi monument grounds and temple remains.",
+        "reviewed_source_title": "File:Buddhist Monuments - Sanchi Hill 2013-02-21 4500 4502-4507.JPG",
+        "reviewed_source_sha1": "57c9cd8429f24a06e3f9d7552a7e4c5474fa6270"
+      },
+      {
+        "candidate_id": 5,
+        "category": "Surroundings",
+        "review_note": "Small stupas and surrounding archaeological remains.",
+        "reviewed_source_title": "File:Votive Stupas - Sanchi Hill 2013-02-21 4417.JPG",
+        "reviewed_source_sha1": "209c8e30c10c3378b37487360d3b839d167dc126"
+      },
+      {
+        "candidate_id": 6,
+        "category": "Details",
+        "review_note": "Sharp lion capital detail.",
+        "reviewed_source_title": "File:Ashok Stambh Sanchi Stupa.jpg",
+        "reviewed_source_sha1": "5bbabcced28e609d6cb49ca898a5d927b9e78f9f"
+      },
+      {
+        "candidate_id": 8,
+        "category": "Details",
+        "review_note": "Sharp carved elephant scene.",
+        "reviewed_source_title": "File:Cow Mythological Statues At Sanchi.jpg",
+        "reviewed_source_sha1": "96acbd8f53ebde9df39f5940dd71adac7210fc07"
+      },
+      {
+        "candidate_id": 10,
+        "category": "Details",
+        "review_note": "Clear view of stacked carved archaeological remains.",
+        "reviewed_source_title": "File:Ruins of Sanchi stupa.jpg",
+        "reviewed_source_sha1": "f6eafc8a2e7d64702c79fa51e8b9a297f36a8507"
+      },
+      {
+        "candidate_id": 12,
+        "category": "Details",
+        "review_note": "Gateway capital and relief carving.",
+        "reviewed_source_title": "File:Four Local Mauryan Dynasty people sanchi(1).jpg",
+        "reviewed_source_sha1": "eaa6e54b773efceb31bbe99d40f25c6a9c051fb9"
+      },
+      {
+        "candidate_id": 13,
+        "category": "Different_Views",
+        "review_note": "Full gateway from a different side; rich colour but visible detail.",
+        "reviewed_source_title": "File:Sanchi stupa 005.jpg",
+        "reviewed_source_sha1": "df3b69457d93526efdbc0726ba7a56552d703b81"
+      },
+      {
+        "candidate_id": 17,
+        "category": "Details",
+        "review_note": "Detailed carved narrative panel.",
+        "reviewed_source_title": "File:Kkm sanchi MP India2.jpg",
+        "reviewed_source_sha1": "fe7203fef3966ee86e628f3d75270ba43e00ac3c"
+      },
+      {
+        "candidate_id": 18,
+        "category": "Different_Views",
+        "review_note": "Stupa upper walkway and railing with gateway beyond.",
+        "reviewed_source_title": "File:The Great Stupa, at Sanchi, Madhya Pradesh.jpg",
+        "reviewed_source_sha1": "3df3b81bde030dfa306308dcdd71a46dba18961d"
+      },
+      {
+        "candidate_id": 19,
+        "category": "Details",
+        "review_note": "Clear close carved gateway panel.",
+        "reviewed_source_title": "File:Multiple Rituals At Sanchi.jpg",
+        "reviewed_source_sha1": "bf0cbfcedd3abef0474b1bb1abe2ef8dc5443dcc"
+      },
+      {
+        "candidate_id": 20,
+        "category": "Surroundings",
+        "review_note": "Stupas and garden pathway in a wider setting.",
+        "reviewed_source_title": "File:Buddhist monuments, Sanchi, Raisen, IMG 20190918 121835.jpg",
+        "reviewed_source_sha1": "3005c6e8fcca05162da8862305ae4898d7c95b4a"
+      },
+      {
+        "candidate_id": 22,
+        "category": "Details",
+        "review_note": "Elephant capital from a distinct perspective.",
+        "reviewed_source_title": "File:Elephants At Sanchi Stupa (2).jpg",
+        "reviewed_source_sha1": "301688ab612e3bd9d528f5028776eb49f599d5f1"
+      },
+      {
+        "candidate_id": 24,
+        "category": "Different_Views",
+        "review_note": "Unobstructed colour side view of the Great Stupa.",
+        "reviewed_source_title": "File:One of the oldest stone structures in India.jpg",
+        "reviewed_source_sha1": "3b291260eaad27541d8470fc318980a9cac60361"
+      },
+      {
+        "candidate_id": 26,
+        "category": "Details",
+        "review_note": "Votive stupa bases and pillar remains.",
+        "reviewed_source_title": "File:Sanchi Buddhist temple with Ashokan Pillar.JPG",
+        "reviewed_source_sha1": "9a2c1f385ebf2c1497515cfd2642d0abb0935d17"
+      }
+    ],
+    "coverage_note": "Sixteen diverse colour views selected. Redundant fronts, timestamped dendrite rock photos, signboard and weaker duplicates rejected."
+  },
+  {
+    "place_id": "sanchi_stupa__udayagiri_caves",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 4,
+        "category": "Overview",
+        "review_note": "Clear cave hillside; filename explicitly identifies Vidisha, Madhya Pradesh.",
+        "reviewed_source_title": "File:Udayagiri cave vidisha Madhya Pradesh10.jpg",
+        "reviewed_source_sha1": "f1fa4f90c8ae21f98cf24ced1cf477caa5374d4e"
+      },
+      {
+        "candidate_id": 9,
+        "category": "Details",
+        "review_note": "Clear Varaha relief; filename explicitly identifies Vidisha.",
+        "reviewed_source_title": "File:Udayagiri cave vidisha Madhya Pradesh1.jpg",
+        "reviewed_source_sha1": "563569a4c3483ad895c3b678c441f18edc5b6515"
+      },
+      {
+        "candidate_id": 6,
+        "category": "Details",
+        "review_note": "Reclining Vishnu relief in its rock-cut setting.",
+        "reviewed_source_title": "File:Udayagiri scriptures1.jpg",
+        "reviewed_source_sha1": "13c06a82a08802f7f3b7a07741e84268559ed101"
+      },
+      {
+        "candidate_id": 8,
+        "category": "Details",
+        "review_note": "Colour Ganesha relief in the cave wall.",
+        "reviewed_source_title": "File:Udayagiri Caves 3.jpg",
+        "reviewed_source_sha1": "44d40c6e50ce001f26dbf417586788b882365fe3"
+      },
+      {
+        "candidate_id": 1,
+        "category": "Details",
+        "review_note": "Stone linga inside the cave; filename explicitly identifies Vidisha.",
+        "reviewed_source_title": "File:Udayagiri cave vidisha Madhya Pradesh2.jpg",
+        "reviewed_source_sha1": "c729525a7a04c0adc7bdee5d1509c37b1b2b0d02"
+      }
+    ],
+    "coverage_note": "Vidisha Udayagiri selected; inscription montage, information board and near-duplicate overview rejected."
+  },
+  {
+    "place_id": "sanchi_stupa__heliodorus_pillar",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 7,
+        "category": "Overview",
+        "review_note": "Full surviving pillar and its landscaped setting.",
+        "reviewed_source_title": "File:A less often visited site in Vidhisa. The Pillar of Heliodorus.jpg",
+        "reviewed_source_sha1": "2b79c4e86b9f8ae267c4bda54dbca5b925191140"
+      },
+      {
+        "candidate_id": 3,
+        "category": "Different_Views",
+        "review_note": "Full pillar in warm side light, distinct from the overcast overview.",
+        "reviewed_source_title": "File:Heliodorus pillar.jpg",
+        "reviewed_source_sha1": "cd2caa2071353b9e5807475e122148c82147e603"
+      },
+      {
+        "candidate_id": 6,
+        "category": "Details",
+        "review_note": "Local heritage information plaque, legible supporting detail.",
+        "reviewed_source_title": "File:Description of Pillar of Heliodorus.jpg",
+        "reviewed_source_sha1": "6d8c1fd14d1d1e46469fb44eaf47dd7d2f584d0c"
+      }
+    ],
+    "coverage_note": "Only real pillar photographs selected. Simulated reconstruction, composite illustration, dark cropped cap and child portrait rejected."
+  },
+  {
+    "place_id": "sanchi_stupa__bijamandal",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 4,
+        "category": "Overview",
+        "review_note": "Clear temple platform ruins explicitly identified as Vidisha.",
+        "reviewed_source_title": "File:01022 Bijamandal temple, Vidisha, Madhya Pradesh 008.jpg",
+        "reviewed_source_sha1": "721d8c7b0f6021134cec9984a32d449d742428bb"
+      },
+      {
+        "candidate_id": 5,
+        "category": "Different_Views",
+        "review_note": "Front steps and surviving pillars explicitly identified as Vidisha.",
+        "reviewed_source_title": "File:01022 Bijamandal temple, Vidisha, Madhya Pradesh 027.jpg",
+        "reviewed_source_sha1": "185ab626e2e50b5f0e1a3fe692600c2c17ba32e3"
+      },
+      {
+        "candidate_id": 6,
+        "category": "Details",
+        "review_note": "Sharp bands of carved platform masonry at Vidisha.",
+        "reviewed_source_title": "File:01022 Bijamandal temple, Vidisha, Madhya Pradesh 015.jpg",
+        "reviewed_source_sha1": "f4aca8dfc15450ef89f1ce26501c6d9f7fd3337e"
+      },
+      {
+        "candidate_id": 10,
+        "category": "Details",
+        "review_note": "Clear colonnaded interior explicitly identified as Vidisha.",
+        "reviewed_source_title": "File:01022 Bijamandal temple, Vidisha, Madhya Pradesh 038.jpg",
+        "reviewed_source_sha1": "ad3363bd10292234fa691a807b6b0c111c026799"
+      },
+      {
+        "candidate_id": 9,
+        "category": "Surroundings",
+        "review_note": "Temple fragments and landscaped site at Vidisha.",
+        "reviewed_source_title": "File:01022 Bijamandal temple, Vidisha, Madhya Pradesh 182.jpg",
+        "reviewed_source_sha1": "6564837246966ee7a931b89a4f88d839f43e3348"
+      }
+    ],
+    "coverage_note": "Khajuraho Bijamandal image #1 excluded. Selected records explicitly identify the Vidisha site; watermarked and weaker photos omitted."
+  },
+  {
+    "place_id": "sanchi_stupa__raisen_fort",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Clear hilltop fort seen from approach road.",
+        "reviewed_source_title": "File:INDICATION OF RAISEN FORT.jpg",
+        "reviewed_source_sha1": "b14958627b413e40c394bd522c7a23815fe86efa"
+      },
+      {
+        "candidate_id": 4,
+        "category": "Details",
+        "review_note": "Distinct surviving curved stone architectural remains.",
+        "reviewed_source_title": "File:SEMI CLOUDSCAPES RAISEN FORT.jpg",
+        "reviewed_source_sha1": "869b9185a02f0207c51cd7b41194b8a16fc9eb9a"
+      },
+      {
+        "candidate_id": 7,
+        "category": "Different_Views",
+        "review_note": "Clear interior fort walls and ruins.",
+        "reviewed_source_title": "File:Kachehari Top View Raisen Fort.jpg",
+        "reviewed_source_sha1": "64b0623a88e38e5b79c4a6b7d576705e27e90607"
+      },
+      {
+        "candidate_id": 9,
+        "category": "Surroundings",
+        "review_note": "Fort balcony masonry and panoramic surroundings.",
+        "reviewed_source_title": "File:Fortification Wall From Baradari Balcony Raisen Fort (8).jpg",
+        "reviewed_source_sha1": "24e9b787515e1a34467f1679714db07ce119891b"
+      },
+      {
+        "candidate_id": 10,
+        "category": "Different_Views",
+        "review_note": "Paved path towards the fort entrance and domed structure.",
+        "reviewed_source_title": "File:Entarance Of Eastern Part Of Raisen fort.jpg",
+        "reviewed_source_sha1": "e8c339dd462c4db92817c05563c337cfdcddb2ad"
+      }
+    ],
+    "coverage_note": "Five complementary views selected; repeated hazy town panoramas and duplicate curved ruin omitted."
+  },
+  {
+    "place_id": "sanchi_stupa__sonari_stupas",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "No qualifying candidates in current collection. Needs a verified high-quality Commons photograph of Sonari, not Sanchi or Satdhara."
+  },
+  {
+    "place_id": "sanchi_stupa__satdhara_stupas",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Stupa remains and rocky wooded approach.",
+        "reviewed_source_title": "File:018 Stupas in the Grounds (33697106235).jpg",
+        "reviewed_source_sha1": "e991a6e3180dd69623ebd24cb1701e65a3fb1b88"
+      },
+      {
+        "candidate_id": 3,
+        "category": "Different_Views",
+        "review_note": "Clear paired stupa remains from a distinct frontal position.",
+        "reviewed_source_title": "File:016 More small Stupas (33567800241).jpg",
+        "reviewed_source_sha1": "b1ce5e68ed587697c3c65149cf020490e9b7a3eb"
+      }
+    ],
+    "coverage_note": "Two distinct relevant photographs available; similar single stupa and generic woodland photograph omitted."
+  },
+  {
+    "place_id": "sanchi_stupa__bhojpur_temple",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Clear full Bhojpur temple entrance and forecourt.",
+        "reviewed_source_title": "File:Shiva Temple, Bhojpur 01.jpg",
+        "reviewed_source_sha1": "38092cecc83a087c63b16e6fb40e58ef8067d606"
+      },
+      {
+        "candidate_id": 2,
+        "category": "Different_Views",
+        "review_note": "Temple massing and surrounding rocky terrain from a different side.",
+        "reviewed_source_title": "File:Temple of Bhojpur, MP.jpg",
+        "reviewed_source_sha1": "119f56a51616411894d33d7d06ef0db5a929c0e1"
+      },
+      {
+        "candidate_id": 3,
+        "category": "Details",
+        "review_note": "Large linga and interior pillars clearly visible.",
+        "reviewed_source_title": "File:Lingam of Bhojpur temple, Raisen district, MP, India.jpg",
+        "reviewed_source_sha1": "92d58971f4308d448b526768c49a504990caff1b"
+      },
+      {
+        "candidate_id": 5,
+        "category": "Details",
+        "review_note": "Sharp carved pillar base.",
+        "reviewed_source_title": "File:Shiva Temple, Bhojpur 07.jpg",
+        "reviewed_source_sha1": "d42712894b8c75b0af133b71eaf939713464f547"
+      },
+      {
+        "candidate_id": 9,
+        "category": "Details",
+        "review_note": "Distinct carved guardian figure at the entrance.",
+        "reviewed_source_title": "File:Shiva Temple, Bhojpur 05.jpg",
+        "reviewed_source_sha1": "8be2ebb81f1e48f199b72072d4be6bb17be4a884"
+      }
+    ],
+    "coverage_note": "Five complementary views selected; visitors obscuring the main subject and repeated linga views omitted."
+  },
+  {
+    "place_id": "sanchi_stupa__andher_stupas",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "No qualifying candidates in current collection. Do not substitute other Buddhist stupa sites."
+  },
+  {
+    "place_id": "sanchi_stupa__halali_dam",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "Both candidates are near-identical lake sunsets with prominent Candy Camera watermark. Rejected; clean verified Halali/Samrat Ashok reservoir photographs needed."
+  },
+  {
+    "place_id": "sanchi_stupa__neelkantheshwar_temple",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "No qualifying candidates. Correct identity is Udayeshwar/Udayesvara Temple at Udaipur village, Vidisha, Madhya Pradesh; not Udaipur Rajasthan or a different Neelkantheshwar temple."
+  },
+  {
+    "place_id": "city_palace_udaipur",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "No candidates in initial collection. A focused Udaipur City Palace search is needed; Jaipur City Palace must not be substituted."
+  },
+  {
+    "place_id": "city_palace_udaipur__ahar_cenotaphs",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "Initial candidate requests failed with HTTP429. Retry Ahar/Mahasati cenotaphs Udaipur; this is a collection error, not evidence that photographs do not exist."
+  },
+  {
+    "place_id": "city_palace_udaipur__sajjangarh_monsoon_palace",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 9,
+        "category": "Overview",
+        "review_note": "Clear high-resolution full palace in its hilltop landscape.",
+        "reviewed_source_title": "File:Monsoon Palace, Udaipur.jpg",
+        "reviewed_source_sha1": "6f88bfde3d69bbddb22cf981430a9cf0cecb6462"
+      },
+      {
+        "candidate_id": 3,
+        "category": "Different_Views",
+        "review_note": "Wide palace facade with natural overcast colour.",
+        "reviewed_source_title": "File:Full view of monsoon palace.jpg",
+        "reviewed_source_sha1": "134e18b2d9afa3a471e35e3ae9967f057bc788cc"
+      },
+      {
+        "candidate_id": 5,
+        "category": "Different_Views",
+        "review_note": "Vertical approach path and gate with palace beyond.",
+        "reviewed_source_title": "File:20191208 Pałac Monsunowy w Udajpurze 1215 7551.jpg",
+        "reviewed_source_sha1": "5f0adc0ef398d4dd229add0d885afefe347525de"
+      },
+      {
+        "candidate_id": 10,
+        "category": "Surroundings",
+        "review_note": "Palace terrace and hilltop visitor setting.",
+        "reviewed_source_title": "File:Widok z Pałacu Monsunowego w Udajpurze, 20191208 1223 7560.jpg",
+        "reviewed_source_sha1": "50b56e1a7911d20bf90e11cdf63f101f240f271d"
+      }
+    ],
+    "coverage_note": "Four complementary palace views. Watermarked image, flowers and redundant lower-resolution front omitted."
+  },
+  {
+    "place_id": "city_palace_udaipur__badi_lake",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Clear lake, hillside and water reflections in natural colour.",
+        "reviewed_source_title": "File:Bird in Badi Lake.jpg",
+        "reviewed_source_sha1": "5edc25283eb53b082d959776577163902ee30660"
+      }
+    ],
+    "coverage_note": "One clean landscape selected. Portrait, Instagram watermark, plant close-ups, floating leaf and dark or redundant shoreline photos omitted. More unobstructed lake panoramas desirable."
+  },
+  {
+    "place_id": "city_palace_udaipur__saheliyon_ki_bari",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 2,
+        "category": "Overview",
+        "review_note": "Full fountain pavilion and garden palace setting.",
+        "reviewed_source_title": "File:Saheliyon-ki-Bari (Udaipur).jpg",
+        "reviewed_source_sha1": "b1a30b870d70c8fdaad83955a5ed0db8a865e4ce"
+      },
+      {
+        "candidate_id": 1,
+        "category": "Details",
+        "review_note": "Clear ornamental fountain column.",
+        "reviewed_source_title": "File:Saheliyon-ki-Bari Fountain.JPG",
+        "reviewed_source_sha1": "c7af3556c46592939cd98ffedc1fee84e0f8ee1b"
+      },
+      {
+        "candidate_id": 7,
+        "category": "Details",
+        "review_note": "Stone elephant fountain sculpture.",
+        "reviewed_source_title": "File:Elephant trunk fountain in Saheliyon-ki-Bari-Udaipur-Rajasthan-13.jpg",
+        "reviewed_source_sha1": "106aded745ac9a7fb48bafa2d8d00e24513056f4"
+      },
+      {
+        "candidate_id": 8,
+        "category": "Different_Views",
+        "review_note": "Distinct circular garden pool and dense planting.",
+        "reviewed_source_title": "File:Saheliyon ki Bari.JPG",
+        "reviewed_source_sha1": "969cdc8547b8fc551221b11819adeeec2bf5d6d1"
+      },
+      {
+        "candidate_id": 10,
+        "category": "Details",
+        "review_note": "Carved marble bench in the garden.",
+        "reviewed_source_title": "File:Coronation throne in Saheliyon-ki-Bari.jpg",
+        "reviewed_source_sha1": "4073419ce4cee73988cd63abae9688d7078f0c54"
+      }
+    ],
+    "coverage_note": "Five complementary garden views; repeated pavilion shots omitted."
+  },
+  {
+    "place_id": "city_palace_udaipur__bagore_ki_haveli",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 4,
+        "category": "Overview",
+        "review_note": "Clear lake-facing haveli frontage with museum sign visible.",
+        "reviewed_source_title": "File:Backside view of Bagore ki Haveli (Udaipur).jpg",
+        "reviewed_source_sha1": "9af1b1fc21d341e71cd2337d9fffc702b732ec23"
+      },
+      {
+        "candidate_id": 1,
+        "category": "Different_Views",
+        "review_note": "Wider waterfront elevation and ghat setting.",
+        "reviewed_source_title": "File:20191207 Gangaur Ghat and Bagore Ki Haveli, Udaipur 1524 7266.jpg",
+        "reviewed_source_sha1": "215df1239632cd9f3d0a36ee86d1f2b7c67b3aa4"
+      },
+      {
+        "candidate_id": 9,
+        "category": "Details",
+        "review_note": "Documented evening dance performance in the haveli courtyard.",
+        "reviewed_source_title": "File:Udaipur Folk Dancers.jpg",
+        "reviewed_source_sha1": "6d8842c7738be183af1ebebc345f5f77dff0069b"
+      },
+      {
+        "candidate_id": 10,
+        "category": "Details",
+        "review_note": "Sharp painted mural detail.",
+        "reviewed_source_title": "File:Fresco, Bagore Ki Haveli, Udaipur, 20191207 0651 7068 DxO.jpg",
+        "reviewed_source_sha1": "0ea7e4fb14cec8854787822b5b08d9f6dce18bc7"
+      },
+      {
+        "candidate_id": 6,
+        "category": "Details",
+        "review_note": "Clear museum display figure.",
+        "reviewed_source_title": "File:Statue inside Bagore ki Haveli (4571913252).jpg",
+        "reviewed_source_sha1": "2bcca12e312837f9b9e4d6dac80b091870f692a4"
+      }
+    ],
+    "coverage_note": "Architecture and documented cultural details selected. Lake Palace photos, generic sunset, darker duplicate performance and heavily tinted facade omitted."
+  },
+  {
+    "place_id": "city_palace_udaipur__shilpgram",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 5,
+        "category": "Overview",
+        "review_note": "Traditional village hut; record explicitly identifies Udaipur.",
+        "reviewed_source_title": "File:Shilpgram Udaipur 2.jpg",
+        "reviewed_source_sha1": "70ee2df3cec6c66311541827b8ca6fb57551ff62"
+      },
+      {
+        "candidate_id": 4,
+        "category": "Different_Views",
+        "review_note": "Distinct timber hut and approach steps; Udaipur filename.",
+        "reviewed_source_title": "File:Shilpgram Udaipur 3.jpg",
+        "reviewed_source_sha1": "35327ab034f9e9ae8580cbfb423396329e6f8e9a"
+      },
+      {
+        "candidate_id": 3,
+        "category": "Details",
+        "review_note": "Mandana wall art documented at Shilpgram Udaipur.",
+        "reviewed_source_title": "File:Mandana art work at shilpgram.JPG",
+        "reviewed_source_sha1": "6765d2dd91f86dabb30db5fd27fd0e8ea701eb63"
+      },
+      {
+        "candidate_id": 8,
+        "category": "Details",
+        "review_note": "Outdoor sculpture and decorated hut; Udaipur record.",
+        "reviewed_source_title": "File:Shilpgram, Udaipur 01.jpg",
+        "reviewed_source_sha1": "49e56277da988514253c8aba9145cfe52015bfa0"
+      },
+      {
+        "candidate_id": 9,
+        "category": "Details",
+        "review_note": "Tera tali cultural performance explicitly documented at Shilpgram Udaipur.",
+        "reviewed_source_title": "File:Thera tali at shilpgram.JPG",
+        "reviewed_source_sha1": "824cb7fc4a1ebc2df40352911e201c232464e2dc"
+      }
+    ],
+    "coverage_note": "Udaipur site and cultural details selected. Candidate #1 is Sawai Madhopur Shilpgram and rejected; isolated performer portrait omitted."
+  },
+  {
+    "place_id": "city_palace_udaipur__karni_mata_temple",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "All ten candidates explicitly identify Karni Mata Temple Deshnoke. Wrong identity for Udaipur Machla Magra temple; all rejected. Focused Udaipur search needed."
+  },
+  {
+    "place_id": "city_palace_udaipur__ambrai_ghat",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Clear lake and palace panorama documented from Ambrai Ghat.",
+        "reviewed_source_title": "File:City of lakes.jpeg",
+        "reviewed_source_sha1": "4498669239e9c06045863f13081092421afe255a"
+      },
+      {
+        "candidate_id": 4,
+        "category": "Different_Views",
+        "review_note": "Night lake-and-palace view documented at Ambrai Ghat; illuminated architecture visible.",
+        "reviewed_source_title": "File:Ambrai Ghat Night Life.jpg",
+        "reviewed_source_sha1": "4d9f3ad28dc8aea13a731c4e62f7a7090c1428cf"
+      },
+      {
+        "candidate_id": 2,
+        "category": "Details",
+        "review_note": "Mural explicitly documented at Ambrai Ghat.",
+        "reviewed_source_title": "File:Radhe-krishna paiting ambrai ghat.jpg",
+        "reviewed_source_sha1": "1e1704c142777ed33b9d79d811456852f881d006"
+      }
+    ],
+    "coverage_note": "Three documented Ambrai views/details selected. Large overlaid Udaipur title candidate omitted."
+  },
+  {
+    "place_id": "city_palace_udaipur__vintage_car_museum",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "All ten candidates are explicitly Dungarpur Mews Vintage Car Museum, a different institution. All rejected. Search Vintage and Classic Car Collection Udaipur/Garden Hotel."
+  },
+  {
+    "place_id": "city_palace_udaipur__eklingji_temple",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Clear temple complex overview; record explicitly identifies Eklingji near Udaipur.",
+        "reviewed_source_title": "File:EklingJi Temple.jpg",
+        "reviewed_source_sha1": "1ea29282ed7357dd861c9fa20ba8f5bf6c827b9c"
+      }
+    ],
+    "coverage_note": "Only actual Eklingji view selected. Sas Bahu Nagda temples (#2/#4) and Rajasthan map (#3) rejected as substitutes."
+  },
+  {
+    "place_id": "mahabalipuram",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 3,
+        "category": "Overview",
+        "review_note": "Clear twin Shore Temple towers and precinct in natural overcast colour.",
+        "reviewed_source_title": "File:Shore Temple Side View.jpg",
+        "reviewed_source_sha1": "729f9afc25dfb0610e0a6aba891375b533f015aa"
+      },
+      {
+        "candidate_id": 7,
+        "category": "Different_Views",
+        "review_note": "Clear warm side elevation of Shore Temple.",
+        "reviewed_source_title": "File:Mamallapuram, The Shore Temple 3, India.jpg",
+        "reviewed_source_sha1": "f0e9ca9d4edc40f42209e3fdccb6645e44b54b2e"
+      },
+      {
+        "candidate_id": 10,
+        "category": "Different_Views",
+        "review_note": "Distinct side and rear tower architecture.",
+        "reviewed_source_title": "File:Shore Temple, Mahabalipuram 1.jpg",
+        "reviewed_source_sha1": "794bdc14fd8b0ccf38c3a9e81a09c6bc6bf5b7be"
+      },
+      {
+        "candidate_id": 11,
+        "category": "Details",
+        "review_note": "Stone architectural remains in the precinct with temple beyond.",
+        "reviewed_source_title": "File:Mamallapuram, Shore Temple, Dusk, India.jpg",
+        "reviewed_source_sha1": "d2d23519c5335aa2516120ceae81b4598c566d49"
+      },
+      {
+        "candidate_id": 12,
+        "category": "Details",
+        "review_note": "Nandi enclosure wall and tower in perspective.",
+        "reviewed_source_title": "File:The Shore Temple Mamallapuram.jpg",
+        "reviewed_source_sha1": "10e37faa66260397a30e5d0dd609550231ec009e"
+      },
+      {
+        "candidate_id": 13,
+        "category": "Different_Views",
+        "review_note": "Sharp temple reflection in precinct water.",
+        "reviewed_source_title": "File:Shore Temple and the Water Tank.jpg",
+        "reviewed_source_sha1": "04c0e30d9b77b72b4f388a3c354ec22a09b60b0f"
+      },
+      {
+        "candidate_id": 16,
+        "category": "Details",
+        "review_note": "Carved stone passage and wall details.",
+        "reviewed_source_title": "File:Mamallapuram, Shore Temple, Interior, India.jpg",
+        "reviewed_source_sha1": "a4e6bf8cd8b42cc4a9b480f950f16351dc01b371"
+      },
+      {
+        "candidate_id": 18,
+        "category": "Details",
+        "review_note": "Small shrine bases and temple axis in the precinct.",
+        "reviewed_source_title": "File:Shore Temple, Mahabalipuram 10.jpg",
+        "reviewed_source_sha1": "94d4cc2010c27897f5713a08b330ddceb65eea3e"
+      },
+      {
+        "candidate_id": 20,
+        "category": "Details",
+        "review_note": "Nandi sculptures in foreground with Shore Temple behind.",
+        "reviewed_source_title": "File:Mamallapuram, Shore Temple, Statues, India.jpg",
+        "reviewed_source_sha1": "83b71d698c52ef17626529978031fdc8c9b2bc7e"
+      },
+      {
+        "candidate_id": 29,
+        "category": "Details",
+        "review_note": "Clear lion sculpture in natural colour.",
+        "reviewed_source_title": "File:Sculpture at shore temple.JPG",
+        "reviewed_source_sha1": "058fc7b064bcf842ec0d4c6551d798f126d3cf5e"
+      },
+      {
+        "candidate_id": 32,
+        "category": "Different_Views",
+        "review_note": "Distinct sunset light with architecture remaining visible.",
+        "reviewed_source_title": "File:Shore Temple In the morning.jpg",
+        "reviewed_source_sha1": "025fdf138230d539ece7365b10a4a7a1793a3d24"
+      },
+      {
+        "candidate_id": 5,
+        "category": "Details",
+        "review_note": "Stone relief in temple passage, carving visible.",
+        "reviewed_source_title": "File:Mamallapuram, Shore Temple, Reliefs 2, India.jpg",
+        "reviewed_source_sha1": "fb0d2558626f9fbfb875494e30e1a34f670888e5"
+      },
+      {
+        "candidate_id": 30,
+        "category": "Details",
+        "review_note": "Distinct smaller tower and roof profile.",
+        "reviewed_source_title": "File:Mahabalipuram-Shore Temple-WUS01984.jpg",
+        "reviewed_source_sha1": "91837e89b934ed7c6b038ea63148f41255647158"
+      }
+    ],
+    "coverage_note": "Thirteen clean Shore Temple views selected. Collection lacks other Mahabalipuram monuments: Pancha Rathas, great relief, cave mandapas and Butterball should be added in a focused collection. Collage, phone watermark, photographer watermark, duplicate fronts and blurred twilight omitted."
+  },
+  {
+    "place_id": "mahabalipuram__tiger_cave",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 4,
+        "category": "Overview",
+        "review_note": "Clear high-resolution Tiger Cave facade with sculpted yali heads.",
+        "reviewed_source_title": "File:Tiger Cave, Mahabalipuram.jpg",
+        "reviewed_source_sha1": "74073956c39b649d3b6a32e79074adbef68fb234"
+      },
+      {
+        "candidate_id": 9,
+        "category": "Details",
+        "review_note": "Sharp rock-cut architectural detail explicitly documented in Tiger Cave complex Mahabalipuram.",
+        "reviewed_source_title": "File:Tiger Cave complex, Mahabalipuram (50968531523).jpg",
+        "reviewed_source_sha1": "c45de22500228a26039e173d2341b863ba021633"
+      },
+      {
+        "candidate_id": 5,
+        "category": "Surroundings",
+        "review_note": "Distinct vertical granite rock and surrounding grounds at the Tiger Cave complex.",
+        "reviewed_source_title": "File:Tiger cave vertical stone 1.jpg",
+        "reviewed_source_sha1": "17da736b4edc0cd7f6ed2f4c7d9ac0cca0113e55"
+      }
+    ],
+    "coverage_note": "True Mahabalipuram complex selected. Thai Wat Tham Sua Buddha (#1), posed visitors, duplicate fronts and weaker low-resolution images rejected."
+  },
+  {
+    "place_id": "mahabalipuram__sadras_dutch_fort",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Clear warm exterior entrance and fort wall.",
+        "reviewed_source_title": "File:Dutch Fort Sadras.JPG",
+        "reviewed_source_sha1": "af7bb59035bda373a3e6b984beb3ff3b4eccf7bd"
+      },
+      {
+        "candidate_id": 2,
+        "category": "Different_Views",
+        "review_note": "Fort courtyard and path towards entrance, showing the interior setting.",
+        "reviewed_source_title": "File:Dutch Fort At Sadras (203791491).jpeg",
+        "reviewed_source_sha1": "7ae63d513ea0f26adc219fd96c4d9cf39e254854"
+      }
+    ],
+    "coverage_note": "Two clean complementary fort views available."
+  },
+  {
+    "place_id": "mahabalipuram__nithyakalyana_perumal_temple",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 2,
+        "category": "Overview",
+        "review_note": "Clear temple entrance facade.",
+        "reviewed_source_title": "File:Nithya Kalyana Perumal Temple - panoramio - Gabriele Giuseppini.jpg",
+        "reviewed_source_sha1": "1660a1145b273e0dc425074db4081a21f43611a3"
+      },
+      {
+        "candidate_id": 1,
+        "category": "Details",
+        "review_note": "Clear carved temple mandapa pillars.",
+        "reviewed_source_title": "File:Nithya Kalyana Perumal Temple - panoramio.jpg",
+        "reviewed_source_sha1": "c6a6bfed4e15c282b0c6151cbd6df27389d53fa7"
+      }
+    ],
+    "coverage_note": "Two relevant images. Identity overlaps Sri Thiruvidandhai, retained as supplied catalog labels rather than presented as separate temples."
+  },
+  {
+    "place_id": "mahabalipuram__alamparai_fort",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 2,
+        "category": "Overview",
+        "review_note": "Clear surviving fort brick walls and gateway ruins.",
+        "reviewed_source_title": "File:Alamparai Fort.JPG",
+        "reviewed_source_sha1": "a0504b0c66d0d594be9f568e9a9309f12e41f582"
+      },
+      {
+        "candidate_id": 4,
+        "category": "Details",
+        "review_note": "Sharp merlon and brickwork details.",
+        "reviewed_source_title": "File:Alamparai Fort Wall.jpg",
+        "reviewed_source_sha1": "db99aa0e7202d61f2d57b0e262ed007967cfca80"
+      },
+      {
+        "candidate_id": 5,
+        "category": "Different_Views",
+        "review_note": "Fort wall in its coastal palm landscape.",
+        "reviewed_source_title": "File:Alamparai Fort Site.jpg",
+        "reviewed_source_sha1": "db0ea21aec071a07c07e46e3ee9ed0a163a31948"
+      },
+      {
+        "candidate_id": 3,
+        "category": "Surroundings",
+        "review_note": "Adjacent backwater and coastal setting viewed from the fort area.",
+        "reviewed_source_title": "File:Inbetween.jpg",
+        "reviewed_source_sha1": "bc1e0783a5f4519b99d1141130d3d164297e2c32"
+      }
+    ],
+    "coverage_note": "Four relevant architecture and coastal setting views. Distant paddleboard scene and redundant wall shot omitted."
+  },
+  {
+    "place_id": "mahabalipuram__cholamandal_artists_village",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "Initial collection failed with HTTP429; retry focused Commons search for Cholamandal Artists Village Chennai."
+  },
+  {
+    "place_id": "mahabalipuram__dakshinachitra",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "Initial collection failed with HTTP429; retry focused DakshinaChitra heritage museum search."
+  },
+  {
+    "place_id": "mahabalipuram__muttukadu_backwaters",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "Initial collection failed with HTTP429; retry Muttukadu backwaters/boat house. Do not substitute generic Tamil Nadu lakes."
+  },
+  {
+    "place_id": "mahabalipuram__vedanthangal_bird_sanctuary",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "Initial collection failed with HTTP429; retry Vedanthangal sanctuary habitat and documented bird colony photographs."
+  },
+  {
+    "place_id": "mahabalipuram__sri_thiruvidandhai",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Temple entrance arch explicitly named Thiruvidanthai Nithyakalyana Perumal.",
+        "reviewed_source_title": "File:Thiruvidanthai nithyakalyana permal temple entrance arch.jpg",
+        "reviewed_source_sha1": "bde5c2ae825b05542eaeec531424ea60961195cb"
+      }
+    ],
+    "coverage_note": "One relevant entrance arch. Same temple/locality identity as Nithyakalyana Perumal; preserve both user labels with alias note."
+  },
+  {
+    "place_id": "mahabalipuram__poonjeri_village",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "No qualifying candidates in current collection. No generic village or Mahabalipuram monument substitute selected."
+  },
+  {
+    "place_id": "jaisalmer_fort",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Clear full fort skyline above the city.",
+        "reviewed_source_title": "File:Jaisalmer forteresse.jpg",
+        "reviewed_source_sha1": "b32bdcaae83a9c96678afed3aef7ba8ef098a1f1"
+      },
+      {
+        "candidate_id": 3,
+        "category": "Different_Views",
+        "review_note": "Sharp palace and bastion elevation under blue sky.",
+        "reviewed_source_title": "File:Fort, Jaisalmer 02.JPG",
+        "reviewed_source_sha1": "2337223c481220190644c39d6226355afb91868c"
+      },
+      {
+        "candidate_id": 8,
+        "category": "Details",
+        "review_note": "Sharp carved doorway explicitly photographed inside Jaisalmer Fort.",
+        "reviewed_source_title": "File:Inside Jaisalmer Fort.jpg",
+        "reviewed_source_sha1": "29acfdda378477645e38b437e0f520aa4a178b3e"
+      },
+      {
+        "candidate_id": 12,
+        "category": "Different_Views",
+        "review_note": "Distinct imposing bastions and high sandstone wall.",
+        "reviewed_source_title": "File:Jaisalmer-Citadel-03-Strengthening the contrescarp-20131010.jpg",
+        "reviewed_source_sha1": "42972b42037380448f3d654bbbe02b349ab668f2"
+      },
+      {
+        "candidate_id": 13,
+        "category": "Surroundings",
+        "review_note": "Approach road beside the fort wall.",
+        "reviewed_source_title": "File:Jaisalmer Fort 9.jpg",
+        "reviewed_source_sha1": "be241385061807d35dd6a0cf0f76bef82f0c2c25"
+      },
+      {
+        "candidate_id": 16,
+        "category": "Details",
+        "review_note": "Fort rampart architecture and city beyond.",
+        "reviewed_source_title": "File:N-RJ-87 Fort including Ancient Temples Jaisalmer SolReyes20100917 441.JPG",
+        "reviewed_source_sha1": "e835d5c6843cdb4a339636b398f9a077c8e6ddc2"
+      },
+      {
+        "candidate_id": 17,
+        "category": "Details",
+        "review_note": "Sharp jharokha carving explicitly named inside Jaisalmer Fort.",
+        "reviewed_source_title": "File:Jharokha artwork inside Jaisalmer Fort.jpg",
+        "reviewed_source_sha1": "1bb094b9e84b1561b1dbfc7a66ee9d1e7664bd81"
+      },
+      {
+        "candidate_id": 18,
+        "category": "Different_Views",
+        "review_note": "Broader palace facade from a different close position.",
+        "reviewed_source_title": "File:Jaisalmer Fort buildings.jpg",
+        "reviewed_source_sha1": "b095f16c9405ed1645075dfa1b1389d38e14c33a"
+      },
+      {
+        "candidate_id": 20,
+        "category": "Different_Views",
+        "review_note": "Clear upper view of clustered fort bastions.",
+        "reviewed_source_title": "File:Jaisalmer 195.jpg",
+        "reviewed_source_sha1": "07ad588cb17aaef207ef802504d6027e1144f993"
+      },
+      {
+        "candidate_id": 23,
+        "category": "Surroundings",
+        "review_note": "Market lane explicitly documented inside the living fort.",
+        "reviewed_source_title": "File:Life inside Jaisalmer Fort.JPG",
+        "reviewed_source_sha1": "1779a600ffbc5d99536423832e39192757c99644"
+      },
+      {
+        "candidate_id": 25,
+        "category": "Different_Views",
+        "review_note": "Illuminated fort seen from the city at night, no visible overlay.",
+        "reviewed_source_title": "File:Jaisalmer fort at night (cropped).jpg",
+        "reviewed_source_sha1": "7856b59720289e09a76741ff1780a1202d485919"
+      },
+      {
+        "candidate_id": 26,
+        "category": "Surroundings",
+        "review_note": "Wide city panorama framed by fort masonry.",
+        "reviewed_source_title": "File:Views from the Jaisalmer Fort-Jaisalmer fort-Jaisalmer-Rajasthan-2.jpg",
+        "reviewed_source_sha1": "f73fbdeeed24fef9ac328b2a72a53c19eb5f6013"
+      },
+      {
+        "candidate_id": 27,
+        "category": "Different_Views",
+        "review_note": "Wide continuous bastion wall from below.",
+        "reviewed_source_title": "File:Jaisalmer Fort-12-South East walls-20131010.jpg",
+        "reviewed_source_sha1": "4a002f4ea09426e10a53a5c0070da38214befc95"
+      },
+      {
+        "candidate_id": 28,
+        "category": "Details",
+        "review_note": "Clear carved courtyard explicitly documented inside the fort.",
+        "reviewed_source_title": "File:Jaisalmer Fort - Jaisalmer - Rajasthan - DSC 1475.jpg",
+        "reviewed_source_sha1": "d7c76dd4189538d5d52bd52f0e485e1ae35700e2"
+      },
+      {
+        "candidate_id": 31,
+        "category": "Surroundings",
+        "review_note": "Clear narrow lane explicitly documented inside the fort.",
+        "reviewed_source_title": "File:The alleys inside the Jaisalmer Fort. This is the area where Satyajit Ray shot his famous Sonar Kella movie.jpg",
+        "reviewed_source_sha1": "2b629a720fc34239e38542516e54624796fe9308"
+      }
+    ],
+    "coverage_note": "Fifteen architecture and living-fort views selected. Generic unverified haveli #5, posed people, watermark/date overlays and weaker repeats excluded. Commons caption dates/geography are not used as historical facts."
+  },
+  {
+    "place_id": "jaisalmer_fort__kuldhara_village",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 10,
+        "category": "Overview",
+        "review_note": "Clear abandoned settlement walls and archaeological ruins.",
+        "reviewed_source_title": "File:Kuldhara.JPG",
+        "reviewed_source_sha1": "ea03104b79f61701b0ec03dd350370552a176559"
+      },
+      {
+        "candidate_id": 5,
+        "category": "Different_Views",
+        "review_note": "Restored village buildings and paved visitor courtyard.",
+        "reviewed_source_title": "File:Kuldhara 6.jpg",
+        "reviewed_source_sha1": "08e29a35c51d3b3901dee815e3684eba40babbd7"
+      },
+      {
+        "candidate_id": 9,
+        "category": "Details",
+        "review_note": "Village pavilion and restored heritage structures.",
+        "reviewed_source_title": "File:Kuldhara 7.jpg",
+        "reviewed_source_sha1": "da1b5ea653aba4134c8167a31d74496fccef2e9c"
+      }
+    ],
+    "coverage_note": "Three clean site views. Timestamp, photographer overlays, portrait and commercial Kuldhara resort sign rejected."
+  },
+  {
+    "place_id": "jaisalmer_fort__bada_bagh",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Clear golden sandstone cenotaph group and steps.",
+        "reviewed_source_title": "File:Jaisalmer-6.jpg",
+        "reviewed_source_sha1": "32d724e2efbe56debc5d4b411ac6bf6e11711edd"
+      },
+      {
+        "candidate_id": 3,
+        "category": "Different_Views",
+        "review_note": "Close cenotaph architecture with multiple domes.",
+        "reviewed_source_title": "File:Bada Bagh 04.jpg",
+        "reviewed_source_sha1": "9d40ff33bb74eeac38f73fd62c833d4352ae3496"
+      },
+      {
+        "candidate_id": 4,
+        "category": "Details",
+        "review_note": "Carved memorial stone framed by pavilion arches.",
+        "reviewed_source_title": "File:Bada Bagh 08.jpg",
+        "reviewed_source_sha1": "8445c97dfc2bf936104d037a8a7601b1261deec0"
+      },
+      {
+        "candidate_id": 9,
+        "category": "Different_Views",
+        "review_note": "Elevated view of the full cenotaph cluster.",
+        "reviewed_source_title": "File:Bada Bagh 20180331 092555.jpg",
+        "reviewed_source_sha1": "6b713eec7f3380d66651b6ff99b3d1ec59c43454"
+      }
+    ],
+    "coverage_note": "Four complementary architecture views. Generic wind-farm landscape and repeated or heavily tinted distant views omitted."
+  },
+  {
+    "place_id": "jaisalmer_fort__khaba_fort",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Clear fort facade and approach road.",
+        "reviewed_source_title": "File:Khaba Fort.jpg",
+        "reviewed_source_sha1": "36a5718be2dc7e36eae4b5e2c402829de49b2371"
+      },
+      {
+        "candidate_id": 2,
+        "category": "Surroundings",
+        "review_note": "Distinct countryside panorama from the fort setting.",
+        "reviewed_source_title": "File:Khaba Village.jpg",
+        "reviewed_source_sha1": "1250e18782e161966bf61b19a9dac03d5fa6a4c2"
+      }
+    ],
+    "coverage_note": "Two clean relevant views available; additional fort architecture desirable."
+  },
+  {
+    "place_id": "jaisalmer_fort__lodhruva_jain_temples",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "Initial search failed with HTTP429. Retry Lodurva/Lodrava/Lodhruva Jain temple spellings."
+  },
+  {
+    "place_id": "jaisalmer_fort__vyas_chhatri",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 2,
+        "category": "Overview",
+        "review_note": "Clear sandstone cenotaph pavilions explicitly named Vyas Chhatri Jaisalmer.",
+        "reviewed_source_title": "File:Vyas Chhatri, Jaisalmer, Rajasthan 083525.jpg",
+        "reviewed_source_sha1": "6c76b7ed99b4203bdeed11009b5e196d1c1330ca"
+      },
+      {
+        "candidate_id": 1,
+        "category": "Different_Views",
+        "review_note": "Wider hilltop cenotaph setting explicitly named Vyas Chhatri.",
+        "reviewed_source_title": "File:Jaisalmer-Vyas Chhatri Cenotaphs-20131010.jpg",
+        "reviewed_source_sha1": "724d5f73aaaa7489f8e14b1cef4437f6cbd9971d"
+      }
+    ],
+    "coverage_note": "Two relevant site views selected; Rajasthan coordinate map rejected."
+  },
+  {
+    "place_id": "jaisalmer_fort__desert_national_park",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 6,
+        "category": "Overview",
+        "review_note": "Clear sand dunes; record explicitly places the photograph at Sudasari Desert National Park.",
+        "reviewed_source_title": "File:The Great Indian Thar Desert.jpg",
+        "reviewed_source_sha1": "f4e0d8f5a79edf2489faa97fd60b9b888a16be6f"
+      },
+      {
+        "candidate_id": 1,
+        "category": "Different_Views",
+        "review_note": "Dry grassland and scrub habitat documented in Desert National Park.",
+        "reviewed_source_title": "File:Desert National Park (50861830528).jpg",
+        "reviewed_source_sha1": "38ab88c4a8ec60de41802597f2b5eb0432924a53"
+      },
+      {
+        "candidate_id": 2,
+        "category": "Different_Views",
+        "review_note": "Monsoon vegetation and arid tree landscape explicitly documented in the park.",
+        "reviewed_source_title": "File:Desert vegetation DSC0942.jpg",
+        "reviewed_source_sha1": "089f92f7c4b571e307e113c0eef35e162f36f2d1"
+      },
+      {
+        "candidate_id": 9,
+        "category": "Different_Views",
+        "review_note": "Protected grassland habitat explicitly documented in Desert National Park.",
+        "reviewed_source_title": "File:Grassland DSC0699.jpg",
+        "reviewed_source_sha1": "008c695065600fa5965f5ba639ad016931661b3b"
+      }
+    ],
+    "coverage_note": "Four documented habitat views selected. Generic plant close-ups and dark near-duplicate sunset photographs omitted."
+  },
+  {
+    "place_id": "jaisalmer_fort__tanot_mata_temple",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Details",
+        "review_note": "Available colour photograph of the temple shrine; devotional display identifiable.",
+        "reviewed_source_title": "File:Tanot Mata, Jaisalmer, Rajasthan.jpg",
+        "reviewed_source_sha1": "98eaed8c4fcd7ef6e6f0f8ab2bce3bd92c22c7c3"
+      }
+    ],
+    "coverage_note": "One shrine view available. No temple exterior in current collection; more architectural coverage needed."
+  },
+  {
+    "place_id": "jaisalmer_fort__akal_wood_fossil_park",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "No qualifying candidates. Needs verified Akal/Aakal fossil wood park photographs, not generic desert stones."
+  },
+  {
+    "place_id": "jaisalmer_fort__amar_sagar_jain_temple",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Clear complete Jain temple complex and landscaping.",
+        "reviewed_source_title": "File:Amar Sagar Jain Temple at, Lodurva, Jaisalmer 01.jpg",
+        "reviewed_source_sha1": "8629e0d223e412bba001cfca2890d8a5ecfa28cb"
+      },
+      {
+        "candidate_id": 3,
+        "category": "Details",
+        "review_note": "Temple facade carving and entrance tower.",
+        "reviewed_source_title": "File:Amar Sagar Jain Temple at, Lodurva, Jaisalmer 08.jpg",
+        "reviewed_source_sha1": "57d36842f683b1045caf99c64e97de6a62287a23"
+      },
+      {
+        "candidate_id": 7,
+        "category": "Different_Views",
+        "review_note": "Smaller shrine and forecourt from a distinct angle.",
+        "reviewed_source_title": "File:Amar Sagar Jain Temple at, Lodurva, Jaisalmer 07.jpg",
+        "reviewed_source_sha1": "eed896903b8dfb66a17fd378f60e61a88a88d356"
+      },
+      {
+        "candidate_id": 9,
+        "category": "Details",
+        "review_note": "Upper temple roof and carved tower detail.",
+        "reviewed_source_title": "File:Amar Sagar Jain Temple at, Lodurva, Jaisalmer 02.jpg",
+        "reviewed_source_sha1": "335d8be7c6e643d5ddfff3e1c40b596373ca9474"
+      },
+      {
+        "candidate_id": 2,
+        "category": "Surroundings",
+        "review_note": "Garden path and sandstone pavilion in the temple complex.",
+        "reviewed_source_title": "File:Amar Sagar Jain Temple at, Lodurva, Jaisalmer 10.jpg",
+        "reviewed_source_sha1": "20e8bbe735d0aec0d5328fc5f62745c90773d58f"
+      }
+    ],
+    "coverage_note": "Five complementary complex views selected. Visitor room, weak small-shrine duplicate and redundant frontage omitted."
+  },
+  {
+    "place_id": "jaisalmer_fort__nathmal_ji_ki_haveli",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "Initial collection failed with HTTP429. Retry Nathmal/Nathmalji Haveli Jaisalmer; do not substitute Patwon Haveli."
+  },
+  {
+    "place_id": "mehrangarh_fort",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "Initial collection failed with HTTP429. Retry Mehrangarh Fort Jodhpur architecture, interiors and panoramas."
+  },
+  {
+    "place_id": "mehrangarh_fort__rao_jodha_desert_rock_park",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "Initial collection failed with HTTP429; retry Rao Jodha Desert Rock Park Jodhpur."
+  },
+  {
+    "place_id": "mehrangarh_fort__jaswant_thada",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "Initial collection failed with HTTP429; retry Jaswant Thada Jodhpur."
+  },
+  {
+    "place_id": "mehrangarh_fort__toorji_ka_jhalra",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "Initial collection failed with HTTP429; retry Toorji/Turji ka Jhalra Jodhpur stepwell."
+  },
+  {
+    "place_id": "mehrangarh_fort__mandore_gardens",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 5,
+        "category": "Overview",
+        "review_note": "Garden paths, planting and distant cenotaph architecture; clearly documented Mandore.",
+        "reviewed_source_title": "File:Mandore Garden in Mandore, Jodhpur city, Rajasthan 09.jpg",
+        "reviewed_source_sha1": "d484318754e350fd93898b01137d248b36aef0f5"
+      },
+      {
+        "candidate_id": 3,
+        "category": "Different_Views",
+        "review_note": "Distinct arched garden trellis and visitor path.",
+        "reviewed_source_title": "File:Mandore Garden in Mandore, Jodhpur city, Rajasthan 02.jpg",
+        "reviewed_source_sha1": "73e086629f9221287f58d28066426ab96888e575"
+      },
+      {
+        "candidate_id": 4,
+        "category": "Surroundings",
+        "review_note": "Rocky archaeological shrine remains in the garden setting.",
+        "reviewed_source_title": "File:Mandore Garden in Mandore, Jodhpur city, Rajasthan 11.jpg",
+        "reviewed_source_sha1": "4a8daaefd5774390eb06afb16cf3c5878d5eb463"
+      },
+      {
+        "candidate_id": 9,
+        "category": "Details",
+        "review_note": "Legible archaeological heritage information plaque at Mandore.",
+        "reviewed_source_title": "File:Mandore Garden in Mandore, Jodhpur city, Rajasthan 08.jpg",
+        "reviewed_source_sha1": "af10472c214c33b9e180f69a1206bd86e93accaf"
+      }
+    ],
+    "coverage_note": "Four clear garden/archaeological-setting views selected. Main cenotaph close-ups are absent and should be added; repeated paved road shots omitted."
+  },
+  {
+    "place_id": "mehrangarh_fort__balsamand_lake",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "Initial collection failed with HTTP429; retry Balsamand/Bal Samand Lake Jodhpur."
+  },
+  {
+    "place_id": "mehrangarh_fort__mahamandir_temple",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "Initial collection failed with HTTP429; retry Mahamandir Jodhpur, not generic Jain temples."
+  },
+  {
+    "place_id": "mehrangarh_fort__osian_temples",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "Initial collection failed with HTTP429; retry Osian/Osiya temples Rajasthan."
+  },
+  {
+    "place_id": "mehrangarh_fort__machia_biological_park",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "Initial collection failed with HTTP429; retry Machia/Machiya Biological Park Jodhpur."
+  },
+  {
+    "place_id": "mehrangarh_fort__singhasni_village",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "Initial collection failed with HTTP429; retry Singhasni pottery village Jodhpur. Generic pottery photos must not imply this location."
+  },
+  {
+    "place_id": "mehrangarh_fort__navchowkiya",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "Initial collection failed with HTTP429; retry Navchowkiya/Navchokiya Jodhpur blue-city neighbourhood."
+  },
+  {
+    "place_id": "badami_cave_temples",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "Initial collection failed with HTTP429. Retry Badami rock-cut cave exteriors and carved interiors; Aihole/Pattadakal structural temples cannot substitute."
+  },
+  {
+    "place_id": "badami_cave_temples__bhutanatha_group_of_temples",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "Initial collection failed with HTTP429; retry Bhutanatha/Bhutanath/Bhutnath temple Badami by Agastya Lake."
+  },
+  {
+    "place_id": "badami_cave_temples__agastya_lake",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Clear blue lake and sandstone cliffs in a wide panorama.",
+        "reviewed_source_title": "File:Agastya Lake near Badami Rock Cut Hindu Jain Temples in Karnataka India.jpg",
+        "reviewed_source_sha1": "30f5067e0e09cbd391a71e4d05b751f2a467f76c"
+      },
+      {
+        "candidate_id": 2,
+        "category": "Different_Views",
+        "review_note": "Lake reflection with Bhutanatha temples and sandstone cliffs.",
+        "reviewed_source_title": "File:Agastya Lake close to Badami Rock Cut Hindu Jain Temples in Karnataka India.jpg",
+        "reviewed_source_sha1": "ed6f0325ed0edab441dc6940b2917410411591ab"
+      },
+      {
+        "candidate_id": 4,
+        "category": "Details",
+        "review_note": "Lakeside stone steps and waterfront perspective.",
+        "reviewed_source_title": "File:Agastya Lake with Badami Temples.jpg",
+        "reviewed_source_sha1": "8806d7c26b75cb449b50712f135ed932a1424815"
+      },
+      {
+        "candidate_id": 7,
+        "category": "Surroundings",
+        "review_note": "Upper panorama showing lake, Badami town and rock cliffs.",
+        "reviewed_source_title": "File:Agastya Lake - Badami, views from caves - hamvrvb102k22 (25).jpg",
+        "reviewed_source_sha1": "e109860a47257f99e7cc0f4431c5371becec16a2"
+      },
+      {
+        "candidate_id": 9,
+        "category": "Surroundings",
+        "review_note": "Rock-cut cave walkway beside the lake, establishing the heritage setting.",
+        "reviewed_source_title": "File:Agastya Lake - Badami, views from caves - hamvrvb102k22 (63).jpg",
+        "reviewed_source_sha1": "06ecc00b00b9316f085b4d742144564d6b418143"
+      }
+    ],
+    "coverage_note": "Five complementary lake and heritage-setting views; repeated upper panoramas omitted."
+  },
+  {
+    "place_id": "badami_cave_temples__badami_fort",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 2,
+        "category": "Overview",
+        "review_note": "Clear cylindrical bastion on the sandstone rock hill.",
+        "reviewed_source_title": "File:Badami fort Badami caves.jpg",
+        "reviewed_source_sha1": "7995adeeebff278ab1742b1f73dac3ebd0cb81c9"
+      },
+      {
+        "candidate_id": 6,
+        "category": "Different_Views",
+        "review_note": "Hilltop fortified remains and round structures.",
+        "reviewed_source_title": "File:HBPA N 1008 Badami NorthFort View.jpg",
+        "reviewed_source_sha1": "be0f353d6cf750d154268e93bdb2082d021592f4"
+      },
+      {
+        "candidate_id": 1,
+        "category": "Details",
+        "review_note": "Temple structure in the fort hill area with a clear reflection.",
+        "reviewed_source_title": "File:Northern Fort Temple - Badami - Karnataka.jpg",
+        "reviewed_source_sha1": "34ebf011e75b4a23f174eef7f828de06e30ae42f"
+      },
+      {
+        "candidate_id": 8,
+        "category": "Details",
+        "review_note": "Fort cannon pointing towards the town panorama.",
+        "reviewed_source_title": "File:Badami fort cannon 20210402103231.jpg",
+        "reviewed_source_sha1": "418f0f44c4fa12e03e4b057d2503caacd69400d2"
+      },
+      {
+        "candidate_id": 9,
+        "category": "Surroundings",
+        "review_note": "Wide view from the fort hill over lake, town and cave cliffs.",
+        "reviewed_source_title": "File:HBPA S 06110930 Badami South mountain Agasthya lake.jpg",
+        "reviewed_source_sha1": "79f35d59d69dab3257799146df1c6d7206930922"
+      }
+    ],
+    "coverage_note": "Five fort-hill views selected; repetitive temple close-ups, generic lake view and duplicate cannon detail omitted."
+  },
+  {
+    "place_id": "badami_cave_temples__mahakuta_group_of_temples",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 2,
+        "category": "Overview",
+        "review_note": "Clear sandstone temple and surrounding complex planting.",
+        "reviewed_source_title": "File:Mahakuta group of temples3 at Mahakuta.jpg",
+        "reviewed_source_sha1": "03ed458483aeb1100b7e90eebd4c0c0906f750d0"
+      },
+      {
+        "candidate_id": 5,
+        "category": "Details",
+        "review_note": "Sharp carved guardian relief.",
+        "reviewed_source_title": "File:Parashudar Shiv statue.jpg",
+        "reviewed_source_sha1": "0c56a9cb2a246a618750fc70b6599ae86f95110c"
+      },
+      {
+        "candidate_id": 6,
+        "category": "Different_Views",
+        "review_note": "Carved doorway and porch in the temple complex.",
+        "reviewed_source_title": "File:Kaali statues at the entrance.jpg",
+        "reviewed_source_sha1": "aad502e94b10f129ae8cabc8a02c8ef9aa29ada7"
+      },
+      {
+        "candidate_id": 9,
+        "category": "Details",
+        "review_note": "Distinct tower and carved side wall beneath vegetation.",
+        "reviewed_source_title": "File:Bhoovarah relief.jpg",
+        "reviewed_source_sha1": "bdc9542975141c52c24e47651b1832fc4fe5337e"
+      },
+      {
+        "candidate_id": 10,
+        "category": "Details",
+        "review_note": "Standing guardian sculpture at a temple doorway.",
+        "reviewed_source_title": "File:Temple hallway.jpg",
+        "reviewed_source_sha1": "214561b614ffa156702b7402870ec9a42ce5865c"
+      }
+    ],
+    "coverage_note": "Five clear temple and carving views selected. Dark main tower, whitewashed doorway and repetitive elevations omitted."
+  },
+  {
+    "place_id": "badami_cave_temples__pattadakal_monuments",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 6,
+        "category": "Overview",
+        "review_note": "Clear wide view of the Pattadakal temple group and garden.",
+        "reviewed_source_title": "File:7th - 9th century Hindu and Jain temples, Pattadakal monuments Karnataka 2.jpg",
+        "reviewed_source_sha1": "489463fdd2102005af18d4fe1382fc309c377efe"
+      },
+      {
+        "candidate_id": 5,
+        "category": "Different_Views",
+        "review_note": "Sangameswara temple exterior stone architecture.",
+        "reviewed_source_title": "File:7th - 8th century reliefs at the Sangameswara temple, Pattadakal Hindu monuments Karnataka 3.jpg",
+        "reviewed_source_sha1": "c79fe44e2afda73b96a4a7359d30979753ba8644"
+      },
+      {
+        "candidate_id": 7,
+        "category": "Details",
+        "review_note": "Sharp Mallikarjuna temple carved circular relief.",
+        "reviewed_source_title": "File:8th century reliefs at Mallikarjuna temple, Pattadakal Hindu monuments Karnataka 10.jpg",
+        "reviewed_source_sha1": "ccb58728372f5dcdf4082a08f1f8cbc8c83c5008"
+      },
+      {
+        "candidate_id": 9,
+        "category": "Details",
+        "review_note": "Sharp Mallikarjuna temple dancing figure relief.",
+        "reviewed_source_title": "File:8th century reliefs at Mallikarjuna temple, Pattadakal Hindu monuments Karnataka 11.jpg",
+        "reviewed_source_sha1": "82b9dec3d17385e4def8c53259f85d0f78c222b7"
+      },
+      {
+        "candidate_id": 10,
+        "category": "Details",
+        "review_note": "Virupaksha carved pillar with temple precinct beyond.",
+        "reviewed_source_title": "File:8th century reliefs at Virupaksha temple, Pattadakal Hindu monuments Karnataka 10.jpg",
+        "reviewed_source_sha1": "4fc75828ca44fd6379c160973cb1e95d5fa9446f"
+      }
+    ],
+    "coverage_note": "Overview and details across the actual Pattadakal group selected. No Badami cave identity implied."
+  },
+  {
+    "place_id": "badami_cave_temples__aihole_durga_temple",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Clear apsidal Durga Temple elevation and tower.",
+        "reviewed_source_title": "File:Durga Temple Aihole 2.jpg",
+        "reviewed_source_sha1": "d61efd3fe4107b48af949d9d50135598146c3da9"
+      },
+      {
+        "candidate_id": 3,
+        "category": "Surroundings",
+        "review_note": "Garden approach and complete Durga Temple in its site setting.",
+        "reviewed_source_title": "File:The Durga Temple of Aihole.jpg",
+        "reviewed_source_sha1": "99aab504b07fca5ad6b35780a241b354541514cb"
+      },
+      {
+        "candidate_id": 8,
+        "category": "Different_Views",
+        "review_note": "Distinct side and apsidal colonnade of the Durga Temple.",
+        "reviewed_source_title": "File:Aihole, Durga Temple (9842647605).jpg",
+        "reviewed_source_sha1": "ea4d05b8a6ec1fb22141cf5e7c497804919de053"
+      },
+      {
+        "candidate_id": 10,
+        "category": "Details",
+        "review_note": "Sharp Durga relief documented at Durga Temple Aihole.",
+        "reviewed_source_title": "File:Durga Temple Aihole ADSC 1481.jpg",
+        "reviewed_source_sha1": "b0c8efca0cf15a3ece9ccede2f7f92052f0204d1"
+      }
+    ],
+    "coverage_note": "Four actual Durga Temple views selected. Candidate #6 visibly shows Lad Khan Temple despite its mislabeled Durga filename and is rejected; repetitive rear views omitted."
+  },
+  {
+    "place_id": "badami_cave_temples__banashankari_amma_temple",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "No qualifying candidates in current collection. Search Banashankari/Vanashankari temple Cholachagudda Badami; Bengaluru Banashankari temple is a different site."
+  },
+  {
+    "place_id": "badami_cave_temples__ravan_phadi_cave",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 10,
+        "category": "Overview",
+        "review_note": "Clear Ravan Phadi rock-cut exterior, entrance and forecourt.",
+        "reviewed_source_title": "File:Ravana Phadi cave at Aihole.jpg",
+        "reviewed_source_sha1": "8f1c2f66bc9908e02e5cc3bfdb5d12f4232e5b23"
+      },
+      {
+        "candidate_id": 4,
+        "category": "Different_Views",
+        "review_note": "Distinct angled exterior with rock mass and small porch.",
+        "reviewed_source_title": "File:Ravanaphadi.jpg",
+        "reviewed_source_sha1": "61c9231b5274ae9b37cfa45271d077666ea8910a"
+      },
+      {
+        "candidate_id": 9,
+        "category": "Details",
+        "review_note": "Close entrance columns and guardian carving.",
+        "reviewed_source_title": "File:Ravanaphadi 2.jpg",
+        "reviewed_source_sha1": "1b36267859c92a6a8816340eaa9c097e9f841c51"
+      },
+      {
+        "candidate_id": 8,
+        "category": "Surroundings",
+        "review_note": "Stone shrine remains and archaeological forecourt setting.",
+        "reviewed_source_title": "File:Aihole si05-1427.jpg",
+        "reviewed_source_sha1": "50e685a0c9daee1aa7ad1a19e6721e0f01975cce"
+      }
+    ],
+    "coverage_note": "Four relevant exterior/setting views. Stereo composite, timestamp, weak duplicated fronts and posed visitor omitted. Interior sculpture coverage still desirable."
+  },
+  {
+    "place_id": "badami_cave_temples__lad_khan_temple",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 2,
+        "category": "Overview",
+        "review_note": "Clear unobstructed full temple front.",
+        "reviewed_source_title": "File:LadKhanTempleAihole.JPG",
+        "reviewed_source_sha1": "923f73ab95a3b0df300f8ad3f0e37bb82700f54b"
+      },
+      {
+        "candidate_id": 5,
+        "category": "Different_Views",
+        "review_note": "Distinct side wall and roof pavilion profile.",
+        "reviewed_source_title": "File:Lad Khan Temple.JPG",
+        "reviewed_source_sha1": "cafd3ac256be4884aa3cbdebcf586040eec47421"
+      },
+      {
+        "candidate_id": 3,
+        "category": "Details",
+        "review_note": "Dark but legible pillared interior and pierced stone window.",
+        "reviewed_source_title": "File:Aihole Lad Khan temple interior.JPG",
+        "reviewed_source_sha1": "780047334a497ea2e2077c97aa14d22f820ffc01"
+      },
+      {
+        "candidate_id": 4,
+        "category": "Details",
+        "review_note": "Sharp Kannada inscription at the temple.",
+        "reviewed_source_title": "File:Kannada inscription (8th century) at the Lad Khan temple in Aihole.jpg",
+        "reviewed_source_sha1": "b1b53018ee72cf3d6c5020850225d968a516f38e"
+      }
+    ],
+    "coverage_note": "Four architecture/interior views selected. Candidate #6 is a hill panorama without Lad Khan Temple and rejected; repeated visitor-occupied front omitted."
+  },
+  {
+    "place_id": "badami_cave_temples__galaganatha_temples",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "Identity pending at the user's explicit choice. Aihole group and Pattadakal single temple must not be selected until the requested identity is clarified."
+  }
+]

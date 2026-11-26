@@ -1,0 +1,57 @@
+[
+  {
+    "place_id": "taj_mahal__bateshwar_temples",
+    "image_count": 0,
+    "manifest": "02_Images\\Taj_Mahal\\Nearby_Heritage\\Bateshwar_Temples\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "taj_mahal__chini_ka_rauza",
+    "image_count": 4,
+    "manifest": "02_Images\\Taj_Mahal\\Nearby_Heritage\\Chini_Ka_Rauza\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "taj_mahal__gurudwara_guru_ka_taal",
+    "image_count": 3,
+    "manifest": "02_Images\\Taj_Mahal\\Nearby_Heritage\\Gurudwara_Guru_Ka_Taal\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "taj_mahal__kanch_mahal",
+    "image_count": 4,
+    "manifest": "02_Images\\Taj_Mahal\\Nearby_Heritage\\Kanch_Mahal\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "taj_mahal__mariam_uz_zamani_tomb",
+    "image_count": 3,
+    "manifest": "02_Images\\Taj_Mahal\\Nearby_Heritage\\Mariam_uz_Zamani_Tomb\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "taj_mahal__mehtab_bagh",
+    "image_count": 4,
+    "manifest": "02_Images\\Taj_Mahal\\Nearby_Heritage\\Mehtab_Bagh\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "taj_mahal__ram_bagh",
+    "image_count": 5,
+    "manifest": "02_Images\\Taj_Mahal\\Nearby_Heritage\\Ram_Bagh\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "taj_mahal__taj_nature_walk",
+    "image_count": 2,
+    "manifest": "02_Images\\Taj_Mahal\\Nearby_Heritage\\Taj_Nature_Walk\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "taj_mahal__the_red_taj_hessings_tomb",
+    "image_count": 4,
+    "manifest": "02_Images\\Taj_Mahal\\Nearby_Heritage\\The_Red_Taj_Hessings_Tomb\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "taj_mahal__jaswant_singh_ki_chhatri",
+    "image_count": 1,
+    "manifest": "02_Images\\Taj_Mahal\\Nearby_Heritage\\Jaswant_Singh_Ki_Chhatri\\Image_Sources\\image_manifest.json"
+  },
+  {
+    "place_id": "qutub_minar",
+    "image_count": 14,
+    "manifest": "02_Images\\Qutub_Minar\\Image_Sources\\image_manifest.json"
+  }
+]

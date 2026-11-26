@@ -1,0 +1,12 @@
+VIRASATAI — STORY DATA
+Entry ID: jaisalmer_fort__akal_wood_fossil_park
+Name: Akal Wood Fossil Park
+Narrative focus: Fossil trees and a landscape older than human history
+Language files: Separate English and Devanagari Hindi master scripts in 03_Scripts.
+Status: Written narration ready for TTS input; pronunciation and generated audio still need listening QA.
+
+Akal Wood Fossil Park takes the journey far beyond the age of forts and temples. Its fossilised wood belongs to a geological past that official tourism interpretation places at roughly one hundred and eighty million years ago. These remains suggest a landscape very different from the desert around Jaisalmer today.
+
+Look for the relationship between the shape of a tree and the hard material that now preserves it. Fossil wood is evidence of a natural process working over immense spans of time. It is not simply an old log that has survived unchanged.
+
+The site offers a useful shift in perspective. Human history can seem very long until we compare it with the age of the Earth. Observe the displays from permitted positions and leave every fossil undisturbed. Never take a fragment as a souvenir. Akal makes a small surviving piece of wood a doorway into an ancient environment, reminding us that natural heritage also needs careful protection.

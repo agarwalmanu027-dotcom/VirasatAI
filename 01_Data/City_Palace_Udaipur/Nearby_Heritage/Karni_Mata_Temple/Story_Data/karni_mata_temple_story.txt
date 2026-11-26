@@ -1,0 +1,14 @@
+VIRASATAI — STORY DATA
+Entry ID: city_palace_udaipur__karni_mata_temple
+Name: Karni Mata Temple
+Narrative focus: A hilltop sacred place and a broad view of the lake city.
+Language files: Separate English and Devanagari Hindi master scripts in 03_Scripts.
+Status: Written narration ready for TTS input; pronunciation and generated audio still need listening QA.
+
+On Machla Magra hill, the Manshapurna Karni Mata Temple combines a sacred destination with a broad view of Udaipur. This is the city's hilltop shrine, distinct from the well-known Karni Mata temple at Deshnoke near Bikaner.
+
+The journey changes the way the lake city is seen. From the surrounding hill, water, rooftops and distant buildings become parts of a larger landscape. At the shrine itself, the focus returns to devotion and the presence of worshippers.
+
+These two experiences can sit together. A place may offer an impressive view while remaining important for reasons that go beyond scenery.
+
+Take time to appreciate both. Follow the site's current access and photography rules, give space to prayer, and notice how the hill connects the temple with the city below. Karni Mata adds a living religious setting to Udaipur's wider heritage story.

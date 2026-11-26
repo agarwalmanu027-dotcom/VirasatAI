@@ -1,0 +1,162 @@
+{
+  "checked_on": "2026-10-08",
+  "scope": "Primary Commons source plan for 5 main monuments; no downloads or candidate edits.",
+  "exact_file_count": 14,
+  "visual_review_status": "Source-page research only; final local visual acceptance is required after the root collector appends candidates.",
+  "checks": [
+    {
+      "place_id": "amer_fort",
+      "exact_file": "File:Sheesh Mahal at Amer Fort.jpg",
+      "evidence_url": "https://commons.wikimedia.org/wiki/File:Sheesh_Mahal_at_Amer_Fort.jpg",
+      "width": 6240,
+      "height": 4160,
+      "license": "CC BY 4.0",
+      "commons_quality_image": false,
+      "identity_evidence": "Sheesh Mahal at Amer Fort; own-work photograph; excludes similarly named mirror halls elsewhere.",
+      "dimension_gate_pass": true
+    },
+    {
+      "place_id": "amer_fort",
+      "exact_file": "File:Amer Fort - Ganesh Pol (2022) - img 01.jpg",
+      "evidence_url": "https://commons.wikimedia.org/wiki/File:Amer_Fort_-_Ganesh_Pol_(2022)_-_img_01.jpg",
+      "width": 4032,
+      "height": 3024,
+      "license": "CC BY 4.0",
+      "commons_quality_image": true,
+      "identity_evidence": "Ganesh Pol in Amer Fort, Jaipur; primary description and Ganesh Pol (Amber Fort) category.",
+      "dimension_gate_pass": true
+    },
+    {
+      "place_id": "red_fort",
+      "exact_file": "File:Diwan-i-Aam Red Fort Delhi.jpg",
+      "evidence_url": "https://commons.wikimedia.org/wiki/File:Diwan-i-Aam_Red_Fort_Delhi.jpg",
+      "width": 2560,
+      "height": 1920,
+      "license": "CC BY-SA 4.0",
+      "commons_quality_image": false,
+      "identity_evidence": "Delhi in filename; primary ASI identifier N-DL-18; Diwan-i-Am at Delhi Red Fort.",
+      "dimension_gate_pass": true
+    },
+    {
+      "place_id": "red_fort",
+      "exact_file": "File:Diwan i khas(Interior) New Delhi.jpg",
+      "evidence_url": "https://commons.wikimedia.org/wiki/File:Diwan_i_khas(Interior)_New_Delhi.jpg",
+      "width": 4154,
+      "height": 3284,
+      "license": "CC BY-SA 4.0",
+      "commons_quality_image": false,
+      "identity_evidence": "New Delhi in filename; primary ASI identifier N-DL-18; not the similarly named Agra Fort hall.",
+      "dimension_gate_pass": true
+    },
+    {
+      "place_id": "red_fort",
+      "exact_file": "File:Inside view of Moti Masjid-Red Fort.jpg",
+      "evidence_url": "https://commons.wikimedia.org/wiki/File:Inside_view_of_Moti_Masjid-Red_Fort.jpg",
+      "width": 1920,
+      "height": 2560,
+      "license": "CC BY-SA 4.0",
+      "commons_quality_image": false,
+      "identity_evidence": "Delhi Red Fort complex description; ASI N-DL-18; camera coordinates 28.655890,77.242016; excludes Agra Moti Masjid.",
+      "dimension_gate_pass": true
+    },
+    {
+      "place_id": "mysore_palace",
+      "exact_file": "File:Mysuru Palace - Public Durbar Hall.jpg",
+      "evidence_url": "https://commons.wikimedia.org/wiki/File:Mysuru_Palace_-_Public_Durbar_Hall.jpg",
+      "width": 7008,
+      "height": 4672,
+      "license": "CC BY-SA 4.0",
+      "commons_quality_image": true,
+      "identity_evidence": "Public Durbar Hall, Mysuru Palace, Karnataka; own-work photograph.",
+      "dimension_gate_pass": true
+    },
+    {
+      "place_id": "mysore_palace",
+      "exact_file": "File:Mysuru Palace - Private Durbar Hall.jpg",
+      "evidence_url": "https://commons.wikimedia.org/wiki/File:Mysuru_Palace_-_Private_Durbar_Hall.jpg",
+      "width": 7008,
+      "height": 4672,
+      "license": "CC BY-SA 4.0",
+      "commons_quality_image": true,
+      "identity_evidence": "Private Durbar Hall, Mysuru Palace, Karnataka; a distinct hall from the public durbar.",
+      "dimension_gate_pass": true
+    },
+    {
+      "place_id": "mysore_palace",
+      "exact_file": "File:Stained Glass Window Mysore Palace Dec23 A7C 08291.jpg",
+      "evidence_url": "https://commons.wikimedia.org/wiki/File:Stained_Glass_Window_Mysore_Palace_Dec23_A7C_08291.jpg",
+      "width": 2464,
+      "height": 2464,
+      "license": "CC BY-SA 4.0",
+      "commons_quality_image": true,
+      "identity_evidence": "Coat of arms in an actual stained-glass window at Mysore Palace; window detail, not a ceiling photograph.",
+      "dimension_gate_pass": true
+    },
+    {
+      "place_id": "hampi_monuments",
+      "exact_file": "File:Hampi chariot.jpg",
+      "evidence_url": "https://commons.wikimedia.org/wiki/File:Hampi_chariot.jpg",
+      "width": 4290,
+      "height": 2856,
+      "license": "CC BY-SA 3.0",
+      "commons_quality_image": false,
+      "identity_evidence": "Stone chariot at Vittala Temple, Hampi; primary caption, description and own-work photograph.",
+      "dimension_gate_pass": true
+    },
+    {
+      "place_id": "hampi_monuments",
+      "exact_file": "File:Hampi - Vittala Temple - Entrance Gopuram.jpg",
+      "evidence_url": "https://commons.wikimedia.org/wiki/File:Hampi_-_Vittala_Temple_-_Entrance_Gopuram.jpg",
+      "width": 7008,
+      "height": 4672,
+      "license": "CC BY-SA 4.0",
+      "commons_quality_image": true,
+      "identity_evidence": "Hampi, Karnataka, Vittala Temple entrance gopuram; a separate architecture view from the chariot.",
+      "dimension_gate_pass": true
+    },
+    {
+      "place_id": "hampi_monuments",
+      "exact_file": "File:Hampi - Lotus Mahal.jpg",
+      "evidence_url": "https://commons.wikimedia.org/wiki/File:Hampi_-_Lotus_Mahal.jpg",
+      "width": 5804,
+      "height": 5154,
+      "license": "CC BY-SA 4.0",
+      "commons_quality_image": true,
+      "identity_evidence": "Lotus Mahal at Hampi, Karnataka; own-work photograph.",
+      "dimension_gate_pass": true
+    },
+    {
+      "place_id": "mahabalipuram",
+      "exact_file": "File:Nakula Sahadeva Ratha NW Side Mahabalipuram Sep22 A7C 02553.jpg",
+      "evidence_url": "https://commons.wikimedia.org/wiki/File:Nakula_Sahadeva_Ratha_NW_Side_Mahabalipuram_Sep22_A7C_02553.jpg",
+      "width": 3680,
+      "height": 3680,
+      "license": "CC BY-SA 4.0",
+      "commons_quality_image": true,
+      "identity_evidence": "Nakula Sahadeva Ratha NW view in the Five Rathas/Pancha Rathas site, Mahabalipuram, Tamil Nadu.",
+      "dimension_gate_pass": true
+    },
+    {
+      "place_id": "mahabalipuram",
+      "exact_file": "File:Arjuna's penance mahabs 3.jpg",
+      "evidence_url": "https://commons.wikimedia.org/wiki/File:Arjuna%27s_penance_mahabs_3.jpg",
+      "width": 4000,
+      "height": 2250,
+      "license": "CC BY-SA 4.0",
+      "commons_quality_image": false,
+      "identity_evidence": "Arjuna's Penance at Mahabalipuram; ASI N-TN-C32; primary file page and Descent of the Ganges category.",
+      "dimension_gate_pass": true
+    },
+    {
+      "place_id": "mahabalipuram",
+      "exact_file": "File:Butter Ball, Mahabalipuram.jpg",
+      "evidence_url": "https://commons.wikimedia.org/wiki/File:Butter_Ball,_Mahabalipuram.jpg",
+      "width": 4106,
+      "height": 2662,
+      "license": "CC BY-SA 3.0",
+      "commons_quality_image": true,
+      "identity_evidence": "Krishna's Butter Ball at Mahabalipuram; Commons Quality and Valued image; east-facing view.",
+      "dimension_gate_pass": true
+    }
+  ]
+}

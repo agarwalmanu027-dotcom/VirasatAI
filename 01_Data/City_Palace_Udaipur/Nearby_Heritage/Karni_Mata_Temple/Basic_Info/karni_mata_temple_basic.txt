@@ -1,0 +1,13 @@
+VIRASATAI — BASIC INFORMATION
+Name: Karni Mata Temple
+Entry ID: city_palace_udaipur__karni_mata_temple
+Location: Machla Magra hill near Doodh Talai, Udaipur, Rajasthan, India
+Type: Hilltop Hindu shrine
+Identity note: Shri Manshapurna Karni Mata at Udaipur, distinct from the Karni Mata temple at Deshnoke near Bikaner.
+Content status: Source-checked narrative prepared on 2026-10-07; audio has not been generated or auditioned.
+
+1. This is the Manshapurna Karni Mata shrine on Machla Magra hill in Udaipur. [1]
+2. It is associated with devotion to Karni Mata. [1]
+3. Its setting overlooks the city and Doodh Talai area. [1,2]
+
+Sources: See karni_mata_temple_sources.txt. The parent association is the user's selection, not a verified proximity claim.

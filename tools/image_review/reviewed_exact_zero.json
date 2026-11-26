@@ -1,0 +1,23 @@
+[
+  {"place_id":"badami_cave_temples__bhutanatha_group_of_temples","selected":[1,2,3,4,5,6]},
+  {"place_id":"city_palace_udaipur__ahar_cenotaphs","selected":[1,2,3,4,5,6]},
+  {"place_id":"city_palace_udaipur__karni_mata_temple","selected":[1,2,3]},
+  {"place_id":"city_palace_udaipur__vintage_car_museum","selected":[1,2,3]},
+  {"place_id":"jaisalmer_fort__lodhruva_jain_temples","selected":[1,2,3,4,5,6]},
+  {"place_id":"jaisalmer_fort__nathmal_ji_ki_haveli","selected":[1,2,3,4,5,6]},
+  {"place_id":"mahabalipuram__cholamandal_artists_village","selected":[1,2,3,4,5,6]},
+  {"place_id":"mahabalipuram__dakshinachitra","selected":[1,2,3,4,5,6]},
+  {"place_id":"mahabalipuram__muttukadu_backwaters","selected":[1,2,3,4,5,6]},
+  {"place_id":"mahabalipuram__vedanthangal_bird_sanctuary","selected":[1,2,3,4,5,6]},
+  {"place_id":"mehrangarh_fort__jaswant_thada","selected":[1,2,3,4,5,6]},
+  {"place_id":"mehrangarh_fort__mahamandir_temple","selected":[1,2]},
+  {"place_id":"mehrangarh_fort__osian_temples","selected":[1,2,3,4,5,6]},
+  {"place_id":"mehrangarh_fort__rao_jodha_desert_rock_park","selected":[1,2,3,4,5,6]},
+  {"place_id":"mehrangarh_fort__toorji_ka_jhalra","selected":[1,2,3,4,5,6]},
+  {"place_id":"victoria_memorial__nipponzan_myohoji_temple","selected":[1,2,3,4,5,6]},
+  {"place_id":"golden_temple__saragarhi_memorial","selected":[1,2,3,4,5],"source":"zero_search_candidates"},
+  {"place_id":"mysore_palace__melody_world_wax_museum","selected":[1,2,3,4],"source":"zero_search_candidates"},
+  {"place_id":"badami_cave_temples__banashankari_amma_temple","selected":[2,3,5,7,8,10,11,15],"source":"expansion_candidates"},
+  {"place_id":"hampi_monuments__sugrivas_cave","selected":[1,2],"source":"expansion_candidates"},
+  {"place_id":"meenakshi_temple__goripalayam_dargah","selected":[1,2,3],"source":"expansion_candidates"}
+]

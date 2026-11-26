@@ -1,0 +1,260 @@
+[
+  {
+    "place_id": "konark_sun_temple",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Details",
+        "review_note": "Clear Surya sculpture and stone niche."
+      },
+      {
+        "candidate_id": 2,
+        "category": "Overview",
+        "review_note": "Full surviving hall facade with visible conservation scaffolding."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Details",
+        "review_note": "Sharp stone chariot wheel and carved wall."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Details",
+        "review_note": "Upward view of carved stone architectural bands."
+      },
+      {
+        "candidate_id": 8,
+        "category": "Details",
+        "review_note": "Clear ornamental entrance doorway."
+      },
+      {
+        "candidate_id": 12,
+        "category": "Different_Views",
+        "review_note": "Natamandira remains and staircase."
+      },
+      {
+        "candidate_id": 13,
+        "category": "Details",
+        "review_note": "Roofless hall columns and upper stonework."
+      },
+      {
+        "candidate_id": 14,
+        "category": "Different_Views",
+        "review_note": "Surviving hall side elevation in warm natural light."
+      },
+      {
+        "candidate_id": 16,
+        "category": "Different_Views",
+        "review_note": "Temple framed through the actual stone hall entrance."
+      },
+      {
+        "candidate_id": 17,
+        "category": "Details",
+        "review_note": "Natamandira external wall sculpture."
+      },
+      {
+        "candidate_id": 19,
+        "category": "Surroundings",
+        "review_note": "Temple grounds and secondary ruins."
+      },
+      {
+        "candidate_id": 23,
+        "category": "Overview",
+        "review_note": "Distinct rear temple elevation and grounds."
+      },
+      {
+        "candidate_id": 24,
+        "category": "Different_Views",
+        "review_note": "Long chariot wall, wheel and courtyard."
+      },
+      {
+        "candidate_id": 25,
+        "category": "Different_Views",
+        "review_note": "Wide roofless hall and complex layout."
+      },
+      {
+        "candidate_id": 28,
+        "category": "Details",
+        "review_note": "Secondary surviving stone platform and architectural remains."
+      },
+      {
+        "candidate_id": 29,
+        "category": "Different_Views",
+        "review_note": "Low-angle chariot wall and surviving temple."
+      },
+      {
+        "candidate_id": 30,
+        "category": "Details",
+        "review_note": "Clear upper architectural crown and carvings."
+      }
+    ],
+    "coverage_note": "17 distinct clear color images show the surviving hall, roofless hall, sculptures, wheel, doorway and grounds. Some photographs document visible scaffolding and must not be represented as today's exact condition. Rejected timestamp, tourist-dominant compositions, dark or weak images, strong color effects and repeated-looking views."
+  },
+  {
+    "place_id": "konark_sun_temple__kuruma_buddhist_site",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "No candidates collected for the exact Kuruma Buddhist site."
+  },
+  {
+    "place_id": "konark_sun_temple__ramachandi_temple",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 5,
+        "category": "Overview",
+        "review_note": "Clear actual Ramachandi Temple front."
+      },
+      {
+        "candidate_id": 4,
+        "category": "Details",
+        "review_note": "Bright gold-topped shrine tower."
+      },
+      {
+        "candidate_id": 7,
+        "category": "Details",
+        "review_note": "Maa Ramachandi Pitha sign and actual entry setting."
+      },
+      {
+        "candidate_id": 9,
+        "category": "Different_Views",
+        "review_note": "Temple seen from outside the enclosing wall."
+      }
+    ],
+    "coverage_note": "Four actual distinct temple, tower, entry-sign and outer-wall views. Rejected repeated fronts, obstructed tower, people-dominant interior and unrelated-looking skeleton exhibit for the gallery."
+  },
+  {
+    "place_id": "konark_sun_temple__chandrabhaga_beach",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Actual Chandrabhaga shoreline and breaking waves."
+      },
+      {
+        "candidate_id": 2,
+        "category": "Different_Views",
+        "review_note": "Empty beach, dunes and coastal vegetation."
+      },
+      {
+        "candidate_id": 3,
+        "category": "Details",
+        "review_note": "Fishing boats on the actual beach."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Aerial",
+        "review_note": "Elevated coastline view shows the beach, road and coastal strip."
+      }
+    ],
+    "coverage_note": "Four varied shoreline, beach/dunes, boat and elevated coastline views. Rejected blurry haze, tourist portraits, repeated shore views and dark tree silhouettes."
+  },
+  {
+    "place_id": "konark_sun_temple__astaranga_beach",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "No candidates collected for the exact Astaranga beach; Puri or Chandrabhaga photos are not substitutes."
+  },
+  {
+    "place_id": "konark_sun_temple__barahi_temple_chaurasi",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Clear natural-color actual Varahi Temple at Chaurasi."
+      }
+    ],
+    "coverage_note": "One clear actual temple photograph. The other candidate is a map of many Odisha sites, not a monument photo."
+  },
+  {
+    "place_id": "konark_sun_temple__pipili_village",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 2,
+        "category": "Different_Views",
+        "review_note": "Actual Pipili craft shop display."
+      },
+      {
+        "candidate_id": 3,
+        "category": "Details",
+        "review_note": "Clear ceremonial applique fans."
+      },
+      {
+        "candidate_id": 5,
+        "category": "Details",
+        "review_note": "Distinct applique umbrellas and hanging fabric crafts."
+      }
+    ],
+    "coverage_note": "Three clear actual applique craft/shop photos. Village street and artisan-at-work overview remain missing. Rejected repeated craft-wall views."
+  },
+  {
+    "place_id": "konark_sun_temple__dhauli_shanti_stupa",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 4,
+        "category": "Overview",
+        "review_note": "Actual white Dhauli Shanti Stupa."
+      },
+      {
+        "candidate_id": 3,
+        "category": "Details",
+        "review_note": "Clear seated Buddha statue."
+      },
+      {
+        "candidate_id": 9,
+        "category": "Details",
+        "review_note": "Colored architectural Buddhist relief panel."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Details",
+        "review_note": "Distinct Buddha and wheel relief panel."
+      }
+    ],
+    "coverage_note": "Four actual distinct stupa and relief/statue photos. Rejected softer reliefs, redundant panels and an unrelated person's roadside memorial."
+  },
+  {
+    "place_id": "konark_sun_temple__chausathi_yogini_temple",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "No candidates collected for the Hirapur Chausathi/Chausath Yogini Temple identity used in the sourced content."
+  },
+  {
+    "place_id": "konark_sun_temple__mangalajodi_chilika",
+    "review_status": "visually_reviewed",
+    "selected": [
+      {
+        "candidate_id": 1,
+        "category": "Overview",
+        "review_note": "Clear actual wetland landscape."
+      },
+      {
+        "candidate_id": 3,
+        "category": "Different_Views",
+        "review_note": "Natural sunset boat and marsh setting."
+      },
+      {
+        "candidate_id": 6,
+        "category": "Surroundings",
+        "review_note": "Boat landing and channels."
+      },
+      {
+        "candidate_id": 10,
+        "category": "Different_Views",
+        "review_note": "Guided boat within the wetland, with landscape context."
+      }
+    ],
+    "coverage_note": "Four distinct wetland, sunset, boat-landing and guided-boat photographs. Rejected bird-only/fisherman-portrait images, heavy sunset coloring, overexposure and haze."
+  },
+  {
+    "place_id": "konark_sun_temple__raghurajpur_artist_village",
+    "review_status": "visually_reviewed",
+    "selected": [],
+    "coverage_note": "No candidates collected for the exact Raghurajpur artist village."
+  }
+]

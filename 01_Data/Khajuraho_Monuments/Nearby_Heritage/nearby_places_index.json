@@ -1,0 +1,180 @@
+{
+  "parent_monument_id": "khajuraho_monuments",
+  "parent_monument_name": "Khajuraho Monuments, Madhya Pradesh",
+  "selection_source": "User-supplied table",
+  "nearby_entry_count": 10,
+  "places": [
+    {
+      "id": "khajuraho_monuments__raneh_falls",
+      "order": 1,
+      "display_name": "Raneh Falls",
+      "folder_name": "Raneh_Falls",
+      "parent_monument_id": "khajuraho_monuments",
+      "paths": {
+        "data": "01_Data/Khajuraho_Monuments/Nearby_Heritage/Raneh_Falls",
+        "images": "02_Images/Khajuraho_Monuments/Nearby_Heritage/Raneh_Falls",
+        "scripts": "03_Scripts/Khajuraho_Monuments/Nearby_Heritage/Raneh_Falls",
+        "audio": "04_Audio/Khajuraho_Monuments/Nearby_Heritage/Raneh_Falls"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "khajuraho_monuments__pandav_falls",
+      "order": 2,
+      "display_name": "Pandav Falls",
+      "folder_name": "Pandav_Falls",
+      "parent_monument_id": "khajuraho_monuments",
+      "paths": {
+        "data": "01_Data/Khajuraho_Monuments/Nearby_Heritage/Pandav_Falls",
+        "images": "02_Images/Khajuraho_Monuments/Nearby_Heritage/Pandav_Falls",
+        "scripts": "03_Scripts/Khajuraho_Monuments/Nearby_Heritage/Pandav_Falls",
+        "audio": "04_Audio/Khajuraho_Monuments/Nearby_Heritage/Pandav_Falls"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "khajuraho_monuments__ken_gharial_sanctuary",
+      "order": 3,
+      "display_name": "Ken Gharial Sanctuary",
+      "folder_name": "Ken_Gharial_Sanctuary",
+      "parent_monument_id": "khajuraho_monuments",
+      "paths": {
+        "data": "01_Data/Khajuraho_Monuments/Nearby_Heritage/Ken_Gharial_Sanctuary",
+        "images": "02_Images/Khajuraho_Monuments/Nearby_Heritage/Ken_Gharial_Sanctuary",
+        "scripts": "03_Scripts/Khajuraho_Monuments/Nearby_Heritage/Ken_Gharial_Sanctuary",
+        "audio": "04_Audio/Khajuraho_Monuments/Nearby_Heritage/Ken_Gharial_Sanctuary"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "khajuraho_monuments__matangeshwar_temple",
+      "order": 4,
+      "display_name": "Matangeshwar Temple",
+      "folder_name": "Matangeshwar_Temple",
+      "parent_monument_id": "khajuraho_monuments",
+      "paths": {
+        "data": "01_Data/Khajuraho_Monuments/Nearby_Heritage/Matangeshwar_Temple",
+        "images": "02_Images/Khajuraho_Monuments/Nearby_Heritage/Matangeshwar_Temple",
+        "scripts": "03_Scripts/Khajuraho_Monuments/Nearby_Heritage/Matangeshwar_Temple",
+        "audio": "04_Audio/Khajuraho_Monuments/Nearby_Heritage/Matangeshwar_Temple"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "khajuraho_monuments__ajaigarh_fort",
+      "order": 5,
+      "display_name": "Ajaigarh Fort",
+      "folder_name": "Ajaigarh_Fort",
+      "parent_monument_id": "khajuraho_monuments",
+      "paths": {
+        "data": "01_Data/Khajuraho_Monuments/Nearby_Heritage/Ajaigarh_Fort",
+        "images": "02_Images/Khajuraho_Monuments/Nearby_Heritage/Ajaigarh_Fort",
+        "scripts": "03_Scripts/Khajuraho_Monuments/Nearby_Heritage/Ajaigarh_Fort",
+        "audio": "04_Audio/Khajuraho_Monuments/Nearby_Heritage/Ajaigarh_Fort"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "khajuraho_monuments__kalinjar_fort",
+      "order": 6,
+      "display_name": "Kalinjar Fort",
+      "folder_name": "Kalinjar_Fort",
+      "parent_monument_id": "khajuraho_monuments",
+      "paths": {
+        "data": "01_Data/Khajuraho_Monuments/Nearby_Heritage/Kalinjar_Fort",
+        "images": "02_Images/Khajuraho_Monuments/Nearby_Heritage/Kalinjar_Fort",
+        "scripts": "03_Scripts/Khajuraho_Monuments/Nearby_Heritage/Kalinjar_Fort",
+        "audio": "04_Audio/Khajuraho_Monuments/Nearby_Heritage/Kalinjar_Fort"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "khajuraho_monuments__jain_museum",
+      "order": 7,
+      "display_name": "Jain Museum",
+      "folder_name": "Jain_Museum",
+      "parent_monument_id": "khajuraho_monuments",
+      "paths": {
+        "data": "01_Data/Khajuraho_Monuments/Nearby_Heritage/Jain_Museum",
+        "images": "02_Images/Khajuraho_Monuments/Nearby_Heritage/Jain_Museum",
+        "scripts": "03_Scripts/Khajuraho_Monuments/Nearby_Heritage/Jain_Museum",
+        "audio": "04_Audio/Khajuraho_Monuments/Nearby_Heritage/Jain_Museum"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": [
+        "Verify the specific museum associated with Khajuraho."
+      ]
+    },
+    {
+      "id": "khajuraho_monuments__duladeo_temple",
+      "order": 8,
+      "display_name": "Duladeo Temple",
+      "folder_name": "Duladeo_Temple",
+      "parent_monument_id": "khajuraho_monuments",
+      "paths": {
+        "data": "01_Data/Khajuraho_Monuments/Nearby_Heritage/Duladeo_Temple",
+        "images": "02_Images/Khajuraho_Monuments/Nearby_Heritage/Duladeo_Temple",
+        "scripts": "03_Scripts/Khajuraho_Monuments/Nearby_Heritage/Duladeo_Temple",
+        "audio": "04_Audio/Khajuraho_Monuments/Nearby_Heritage/Duladeo_Temple"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "khajuraho_monuments__chaturbhuj_temple",
+      "order": 9,
+      "display_name": "Chaturbhuj Temple",
+      "folder_name": "Chaturbhuj_Temple",
+      "parent_monument_id": "khajuraho_monuments",
+      "paths": {
+        "data": "01_Data/Khajuraho_Monuments/Nearby_Heritage/Chaturbhuj_Temple",
+        "images": "02_Images/Khajuraho_Monuments/Nearby_Heritage/Chaturbhuj_Temple",
+        "scripts": "03_Scripts/Khajuraho_Monuments/Nearby_Heritage/Chaturbhuj_Temple",
+        "audio": "04_Audio/Khajuraho_Monuments/Nearby_Heritage/Chaturbhuj_Temple"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "khajuraho_monuments__beni_sagar_dam",
+      "order": 10,
+      "display_name": "Beni Sagar Dam",
+      "folder_name": "Beni_Sagar_Dam",
+      "parent_monument_id": "khajuraho_monuments",
+      "paths": {
+        "data": "01_Data/Khajuraho_Monuments/Nearby_Heritage/Beni_Sagar_Dam",
+        "images": "02_Images/Khajuraho_Monuments/Nearby_Heritage/Beni_Sagar_Dam",
+        "scripts": "03_Scripts/Khajuraho_Monuments/Nearby_Heritage/Beni_Sagar_Dam",
+        "audio": "04_Audio/Khajuraho_Monuments/Nearby_Heritage/Beni_Sagar_Dam"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    }
+  ]
+}

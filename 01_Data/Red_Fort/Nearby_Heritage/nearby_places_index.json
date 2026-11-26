@@ -1,0 +1,180 @@
+{
+  "parent_monument_id": "red_fort",
+  "parent_monument_name": "Red Fort, Delhi",
+  "selection_source": "User-supplied table",
+  "nearby_entry_count": 10,
+  "places": [
+    {
+      "id": "red_fort__sunehri_masjid",
+      "order": 1,
+      "display_name": "Sunehri Masjid",
+      "folder_name": "Sunehri_Masjid",
+      "parent_monument_id": "red_fort",
+      "paths": {
+        "data": "01_Data/Red_Fort/Nearby_Heritage/Sunehri_Masjid",
+        "images": "02_Images/Red_Fort/Nearby_Heritage/Sunehri_Masjid",
+        "scripts": "03_Scripts/Red_Fort/Nearby_Heritage/Sunehri_Masjid",
+        "audio": "04_Audio/Red_Fort/Nearby_Heritage/Sunehri_Masjid"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": [
+        "Verify the specific site associated with the Red Fort group."
+      ]
+    },
+    {
+      "id": "red_fort__zeenat_ul_masajid",
+      "order": 2,
+      "display_name": "Zeenat-ul-Masajid",
+      "folder_name": "Zeenat_ul_Masajid",
+      "parent_monument_id": "red_fort",
+      "paths": {
+        "data": "01_Data/Red_Fort/Nearby_Heritage/Zeenat_ul_Masajid",
+        "images": "02_Images/Red_Fort/Nearby_Heritage/Zeenat_ul_Masajid",
+        "scripts": "03_Scripts/Red_Fort/Nearby_Heritage/Zeenat_ul_Masajid",
+        "audio": "04_Audio/Red_Fort/Nearby_Heritage/Zeenat_ul_Masajid"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "red_fort__mirza_ghalib_ki_haveli",
+      "order": 3,
+      "display_name": "Mirza Ghalib Ki Haveli",
+      "folder_name": "Mirza_Ghalib_Ki_Haveli",
+      "parent_monument_id": "red_fort",
+      "paths": {
+        "data": "01_Data/Red_Fort/Nearby_Heritage/Mirza_Ghalib_Ki_Haveli",
+        "images": "02_Images/Red_Fort/Nearby_Heritage/Mirza_Ghalib_Ki_Haveli",
+        "scripts": "03_Scripts/Red_Fort/Nearby_Heritage/Mirza_Ghalib_Ki_Haveli",
+        "audio": "04_Audio/Red_Fort/Nearby_Heritage/Mirza_Ghalib_Ki_Haveli"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "red_fort__chunnamal_haveli",
+      "order": 4,
+      "display_name": "Chunnamal Haveli",
+      "folder_name": "Chunnamal_Haveli",
+      "parent_monument_id": "red_fort",
+      "paths": {
+        "data": "01_Data/Red_Fort/Nearby_Heritage/Chunnamal_Haveli",
+        "images": "02_Images/Red_Fort/Nearby_Heritage/Chunnamal_Haveli",
+        "scripts": "03_Scripts/Red_Fort/Nearby_Heritage/Chunnamal_Haveli",
+        "audio": "04_Audio/Red_Fort/Nearby_Heritage/Chunnamal_Haveli"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "red_fort__digambar_jain_bird_hospital",
+      "order": 5,
+      "display_name": "Digambar Jain Bird Hospital",
+      "folder_name": "Digambar_Jain_Bird_Hospital",
+      "parent_monument_id": "red_fort",
+      "paths": {
+        "data": "01_Data/Red_Fort/Nearby_Heritage/Digambar_Jain_Bird_Hospital",
+        "images": "02_Images/Red_Fort/Nearby_Heritage/Digambar_Jain_Bird_Hospital",
+        "scripts": "03_Scripts/Red_Fort/Nearby_Heritage/Digambar_Jain_Bird_Hospital",
+        "audio": "04_Audio/Red_Fort/Nearby_Heritage/Digambar_Jain_Bird_Hospital"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "red_fort__st_james_church",
+      "order": 6,
+      "display_name": "St. James' Church",
+      "folder_name": "St_James_Church",
+      "parent_monument_id": "red_fort",
+      "paths": {
+        "data": "01_Data/Red_Fort/Nearby_Heritage/St_James_Church",
+        "images": "02_Images/Red_Fort/Nearby_Heritage/St_James_Church",
+        "scripts": "03_Scripts/Red_Fort/Nearby_Heritage/St_James_Church",
+        "audio": "04_Audio/Red_Fort/Nearby_Heritage/St_James_Church"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "red_fort__khooni_darwaza",
+      "order": 7,
+      "display_name": "Khooni Darwaza",
+      "folder_name": "Khooni_Darwaza",
+      "parent_monument_id": "red_fort",
+      "paths": {
+        "data": "01_Data/Red_Fort/Nearby_Heritage/Khooni_Darwaza",
+        "images": "02_Images/Red_Fort/Nearby_Heritage/Khooni_Darwaza",
+        "scripts": "03_Scripts/Red_Fort/Nearby_Heritage/Khooni_Darwaza",
+        "audio": "04_Audio/Red_Fort/Nearby_Heritage/Khooni_Darwaza"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "red_fort__fatehpuri_masjid",
+      "order": 8,
+      "display_name": "Fatehpuri Masjid",
+      "folder_name": "Fatehpuri_Masjid",
+      "parent_monument_id": "red_fort",
+      "paths": {
+        "data": "01_Data/Red_Fort/Nearby_Heritage/Fatehpuri_Masjid",
+        "images": "02_Images/Red_Fort/Nearby_Heritage/Fatehpuri_Masjid",
+        "scripts": "03_Scripts/Red_Fort/Nearby_Heritage/Fatehpuri_Masjid",
+        "audio": "04_Audio/Red_Fort/Nearby_Heritage/Fatehpuri_Masjid"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "red_fort__salimgarh_fort",
+      "order": 9,
+      "display_name": "Salimgarh Fort",
+      "folder_name": "Salimgarh_Fort",
+      "parent_monument_id": "red_fort",
+      "paths": {
+        "data": "01_Data/Red_Fort/Nearby_Heritage/Salimgarh_Fort",
+        "images": "02_Images/Red_Fort/Nearby_Heritage/Salimgarh_Fort",
+        "scripts": "03_Scripts/Red_Fort/Nearby_Heritage/Salimgarh_Fort",
+        "audio": "04_Audio/Red_Fort/Nearby_Heritage/Salimgarh_Fort"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    },
+    {
+      "id": "red_fort__naughara_kinari_bazaar",
+      "order": 10,
+      "display_name": "Naughara (Kinari Bazaar)",
+      "folder_name": "Naughara_Kinari_Bazaar",
+      "parent_monument_id": "red_fort",
+      "paths": {
+        "data": "01_Data/Red_Fort/Nearby_Heritage/Naughara_Kinari_Bazaar",
+        "images": "02_Images/Red_Fort/Nearby_Heritage/Naughara_Kinari_Bazaar",
+        "scripts": "03_Scripts/Red_Fort/Nearby_Heritage/Naughara_Kinari_Bazaar",
+        "audio": "04_Audio/Red_Fort/Nearby_Heritage/Naughara_Kinari_Bazaar"
+      },
+      "content_status": "Research, scripts, and images pending",
+      "distance_km": null,
+      "travel_time_minutes": null,
+      "identity_notes": []
+    }
+  ]
+}

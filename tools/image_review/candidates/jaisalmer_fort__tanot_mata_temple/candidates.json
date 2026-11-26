@@ -1,0 +1,37 @@
+{
+  "place_id": "jaisalmer_fort__tanot_mata_temple",
+  "display_name": "Tanot Mata Temple",
+  "parent_id": "jaisalmer_fort",
+  "main_order": 18,
+  "is_main": false,
+  "candidates": [
+    {
+      "title": "File:Tanot Mata, Jaisalmer, Rajasthan.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Tanot_Mata,_Jaisalmer,_Rajasthan.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Tanot_Mata%2C_Jaisalmer%2C_Rajasthan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "preview_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Tanot_Mata%2C_Jaisalmer%2C_Rajasthan.jpg/1280px-Tanot_Mata%2C_Jaisalmer%2C_Rajasthan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_width": 3264,
+      "original_height": 2448,
+      "mime": "image/jpeg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Manjupal",
+      "credit": "Own work",
+      "attribution": "",
+      "description": "Temple, Rajasthan",
+      "date_time_original": "2016-10-04 10:50:14",
+      "sha1": "98eaed8c4fcd7ef6e6f0f8ab2bce3bd92c22c7c3",
+      "commons_assessment": "",
+      "copyrighted": "True",
+      "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+      "color_score": 22.73,
+      "sharpness_score": 2291.48,
+      "dhash": "24233373576be9cc",
+      "candidate_id": 1,
+      "preview_path": "tools/image_review/candidates/jaisalmer_fort__tanot_mata_temple/candidate_01.jpg"
+    }
+  ],
+  "errors": [],
+  "visual_review_status": "pending",
+  "status": "candidates_collected"
+}
